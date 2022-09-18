@@ -2,4 +2,5 @@ collections:
   partners:
     output: true
     order:
+      - School Advisory Committee.md
       - Parent Support Group.md
