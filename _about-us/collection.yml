@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Executive and Administrative Staff.md
-      - Allied Educators.md
       - Contact Us/.keep
       - Contact Us/Contact Us.md
       - Contact Us/Teacher Leaders.md
