@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us/.keep
       - MOE Kindergarten & Greendale.md
       - School Services.md
       - School Rules.md
