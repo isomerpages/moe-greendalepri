@@ -2,6 +2,8 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Environmental Club/A Fulfilling and Exciting Week For Our Environmental
+        Club Members.md
       - Environmental Club/Upcycling Workshop on Making of Pot Coaster.md
       - Environmental Club/Learning Journey to Eco Town.md
       - Environmental Club/Happenings.md
