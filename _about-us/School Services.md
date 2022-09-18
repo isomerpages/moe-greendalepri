@@ -108,3 +108,120 @@ More information on the centre’s operating hours during eve of public holidays
   </tr>
 </tbody>
 </table>
+
+
+##### **Note 1:**
+
+Little Professors will not levy the Holiday Full Day Surcharge to encourage students to attend student care during their school holidays.
+
+  
+
+##### **Student Care Subsidies**
+
+I wish to apply for the Student Care Financial Assistance (SCFA) Scheme. I acknowledge that my application and quantum of subsidy are subject to the Ministry of Social and Family Development’s (MSF) approval. Student care subsidies are provided by MSF. The SCFA Scheme is available to families whose gross monthly household income does not exceed $4,500 or gross per capita income not exceeding $1,125.
+
+  
+
+*   [Checklist of Required Documents For New Application Renewal of Student Care Fee Assistance (SCFA)](/files/SCFA%20Checklist%20updated%204Dec19.pdf)
+*   [Application Form for New/ Renewal of Student Care Fee Assistance (SCFA)](/files/Revised%20SCFA%20Form%20as%20of%20Nov%202020.pdf)
+
+_Click to view and download the respective forms._
+
+  
+
+##### **Student Care Centre Contact**
+
+  
+
+Ms Hemalatha / Ms Raisah Sam<br>
+Centre Supervisors<br>
+Tel: **90223526** or [greendale@littleprofessors.com.sg](mailto:greendale@littleprofessors.com.sg)
+
+  
+
+##### **<u>Dental</u>**
+
+  
+
+**Typical Opening Hours:**  
+
+  
+
+Monday to Thursday : **8.00am to 5.30pm**<br>
+Friday                           : **8.00am to 5.00pm**<br>
+Lunch                           : **1.00pm to 2.00pm**
+
+  
+
+[Click here to refer to the schedule for more details.](/files/GDPS%20DENTAL%20SCHEDULE%20SEP%202022.pdf)
+
+  
+
+##### **Note**
+
+The dental clinic may be closed on certain days as the dental staff is away for meetings or stationed at other locations.
+
+  
+
+Parents may confirm the schedule with
+
+ • Dental staff at Tel: **68861887** <br>
+ • School’s General Office at Tel: **68861413**<br>
+ For emergency dental treatment, parents/guardians may contact the following clinic for appointment:<br>
+  • Edgefield Primary School Dental Clinic, Tel: **63156424**
+
+  
+
+#### **<u>Pacific Bookstores Pte Ltd</u>**  
+
+  
+
+**Opening Hours:**<br>
+2.00pm to 3.00pm (Monday and Tuesday)<br>
+1.30pm to 3.00pm (Wednesday to Friday)
+
+  
+
+Closed on Sat, Sun and Public Holidays
+
+  
+
+  
+
+##### **<u>Sale of uniforms</u>**  
+
+  
+
+##### **My Uniform Shop (ASIA) Pte Ltd**
+
+  
+
+Retail Address:<br>
+209 New Upper Changi Road<br>
+#03-651 Singapore 460209
+
+  
+
+Retail outlet contact no:<br>
+**62766689**
+
+  
+
+Operating hours:
+
+  
+
+Weekdays 3pm – 8pm<br>
+Weekends 10am – 4pm
+
+  
+
+**Closed** on every Tuesday and Public Holidays
+
+  
+
+##### **<u>School Bus Service</u>**
+
+**SFX Transport Services**<br>
+Mr Joseph Koh<br>
+Tel: 9622 0262 / 62820262
