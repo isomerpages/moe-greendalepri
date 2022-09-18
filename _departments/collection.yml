@@ -1,4 +1,5 @@
 collections:
   departments:
     output: true
-    order: []
+    order:
+      - English Language & Social Studies.md
