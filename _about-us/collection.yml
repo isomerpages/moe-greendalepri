@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - School EXCO.md
-      - Our School/School Anthem.md
-      - Our School/School Emblem and Motto.md
       - Our School/.keep
       - Our School/Vision, Mission & Values.md
+      - Our School/School Emblem and Motto.md
+      - Our School/School Anthem.md
