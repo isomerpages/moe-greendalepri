@@ -1,4 +1,5 @@
 collections:
   sports-and-games:
     output: true
-    order: []
+    order:
+      - Badminton.md
