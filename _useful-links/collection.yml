@@ -2,10 +2,10 @@ collections:
   useful-links:
     output: true
     order:
-      - Useful Links for Students/The Write Project.md
-      - Useful Links for Students/School Library.md
-      - Useful Links for Students/Student Learning Space.md
       - Useful Links for Students/.keep
+      - Useful Links for Students/Student Learning Space.md
+      - Useful Links for Students/School Library.md
+      - Useful Links for Students/The Write Project.md
       - Useful Links for Parents/Annual Newsletter.md
       - Useful Links for Parents/SEAB Website.md
       - Useful Links for Parents/2022 Info on SEd for schools.md
