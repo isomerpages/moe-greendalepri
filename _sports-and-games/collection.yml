@@ -2,11 +2,11 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Wushu.md
-      - Volleyball.md
+      - Badminton.md
+      - Netball (Girls Only).md
+      - Softball (Boys Only).md
+      - Table Tennis/.keep
       - Table Tennis/Happenings.md
       - Table Tennis/Table Tennis.md
-      - Table Tennis/.keep
-      - Softball (Boys Only).md
-      - Netball (Girls Only).md
-      - Badminton.md
+      - Volleyball.md
+      - Wushu.md
