@@ -6,7 +6,7 @@ description: ""
 ![](/images/About%20Us/subbanner1.jpg)
 
 
-## Badminton
+## **Badminton**
 
 ![](/images/CCA/Badminton%20(1).jpg)
 
