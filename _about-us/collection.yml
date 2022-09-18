@@ -2,7 +2,14 @@ collections:
   about-us:
     output: true
     order:
-      - Service Charter.md
+      - Our School/.keep
+      - Our School/Vision, Mission & Values.md
+      - Our School/School Emblem and Motto.md
+      - Our School/School Anthem.md
+      - School EXCO.md
+      - School Rules.md
+      - School Services.md
+      - MOE Kindergarten & Greendale.md
       - Contact Us/.keep
       - Contact Us/Contact Us.md
       - Contact Us/Teacher Leaders.md
@@ -16,11 +23,4 @@ collections:
       - Contact Us/Executive and Administrative Staff.md
       - Contact Us/Support Staff.md
       - Contact Us/MK @ Greendale.md
-      - MOE Kindergarten & Greendale.md
-      - School Services.md
-      - School Rules.md
-      - School EXCO.md
-      - Our School/.keep
-      - Our School/Vision, Mission & Values.md
-      - Our School/School Emblem and Motto.md
-      - Our School/School Anthem.md
+      - Service Charter.md
