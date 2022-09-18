@@ -2,5 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
+      - Softball (Boys Only).md
       - Netball (Girls Only).md
       - Badminton.md
