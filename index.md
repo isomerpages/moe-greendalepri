@@ -17,7 +17,7 @@ sections:
           url: /useful-links/greendale-primary-virtual-tour
         - title: GDPS' Online Art Exhibition 2022
           description: ""
-          url: nouncements/gdps
+          url: /announcements/gdps-online-art-exhibition-2022
         - title: 2021 Annual Newsletter
           description: ""
           url: /useful-links/useful-links-for-parents/annual-newsletter
