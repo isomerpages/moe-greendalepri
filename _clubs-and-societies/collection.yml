@@ -1,0 +1,4 @@
+collections:
+  clubs-and-societies:
+    output: true
+    order: []
