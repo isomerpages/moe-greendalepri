@@ -2,6 +2,8 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Chess Club.md
+      - Infocomm Club.md
       - Environmental Club/.keep
       - Environmental Club/Environmental Club.md
       - Environmental Club/Happenings.md
@@ -16,5 +18,3 @@ collections:
       - Environmental Club/Festival of Biodiversity Terrarium Workshop.md
       - Environmental Club/Urban Greenery Workshop.md
       - Environmental Club/Science Communication for CIN Ambassadors Workshop.md
-      - Infocomm Club.md
-      - Chess Club.md
