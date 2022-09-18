@@ -2,15 +2,15 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us/Primary 6 Form Teachers.md
-      - Contact Us/Primary 5 Form Teachers.md
-      - Contact Us/Primary 4 Form Teachers.md
-      - Contact Us/Primary 3 Form Teachers.md
-      - Contact Us/Primary 2 Form Teachers.md
-      - Contact Us/Primary 1 Form Teachers.md
-      - Contact Us/Teacher Leaders.md
-      - Contact Us/Contact Us.md
       - Contact Us/.keep
+      - Contact Us/Contact Us.md
+      - Contact Us/Teacher Leaders.md
+      - Contact Us/Primary 1 Form Teachers.md
+      - Contact Us/Primary 2 Form Teachers.md
+      - Contact Us/Primary 3 Form Teachers.md
+      - Contact Us/Primary 4 Form Teachers.md
+      - Contact Us/Primary 5 Form Teachers.md
+      - Contact Us/Primary 6 Form Teachers.md
       - MOE Kindergarten & Greendale.md
       - School Services.md
       - School Rules.md
