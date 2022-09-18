@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us/Primary 3 Form Teachers.md
       - Contact Us/Primary 2 Form Teachers.md
       - Contact Us/Primary 1 Form Teachers.md
       - Contact Us/Teacher Leaders.md
