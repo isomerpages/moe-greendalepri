@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Services.md
       - School Rules.md
       - School EXCO.md
       - Our School/.keep
