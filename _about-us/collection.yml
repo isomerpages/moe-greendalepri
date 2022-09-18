@@ -2,10 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us/MK @ Greendale.md
-      - Contact Us/Support Staff.md
-      - Contact Us/Executive and Administrative Staff.md
-      - Contact Us/Allied Educators.md
       - Contact Us/.keep
       - Contact Us/Contact Us.md
       - Contact Us/Teacher Leaders.md
@@ -15,6 +11,10 @@ collections:
       - Contact Us/Primary 4 Form Teachers.md
       - Contact Us/Primary 5 Form Teachers.md
       - Contact Us/Primary 6 Form Teachers.md
+      - Contact Us/Allied Educators.md
+      - Contact Us/Executive and Administrative Staff.md
+      - Contact Us/Support Staff.md
+      - Contact Us/MK @ Greendale.md
       - MOE Kindergarten & Greendale.md
       - School Services.md
       - School Rules.md
