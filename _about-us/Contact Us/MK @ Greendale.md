@@ -12,7 +12,7 @@ third_nav_title: Contact Us
 <thead>
   <tr>
     <th>Centre Head</th>
-    <th>Ms Koh Yoke Duan<br><a href="mailto:koh_yoke_duan@schools.gov.sg">koh_yoke_duan@schools.gov.sg</a><br></th>
+    <td>Ms Koh Yoke Duan<br><a href="mailto:koh_yoke_duan@schools.gov.sg">koh_yoke_duan@schools.gov.sg</a><br></td>
   </tr>
 </thead>
 <tbody>
