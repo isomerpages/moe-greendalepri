@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Terms of Use.md
       - Greendale Primary Virtual Tour.md
       - Privacy Statement.md
       - Useful Links for Students/.keep
