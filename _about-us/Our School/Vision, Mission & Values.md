@@ -6,7 +6,7 @@ description: ""
 ---
 ![](/images/About%20Us/subbanner3.jpg)
 
-## Vision, Mission & Values
+## **Vision, Mission & Values**
 
 
 <iframe width="835" height="470" src="https://www.youtube.com/embed/JF7KJv1_Lso" title="Greendale Primary School 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
