@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - GDPS' Online Art Exhibition 2022.md
       - Teachers’ Day Gratitude Portal 2022.md
