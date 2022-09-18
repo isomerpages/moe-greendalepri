@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Environmental Club/Biodiversity Audit.md
       - Environmental Club/Enhancing the New Garden Plot.md
       - Environmental Club/A Fulfilling and Exciting Week For Our Environmental
         Club Members.md
