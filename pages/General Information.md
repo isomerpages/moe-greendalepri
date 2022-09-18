@@ -73,13 +73,13 @@ Pupils who wish to further pursue and develop their talent beyond Primary school
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/CCA/Choir.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/choir/" target="_blank" rel="noopener noreferrer">Choir</a><br></td>
-    <td><img src="/images/CCA/Guitar.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/guitar/" target="_blank" rel="noopener noreferrer">Guitar</a><br></td>
-    <td><img src="/images/CCA/Dance.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/international-dance/" target="_blank" rel="noopener noreferrer">International Dance</a></td>
+    <td><img src="/images/CCA/Choir.jpeg" style="width:65%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/choir/" target="_blank" rel="noopener noreferrer">Choir</a><br></td>
+    <td><img src="/images/CCA/Guitar.jpeg" style="width:35%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/guitar/" target="_blank" rel="noopener noreferrer">Guitar</a><br></td>
+    <td><img src="/images/CCA/Dance.jpeg" style="width:45%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/international-dance/" target="_blank" rel="noopener noreferrer">International Dance</a></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="/images/CCA/Art.jpg" style="width:45%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/art/" target="_blank" rel="noopener noreferrer">Art</a><br></td>
-    <td><img src="/images/CCA/Chinese%20Calligraphy%20&%20Painting%20Club.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/chinese-calligraphy-and-painting/" target="_blank" rel="noopener noreferrer">Chinese Calligraphy &amp; Painting Club</a></td>
+    <td colspan="2"><img src="/images/CCA/Art.jpg" style="width:40%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/art/" target="_blank" rel="noopener noreferrer">Art</a><br></td>
+    <td><img src="/images/CCA/Chinese%20Calligraphy%20&%20Painting%20Club.jpg" style="width:65%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/chinese-calligraphy-and-painting/" target="_blank" rel="noopener noreferrer">Chinese Calligraphy &amp; Painting Club</a></td>
   </tr>
 </tbody>
 </table>
@@ -95,7 +95,7 @@ Pupils who wish to further pursue and develop their talent beyond Primary school
   <tr>
     <td><img src="/images/CCA/Chess%20Club.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/clubs-and-societies/chess-club/" target="_blank" rel="noopener noreferrer">Chess Club</a></td>
     <td><img src="/images/CCA/Infocomm%20Club.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/clubs-and-societies/infocomm-club/" target="_blank" rel="noopener noreferrer">Infocomm</a><br></td>
-    <td><img src="/images/CCA/Environmental%20Science%20Club.jpeg" style="width:45%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/clubs-and-societies/environmental-club/" target="_blank" rel="noopener noreferrer">Environmental Club</a></td>
+    <td><img src="/images/CCA/Environmental%20Science%20Club.jpeg" style="width:35%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/clubs-and-societies/environmental-club/" target="_blank" rel="noopener noreferrer">Environmental Club</a></td>
   </tr>
 </tbody>
 </table>
@@ -108,9 +108,9 @@ Pupils who wish to further pursue and develop their talent beyond Primary school
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/CCA/Red%20Cross.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/red-cross/" target="_blank" rel="noopener noreferrer">Red Cross</a></td>
-    <td><img src="/images/CCA/Boys%20Brigade.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/boys-brigade/" target="_blank" rel="noopener noreferrer">Boys' Brigade</a></td>
-    <td><img src="/images/CCA/Girls%20Brigade.png" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/girls-brigade/" target="_blank" rel="noopener noreferrer">Girls' Brigade</a></td>
+    <td><img src="/images/CCA/Red%20Cross.jpg" style="width:65%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/red-cross/" target="_blank" rel="noopener noreferrer">Red Cross</a></td>
+    <td><img src="/images/CCA/Boys%20Brigade.jpeg" style="width:65%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/boys-brigade/" target="_blank" rel="noopener noreferrer">Boys' Brigade</a></td>
+    <td><img src="/images/CCA/Girls%20Brigade.png" style="width:55%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/girls-brigade/" target="_blank" rel="noopener noreferrer">Girls' Brigade</a></td>
   </tr>
 </tbody>
 </table>
