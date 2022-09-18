@@ -2,6 +2,7 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Environmental Club/Science Communication for CIN Ambassadors Workshop.md
       - Environmental Club/Urban Greenery Workshop.md
       - Environmental Club/Festival of Biodiversity Terrarium Workshop.md
       - Environmental Club/Learning Journey to EcoTown.md
