@@ -1,4 +1,5 @@
 collections:
   useful-links:
     output: true
-    order: []
+    order:
+      - Parents Briefing.md
