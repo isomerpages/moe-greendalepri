@@ -3,7 +3,7 @@ title: Cycling to School
 permalink: /announcements/cycling-to-school/
 description: ""
 ---
-### Cycling to School
+## Cycling to School
 
 ![](/images/Cycling.png)
 
