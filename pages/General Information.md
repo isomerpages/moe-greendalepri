@@ -73,13 +73,13 @@ Pupils who wish to further pursue and develop their talent beyond Primary school
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Choir.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/choir/" target="_blank" rel="noopener noreferrer">Choir</a><br></td>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Guitar.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/guitar/" target="_blank" rel="noopener noreferrer">Guitar</a><br></td>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Dance.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/international-dance/" target="_blank" rel="noopener noreferrer">International Dance</a></td>
+    <td><img src="/images/CCA/Choir.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/choir/" target="_blank" rel="noopener noreferrer">Choir</a><br></td>
+    <td><img src="/images/CCA/Guitar.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/guitar/" target="_blank" rel="noopener noreferrer">Guitar</a><br></td>
+    <td><img src="/images/CCA/Dance.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/international-dance/" target="_blank" rel="noopener noreferrer">International Dance</a></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Art.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/art/" target="_blank" rel="noopener noreferrer">Art</a><br></td>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Chinese%20Calligraphy%20&%20Painting%20Club.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/chinese-calligraphy-and-painting/" target="_blank" rel="noopener noreferrer">Chinese Calligraphy &amp; Painting Club</a></td>
+    <td colspan="2"><img src="/images/CCA/Art.jpg" style="width:45%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/art/" target="_blank" rel="noopener noreferrer">Art</a><br></td>
+    <td><img src="/images/CCA/Chinese%20Calligraphy%20&%20Painting%20Club.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/visual-and-performing-arts/chinese-calligraphy-and-painting/" target="_blank" rel="noopener noreferrer">Chinese Calligraphy &amp; Painting Club</a></td>
   </tr>
 </tbody>
 </table>
