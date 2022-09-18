@@ -2,6 +2,7 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
+      - International Dance/.keep
       - Guitar.md
       - Choir.md
       - Chinese Calligraphy & Painting/.keep
