@@ -1,4 +1,5 @@
 collections:
   announcements:
     output: true
-    order: []
+    order:
+      - Teachers’ Day Gratitude Portal 2022.md
