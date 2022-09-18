@@ -53,13 +53,13 @@ Pupils who wish to further pursue and develop their talent beyond Primary school
 <tbody>
   <tr>
     <td><img src="/images/CCA/Badminton.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/badminton/" target="_blank" rel="noopener noreferrer">Badminton</a></td>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Netball.jpeg" alt="Netball.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/netball-girls-only/" target="_blank" rel="noopener noreferrer">Netball (Girls Only)</a></td>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Softball.jpg" alt="Softball.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/softball-boys-only/" target="_blank" rel="noopener noreferrer">Softball (Boys Only)</a></td>
+    <td><img src="/images/CCA/Netball.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/netball-girls-only/" target="_blank" rel="noopener noreferrer">Netball (Girls Only)</a></td>
+    <td><img src="/images/CCA/Softball.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/softball-boys-only/" target="_blank" rel="noopener noreferrer">Softball (Boys Only)</a></td>
   </tr>
   <tr>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Wushu.jpeg" alt="Wushu.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/wushu/" target="_blank" rel="noopener noreferrer">Wushu</a><br></td>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Volleyball.jpeg" alt="Volleyball.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/volleyball/" target="_blank" rel="noopener noreferrer">Volleyball</a><br></td>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Table%20Tennis.jpeg" alt="Table Tennis.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/table-tennis/" target="_blank" rel="noopener noreferrer">Table-Tennis</a> (Boys Only)</td>
+    <td><img src="/images/CCA/Wushu.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/wushu/" target="_blank" rel="noopener noreferrer">Wushu</a><br></td>
+    <td><img src="/images/CCA/Volleyball.jpeg" alt="Volleyball.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/volleyball/" target="_blank" rel="noopener noreferrer">Volleyball</a><br></td>
+    <td><img src="/images/CCA/Table%20Tennis.jpeg" alt="Table Tennis.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/table-tennis/" target="_blank" rel="noopener noreferrer">Table-Tennis</a> (Boys Only)</td>
   </tr>
 </tbody>
 </table>
