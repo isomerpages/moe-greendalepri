@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us/Support Staff.md
       - Contact Us/Executive and Administrative Staff.md
       - Contact Us/Allied Educators.md
       - Contact Us/.keep
