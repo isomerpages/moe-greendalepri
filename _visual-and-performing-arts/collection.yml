@@ -2,4 +2,5 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
+      - Chinese Calligraphy & Painting/.keep
       - Art.md
