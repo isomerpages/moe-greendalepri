@@ -1,4 +1,5 @@
 collections:
   uniformed-groups:
     output: true
-    order: []
+    order:
+      - Red Cross.md
