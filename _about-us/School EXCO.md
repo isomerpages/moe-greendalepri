@@ -95,3 +95,41 @@ description: ""
   </tr>
 </thead>
 </table>
+
+
+<table>
+<thead>
+  <tr>
+    <th rowspan="6"><br><br><br><br><br><br><br><br><br><br><br>Student Development Team<br></th>
+    <th>Year Heads</th>
+    <th>Assistant Year Heads</th>
+  </tr>
+  <tr>
+    <th>Mdm Low Mun Chin (Lower Pr)<br><a href="mailto:low_mun_chin@schools.gov.sg">low_mun_chin@schools.gov.sg</a><br><br></th>
+    <th>Mdm Nazima Banu (P1)<br><a href="mailto:nazima_banu@schools.gov.sg">nazima_banu@schools.gov.sg</a><br></th>
+  </tr>
+  <tr>
+    <th>Mdm Caroline Koh (Middle Pr)<br><a href="mailto:koh_po_wun_caroline@schools.gov.sg">koh_po_wun_caroline@schools.gov.sg</a><br><br></th>
+    <th></th>
+  </tr>
+  <tr>
+    <th>Mr Jonathan Chean (Upper Pr)<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg">chean_eu_chang_jonathan@schools.gov.sg</a><br><br></th>
+    <th>Mr Ishak Bin Buang (P5)<br><a href="mailto:ishak_buang@schools.gov.sg">ishak_buang@schools.gov.sg</a><br></th>
+  </tr>
+  <tr>
+    <th>Student Well-being</th>
+    <th>Student Leadership</th>
+  </tr>
+  <tr>
+    <th>Mrs Agnes Yeo (SH)<br><a href="mailto:agnes_seah_li_hui@schools.gov.sg">agnes_seah_li_hui@schools.gov.sg</a><br><br></th>
+    <td>Ms Musfirah (iSH)<br><a href="mailto:musfirah_mohamed@schools.gov.sg">musfirah_mohamed@schools.gov.sg</a><br></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><br><br>Character and Citizenship Education</td>
+    <td>Mdm Siti Zulaikha (HOD)<br><a href="mailto:siti_zulaikha@schools.gov.sg">siti_zulaikha@schools.gov.sg</a><br><br></td>
+    <td>Mdm Janice Chew (SH NE, VIA)<br><a href="mailto:chew_boon_ping@schools.gov.sg">chew_boon_ping@schools.gov.sg</a></td>
+  </tr>
+</tbody>
+</table>
