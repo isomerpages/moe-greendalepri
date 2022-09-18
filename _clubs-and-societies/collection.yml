@@ -2,5 +2,6 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Environmental Club/.keep
       - Infocomm Club.md
       - Chess Club.md
