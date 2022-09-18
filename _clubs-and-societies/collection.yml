@@ -1,4 +1,5 @@
 collections:
   clubs-and-societies:
     output: true
-    order: []
+    order:
+      - Chess Club.md
