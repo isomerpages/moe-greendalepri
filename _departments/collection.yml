@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics.md
       - Physical and Health Education.md
       - Mother Tongue/.keep
       - Mother Tongue/Chinese.md
