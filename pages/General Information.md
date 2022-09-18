@@ -52,7 +52,7 @@ Pupils who wish to further pursue and develop their talent beyond Primary school
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Badminton.jpeg" alt="Badminton.jpeg" width="136" height="100"><br><br><a href="https://greendalepri.moe.edu.sg/cca/sports-and-games/badminton" target="_blank" rel="noopener noreferrer">Badminton</a></td>
+    <td><img src="/images/CCA/Badminton.jpeg" alt="Badminton.jpeg" width="100" height="80"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/sports-and-games/badminton/" target="_blank" rel="noopener noreferrer">Badminton</a></td>
     <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Netball.jpeg" alt="Netball.jpeg" width="100" height="117"><br><br><a href="https://greendalepri.moe.edu.sg/cca/sports-and-games/netball-girls-only" target="_blank" rel="noopener noreferrer">Netball (Girls Only)</a></td>
     <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Softball.jpg" alt="Softball.jpg" width="100" height="100"><br><br><a href="https://greendalepri.moe.edu.sg/cca/sports-and-games/softball" target="_blank" rel="noopener noreferrer">Softball (Boys Only)</a></td>
   </tr>
