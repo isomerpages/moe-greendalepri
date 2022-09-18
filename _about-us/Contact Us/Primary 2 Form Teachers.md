@@ -34,7 +34,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>2B</td>
-    <td>Mdm Ee Yuan Qi Eugenia<br><br><br><a href="mailto:ee_yuan_qi_eugenia@schools.gov.sg">ee_yuan_qi_eugenia@schools.gov.sg</a></td>
+    <td>Mdm Ee Yuan Qi Eugenia<br><br><a href="mailto:ee_yuan_qi_eugenia@schools.gov.sg">ee_yuan_qi_eugenia@schools.gov.sg</a></td>
     <td>Ms Tan Shumin Cecilia<br><br><a href="mailto:tan_shumin_cecilia@schools.gov.sg">tan_shumin_cecilia@schools.gov.sg</a> <br></td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ third_nav_title: Contact Us
   <tr>
     <td>2E</td>
     <td>Ms Nur Hidayah Binte Jais<br><br><a href="mailto:nur_hidayah_jais@schools.gov.sg">nur_hidayah_jais@schools.gov.sg</a></td>
-    <td>Ms Musfirah Binte Mohamed<br><br><br><a href="mailto:musfirah_mohamed@schools.gov.sg">musfirah_mohamed@schools.gov.sg</a></td>
+    <td>Ms Musfirah Binte Mohamed<br><br><a href="mailto:musfirah_mohamed@schools.gov.sg">musfirah_mohamed@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>2F</td>
