@@ -16,32 +16,26 @@ third_nav_title: Contact Us
     <th>Mdm Sabrina Osman<br><br><a href="mailto:sabrina_mohamed_osman@schools.gov.sg">sabrina_mohamed_osman@schools.gov.sg </a></th>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
+
   </tr>
   <tr>
     <th> Chinese Language</th>
     <th>Mdm Dong Baohong<br><br><a href="mailto:Dong_baohong@schools.gov.sg">Dong_baohong@schools.gov.sg  </a></th>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
   </tr>
   <tr>
     <th> Mathematics</th>
     <th>Mr Alfred Yuen<br><br><a href="mailto:yuen_hong_sheng@schools.gov.sg">yuen_hong_sheng@schools.gov.sg</a><br></th>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
   </tr>
   <tr>
     <th> Physical Education</th>
     <th>Mr Lim Jenn Yang<br><br><a href="mailto:lim_jenn_yang@schools.gov.sg">lim_jenn_yang@schools.gov.sg</a></th>
   </tr>
   <tr>
-    <th></th>
-    <th></th>
+
   </tr>
   <tr>
     <th> Malay Language</th>
