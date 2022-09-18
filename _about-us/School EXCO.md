@@ -127,7 +127,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td><br><br>Character and Citizenship Education</td>
+    <th><br><br>Character and Citizenship Education</th>
     <td>Mdm Siti Zulaikha (HOD)<br><a href="mailto:siti_zulaikha@schools.gov.sg">siti_zulaikha@schools.gov.sg</a><br><br></td>
     <td>Mdm Janice Chew (SH NE, VIA)<br><a href="mailto:chew_boon_ping@schools.gov.sg">chew_boon_ping@schools.gov.sg</a></td>
   </tr>
