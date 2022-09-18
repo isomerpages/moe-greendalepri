@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - folder-page.md
+      - School EXCO.md
       - Our School/.keep
       - Our School/subfolder-page.md
