@@ -93,9 +93,9 @@ Pupils who wish to further pursue and develop their talent beyond Primary school
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Chess%20Club.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/clubs-and-societies/chess-club/" target="_blank" rel="noopener noreferrer">Chess Club</a></td>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Infocomm%20Club.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/clubs-and-societies/infocomm-club/" target="_blank" rel="noopener noreferrer">Infocomm</a><br></td>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Environmental%20Science%20Club.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/clubs-and-societies/environmental-club/" target="_blank" rel="noopener noreferrer">Environmental Club</a></td>
+    <td><img src="/images/CCA/Chess%20Club.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/clubs-and-societies/chess-club/" target="_blank" rel="noopener noreferrer">Chess Club</a></td>
+    <td><img src="/images/CCA/Infocomm%20Club.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/clubs-and-societies/infocomm-club/" target="_blank" rel="noopener noreferrer">Infocomm</a><br></td>
+    <td><img src="/images/CCA/Environmental%20Science%20Club.jpeg" style="width:45%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/clubs-and-societies/environmental-club/" target="_blank" rel="noopener noreferrer">Environmental Club</a></td>
   </tr>
 </tbody>
 </table>
@@ -108,9 +108,9 @@ Pupils who wish to further pursue and develop their talent beyond Primary school
 </thead>
 <tbody>
   <tr>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Red%20Cross.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/red-cross/" target="_blank" rel="noopener noreferrer">Red Cross</a></td>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Boys%20Brigade.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/boys-brigade/" target="_blank" rel="noopener noreferrer">Boys' Brigade</a></td>
-    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Girls%20Brigade.png" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/girls-brigade/" target="_blank" rel="noopener noreferrer">Girls' Brigade</a></td>
+    <td><img src="/images/CCA/Red%20Cross.jpg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/red-cross/" target="_blank" rel="noopener noreferrer">Red Cross</a></td>
+    <td><img src="/images/CCA/Boys%20Brigade.jpeg" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/boys-brigade/" target="_blank" rel="noopener noreferrer">Boys' Brigade</a></td>
+    <td><img src="/images/CCA/Girls%20Brigade.png" style="width:75%"><br><br><a href="https://staging.d26uzavxcoervm.amplifyapp.com/cca/uniformed-groups/girls-brigade/" target="_blank" rel="noopener noreferrer">Girls' Brigade</a></td>
   </tr>
 </tbody>
 </table>
