@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Science.md
       - Mathematics.md
       - English Language & Social Studies.md
