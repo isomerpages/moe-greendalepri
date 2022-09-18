@@ -2,5 +2,6 @@ collections:
   uniformed-groups:
     output: true
     order:
+      - Girls Brigade.md
       - Boys Brigade.md
       - Red Cross.md
