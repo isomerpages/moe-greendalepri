@@ -45,10 +45,7 @@ Ad Astra!
 
   
 
-In partnership,
-
-**_Mrs Noorismawaty Sng_**
-
-Principal
-
+In partnership,<br>
+**_Mrs Noorismawaty Sng_**<br>
+Principal<br>
 Greendale Primary School
