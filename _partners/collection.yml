@@ -2,5 +2,6 @@ collections:
   partners:
     output: true
     order:
+      - Family Matters @ School/.keep
       - School Advisory Committee.md
       - Parent Support Group.md
