@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Service Charter.md
       - Contact Us/.keep
       - Contact Us/Contact Us.md
       - Contact Us/Teacher Leaders.md
