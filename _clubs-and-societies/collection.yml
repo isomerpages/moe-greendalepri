@@ -2,19 +2,19 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Environmental Club/Science Communication for CIN Ambassadors Workshop.md
-      - Environmental Club/Urban Greenery Workshop.md
-      - Environmental Club/Festival of Biodiversity Terrarium Workshop.md
-      - Environmental Club/Learning Journey to EcoTown.md
-      - Environmental Club/Customised Horticultural Session.md
-      - Environmental Club/Biodiversity Audit.md
-      - Environmental Club/Enhancing the New Garden Plot.md
+      - Environmental Club/.keep
+      - Environmental Club/Environmental Club.md
+      - Environmental Club/Happenings.md
+      - Environmental Club/Learning Journey to Eco Town.md
+      - Environmental Club/Upcycling Workshop on Making of Pot Coaster.md
       - Environmental Club/A Fulfilling and Exciting Week For Our Environmental
         Club Members.md
-      - Environmental Club/Upcycling Workshop on Making of Pot Coaster.md
-      - Environmental Club/Learning Journey to Eco Town.md
-      - Environmental Club/Happenings.md
-      - Environmental Club/Environmental Club.md
-      - Environmental Club/.keep
+      - Environmental Club/Enhancing the New Garden Plot.md
+      - Environmental Club/Biodiversity Audit.md
+      - Environmental Club/Customised Horticultural Session.md
+      - Environmental Club/Learning Journey to EcoTown.md
+      - Environmental Club/Festival of Biodiversity Terrarium Workshop.md
+      - Environmental Club/Urban Greenery Workshop.md
+      - Environmental Club/Science Communication for CIN Ambassadors Workshop.md
       - Infocomm Club.md
       - Chess Club.md
