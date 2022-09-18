@@ -2,6 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Cycling to School.md
-      - GDPS' Online Art Exhibition 2022.md
       - Teachers’ Day Gratitude Portal 2022.md
+      - GDPS' Online Art Exhibition 2022.md
+      - Cycling to School.md
