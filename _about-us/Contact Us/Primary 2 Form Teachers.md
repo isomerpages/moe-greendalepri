@@ -64,7 +64,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>2H</td>
-    <td> Mdm Lee Lena<br><br><br><a href="mailto:lee_lena@schools.gov.sg">lee_lena@schools.gov.sg</a></td>
+    <td> Mdm Lee Lena<br><br><a href="mailto:lee_lena@schools.gov.sg">lee_lena@schools.gov.sg</a></td>
     <td> Mdm Benasir<br><br><a href="mailto:benasir_a@schools.gov.sg">benasir_a@schools.gov.sg</a> </td>
   </tr>
   <tr>
