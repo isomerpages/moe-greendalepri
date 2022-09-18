@@ -6,7 +6,7 @@ description: ""
 ![](/images/About%20Us/subbanner3.jpg)
 
 
-### Principal's Foreword
+## Principal's Foreword
 
 
 <img src="/images/About%20Us/Principal.jpg" style="width:183px;height:260px;margin-right:15px;" align = "left">
