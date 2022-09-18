@@ -2,4 +2,5 @@ collections:
   clubs-and-societies:
     output: true
     order:
+      - Infocomm Club.md
       - Chess Club.md
