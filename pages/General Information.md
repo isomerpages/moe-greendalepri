@@ -99,3 +99,18 @@ Pupils who wish to further pursue and develop their talent beyond Primary school
   </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+  <tr>
+		<th colspan="3"><center>Uniformed Groups</center></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Red%20Cross.jpg" alt="Red Cross.jpg" width="173" height="100"><br><br><a href="https://greendalepri.moe.edu.sg/cca/uniformed-groups/red-cross" target="_blank" rel="noopener noreferrer">Red Cross</a></td>
+    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Boys%20Brigade.jpeg" alt="Boys Brigade.jpeg" width="100" height="118"><br><br><a href="https://greendalepri.moe.edu.sg/cca/uniformed-groups/boys-brigade" target="_blank" rel="noopener noreferrer">Boys' Brigade</a></td>
+    <td><img src="https://greendalepri.moe.edu.sg/qql/slot/u478/Greendale%20Pri%20Revamp%202019/CCA/Girls%20Brigade.png" alt="Girls Brigade.png" width="118" height="118"><br><br><a href="https://greendalepri.moe.edu.sg/cca/uniformed-groups/girls-brigade" target="_blank" rel="noopener noreferrer">Girls' Brigade</a></td>
+  </tr>
+</tbody>
+</table>
