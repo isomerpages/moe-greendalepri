@@ -12,7 +12,7 @@ description: ""
 <iframe width="835" height="470" src="https://www.youtube.com/embed/JF7KJv1_Lso" title="Greendale Primary School 2020" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### Vision
+### **Vision**
 
 An excellent community of learners anchored in values.
 
@@ -20,7 +20,7 @@ An excellent community of learners anchored in values.
 
   
 
-### Mission
+### **Mission**
 
 To nurture each child holistically through excellence in teaching and learning.
 
@@ -28,7 +28,7 @@ To nurture each child holistically through excellence in teaching and learning.
 
   
 
-### School Values
+### **School Values**
 
   
 
