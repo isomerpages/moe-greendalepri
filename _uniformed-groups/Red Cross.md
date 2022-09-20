@@ -12,7 +12,7 @@ description: ""
 
 		 
 <img src="/images/CCA/Red%20Cross/Red%20Cross%202.jpg"  
-     style="width:35%;margin-right:15px;" align = "left">		 
+     style="width:25%;margin-right:15px;" align = "left">		 
 
 **<u>Introduction</u>**  
 
