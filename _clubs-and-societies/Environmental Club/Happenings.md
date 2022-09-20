@@ -9,3 +9,91 @@ third_nav_title: Environmental Club
 ## **Happenings**
 
 
+<figure>
+	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/CCA/EC%20Happenings%201.png"
+    style="width:100%"></a>
+<figcaption>
+	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/CCA/EC%20Happenings%201.png"
+    style="width:100%"></a>
+<figcaption>
+	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+	</figcaption>
+</figure>
+
+<figure>
+	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/CCA/EC%20Happenings%201.png"
+    style="width:100%"></a>
+<figcaption>
+	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+	</figcaption>
+</figure>
+
+
+<figure>
+	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/CCA/EC%20Happenings%201.png"
+    style="width:100%"></a>
+<figcaption>
+	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+	</figcaption>
+</figure>
+
+
+<figure>
+	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/CCA/EC%20Happenings%201.png"
+    style="width:100%"></a>
+<figcaption>
+	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+	</figcaption>
+</figure>
+
+
+<figure>
+	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/CCA/EC%20Happenings%201.png"
+    style="width:100%"></a>
+<figcaption>
+	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+	</figcaption>
+</figure>
+
+
+<figure>
+	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/CCA/EC%20Happenings%201.png"
+    style="width:100%"></a>
+<figcaption>
+	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+	</figcaption>
+</figure>
+
+
+<figure>
+	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/CCA/EC%20Happenings%201.png"
+    style="width:100%"></a>
+<figcaption>
+	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+	</figcaption>
+</figure>
+
+
+<figure>
+	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/CCA/EC%20Happenings%201.png"
+    style="width:100%"></a>
+<figcaption>
+	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+	</figcaption>
+</figure>
+
+
+<figure>
+	<a href="/images/Capture.jpg" target = "_blank"> <img src="/images/CCA/EC%20Happenings%201.png"
+    style="width:100%"></a>
+<figcaption>
+	<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+	</figcaption>
+</figure>
+
+
