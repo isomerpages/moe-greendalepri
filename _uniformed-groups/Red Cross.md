@@ -8,7 +8,7 @@ description: ""
 ## **Red Cross**
 
 <img src="/images/CCA/Red%20Cross/Red%20Cross%201.jpg"  
-     style="width:35%">
+     style="width:25%">
 
 		 
 <img src="/images/CCA/Red%20Cross/Red%20Cross%202.jpg"  
