@@ -154,3 +154,19 @@ The final tally of 55 A3 size encouragement cards have been posted to 3 hospital
 
 <img src="/images/CCA/Girls%20Brigade/GB%2010.jpg"  
      style="width:65%">
+		 
+##### **Building Up Resilience in GB**  
+
+Do you know that the 87th Coy Girls’ Brigade (GB) members have been practising hard in their drills since late 2019?  Originally, our goal was to enter the National Drill Competition scheduled in March 2020.  The competition has been cancelled due to the recent COVID-19 outbreak.  
+
+Despite this setback, the girls never gave up.  They still continue with the drills during CCA on Fridays.  Our new goal is the school showcase to fellow Boys’ Brigade members on 13 March 2020, at the end of Term 1.  Being in a drill inculcates the school values of respect, resilience, commitment and collaboration in our GB girls.  Team comradery is strengthened as we work towards a common goal.		 
+
+![](/images/CCA/Girls%20Brigade/GB%2011.jpg)
+
+![](/images/CCA/Girls%20Brigade/GB%2012.jpg)
+
+![](/images/CCA/Girls%20Brigade/GB%2013.jpg)
+
+
+<img src="/images/CCA/Girls%20Brigade/GB%2014.jpg"  
+     style="width:75%">
