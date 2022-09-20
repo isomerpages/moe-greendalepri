@@ -8,7 +8,7 @@ description: ""
 ## **Girls Brigade**
 
 <center>87th Company</center>
-<img style="width:25%" src="/images/CCA/Girls%20Brigade/GB%201.jpg">
+<img src="/images/CCA/Girls%20Brigade/GB%201.jpg" style="width:25%">
 
 
 You are invited to join the earliest girl band in the world – THE GIRLS’ BRIGADE.
@@ -138,13 +138,13 @@ The final tally of 55 A3 size encouragement cards have been posted to 3 hospital
 
 ![](/images/CCA/Girls%20Brigade/GB%206.jpg) <br>
 
-<img style="width:65%" src="/images/CCA/Girls%20Brigade/GB%207.jpg"> <br>
+<img src="/images/CCA/Girls%20Brigade/GB%207.jpg" style="width:65%"> <br>
 
-<img style="width:65%" src="/images/CCA/Girls%20Brigade/GB%208.jpg"> <br>
+<img src="/images/CCA/Girls%20Brigade/GB%208.jpg" style="width:65%"> <br>
 
-<img style="width:65%" src="/images/CCA/Girls%20Brigade/GB%209.jpg"> <br>
+<img src="/images/CCA/Girls%20Brigade/GB%209.jpg" style="width:65%"> <br>
 
-<img style="width:65%" src="/images/CCA/Girls%20Brigade/GB%2010.jpg">
+<img src="/images/CCA/Girls%20Brigade/GB%2010.jpg" style="width:65%">
 		 
 ##### **Building Up Resilience in GB**  
 
@@ -159,13 +159,13 @@ Despite this setback, the girls never gave up.&nbsp; They still continue with th
 ![](/images/CCA/Girls%20Brigade/GB%2013.jpg)
 
 
-<img style="width:75%" src="/images/CCA/Girls%20Brigade/GB%2014.jpg">
+<img src="/images/CCA/Girls%20Brigade/GB%2014.jpg" style="width:75%">
 
 ##### **Girls’ Brigade takes on the Dr Low Guat Tin (LGT) Challenge 2019**
 
 Our Girls’ Brigade 87th company sent a team of eight P5 girls to take part in the Dr Low Guat Tin (LGT) Challenge on 1st June (Sat) 2019. The LGT Challenge is a national completion that is held biennially. The pupils were challenged to code and program a Micro:bit device that would help the environment.
 
-<img style="width:100%" src="/images/CCA/Girls%20Brigade/GB%2015.jpg">
+<img src="/images/CCA/Girls%20Brigade/GB%2015.jpg" style="width:100%">
 
 
 Due to the recent dispute between Malaysia and Singapore regarding the 1962 Water Agreement and the recent commemoration of World Water Day on 22nd March 2019, the girls decided to program the Micro:bit to create awareness on the amount of water wasted in the canteen and highlight the importance of saving water.&nbsp;&nbsp;
@@ -174,7 +174,7 @@ Due to the recent dispute between Malaysia and Singapore regarding the 1962 Wate
 
 With the technical knowledge gained from attending a Micro:bit workshop, the girls managed to code the device independently and learned problem-solving skills. Their end-product consisted of a timer that calculated the amount of water wasted per second if users washed their hands for an extended duration. LED lights on the device were also programmed to light up to serve as a visual cue for those washing their hands.
 
-<img style="width:100%" src="/images/CCA/Girls%20Brigade/GB%2016.jpg">
+<img src="/images/CCA/Girls%20Brigade/GB%2016.jpg" style="width:100%">
 		 
 As a result of their participation in this challenge, the girls learnt research skills such as data collection and critical thinking. They also exhibited the school values of commitment and collaboration while working together and supported one another when faced with a problem. They overcame their shyness to confidently present the device to the judges. Through the hard work and effort put into their Micro:bit device, the girls aimed for excellence and managed to clinch a bronze award for this year’s LGT Challenge!&nbsp;&nbsp;
 
@@ -192,7 +192,7 @@ Also as part of the school's Learning for Life Programme through Outdoor Educati
 
 Our girls are indeed privileged to have been able to take part in this heritage tour organised by the National Parks Board, in commemoration of the Singapore Bicentennial.		 
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScCHalmoGLMMg2SfppUKWUcJBLCrHiZpwR0yy-Vo2yG28uDnbkt6reZLdHiUJz9RJUDdt8gIjlxtjg/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vScCHalmoGLMMg2SfppUKWUcJBLCrHiZpwR0yy-Vo2yG28uDnbkt6reZLdHiUJz9RJUDdt8gIjlxtjg/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
 ##### **Smart Way Forward**
@@ -223,3 +223,26 @@ While it took some time for the young GB members to ‘break the ice’ with the
   
 
 This visit marks GB’s first Values-In-Action (VIA) project in the year.&nbsp; Through such VIA projects, GB hopes to promote values of graciousness, service, respect and develop to be&nbsp;**<u>C</u>** onfident,&nbsp;**<u>C</u>** aring and&nbsp;**<u>A</u>** ctive contributors.
+
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSSUa0OY05fst-OkjPlAdReFm9WiNNOLX2mspgwYFWnagANLetps3OfCQ8_QviLDrXVXZoB2qPHLUCD/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
+
+
+##### **GB gets Smart**
+
+  
+
+In line with Singapore’s ‘Smart Nation’ initiative and under the flagship of the Girls Brigade (GB) Headquarters, a group of our Primary 4 GB members attended a Digital Maker workshop at Temasek Polytechnic on 21 May 2018.
+
+  
+
+Our girls were taught the basics of block coding using Microbits.&nbsp; They were taught how to code for a motion sensor and a light sensor.&nbsp; Though the items are small and coding is simple, the final digital maker may prove to be of help to all and sundry.&nbsp; For example, the motion and light sensors could be integrated into a night light for the elderly.
+
+  
+
+The GB members would be showcasing their ideas at a GB Friendship Day event on 14 July 2018.
+
+
+![](/images/CCA/Girls%20Brigade/GB%2019.jpg)
+
+<img style="width:60%" src="/images/CCA/Girls%20Brigade/GB%2020.jpg">
