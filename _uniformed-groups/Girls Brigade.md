@@ -136,13 +136,13 @@ The final tally of 55 A3 size encouragement cards have been posted to 3 hospital
 
 ![](/images/CCA/Girls%20Brigade/GB%205.jpg)
 
-![](/images/CCA/Girls%20Brigade/GB%206.jpg)
+![](/images/CCA/Girls%20Brigade/GB%206.jpg) <br>
 
-<img style="width:65%" src="/images/CCA/Girls%20Brigade/GB%207.jpg">
+<img style="width:65%" src="/images/CCA/Girls%20Brigade/GB%207.jpg"> <br>
 
-<img style="width:65%" src="/images/CCA/Girls%20Brigade/GB%208.jpg">
+<img style="width:65%" src="/images/CCA/Girls%20Brigade/GB%208.jpg"> <br>
 
-<img style="width:65%" src="/images/CCA/Girls%20Brigade/GB%209.jpg">
+<img style="width:65%" src="/images/CCA/Girls%20Brigade/GB%209.jpg"> <br>
 
 <img style="width:65%" src="/images/CCA/Girls%20Brigade/GB%2010.jpg">
 		 
@@ -223,5 +223,3 @@ While it took some time for the young GB members to ‘break the ice’ with the
   
 
 This visit marks GB’s first Values-In-Action (VIA) project in the year.&nbsp; Through such VIA projects, GB hopes to promote values of graciousness, service, respect and develop to be&nbsp;**<u>C</u>** onfident,&nbsp;**<u>C</u>** aring and&nbsp;**<u>A</u>** ctive contributors.
-
-
