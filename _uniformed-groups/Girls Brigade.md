@@ -27,8 +27,8 @@ The mission of the Girls’ Brigade (GB) is to develop each Girl and Officer to 
 
   
 
-    • Every Girl a Leader.  
-    • Every Officer a Servant Leader.
+   • Every Girl a Leader.  
+   • Every Officer a Servant Leader.
 
 
 
@@ -121,19 +121,15 @@ We hope that this service project has helped our GB members to live out their mo
 
 **These are what some of our GB girls have to say about the VIA project.**
 
- _“That people are really grateful and appreciate the doctors and nurses at the hard times. I am glad that our pupils are more than happy to sign the cards.”_
-
+ _“That people are really grateful and appreciate the doctors and nurses at the hard times. I am glad that our pupils are more than happy to sign the cards.”_ <br>
    _**Jeeya, Primary 5 Compassion**_
 	 
- _“Many people are writing letters to doctors and nurses in Singapore.&nbsp; So the people in the hospital feel better.”_
-
+ _“Many people are writing letters to doctors and nurses in Singapore.&nbsp; So the people in the hospital feel better.”_ <br>
 **Keshini, Primary 4 Compassion**
 
- _“I observed that a lot of efforts had been put to make the cards…I will appreciate the nurses, health care workers and doctors more.”_
-
+ _“I observed that a lot of efforts had been put to make the cards…I will appreciate the nurses, health care workers and doctors more.”_ <br>
 **Xin Tong, Primary 6 Compassion**
 
-<br>
 <br>
 The final tally of 55 A3 size encouragement cards have been posted to 3 hospitals, namely, Sengkang General Hospital, Changi General Hospital and Singapore General Hospital.
 
@@ -227,3 +223,5 @@ While it took some time for the young GB members to ‘break the ice’ with the
   
 
 This visit marks GB’s first Values-In-Action (VIA) project in the year.&nbsp; Through such VIA projects, GB hopes to promote values of graciousness, service, respect and develop to be&nbsp;**<u>C</u>** onfident,&nbsp;**<u>C</u>** aring and&nbsp;**<u>A</u>** ctive contributors.
+
+
