@@ -18,7 +18,6 @@ During the workshop, pupils learnt how an old T-shirt at home can be given a new
 
 ![](/images/CCA/Environment%20Club/Upcycling%20Workshop%20on%20Making%20of%20Pot%20Coaster%201.png)
 
-
 ![](/images/CCA/Environment%20Club/Upcycling%20Workshop%20on%20Making%20of%20Pot%20Coaster%202.png)
 
 
