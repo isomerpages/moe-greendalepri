@@ -58,3 +58,8 @@ Our training programme is geared towards developing the TOTAL girl – physicall
   </tr>
 </tbody>
 </table>
+
+
+![](/images/CCA/Girls%20Brigade/GB%202.jpg)
+
+
