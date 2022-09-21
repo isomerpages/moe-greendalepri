@@ -38,41 +38,41 @@ We have planned a series of key events and learning experiences to allow our stu
 <tbody>
   <tr>
     <td>Run Your Own Race<br></td>
-    <td><img src="/images/Departments/PHE%202.jpg" alt="Run Your Own Race.jpg" width="429" height="241"></td>
+    <td><img src="/images/Departments/PHE%202.jpg" alt="Run Your Own Race.jpg" style="width:65%"></td>
   </tr>
   <tr>
     <td>P3 Sports Carnival<br></td>
-    <td><img src="/images/Departments/PHE%203.jpg"  width="429" height="240"></td>
+    <td><img src="/images/Departments/PHE%203.jpg" style="width:65%"></td>
   </tr>
   <tr>
     <td>P4 Adventure Camp<br></td>
-    <td><img src="/images/Departments/PHE%204.jpg" width="429" height="284"></td>
+    <td><img src="/images/Departments/PHE%204.jpg" style="width:65%"></td>
   </tr>
   <tr>
     <td>P5 Sports Carnival (Hoop Ball)<br></td>
-    <td><img src="/images/Departments/PHE%205.jpg" width="429" height="285"></td>
+    <td><img src="/images/Departments/PHE%205.jpg" style="width:65%"></td>
   </tr>
   <tr>
     <td>Lower Primary Games Day<br></td>
-    <td><img src="/images/Departments/PHE%206.jpg"  width="429" height="240"></td>
+    <td><img src="/images/Departments/PHE%206.jpg"  style="width:65%"></td>
   </tr>
   <tr>
     <td>P6 Sports Carnival (Floorball)<br></td>
-    <td><img src="/images/Departments/PHE%207.jpg" width="429" height="286"></td>
+    <td><img src="/images/Departments/PHE%207.jpg" style="width:65%"></td>
   </tr>
   <tr>
     <td rowspan="3">Sports Education Programmes<br></td>
-    <td><img src="/images/Departments/PHE%208.jpg" width="429" height="285"><br><br>P1 Wushu<br></td>
+    <td><img src="/images/Departments/PHE%208.jpg" style="width:65%"><br><br>P1 Wushu<br></td>
   </tr>
   <tr>
-    <td><img src="/images/Departments/PHE%209.jpg" width="429" height="285"><br><br>P2 Archery<br></td>
+    <td><img src="/images/Departments/PHE%209.jpg" style="width:65%"><br><br>P2 Archery<br></td>
   </tr>
   <tr>
-    <td><img src="/images/Departments/PHE%2010.jpg" width="429" height="321"><br><br>P6 Kinball<br></td>
+    <td><img src="/images/Departments/PHE%2010.jpg" style="width:65%"><br><br>P6 Kinball<br></td>
   </tr>
   <tr>
     <td> </td>
-    <td><img src="/images/Departments/PHE%2011.png" width="427" height="284"><br><br>P4 Fencing </td>
+    <td><img src="/images/Departments/PHE%2011.png" style="width:65%"><br><br>P4 Fencing </td>
   </tr>
 </tbody>
 </table>
