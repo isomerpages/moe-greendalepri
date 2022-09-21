@@ -7,6 +7,8 @@ description: ""
 
 ## **English Language & Social Studies**
 
+![](/images/Departments/English%20Dept.jpg)
+
 
 The mission of the English Language and Social Studies Department is to build a strong foundation in the English Language, teach our students to apply their knowledge, skills and strategies in order to use the language to good effect and at an increasingly sophisticated level to demonstrate learning and mastery. We seek to develop empathetic communicators, discerning readers and creative inquirers so that our students will become successful, effective, affective and independent language learners and users.
 
