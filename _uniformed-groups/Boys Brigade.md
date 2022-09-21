@@ -27,7 +27,9 @@ The movement is called The Boys' Brigade and the local unit is known as the Comp
 
 **<u>The Uniform</u>**
 
-![](/images/CCA/Boys%20Brigade/BB%202.jpg)
+
+<img src="/images/CCA/Boys%20Brigade/BB%202.jpg"  
+     style="width:65%">
 
 
 The Boys proudly put on their uniforms to help them develop a sense of discipline, identity and belonging. Boys of this age have a strong tendency to form groups and they recognise leadership and the displaying of loyalty to the groups. It is this inclination that the Boys’ Brigade is fostering, that the Boys will know and come to appreciate teamwork. With many group activities during CCA days, the boys learn to work with one another. They eventually begin to appreciate one another’s strengths and learn to support each other in times of difficulty. Through the many challenges, leaders are also born and developed.
@@ -112,4 +114,4 @@ For the last few consecutive years including 2021, the Greendale Company (20J) h
 </tbody>
 </table>
 
-Disclaimer: All photos of pupils without masks are taken prior to the Circuit Breaker period.  
+Disclaimer: All photos of pupils without masks are taken prior to the Circuit Breaker period.
