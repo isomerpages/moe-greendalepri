@@ -72,20 +72,25 @@ Some of our programmes include personal enrichment, adventure training and commu
 
 **<u>Skill & Team-building</u>**
 
+<img src="/images/CCA/Boys%20Brigade/BB%205.jpg"  
+     style="width:75%">
 
-![](/images/CCA/Boys%20Brigade/BB%205.jpg)
-
-![](/images/CCA/Boys%20Brigade/BB%206.jpg)
+<img src="/images/CCA/Boys%20Brigade/BB%206.jpg"  
+     style="width:75%">
 
 
 **<u>Discipline</u>**
 
-![](/images/CCA/Boys%20Brigade/BB%207.jpg)
+
+<img src="/images/CCA/Boys%20Brigade/BB%207.jpg"  
+     style="width:65%">
 
 
 **<u>Life Skills</u>**
 
-![](/images/CCA/Boys%20Brigade/BB%208.jpg)
+<img src="/images/CCA/Boys%20Brigade/BB%208.jpg"  
+     style="width:65%">
+
 
 
 **<u>Boys’ Brigade Awards</u>**
