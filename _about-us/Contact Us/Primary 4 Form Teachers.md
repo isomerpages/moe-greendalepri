@@ -13,7 +13,7 @@ third_nav_title: Contact Us
 <thead>
   <tr>
     <th><br>Year Head</th>
-    <td>Mdm Koh Po Wun Caroline<br><br><br><a href="mailto:koh_po_wun_caroline@schools.gov.sg">koh_po_wun_caroline@schools.gov.sg</a></td>
+    <td>Mdm Koh Po Wun Caroline<br><br><a href="mailto:koh_po_wun_caroline@schools.gov.sg">koh_po_wun_caroline@schools.gov.sg</a></td>
   </tr>
 </thead>
 </table>
@@ -58,5 +58,3 @@ third_nav_title: Contact Us
   </tr>
 </tbody>
 </table>
-
-
