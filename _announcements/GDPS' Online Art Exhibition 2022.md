@@ -11,7 +11,8 @@ description: ""
 **Click on the link to view: [GDPS Online Art Exhibition 2022](https://publish.exhibbit.com/gallery/006360778753865736/two-rooms-93060/?v=20220607022202)**
 
 
-![](/images/GDPS%20Art%20Exhibition%20Poster%20with%20QR%20Code.jpeg)
+<img src="/images/GDPS%20Art%20Exhibition%20Poster%20with%20QR%20Code.jpeg"  
+     style="width:65%">
 
 
 
