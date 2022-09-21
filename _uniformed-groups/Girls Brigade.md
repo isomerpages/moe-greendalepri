@@ -36,7 +36,7 @@ Through the GB Junior Programme the 87Th Coy aims to develop the character of ou
   
 Due to the on-going Covid-19 situation in 2021, the Coy adopted social distancing and other precautionary health measures in the first semester for her face to face, in-person CCA sessions.&nbsp; We implemented online CCA in the second semester.  
 
-&gt; &gt; &gt; &gt; &gt;   
+
 
 **<u>What do we do?</u>**
 
@@ -72,9 +72,12 @@ Some of our programmes include personal enrichment, adventure training and commu
 
 The highlight event for the first half of 2015 was the Enrolment Service in March. The girls joined the Boys’ Brigade pupils to put up a song item to all the guests. Another highlight is the end of the term Games Day in which they played water games and laser tag.
 
-![](/images/CCA/Girls%20Brigade/GB%203.jpg)
+<img src="/images/CCA/Girls%20Brigade/GB%203.jpg"  
+     style="width:65%">
 
-![](/images/CCA/Girls%20Brigade/GB%204.jpg)
+<img src="/images/CCA/Girls%20Brigade/GB%204.jpg"  
+     style="width:65%">
+
 
 <table>
 <thead>
@@ -243,6 +246,6 @@ Our girls were taught the basics of block coding using Microbits.&nbsp; They wer
 The GB members would be showcasing their ideas at a GB Friendship Day event on 14 July 2018.
 
 
-![](/images/CCA/Girls%20Brigade/GB%2019.jpg)
+<img style="width:50%" src="/images/CCA/Girls%20Brigade/GB%2019.jpg">
 
-<img style="width:60%" src="/images/CCA/Girls%20Brigade/GB%2020.jpg">
+<img style="width:50%" src="/images/CCA/Girls%20Brigade/GB%2020.jpg">
