@@ -36,7 +36,9 @@ Besides developing our students to become passionate Malay Language learners, cu
 
 We also carefully plan and select enrichment programmes in which students are given the opportunity to learn beyond the confines of the classroom. For example, a Speech and Drama Programme for our Primary 1 and 2 students and Drama Programme for our Primary 3 and 4 students. Our students are also given the opportunity to watch plays in theatres to enhance their literary knowledge and learn about theatre etiquette.
 
+<img src="/images/Departments/Malay%201.jpg"  
+     style="width:75%">
 
-![](/images/Departments/Malay%201.jpg)
+<img src="/images/Departments/Malay%202.jpg"  
+     style="width:75%">
 
-![](/images/Departments/Malay%202.jpg)
