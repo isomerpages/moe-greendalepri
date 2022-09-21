@@ -8,6 +8,11 @@ description: ""
 
 ## **Information and Communication Technology**
 
+
+![](/images/Departments/Executive%20and%20Administrative%20Staff.jpg)
+
+
+
 **Philosophy**
 
   
