@@ -8,7 +8,7 @@ description: ""
 ## **Parent Support Group**
 
 
-<img src="/images/Partners/Parent%20Support%20Group%20GDPS.jpg" style="width:45%;margin-right:15px;" align = "left">
+<img src="/images/Partners/Parent%20Support%20Group%20GDPS.jpg" style="width:35%;margin-right:15px;" align = "left">
 
 
 The Parent Support Group is a group of parents who come together to offer the School tangible help in terms of volunteer support, as well as acting as a bridge between the students, parent community and the School. All with the aim to enhance the learning journey for our children in Greendale Primary School.  
