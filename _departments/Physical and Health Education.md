@@ -75,3 +75,116 @@ We have planned a series of key events and learning experiences to allow our stu
 </tbody>
 </table>
 
+
+**Health Education**
+
+  
+
+Through Health Education, we aim to help students understand the importance of being physically active, practise good health and safety habits, and maintain a balanced diet in their pursuit of an active and healthy lifestyle. For example, we teach the latest ‘Healthy Plate’ model as recommended by Health Promotion Board (HPB), which replaces the Food Pyramid that was previously advocated.
+
+
+
+<img src="/images/Departments/PHE%2012.jpg"  
+     style="width:65%">
+
+**Some key initiatives include:**
+
+*   Unstructured play during recess
+*   Active Health Programme
+
+    √    Obesity/Underweight reduction
+
+    √    BMI monitoring
+
+    √    External activities: ActiveSG
+
+*   Healthy Meals in School Programme (HMSP)
+*   School Health Service & Screening
+*   Dental Health Programme
+
+**<u>Overview of Greendale Primary School’s Health Education Programme</u>**
+
+
+<table>
+<thead>
+  <tr>
+    <th>Category</th>
+    <th>Activity<br></th>
+    <th>Remarks<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Oral Health<br></td>
+    <td>Oral Health Promotion Programme<br></td>
+    <td>P1, 3 and 5 pupils<br></td>
+  </tr>
+  <tr>
+    <td>Health Habits and Practices<br></td>
+    <td>Drink Water Campaign<br></td>
+    <td>P1 to 6 pupils<br></td>
+  </tr>
+  <tr>
+    <td>Mental Wellness<br></td>
+    <td>Roving Carnival<br></td>
+    <td>P1 to 3 pupils<br></td>
+  </tr>
+  <tr>
+    <td>Mental Wellness<br></td>
+    <td>Anti-Smoking Assembly Show<br></td>
+    <td>P4 to 6 pupils<br></td>
+  </tr>
+  <tr>
+    <td>Nutrition<br></td>
+    <td>Stay Healthy with Smarter Food Choices<br></td>
+    <td>P1 to 4 pupils<br></td>
+  </tr>
+  <tr>
+    <td>Sports and Fitness<br></td>
+    <td>Sports Clinic during Recess<br></td>
+    <td>All pupils<br></td>
+  </tr>
+  <tr>
+    <td>Health Habits and Practices<br></td>
+    <td>Eye Health Talk<br></td>
+    <td>All pupils</td>
+  </tr>
+</tbody>
+</table>
+
+
+**Programme for Active Learning (PAL)**
+
+  
+
+PAL is an integral part of the curriculum for Primary One and Two students in our school.  It offers learning experiences that are active, hands-on and meaningful.  More importantly, PAL contributes to the development of soft skills in our students such as the ability to communicate clearly and cooperate with others, having a lively curiosity about the world they live in and a belief in their ability to accomplish a task or deal with a challenge. Furthermore, PAL broadens the learning experiences and positively influences their future experiences. Through PAL, we aim for our students to
+
+*   exhibit confidence in what they do and express themselves effectively
+*   exhibit curiosity and positive attitudes to learn
+*   enjoy group experiences and teamwork
+
+  
+
+The domains for students’ experiential learning are as follow:
+
+  
+
+<u>Primary 1</u>
+
+*   Sports and Games
+*   Dance
+*   Visual Arts
+
+<u>Primary 2</u>
+
+*   Outdoor Education
+*   Drama
+*   Visual Arts
+
+
+
+![](/images/Departments/PHE%2013.jpg)
+
+PAL Visual Art
+
+![](/images/Departments/PHE%2014.jpg)
