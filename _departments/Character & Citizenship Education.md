@@ -132,3 +132,15 @@ c)    The Executive Committee works with the Teacher Advisors to plan for rel
   
 
 **Prefectorial Board EXCO 2020**
+
+![](/images/Departments/CCE%204.jpg)
+
+![](/images/Departments/CCE%205.jpg)
+
+![](/images/Departments/CCE%206.jpg)
+
+
+**Roles and Responsibilities of Class Committee**
+
+
+![](/images/Departments/CCE%207.jpg)
