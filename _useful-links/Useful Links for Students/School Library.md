@@ -26,11 +26,11 @@ Our school library provides a conducive environment and suitable resources for s
 ![](/images/Useful%20Links/School%20Library%201.png)
 
 
-**The useful links below would need an account. Students may sign up for an account, with their parent's Singpass, [**here.**](https://account.nlb.gov.sg/)**  
+**The useful links below would need an account. Students may sign up for an account, with their parent's Singpass, [here.](https://account.nlb.gov.sg/)**  
 
   
 
-3. National Library Board: eBooks for Kids
+3. National Library Board: eBooks for Kids<br>
     [https://nlb.overdrive.com/library/kids](https://nlb.overdrive.com/library/kids)
 		
 ![](/images/Useful%20Links/School%20Library%202.png)
@@ -42,7 +42,7 @@ Our school library provides a conducive environment and suitable resources for s
 ![](/images/Useful%20Links/School%20Library%203.png)
 
 
-5\. Unite for Literacy (For Lower Primary pupils)
+5\. Unite for Literacy (For Lower Primary pupils)<br>
 [https://www.uniteforliteracy.com/](https://www.uniteforliteracy.com/)
 
 ![](/images/Useful%20Links/School%20Library%204.png)
