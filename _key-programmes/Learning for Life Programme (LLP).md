@@ -3,3 +3,35 @@ title: Learning for Life Programme (LLP)
 permalink: /key-programmes/learning-for-life-programme-llp/
 description: ""
 ---
+![](/images/About%20Us/subbanner1.jpg)
+
+## **Learning for Life Programme (LLP)**
+
+
+**Introduction**
+
+  
+
+Greendale Primary School attained the Learning for Life Programme (LLP) status for Outdoor Education (OE) in 2014. Outdoor Education in GDPS engages the students’ spirit of adventure and provides concrete experiences by involving them in a series of well-designed and progressively-planned activities. Through these activities, students are exposed to varied levels of challenges as they develop GRAC2E values and 21st Century Competencies which will contribute towards improved community spirit and teamwork.
+
+  
+
+**Approach**
+
+  
+
+The school has adopted a blended, whole-school approach in its implementation of LLP OE, incorporating various existing Student Development programmes, e.g. PAL (OE), CCE, VIA, Green Initiatives and other Instructional Programme subjects. By the end of the sixth year, we hope that every student will actualise the school’s vision and graduate as ‘Gracious’, ‘Resilient’, ‘Appreciative’, ‘Committed and Collaborative’ and ‘Excellent’ leaders.
+
+  
+
+The framework shown below encapsulates what we hope to achieve through this distinctive LLP. As the outer circle represents the various platforms our students can apply and transfer their learning in school, the inverted triangle in the centre represents the school and R3ICH values we seek to imbue in our students. Surrounding the triangle which is placed at the centre, are essential skillsets such as knowledge, skills and competencies our students will acquire. Together, they form a big triangle that represents the needle of a compass which points towards the achievement of student outcome which is to develop ‘Adaptable, Resilient, Confident and Caring Citizens’ from the LLP-OE.
+
+
+![](/images/Key%20Programmes/LLP%201.jpg)
+
+
+**Learning Outcomes:**
+
+1.  Anchored in values **G.R.A.C<sup>2</sup>.E** (Graciousness, Resilience, Appreciation, Commitment & Collaboration, Excellence) & **R<sup>3</sup>ICH** (Respect, Responsibility, Resilience, Integrity, Care, Harmony).
+2.  Acquire relevant <u>transferable life skills</u> and <u>social-emotional competencies</u> that can be applied across different contexts and situations.
+3.  **Adaptable, Resilient, Confident and Caring global citizens** who will not only survive but thrive in a world that is increasingly VUCA (volatile, uncertain, complex, ambiguous).
