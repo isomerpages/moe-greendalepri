@@ -29,7 +29,10 @@ Our members are also exposed to a repository of musical genres. They are also gi
 
 <center>Our choristers performed at President’s Challenge Charity Choral Festival.</center>
 
-![](/images/CCA/Choir%203.jpg)
+
+<img src="/images/CCA/Choir%203.jpg"  
+     style="width:65%">
+
 
 ![](/images/CCA/Choir%204.jpeg)
 
