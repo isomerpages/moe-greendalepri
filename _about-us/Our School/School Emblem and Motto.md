@@ -15,7 +15,7 @@ School Emblem and Motto
 
 
 <img src="/images/school%20logo.jpg"  
-     style="width:40%">
+     style="width:20%">
 
 
 G for Greendale!
