@@ -57,5 +57,4 @@ third_nav_title: Mother Tongue
      style="width:65%">
 		 
 <img src="/images/Departments/Chinese%205.jpg"  
-     style="width:65%">		 
-		 
+     style="width:65%">
