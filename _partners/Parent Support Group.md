@@ -31,7 +31,7 @@ Sign up as a Parent Volunteer by scanning the QR code below to join our WhatsApp
 
 
 <img src="/images/Partners/PSG%20QR%20code.jpeg"  
-     style="width:45%">
+     style="width:35%">
 
 You can also email us at [greendalepsg@gmail.com](mailto:greendalepsg@gmail.com), if you have any feedback or enquiries.
 
@@ -52,7 +52,7 @@ A movement that seeks to inspire and involve fathers to become good influencers
 ---------------
 <br>
 
-<img src="/images/Partners/Fathers%20@Greendale.jpg" style="width:55%;margin-right:15px;" align = "left">
+<img src="/images/Partners/Fathers%20@Greendale.jpg" style="width:45%;margin-right:15px;" align = "left">
 
 **Who we are…**
 
