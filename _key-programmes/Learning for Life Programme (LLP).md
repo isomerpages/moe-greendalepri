@@ -27,7 +27,9 @@ The school has adopted a blended, whole-school approach in its implementation of
 The framework shown below encapsulates what we hope to achieve through this distinctive LLP. As the outer circle represents the various platforms our students can apply and transfer their learning in school, the inverted triangle in the centre represents the school and R3ICH values we seek to imbue in our students. Surrounding the triangle which is placed at the centre, are essential skillsets such as knowledge, skills and competencies our students will acquire. Together, they form a big triangle that represents the needle of a compass which points towards the achievement of student outcome which is to develop ‘Adaptable, Resilient, Confident and Caring Citizens’ from the LLP-OE.
 
 
-![](/images/Key%20Programmes/LLP%201.jpg)
+
+<img src="/images/Key%20Programmes/LLP%201.jpg"  
+     style="width:55%">
 
 
 **Learning Outcomes:**
@@ -77,12 +79,18 @@ The framework shown below encapsulates what we hope to achieve through this dist
 </table>
 
 
-![](/images/Key%20Programmes/LLP%202.jpg)
 
-![](/images/Key%20Programmes/LLP%203.jpg)
+<img src="/images/Key%20Programmes/LLP%202.jpg"  
+     style="width:75%">
+		 
+<img src="/images/Key%20Programmes/LLP%203.jpg"  
+     style="width:75%">		 
+
+
 
 <img src="/images/Key%20Programmes/LLP%204.jpg"  
-     style="width:55%">
+     style="width:35%">
 
 
-![](/images/Key%20Programmes/LLP%205.jpg)
+<img src="/images/Key%20Programmes/LLP%205.jpg"  
+     style="width:75%">
