@@ -115,7 +115,7 @@ Our Environmental Education committee aims to shape our students’ attitude tow
 
 
 <img src="/images/Departments/Science%207.jpg"  
-     style="width:110%">
+     style="width:130%">
 		 
 		 
 **Learning Journeys**
@@ -152,4 +152,4 @@ Every year during Science Week, our Primary 3 to Primary 6 pupils set up booths 
      style="width:70%">		
 
 <img src="/images/Departments/Science%2012.jpg"  
-     style="width:70%">		
+     style="width:70%">
