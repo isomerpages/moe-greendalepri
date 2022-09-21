@@ -17,8 +17,12 @@ third_nav_title: Useful Links for Parents
 </thead>
 <tbody>
   <tr>
-    <td>Parents P4SBB Briefing<br>Parents Math Briefing P5 &amp; P6</td>
-    <td>              <a href="https://greendalepri.moe.edu.sg/qql/slot/u478/Workshop%20for%20Parents/2022/P4SBB%202022_22%20July.pdf">Click here to download</a><a href="https://greendalepri.moe.edu.sg/qql/slot/u478/Workshop%20for%20Parents/2022/PDF%20P5P6%20Parents%20Briefing%202022%20.pdf">Click here to download</a> </td>
+    <td>Parents P4SBB Briefing</td>
+    <td><a href="https://greendalepri.moe.edu.sg/qql/slot/u478/Workshop%20for%20Parents/2022/P4SBB%202022_22%20July.pdf" target="_blank" rel="noopener noreferrer">Click here to download</a></td>
+  </tr>
+  <tr>
+    <td>Parents Math Briefing P5 &amp; P6</td>
+    <td> <a href="https://greendalepri.moe.edu.sg/qql/slot/u478/Workshop%20for%20Parents/2022/PDF%20P5P6%20Parents%20Briefing%202022%20.pdf" target="_blank" rel="noopener noreferrer">Click here to download</a> </td>
   </tr>
   <tr>
     <td>Parents Math Briefing P3 &amp; P4 </td>
