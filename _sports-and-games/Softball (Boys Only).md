@@ -25,35 +25,44 @@ We currently have both Junior and Senior boys in the softball team. Our senior b
 
 **<u>Briefing before a game</u>**
 
-![](/images/CCA/Softball%201.jpg)
+<img src="/images/CCA/Softball%201.jpg"  
+     style="width:75%">
+
 
 **<u>Batting practice during CCA</u>**
 
-![](/images/CCA/Softball%202.jpg)
+<img src="/images/CCA/Softball%202.jpg"  
+     style="width:75%">
 
 **<u>Ending off the game with High-Fives</u>**
 
-![](/images/CCA/Softball%203.jpg)
+<img src="/images/CCA/Softball%203.jpg"  
+     style="width:75%">
 
 **<u>Players helping out catcher in his gear</u>**
 
-![](/images/CCA/Softball%204.jpg)
+<img src="/images/CCA/Softball%204.jpg"  
+     style="width:65%">
 
 **<u>Awesome seniors 2019</u>**
 
-![](/images/CCA/Softball%205.jpg)
+<img src="/images/CCA/Softball%205.jpg"  
+     style="width:75%">
 
 **<u>Amazing juniors 2019</u>**
 
-![](/images/CCA/Softball%206.jpg)
+<img src="/images/CCA/Softball%206.jpg"  
+     style="width:75%">
 
 **<u>Softball carnival at Monfort Secondary</u>**
 
-![](/images/CCA/Softball%207.jpg)
+<img src="/images/CCA/Softball%207.jpg"  
+     style="width:75%">
 
 **<u>2nd Place</u>**
 
-![](/images/CCA/Softball%208.jpg)
+<img src="/images/CCA/Softball%208.jpg"  
+     style="width:75%">
 
 <br>
 
