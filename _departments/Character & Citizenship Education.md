@@ -143,4 +143,6 @@ c)    The Executive Committee works with the Teacher Advisors to plan for rel
 **Roles and Responsibilities of Class Committee**
 
 
-![](/images/Departments/CCE%207.jpg)
+
+<img src="/images/Departments/CCE%207.jpg"  
+     style="width:75%">
