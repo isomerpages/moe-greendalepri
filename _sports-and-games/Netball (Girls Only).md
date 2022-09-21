@@ -17,13 +17,19 @@ The pupils will also learn to embrace the values of excellence, sportsmanship an
 
 Team Greendale will also be training progressively to prepare pupils to represent the school in the North Zone Netball Tournament and carnivals organised by Netball Singapore. We look forward to maximising the exposure and experience of the girls in our CCA.
 
-![](/images/CCA/Netball%20(1).jpg)
+<img src="/images/CCA/Netball%20(1).jpg"  
+     style="width:55%">
 
-![](/images/CCA/Netball%20(2).jpg)
+<img src="/images/CCA/Netball%20(2).jpg"  
+     style="width:55%">
+		 
+<img src="/images/CCA/Netball%20(3).jpg"  
+     style="width:55%">
+		 
+<img src="/images/CCA/Netball%20(4).jpg"  
+     style="width:55%">		 
 
-![](/images/CCA/Netball%20(3).jpg)
-
-![](/images/CCA/Netball%20(4).jpg)
+<br>
 
 <table>
 <thead>
