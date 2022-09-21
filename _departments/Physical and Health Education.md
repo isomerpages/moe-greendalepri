@@ -17,7 +17,9 @@ description: ""
 Physical Education (PE) in Greendale Primary School aims to nurture holistic, healthy and fit students who are equipped with fundamental motor and games skills, knowledge, attitudes and values to enjoy a lifetime of active and healthy living individually and with others. The PE curriculum, spans across seven learning areas, namely Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness and Swimming (Primary 3 Swimsafer Enrichment).
 
 
-![](/images/Departments/PHE%201.jpg)
+
+<img src="/images/Departments/PHE%201.jpg"  
+     style="width:65%">
 
 
 For effective delivery of our PE programme, we take reference from the 21st Century Framework in the explicit teaching of values, social emotional competencies and soft skills required to thrive in a fast-changing and connected world. We apply **Body, Space, Effort and Relationships (BSER) Framework** in the teaching of fundamental movement skills and concepts, as well as [Games Concept Approach (GCA)](/files/Games%20Concept%20Approach%20(GCA).pdf) for the teaching of Sports and Games skills and concepts.
@@ -85,7 +87,7 @@ Through Health Education, we aim to help students understand the importance of b
 
 
 <img src="/images/Departments/PHE%2012.jpg"  
-     style="width:65%">
+     style="width:45%">
 
 **Some key initiatives include:**
 
@@ -182,9 +184,12 @@ The domains for students’ experiential learning are as follow:
 *   Visual Arts
 
 
+<img src="/images/Departments/PHE%2013.jpg"  
+     style="width:55%">
 
-![](/images/Departments/PHE%2013.jpg)
+
 
 PAL Visual Art
 
-![](/images/Departments/PHE%2014.jpg)
+<img src="/images/Departments/PHE%2014.jpg"  
+     style="width:55%">
