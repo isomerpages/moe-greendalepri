@@ -31,7 +31,7 @@ We offer 4-hour Kindergarten 1 and Kindergarten 2 programmes with the following 
 
 ![](/images/About%20Us/MK%20Programme.jpg)
 <img src="/images/About%20Us/MK%20Programme.jpg"  
-     style="width:65%">
+     style="width:70%">
 
 
 In addition, we offer 3 mother-tongue languages; Chinese Language, Malay Language and Tamil Language.  
