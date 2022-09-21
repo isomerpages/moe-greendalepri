@@ -8,6 +8,7 @@ third_nav_title: Contact Us
 
 ## **Allied Educators**
 
+![](/images/About%20Us/Student%20Development%20Team.jpg)
 
 <table>
 <thead>
