@@ -9,7 +9,8 @@ third_nav_title: Chinese Calligraphy & Painting
 ## **Chinese Calligraphy and Painting**
 
 
-![](/images/CCA/Chinese%20Calligraphy%20&%20Painting%20Club%201.png)
+<img src="/images/CCA/Chinese%20Calligraphy%20&%20Painting%20Club%201.png"  
+     style="width:65%">
 
 
 When you join the Chinese painting club, you will be learning a traditional art form that dates back centuries!  Traditional painting involves essentially the same techniques as calligraphy and is done with a brush dipped in black or coloured ink; oils are not used.
