@@ -141,13 +141,13 @@ The final tally of 55 A3 size encouragement cards have been posted to 3 hospital
 
 ![](/images/CCA/Girls%20Brigade/GB%206.jpg) <br>
 
-<img src="/images/CCA/Girls%20Brigade/GB%207.jpg" style="width:65%"> <br>
+<img src="/images/CCA/Girls%20Brigade/GB%207.jpg" style="width:55%"> <br>
 
-<img src="/images/CCA/Girls%20Brigade/GB%208.jpg" style="width:65%"> <br>
+<img src="/images/CCA/Girls%20Brigade/GB%208.jpg" style="width:55%"> <br>
 
-<img src="/images/CCA/Girls%20Brigade/GB%209.jpg" style="width:65%"> <br>
+<img src="/images/CCA/Girls%20Brigade/GB%209.jpg" style="width:55%"> <br>
 
-<img src="/images/CCA/Girls%20Brigade/GB%2010.jpg" style="width:65%">
+<img src="/images/CCA/Girls%20Brigade/GB%2010.jpg" style="width:55%">
 		 
 ##### **Building Up Resilience in GB**  
 
@@ -155,14 +155,14 @@ Do you know that the 87th Coy Girls’ Brigade (GB) members have been practising
 
 Despite this setback, the girls never gave up.&nbsp; They still continue with the drills during CCA on Fridays.&nbsp; Our new goal is the school showcase to fellow Boys’ Brigade members on 13 March 2020, at the end of Term 1.&nbsp; Being in a drill inculcates the school values of respect, resilience, commitment and collaboration in our GB girls.&nbsp; Team comradery is strengthened as we work towards a common goal.		 
 
-![](/images/CCA/Girls%20Brigade/GB%2011.jpg)
 
-![](/images/CCA/Girls%20Brigade/GB%2012.jpg)
+<img src="/images/CCA/Girls%20Brigade/GB%2011.jpg" style="width:75%">
 
-![](/images/CCA/Girls%20Brigade/GB%2013.jpg)
+<img src="/images/CCA/Girls%20Brigade/GB%2012.jpg" style="width:75%">
 
+<img src="/images/CCA/Girls%20Brigade/GB%2013.jpg" style="width:75%">
 
-<img src="/images/CCA/Girls%20Brigade/GB%2014.jpg" style="width:75%">
+<img src="/images/CCA/Girls%20Brigade/GB%2014.jpg" style="width:55%">
 
 ##### **Girls’ Brigade takes on the Dr Low Guat Tin (LGT) Challenge 2019**
 
