@@ -38,7 +38,7 @@ The Boys proudly put on their uniforms to help them develop a sense of disciplin
 **<u>BB Boys in their BB Polo Attire</u>**
 
 <img src="/images/CCA/Boys%20Brigade/BB%203.jpg"  
-     style="width:65%">
+     style="width:40%">
 
 Boys put on their BB Polo when they are engaged in sports or rigorous activities. The Polo attire allows the boys to be more comfortable when engaging in sports.
 
