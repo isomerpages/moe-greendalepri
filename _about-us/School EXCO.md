@@ -8,6 +8,9 @@ description: ""
 
 ## **School EXCO**
 
+![](/images/About%20Us/Executive%20Committee.jpg)
+
+
 <table>
 <thead>
   <tr>
