@@ -90,3 +90,18 @@ MSF-recommended trainers will be engaged by MWS FSP to deliver the seminars via 
 **L2 Seminar Info Graphic**
 
 ![](/images/Partners/L2%20Seminar%20Infographic.jpg)
+
+
+
+**<u>Presentation Materials</u>**  
+
+  
+
+Please click **[**here**](/files/publicity_slides.pdf)** to download the PDF version of the slides:
+
+*   Triple P Level 2 Seminars
+*   Triple P Seminar 1
+*   Triple P Seminar 2
+*   Triple P Seminar 3
+*   Research Study
+*   Signposts
