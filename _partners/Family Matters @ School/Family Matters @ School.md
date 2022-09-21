@@ -20,7 +20,7 @@ MSF’s FamilyMatters@School equips parents and young adults with skills to nurt
 **<u>Positive Parenting Programme (Triple P)</u>**
 
 <img src="/images/Partners/Triple%20P.png"  
-     style="width:55%">
+     style="width:35%">
 
 
 _KIDS DON’T COME WITH AN INSTRUCTION MANUAL_
@@ -97,7 +97,7 @@ MSF-recommended trainers will be engaged by MWS FSP to deliver the seminars via 
 
   
 
-Please click **[**here**](/files/publicity_slides.pdf)** to download the PDF version of the slides:
+Please click **[here](/files/publicity_slides.pdf)** to download the PDF version of the slides:
 
 *   Triple P Level 2 Seminars
 *   Triple P Seminar 1
