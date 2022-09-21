@@ -29,7 +29,6 @@ For more information on our curriculum:&nbsp;[https://www.moe.gov.sg/preschool/m
 We offer 4-hour Kindergarten 1 and Kindergarten 2 programmes with the following options:
 
 
-![](/images/About%20Us/MK%20Programme.jpg)
 <img src="/images/About%20Us/MK%20Programme.jpg"  
      style="width:70%">
 
