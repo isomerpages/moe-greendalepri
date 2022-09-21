@@ -54,10 +54,12 @@ We organise a Reading Festival annually to kick start the reading programme.  T
 
 There is a class library corner in every classroom to excite and engage students in reading. The books are rotated among the classes to ensure that students get a fresh collection of books to read all year round!
 
-![](/images/Departments/English%201.jpg)
+<img src="/images/Departments/English%201.jpg"  
+     style="width:75%">
+		 
 
 <img src="/images/Departments/English%202.jpg"  
-     style="width:75%">
+     style="width:55%">
 		 
 		 
 **c) Book Selection**  
@@ -111,7 +113,7 @@ To train students to stand up and speak with confidence in front of their friend
 In order to write more proficiently and effectively, the Department believes that students will need to learn how to spell words correctly.  This is the purpose of organising the Spelling Bee contests for both lower and upper primary students.  The inter-class competition helps to foster a team spirit among the students.		 
 
 <img src="/images/Departments/English%203.jpg"  
-     style="width:65%">
+     style="width:35%">
 		 
 		 
 The students in the middle primary levels use the Newsmaker software, an ICT tool to create their own narratives and reports.
