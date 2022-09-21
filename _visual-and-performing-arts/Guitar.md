@@ -21,9 +21,14 @@ Pupils will learn musical notations and technical skills such as strumming and p
 <iframe width="832" height="468" src="https://www.youtube.com/embed/fAWM7EXsQ_k" title="GDPS 2020 SYF Out Of This World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-![](/images/CCA/Guitar%201.jpeg)
 
-![](/images/CCA/Guitar%202.jpeg)
+
+<img src="/images/CCA/Guitar%201.jpeg"  
+     style="width:75%">
+
+<img src="/images/CCA/Guitar%202.jpeg"  
+     style="width:75%">
+
 
 
 <table>
