@@ -35,3 +35,54 @@ The framework shown below encapsulates what we hope to achieve through this dist
 1.  Anchored in values **G.R.A.C<sup>2</sup>.E** (Graciousness, Resilience, Appreciation, Commitment & Collaboration, Excellence) & **R<sup>3</sup>ICH** (Respect, Responsibility, Resilience, Integrity, Care, Harmony).
 2.  Acquire relevant <u>transferable life skills</u> and <u>social-emotional competencies</u> that can be applied across different contexts and situations.
 3.  **Adaptable, Resilient, Confident and Caring global citizens** who will not only survive but thrive in a world that is increasingly VUCA (volatile, uncertain, complex, ambiguous).
+
+
+
+**Tier 1 Programme (Mass Level):**
+
+
+<table>
+<thead>
+  <tr>
+    <th>Activity</th>
+    <th>Remarks</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>P1 Nature Walk (2-3 h)<br>P2 Nature Walk (3-4 h)<br>P3 Swimsafer Enrichment<br>P3 Day Camp (1 day)<br>P3 Sports Climbing Intro<br>P4 Adventure Camp (3D2N)<br>P5 Nature Trail (4-5 h)<br>P6 Graduation Hike (4-5 h)<br>Physical Education (OE)<br>PAL (OE)</td>
+    <td>@ Botanical Gardens<br>@ Southern Ridges <br>@ Sengkang/Hougang Swimming Pool <br>@ GDPS <br>@ Greendale Secondary School <br>@ MOE Adventure Centre, Labrador<br>@ Coney Island <br>@ Rail Corridor / Sungei Buloh<br>Sense of Place / Risk Assessment<br>Outdoor Exposure, build Socio-emotional competencies </td>
+  </tr>
+</tbody>
+</table>
+
+
+**Tier 2 Programme (Interest Group):**
+
+<table>
+<thead>
+  <tr>
+    <th>Activity</th>
+    <th>Level</th>
+    <th>Remarks</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Basic Snorkelling<br>Kayaking Intro<br>Uniformed Group CCAs</td>
+    <td>Pri 5<br>Pri 6<br>Pri 3-6</td>
+    <td>Swimming Pool<br>Inland Water<br>OE related activities</td>
+  </tr>
+</tbody>
+</table>
+
+
+![](/images/Key%20Programmes/LLP%202.jpg)
+
+![](/images/Key%20Programmes/LLP%203.jpg)
+
+<img src="/images/Key%20Programmes/LLP%204.jpg"  
+     style="width:55%">
+
+
+![](/images/Key%20Programmes/LLP%205.jpg)
