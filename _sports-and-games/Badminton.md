@@ -33,6 +33,8 @@ To date, our team currently has a total of 4 School Teams representing the schoo
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTxtwWE9lQlq_hirtG3yOYzLdT0BfGlUD2tIGZwoHJ8WEk2mUer9jf4iJP6MCchv7bHaAB77tyXRshC/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 
+<br>
+
 <table>
 <thead>
   <tr>
@@ -51,3 +53,9 @@ To date, our team currently has a total of 4 School Teams representing the schoo
   </tr>
 </tbody>
 </table>
+
+\* School Team only
+
+  
+
+Disclaimer: All photos of pupils without masks are taken prior to the Circuit Breaker period.
