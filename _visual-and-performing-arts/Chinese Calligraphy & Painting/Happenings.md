@@ -21,7 +21,10 @@ On 13th July 2018, 10 of our Chinese Calligraphy Club students took part in the 
 
 Sophia Chua from 5G and Jeslyn Ng from 4A achieved the consolation awards. Our Indian student, Yvien from 4F, also took part in the competition. The organisers and the guest of honour were very impressed with her. They were keen to find out more about the reasons behind her passion in Chinese Calligraphy. She maintained her composure throughout the competition and delivered her very best. We would like to express our heartfelt thanks to all our Chinese Calligraphy Club members!
 
-![](/images/CCA/Chinese%20Calligraphy%20&amp;%20Painting%20Club%203.png)
 
+<img src="/images/CCA/Chinese%20Calligraphy%20&amp;%20Painting%20Club%203.png"  
+     style="width:85%">
 
-![](/images/CCA/Chinese%20Calligraphy%20&amp;%20Painting%20Club%204.jpg)
+<img src="/images/CCA/Chinese%20Calligraphy%20&amp;%20Painting%20Club%204.jpg"  
+     style="width:85%">
+
