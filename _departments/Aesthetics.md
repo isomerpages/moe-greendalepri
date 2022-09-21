@@ -18,7 +18,7 @@ Art is integral to the holistic development of every Greendale student as it is 
 
 
 <img src="/images/Departments/Aesthetics%201.jpg"  
-     style="width:75%">
+     style="width:35%">
 
 Through art education, students can grow to embody social and emotional competencies that would better prepare them for future challenges, changing demographics and technological advancements. Art discussions, art making, gallery walks, presentations and reflections are some pedagogical approaches used to develop students into active artist and informed audiences.
 
@@ -51,11 +51,15 @@ Every year, we have ‘Aesthetics Day’ for students to showcase their masterpi
 
 **Aesthetics Day**
 
-![](/images/Departments/Aesthetics%202.jpg)
+<img src="/images/Departments/Aesthetics%202.jpg"  
+     style="width:75%">
+
 
 **Art Making**
 
-![](/images/Departments/Aesthetics%203.jpg)
+
+<img src="/images/Departments/Aesthetics%203.jpg"  
+     style="width:55%">
 
 **Music Department**
 
@@ -103,28 +107,28 @@ Classroom instruments are a major part in music lessons. The selection of differ
 To celebrate and deepen students’ understanding of music. There are various platforms for students to showcase their skills. Students get to perform during ‘Aesthetics Day’ and ‘Sing Singapore’.
 
 <img src="/images/Departments/Aesthetics%204.jpg"  
-     style="width:85%">
+     style="width:55%">
 		 
 <center>Aesthetics Day Performance at the Canteen</center>		 
 		 
 <img src="/images/Departments/Aesthetics%205.jpg"  
-     style="width:85%">
+     style="width:55%">
 		 
 <center>Music Booth at Aesthetics Day
 </center>		 		 
 		 
 <img src="/images/Departments/Aesthetics%206.jpg"  
-     style="width:85%">
+     style="width:55%">
 		 
 <center>Ukulele Lesson</center>
 
 <img src="/images/Departments/Aesthetics%207.jpg"  
-     style="width:85%">
+     style="width:55%">
 		 
 <center>Angklung Lesson</center>		 
 
 <img src="/images/Departments/Aesthetics%208.jpg"  
-     style="width:85%">
+     style="width:55%">
 		 
 <center>P4 Sing Singapore Competition  
 </center>
