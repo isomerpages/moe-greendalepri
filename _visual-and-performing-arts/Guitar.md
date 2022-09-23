@@ -24,10 +24,10 @@ Pupils will learn musical notations and technical skills such as strumming and p
 
 
 <img src="/images/CCA/Guitar%201.jpeg"  
-     style="width:75%">
+     style="width:65%">
 
 <img src="/images/CCA/Guitar%202.jpeg"  
-     style="width:75%">
+     style="width:45%">
 
 
 
