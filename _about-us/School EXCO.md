@@ -67,7 +67,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th rowspan="9"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Departments</th>
+    <th rowspan="9"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Departments</th>
     <th>English Language</th>
     <th>Mother Tongue Languages</th>
   </tr>
@@ -108,7 +108,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th rowspan="6"><br><br><br><br><br><br><br><br><br><br><br>Student Development Team<br></th>
+    <th rowspan="6"><br><br><br><br><br><br><br><br><br>Student Development Team<br></th>
     <th>Year Heads</th>
     <th>Assistant Year Heads</th>
   </tr>
@@ -135,7 +135,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <th><br><br>Character and Citizenship Education</th>
+    <th><br>Character and Citizenship Education</th>
     <td>Mdm Siti Zulaikha (HOD)<br><a href="mailto:siti_zulaikha@schools.gov.sg">siti_zulaikha@schools.gov.sg</a><br><br></td>
     <td>Mdm Janice Chew (SH NE, VIA)<br><a href="mailto:chew_boon_ping@schools.gov.sg">chew_boon_ping@schools.gov.sg</a></td>
   </tr>
