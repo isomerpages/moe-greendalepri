@@ -8,6 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Greendale Homepage GIF.gif
+      title: Greendale Primary School
   - resources:
       title: About Us
 ---
