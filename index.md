@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Greendale Homepage GIF.gif
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+  - resources:
+      title: About Us
 ---
