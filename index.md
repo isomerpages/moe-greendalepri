@@ -8,17 +8,9 @@ notification: ""
 sections:
   - hero:
       background: /images/Greendale Homepage GIF.gif
-      key_highlights:
-        - title: Teachers’ Day Gratitude Portal 2022
-          description: ""
-          url: /announcements/teachers-day-gratitude-portal-2022
-        - title: Greendale Pri Experience
-          description: ""
-          url: /useful-links/greendale-primary-virtual-tour
-        - title: GDPS' Online Art Exhibition 2022
-          description: ""
-          url: /announcements/gdps-online-art-exhibition-2022
-        - title: 2021 Annual Newsletter
-          description: ""
-          url: /useful-links/useful-links-for-parents/annual-newsletter
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
