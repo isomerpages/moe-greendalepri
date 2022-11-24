@@ -8,6 +8,4 @@ notification: ""
 sections:
   - hero:
       background: /images/Greendale Homepage GIF.gif
-  - resources:
-      title: About Us
 ---
