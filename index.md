@@ -11,4 +11,3 @@ sections:
   - resources:
       title: Latest Events
 ---
-
