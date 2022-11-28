@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Greendale Primary School
-description: An Isomer site of the Singapore Government
+description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -11,3 +11,4 @@ sections:
   - resources:
       title: Latest Events
 ---
+
