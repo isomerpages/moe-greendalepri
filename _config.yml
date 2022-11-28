@@ -3,7 +3,7 @@ url: https://greendalepri.moe.edu.sg
 favicon: /images/school logo.jpg
 colors:
   primary-color: "#f89828"
-  secondary-color: "#008961"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
