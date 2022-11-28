@@ -8,4 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/Greendale Homepage GIF.gif
+      title: Greendale Primary
+      subtitle: Ad Astra
+      button: Enter
+      url: /test
 ---
