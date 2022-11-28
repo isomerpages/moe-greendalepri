@@ -1,25 +1,2 @@
 logo: /images/school logo.png
-links:
-  - title: About Us
-    collection: about-us
-  - title: CCA
-    url: /cca/general-information/
-    sublinks:
-      - title: General Information
-        url: /cca/general-information/
-      - title: Sports and Games
-        url: /cca/sports-and-games/badminton
-      - title: Visual and Performing Arts
-        url: /cca/visual-and-performing-arts/art
-      - title: Clubs and Societies
-        url: /cca/clubs-and-societies/chess-club
-      - title: Uniformed Groups
-        url: /cca/uniformed-groups/red-cross
-  - title: Departments
-    collection: departments
-  - title: Key Programmes
-    collection: key-programmes
-  - title: Useful Links
-    collection: useful-links
-  - title: Partners
-    collection: partners
+links: []
