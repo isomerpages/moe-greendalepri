@@ -12,4 +12,14 @@ sections:
       subtitle: Ad Astra
       button: Enter
       url: /test
+      key_highlights:
+        - title: VISION
+          description: Our School Vision
+          url: ""
+        - title: MISSION
+          description: Our School Mission
+          url: ""
+        - title: MOTTO
+          description: Our School Motto
+          url: ""
 ---
