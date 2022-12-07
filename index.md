@@ -11,7 +11,7 @@ sections:
       title: Greendale Primary
       subtitle: Ad Astra
       button: Enter
-      url: /test/permalink/test1/
+      url: https://greendalepri.moe.edu.sg/test/permalink/test1/
       key_highlights:
         - title: VISION
           description: Our School Vision
