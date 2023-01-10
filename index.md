@@ -10,8 +10,6 @@ sections:
       background: /images/Greendale Homepage GIF.gif
       title: Greendale Primary
       subtitle: Ad Astra
-      button: Enter
-      url: /test/permalink/test2/
       key_highlights:
         - title: VISION
           description: Our School Vision
