@@ -3,8 +3,6 @@ title: School Rules
 permalink: /about-us/school-rules/
 description: ""
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
 ### **School Rules**
 
 
