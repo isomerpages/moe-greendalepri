@@ -66,7 +66,7 @@ For assistance, please email us at [greendale@singaporeedusmart.com.sg](mailto:
 
   
 
-#### **<u>Dental</u>**
+#### **<u>Dental Service</u>**
 
   
 
@@ -74,8 +74,9 @@ For assistance, please email us at [greendale@singaporeedusmart.com.sg](mailto:
 
   
 
-Monday to Thursday : **8.00am to 5.30pm**<br>
-Friday                           : **8.00am to 5.00pm**<br>[](/files/GDPS%20DENTAL%20SCHEDULE%20SEP%202022.pdf)
+Monday to Wednesday : **8.00am to 5.30pm**<br>
+Thursday: **8.00am to 12.30pm**<br>
+Friday                           : **8.00am to 12.00pm**<br>[](/files/GDPS%20DENTAL%20SCHEDULE%20SEP%202022.pdf)
 Lunch                           : **1.00pm to 2.00pm**
 
   
@@ -89,6 +90,7 @@ Lunch                           : **1.00pm to 2.00pm**
 The dental clinic may be closed on certain days as the dental staff is away for meetings or stationed at other locations.
 
   
+
 
 Parents may confirm the schedule with
 
