@@ -3,18 +3,11 @@ title: School Services
 permalink: /about-us/school-services/
 description: ""
 ---
-![](/images/About%20Us/subbanner1.jpg)
-
-
 ## **School Services**
-
-
-  
 
 #### **<u>Student Care Centre (SCC)</u>**
 
-  
-
+ 
 **<u>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</u>**
 
 Greendale Primary School’s student care centre (SCC) started on 3 January 2012. With effect from 1 Jan 2023, the SCC will be operated by Singapore EduSmart Learning Hub ( EduSmart ). EduSmart is established in 2012, and serves more than 1,000 children across several Singapore schools.  
