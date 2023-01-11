@@ -9,7 +9,7 @@ locations:
       - Singapore 828848
       - ""
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: https://goo.gl/maps/Pcv1K4bjui9ZVvLX9
     title: School Address
 contacts:
   - content:
