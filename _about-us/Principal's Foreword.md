@@ -3,14 +3,9 @@ title: Principal's Foreword
 permalink: /about-us/principals-foreword/
 description: ""
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
-
 ## **Principal's Foreword**
 
-
 <img src="/images/About%20Us/Principal.jpg" style="width:183px;height:260px;margin-right:15px;" align = "left">
-
 Welcome back to Greendale Primary School and Happy New Year!<br>
 
 In 2023, the school will reach a key milestone as we celebrate our 15th Anniversary. I am proud that we have emerged more resilient, more unified, and better equipped to handle an ever-changing landscape. This new school year brings the promise of a renewed dedication, focus, and energy to the mission of teaching and learning, as well as character development.<br>
