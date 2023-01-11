@@ -85,5 +85,9 @@ description: ""
     <th>Level Head Science</th>
     <td>Mr Mohan Krishnamoorthy<br><a href="mailto:mohan_krishnamoorthy@schools.gov.sg">mohan_krishnamoorthy@schools.gov.sg</a></td>
   </tr>
+		<tr>
+    <th>HOD PE & CCA</th>
+    <td>Mr Ng Kian Woon<br><a href="mailto:ng_kian_woon@schools.gov.sg">ng_kian_woon@schools.gov.sg</a></td>
+  </tr>
 </tbody>
 </table>
