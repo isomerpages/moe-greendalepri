@@ -2,3 +2,5 @@ logo: /images/school logo.png
 links:
   - title: About Us
     collection: about-us
+  - title: CCA
+    collection: clubs-and-societies
