@@ -55,7 +55,7 @@ description: ""
 </tbody>
 </table>
 
-##### DEPARTMENTS
+##### Departments
 <br>
 <table>
 <thead>
