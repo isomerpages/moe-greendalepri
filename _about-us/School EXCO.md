@@ -120,8 +120,8 @@ description: ""
     <td>Mr Jonathan Chean<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg">chean_eu_chang_jonathan@schools.gov.sg</a></td>
   </tr>
 	<tr>
-    <th>HOD Mathematics</th>
-    <td>Mdm Lily Chan<br><a href="mailto:lily_chan@schools.gov.sg">lily_chan@schools.gov.sg</a></td>
+    <th>Assistant Year Head Lower Primary</th>
+    <td>Mdm Nazima Banu<br><a href="mailto:nazima_banu@schools.gov.sg">nazima_banu@schools.gov.sg</a></td>
   </tr>
 	<tr>
     <th> HOD Science</th>
