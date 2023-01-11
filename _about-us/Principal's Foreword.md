@@ -11,7 +11,7 @@ description: ""
 
 <img src="/images/About%20Us/Principal.jpg" style="width:183px;height:260px;margin-right:15px;" align = "left">
 
-Welcome back to Greendale Primary School and Happy New Year!
+Welcome back to Greendale Primary School and Happy New Year!<br>
 
 In 2023, the school will reach a key milestone as we celebrate our 15th Anniversary. I am proud that we have emerged more resilient, more unified, and better equipped to handle an ever-changing landscape. This new school year brings the promise of a renewed dedication, focus, and energy to the mission of teaching and learning, as well as character development.<br>
 
@@ -23,11 +23,9 @@ In addition to the academic focus, our rich programme of co-curricular provision
 
 I am indeed blessed and thankful to continue leading the Greendale family. Together, I am confident that Greendale will continue to thrive for many, many more years ahead.<br>
 
-Ad Astra!
+Ad Astra!<br>
 
 Best Regards,<br>
 **Mrs Noorismawaty Sng-Ismail**<br>
 Principal<br>
 Greendale Primary School
-  
-
