@@ -1,8 +1,10 @@
 logo: /images/school logo.png
 links:
-  - title: About Us
+  - title: ABOUT US
     collection: about-us
   - title: CCA
     collection: clubs-and-societies
-  - title: Partners
+  - title: PARTNERS
     collection: partners
+  - title: USEFUL LINKS
+    collection: useful-links
