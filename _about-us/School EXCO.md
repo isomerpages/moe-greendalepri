@@ -89,5 +89,13 @@ description: ""
     <th>HOD PE & CCA</th>
     <td>Mr Ng Kian Woon<br><a href="mailto:ng_kian_woon@schools.gov.sg">ng_kian_woon@schools.gov.sg</a></td>
   </tr>
+		<tr>
+    <th>HOD Aesthetics</th>
+    <td>Mdm Liow Shu Hwa<br><a href="mailto:liow_shu_hwa@schools.gov.sg">liow_shu_hwa@schools.gov.sg</a></td>
+  </tr>
+	<tr>
+    <th>Subject Head Art</th>
+    <td>Ms Pierre Rachel<br><a href="mailto:pierre_rachel_edmond@schools.gov.sg">pierre_rachel_edmond@schools.gov.sg</a></td>
+  </tr>
 </tbody>
 </table>
