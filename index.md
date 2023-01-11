@@ -13,7 +13,7 @@ sections:
       key_highlights:
         - title: Facebook
           description: Our School Facebook
-          url: ""
+          url: https://www.facebook.com/greendaleps
         - title: MISSION
           description: Our School Mission
           url: ""
