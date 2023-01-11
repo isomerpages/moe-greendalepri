@@ -4,18 +4,14 @@ permalink: /about-us/our-school/vision-mission-n-values/
 third_nav_title: Our School
 description: ""
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **Vision, Mission & Values**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qNxvmDY3rJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### **Vision**
-
 An excellent community of learners anchored in values.
 
 ### **Mission**
-
 To nurture each child holistically through excellence in teaching and learning.
 
 ### **School Values**
