@@ -124,8 +124,8 @@ description: ""
     <td>Mdm Nazima Banu<br><a href="mailto:nazima_banu@schools.gov.sg">nazima_banu@schools.gov.sg</a></td>
   </tr>
 	<tr>
-    <th> HOD Science</th>
-    <td> Ms Caelyn Lim<br><a href="mailto:caelyn_whyndee_lim@schools.gov.sg">caelyn_whyndee_lim@schools.gov.sg</a></td>
+    <th> Assistant Year Head Middle Primary</th>
+    <td> Mr Ahmad Zaki Bin Hassan<br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg">ahmad_zaki_b_hassan@schools.gov.sg</a></td>
   </tr>
 	<tr>
     <th>Level Head Science</th>
