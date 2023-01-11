@@ -70,9 +70,8 @@ description: ""
     <td>Mdm Jolene Goh<br><a href="mailto:goh_kar_hui@schools.gov.sg">goh_kar_hui@schools.gov.sg</a><br></td>
   </tr>
   <tr>
-    <th> HOD ICT</th>
-    <td> Ms Selvakkumari<br><a href="mailto:selvakkumari_veerasamy@schools.gov.sg">selvakkumari_veerasamy@schools.gov.sg</a></td>
+    <th> Level Head CL</th>
+    <td> Mrs Este Chow<br><a href="mailto:este_chow@schools.gov.sg">este_chow@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
-
