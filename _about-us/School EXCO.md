@@ -73,5 +73,9 @@ description: ""
     <th> Level Head CL</th>
     <td> Mrs Este Chow<br><a href="mailto:este_chow@schools.gov.sg">este_chow@schools.gov.sg</a></td>
   </tr>
+	<tr>
+    <th>HOD Mathematics</th>
+    <td>Mdm Lily Chan<br><a href="mailto:lily_chan@schools.gov.sgg">lily_chan@schools.gov.sg</a></td>
+  </tr>
 </tbody>
 </table>
