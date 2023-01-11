@@ -136,8 +136,8 @@ description: ""
     <td>Mrs Agnes Yeo<br><a href="mailto:agnes_seah_li_hui@schools.gov.sg">agnes_seah_li_hui@schools.gov.sg</a></td>
   </tr>
 		<tr>
-    <th>HOD Aesthetics</th>
-    <td>Mdm Liow Shu Hwa<br><a href="mailto:liow_shu_hwa@schools.gov.sg">liow_shu_hwa@schools.gov.sg</a></td>
+    <th>Student Leadership (iSH)</th>
+    <td>Ms Musfirah <br><a href="mailto:musfirah_mohamed@schools.gov.sg">musfirah_mohamed@schools.gov.sg</a></td>
   </tr>
 	<tr>
     <th>Subject Head Art</th>
