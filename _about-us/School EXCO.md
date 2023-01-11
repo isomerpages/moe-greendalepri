@@ -132,8 +132,8 @@ description: ""
     <td>Mrs Kimberly Lee<br><a href="mailto:kimberly_quek_kwee_chiew@schools.gov.sg">kimberly_quek_kwee_chiew@schools.gov.sg</a></td>
   </tr>
 		<tr>
-    <th>HOD PE & CCA</th>
-    <td>Mr Ng Kian Woon<br><a href="mailto:ng_kian_woon@schools.gov.sg">ng_kian_woon@schools.gov.sg</a></td>
+    <th>Student Well-being Subject Head</th>
+    <td>Mrs Agnes Yeo<br><a href="mailto:agnes_seah_li_hui@schools.gov.sg">agnes_seah_li_hui@schools.gov.sg</a></td>
   </tr>
 		<tr>
     <th>HOD Aesthetics</th>
