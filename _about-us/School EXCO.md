@@ -139,9 +139,5 @@ description: ""
     <th>Student Leadership (iSH)</th>
     <td>Ms Musfirah <br><a href="mailto:musfirah_mohamed@schools.gov.sg">musfirah_mohamed@schools.gov.sg</a></td>
   </tr>
-	<tr>
-    <th>Subject Head Art</th>
-    <td>Ms Pierre Rachel<br><a href="mailto:pierre_rachel_edmond@schools.gov.sg">pierre_rachel_edmond@schools.gov.sg</a></td>
-  </tr>
 </tbody>
 </table>
