@@ -3,12 +3,7 @@ title: School EXCO
 permalink: /about-us/school-exco/
 description: ""
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
-
 ## **School EXCO**
-
-![](/images/About%20Us/Executive%20Committee.jpg)
 
 <br>
 
@@ -39,9 +34,7 @@ description: ""
 </tbody>
 </table>
 
-
-<br><br>
-
+<br>
 
 <table>
 <thead>
@@ -62,82 +55,24 @@ description: ""
 </tbody>
 </table>
 
-<br><br>
-
+##### DEPARTMENTS
+<br>
 <table>
 <thead>
   <tr>
-    <th rowspan="9"><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Departments</th>
-    <th>English Language</th>
-    <th>Mother Tongue Languages</th>
-  </tr>
-  <tr>
-    <td>Ms Stephanie Mak (HOD)<br><a href="mailto:mak_sher-lin@schools.gov.sg">mak_sher-lin@schools.gov.sg</a><br><br></td>
-    <td>Mdm Jolene Goh (HOD)<br><a href="mailto:goh_kar_hui@schools.gov.sg">goh_kar_hui@schools.gov.sg</a><br><br></td>
-  </tr>
-  <tr>
-    <td>Mrs Kimberly Lee (LH)<br><a href="mailto:kimberly_quek_kwee_chiew@schools.gov.sg">kimberly_quek_kwee_chiew@schools.gov.sg</a><br><br></td>
-    <td>Mrs Este Chow (LH CL)<br><a href="mailto:este_chow@schools.gov.sg">este_chow@schools.gov.sg</a><br><br></td>
-  </tr>
-  <tr>
-    <th>Mathematics</th>
-    <th>Science</th>
-  </tr>
-  <tr>
-    <td rowspan="2">Mdm Lily Chan (HOD)<br><a href="mailto:lily_chan@schools.gov.sg">lily_chan@schools.gov.sg</a><br></td>
-    <td>Ms Caelyn Lim (HOD)<br><a href="mailto:caelyn_whyndee_lim@schools.gov.sg">caelyn_whyndee_lim@schools.gov.sg</a><br><br></td>
-  </tr>
-  <tr>
-    <td>Mr Mohan Krishnamoorthy (LH)<br><a href="mailto:mohan_krishnamoorthy@schools.gov.sg">mohan_krishnamoorthy@schools.gov.sg</a><br><br></td>
-  </tr>
-  <tr>
-    <th>Physical Education &amp; CCA</th>
-    <th>Aesthetics</th>
-  </tr>
-  <tr>
-    <td rowspan="2">Mr Ng Jun Kiat (SH)<br><a href="mailto:ng_jun_kiat@schools.gov.sg">ng_jun_kiat@schools.gov.sg</a><br></td>
-    <td>Mdm Liow Shu Hwa (HOD)<br><a href="mailto:liow_shu_hwa@schools.gov.sg">liow_shu_hwa@schools.gov.sg</a><br><br></td>
-  </tr>
-  <tr>
-    <td>Ms Pierre Rachel (SH Art)<br><a href="mailto:pierre_rachel_edmond@schools.gov.sg">pierre_rachel_edmond@schools.gov.sg</a></td>
-  </tr>
-</thead>
-</table>
-
-
-<table>
-<thead>
-  <tr>
-    <th rowspan="6"><br><br><br><br><br><br><br><br><br>Student Development Team<br></th>
-    <th>Year Heads</th>
-    <th>Assistant Year Heads</th>
-  </tr>
-  <tr>
-    <td>Mdm Low Mun Chin (Lower Pr)<br><a href="mailto:low_mun_chin@schools.gov.sg">low_mun_chin@schools.gov.sg</a><br><br></td>
-    <td>Mdm Nazima Banu (P1)<br><a href="mailto:nazima_banu@schools.gov.sg">nazima_banu@schools.gov.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Mdm Caroline Koh (Middle Pr)<br><a href="mailto:koh_po_wun_caroline@schools.gov.sg">koh_po_wun_caroline@schools.gov.sg</a><br><br></td>
-    <th></th>
-  </tr>
-  <tr>
-    <td>Mr Jonathan Chean (Upper Pr)<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg">chean_eu_chang_jonathan@schools.gov.sg</a><br><br></td>
-    <td>Mr Ishak Bin Buang (P5)<br><a href="mailto:ishak_buang@schools.gov.sg">ishak_buang@schools.gov.sg</a><br></td>
-  </tr>
-  <tr>
-    <th>Student Well-being</th>
-    <th>Student Leadership</th>
-  </tr>
-  <tr>
-    <td>Mrs Agnes Yeo (SH)<br><a href="mailto:agnes_seah_li_hui@schools.gov.sg">agnes_seah_li_hui@schools.gov.sg</a><br><br></td>
-    <td>Ms Musfirah (iSH)<br><a href="mailto:musfirah_mohamed@schools.gov.sg">musfirah_mohamed@schools.gov.sg</a><br></td>
+    <th>HOD English</th>
+    <td>Ms Stephanie Mak<br><a href="mailto:mak_sher-lin@schools.gov.sg">mak_sher-lin@schools.gov.sg</a><br></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <th><br>Character and Citizenship Education</th>
-    <td>Mdm Siti Zulaikha (HOD)<br><a href="mailto:siti_zulaikha@schools.gov.sg">siti_zulaikha@schools.gov.sg</a><br><br></td>
-    <td>Mdm Janice Chew (SH NE, VIA)<br><a href="mailto:chew_boon_ping@schools.gov.sg">chew_boon_ping@schools.gov.sg</a></td>
+    <th>HOD Mother Tongue Languages</th>
+    <td>Mdm Jolene Goh<br><a href="mailto:goh_kar_hui@schools.gov.sg">goh_kar_hui@schools.gov.sg</a><br></td>
+  </tr>
+  <tr>
+    <th> HOD ICT</th>
+    <td> Ms Selvakkumari<br><a href="mailto:selvakkumari_veerasamy@schools.gov.sg">selvakkumari_veerasamy@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
+
