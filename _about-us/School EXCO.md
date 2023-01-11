@@ -128,8 +128,8 @@ description: ""
     <td> Mr Ahmad Zaki Bin Hassan<br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg">ahmad_zaki_b_hassan@schools.gov.sg</a></td>
   </tr>
 	<tr>
-    <th>Level Head Science</th>
-    <td>Mr Mohan Krishnamoorthy<br><a href="mailto:mohan_krishnamoorthy@schools.gov.sg">mohan_krishnamoorthy@schools.gov.sg</a></td>
+    <th>Assistant Year Head Upper Primary</th>
+    <td>Mrs Kimberly Lee<br><a href="mailto:kimberly_quek_kwee_chiew@schools.gov.sg">kimberly_quek_kwee_chiew@schools.gov.sg</a></td>
   </tr>
 		<tr>
     <th>HOD PE & CCA</th>
