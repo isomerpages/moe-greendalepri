@@ -11,13 +11,10 @@ sections:
       title: Greendale Primary
       subtitle: Ad Astra
       key_highlights:
-        - title: VISION
-          description: Our School Vision
+        - title: Facebook
+          description: Our School Facebook
           url: ""
         - title: MISSION
           description: Our School Mission
-          url: ""
-        - title: MOTTO
-          description: Our School Motto
           url: ""
 ---
