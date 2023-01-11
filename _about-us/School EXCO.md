@@ -112,12 +112,12 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <th>HOD Mother Tongue Languages</th>
-    <td>Mdm Jolene Goh<br><a href="mailto:goh_kar_hui@schools.gov.sg">goh_kar_hui@schools.gov.sg</a><br></td>
+    <th>Year Head Middle Primary</th>
+    <td>Mdm Caroline Koh<br><a href="mailto:koh_po_wun_caroline@schools.gov.sg">koh_po_wun_caroline@schools.gov.sg</a><br></td>
   </tr>
   <tr>
-    <th> Level Head CL</th>
-    <td> Mrs Este Chow<br><a href="mailto:este_chow@schools.gov.sg">este_chow@schools.gov.sg</a></td>
+    <th>Year Head Upper Primary</th>
+    <td>Mr Jonathan Chean<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg">chean_eu_chang_jonathan@schools.gov.sg</a></td>
   </tr>
 	<tr>
     <th>HOD Mathematics</th>
