@@ -1,2 +1,4 @@
 logo: /images/school logo.png
-links: []
+links:
+  - title: About Us
+    collection: about-us
