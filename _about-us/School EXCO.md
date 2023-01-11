@@ -141,3 +141,20 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+##### Character and Citizenship Education
+<br>
+<table>
+<thead>
+  <tr>
+    <th>HOD CCE</th>
+    <td>Mdm Siti Zulaikha<br><a href="mailto:siti_zulaikha@schools.gov.sg">siti_zulaikha@schools.gov.sg</a><br></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>Subject Head NE, VIA</th>
+    <td>Mdm Janice Chew<br><a href="mailto:chew_boon_ping@schools.gov.sg">chew_boon_ping@schools.gov.sg</a><br></td>
+  </tr>
+</tbody>
+</table>
