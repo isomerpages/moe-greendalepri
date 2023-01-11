@@ -99,3 +99,49 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+##### Student Development Team
+
+<br>
+<table>
+<thead>
+  <tr>
+    <th>Year Head Lower Primary</th>
+    <td>Mdm Low Mun Chin<br><a href="mailto:low_mun_chin@schools.gov.sg">low_mun_chin@schools.gov.sg</a><br></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <th>HOD Mother Tongue Languages</th>
+    <td>Mdm Jolene Goh<br><a href="mailto:goh_kar_hui@schools.gov.sg">goh_kar_hui@schools.gov.sg</a><br></td>
+  </tr>
+  <tr>
+    <th> Level Head CL</th>
+    <td> Mrs Este Chow<br><a href="mailto:este_chow@schools.gov.sg">este_chow@schools.gov.sg</a></td>
+  </tr>
+	<tr>
+    <th>HOD Mathematics</th>
+    <td>Mdm Lily Chan<br><a href="mailto:lily_chan@schools.gov.sg">lily_chan@schools.gov.sg</a></td>
+  </tr>
+	<tr>
+    <th> HOD Science</th>
+    <td> Ms Caelyn Lim<br><a href="mailto:caelyn_whyndee_lim@schools.gov.sg">caelyn_whyndee_lim@schools.gov.sg</a></td>
+  </tr>
+	<tr>
+    <th>Level Head Science</th>
+    <td>Mr Mohan Krishnamoorthy<br><a href="mailto:mohan_krishnamoorthy@schools.gov.sg">mohan_krishnamoorthy@schools.gov.sg</a></td>
+  </tr>
+		<tr>
+    <th>HOD PE & CCA</th>
+    <td>Mr Ng Kian Woon<br><a href="mailto:ng_kian_woon@schools.gov.sg">ng_kian_woon@schools.gov.sg</a></td>
+  </tr>
+		<tr>
+    <th>HOD Aesthetics</th>
+    <td>Mdm Liow Shu Hwa<br><a href="mailto:liow_shu_hwa@schools.gov.sg">liow_shu_hwa@schools.gov.sg</a></td>
+  </tr>
+	<tr>
+    <th>Subject Head Art</th>
+    <td>Ms Pierre Rachel<br><a href="mailto:pierre_rachel_edmond@schools.gov.sg">pierre_rachel_edmond@schools.gov.sg</a></td>
+  </tr>
+</tbody>
+</table>
