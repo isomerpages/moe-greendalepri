@@ -11,41 +11,23 @@ description: ""
 
 <img src="/images/About%20Us/Principal.jpg" style="width:183px;height:260px;margin-right:15px;" align = "left">
 
-Dear Parents and Students,  
+Welcome back to Greendale Primary School and Happy New Year!
 
-  
+In 2023, the school will reach a key milestone as we celebrate our 15th Anniversary. I am proud that we have emerged more resilient, more unified, and better equipped to handle an ever-changing landscape. This new school year brings the promise of a renewed dedication, focus, and energy to the mission of teaching and learning, as well as character development.<br>
 
-Happy New Year and welcome to an exciting year ahead!  
-  
+I look forward to continuing our collaboration with our stakeholders and key partners to provide our children with an effective and engaging educational experience. Greendale  will continue to make a priority of working together as a caring and compassionate learning community with professionalism, teamwork, action, and expertise. We will always put the best interests of our students at the center of our purpose.<br>
 
-It is with great pride and excitement that I write this introductory message to you as the newly appointed Principal of Greendale Primary School. With more than 20 years of educational experience, I am most happy to bring my knowledge as an educational leader to Greendale Primary School and to work with you as a partner in education to ensure every child’s success.  
-  
+As a school, we are cognizant that navigating a VUCA world would require our students to adopt a growth mindset to embrace lifelong learning, risk-taking and failing forward. They need to be critical thinkers and be adept in communicating and collaborating with various networks.  Above all, they must develop a strong moral compass and resiliency, and become worthy citizens of Singapore. Hence, we will continue to provide a quality holistic education to all Greendalites.<br>
 
-Since my arrival in the school, I have been fortunate to be welcomed by a host of stakeholders. It is clear that everyone is proud to be associated with Greendale Primary. It is a school with the mission to nurture each child holistically through excellence in teaching and learning, and to educate the whole child in a caring and supportive environment. 
+In addition to the academic focus, our rich programme of co-curricular provision provides opportunity for students to develop and flourish in sports, arts, music, and outdoor adventure, where they can develop key life skills including confidence, teamwork and leadership. I envision Greendale as a vibrant community, one that is bursting with positive energy from boys and girls who exude confidence in every stride that they take; youths who are champions of social causes that they care deeply for, and young gentlemen and ladies who flourish because they have found meaning, purpose, positive emotions, accomplishment and engagement in their pursuit of their aspirations, interests and talents.<br>
 
-  
-
-  
-
-**_"Intelligence plus character-that is the goal of true education."_** _Martin Luther King Jr._  
-
-My goal for Greendale Primary is to build both academic excellence and character as it is the true goal of education. Thus, along with the staff, I will work steadfastly to continue the legacy of success established at Greendale by building strong relationships with parents, students, staff and community partners. We will continue to focus on character education initiatives, 21st Century skills, and fostering a nurturing and safe environment for the children. We also seek to ensure a consistent implementation of innovative instructional strategies to enhance students’ achievements and provide exciting and challenging enrichment opportunities for every child.  
-
-  
-
-In Greendale, we are committed to building the foundation and motivation for life-long learning, equipping every student with the relevant knowledge, skills and attributes for self-directed learning, and bringing out the best in every child. I anticipate successful months ahead as my team and I support the academic, social and emotional growth of every child here in this ‘Excellent Community of Learners Anchored in Values.” I attest to the fact that if students are having fun and enjoying their learning in the classrooms, they will open themselves and their minds to true learning. I celebrate my teachers who create such an atmosphere where students look forward to learning, where laughter can be heard coming from the classrooms and where the students feel challenged to seek knowledge beyond the walls of the classrooms.  
-
-  
-
-It is my sincere hope that we will work collaboratively as strong partners to provide our children with the best possible opportunities in preparing them to be future-ready, and anchored in the school values of GRACE. Our children will be well-poised to embrace the challenges of the 21st Century and achieve their dreams with a quality and successful foundation created here at our school. Together, we will mould them to be innovative and global in outlook, and daring to aspire high – to the stars!
-
-  
+I am indeed blessed and thankful to continue leading the Greendale family. Together, I am confident that Greendale will continue to thrive for many, many more years ahead.<br>
 
 Ad Astra!
 
-  
-
-In partnership,<br>
-**_Mrs Noorismawaty Sng_**<br>
+Best Regards,<br>
+**Mrs Noorismawaty Sng-Ismail**<br>
 Principal<br>
 Greendale Primary School
+  
+
