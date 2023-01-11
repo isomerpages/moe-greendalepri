@@ -14,7 +14,7 @@ sections:
         - title: Facebook
           description: Our School Facebook
           url: https://www.facebook.com/greendaleps
-        - title: MISSION
-          description: Our School Mission
-          url: ""
+        - title: Instagram
+          description: Our School Instagram
+          url: https://go.gov.sg/greendaleps-ig
 ---
