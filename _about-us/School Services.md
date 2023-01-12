@@ -75,7 +75,8 @@ For assistance, please email us at [greendale@singaporeedusmart.com.sg](mailto:
   
 
 Monday to Wednesday : **8.00am to 5.30pm**<br>
-Thursday: **8.00am to 12.30pm**<br>
+Thursday                    : **8.00am to 12.30pm**
+<br>
 Friday                           : **8.00am to 12.00pm**<br>
 Lunch                           : **1.00pm to 2.00pm**
 
