@@ -134,15 +134,7 @@ Retail outlet contact no:<br>
   
 
 Operating hours:<br>
-
-Weekdays 3pm – 8pm<br>
-Weekends 10am – 4pm
-
-  
-
-**Closed** on every Tuesday and Public Holidays
-
-  
+Please refer to their website for operating hours. [http://myuniformshop.com.sg](http://myuniformshop.com.sg)
 
 #### **<u>School Bus Service</u>**
 
