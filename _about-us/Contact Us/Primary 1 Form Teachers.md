@@ -64,7 +64,7 @@ third_nav_title: Contact Us
   <tr>
     <td>1G</td>
     <td>Miss Kua En Na<br><br><a href="mailto:kua_en_na@schools.gov.sg" target="_blank" rel="noopener noreferrer">kua_en_na@schools.gov.sg</a> </td>
-    <td> Mdm Li Lin<br><br><a href="mailto:li_lin@schools.gov.sg" target="_blank" rel="noopener noreferrer">li_lin@schools.gov.sg</a></td>
+    <td> Ms Tan Shumin Cecilia<br><br><a href="mailto:tan_shumin_cecilia@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_shumin_cecilia@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>  1H</td>
