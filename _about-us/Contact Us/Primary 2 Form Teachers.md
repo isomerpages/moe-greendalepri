@@ -32,8 +32,8 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>2B</td>
-    <td>Mdm Ee Yuan Qi Eugenia<br><br><a href="mailto:ee_yuan_qi_eugenia@schools.gov.sg">ee_yuan_qi_eugenia@schools.gov.sg</a></td>
-    <td>Ms Tan Shumin Cecilia<br><br><a href="mailto:tan_shumin_cecilia@schools.gov.sg">tan_shumin_cecilia@schools.gov.sg</a> <br></td>
+    <td>Mr Zul Fahmie Bin Jumairi<br><br><a href="mailto:zul_fahmie_bin_jumairi@schools.gov.sg">zul_fahmie_bin_jumairi@schools.gov.sg</a></td>
+    <td>Mrs Stephanie Teng<br><br><a href="mailto:teo_ai_hoon_stephanie@schools.gov.sg">teo_ai_hoon_stephanie@schools.gov.sg</a> <br></td>
   </tr>
   <tr>
     <td>2C</td>
