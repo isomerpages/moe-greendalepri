@@ -43,7 +43,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>1C</td>
-    <td>Mdm Khor Hong Yee (Mrs Low)<br><br><a href="mailto:khor_hong_yee@schools.gov.sg" target="_blank" rel="noopener noreferrer">khor_hong_yee@schools.gov.sg</a></td>
+    <td>Ms Nur Hidayah Binte Jais<br><br><a href="mailto:nur_hidayah_jais@schools.gov.sg" target="_blank" rel="noopener noreferrer">nur_hidayah_jais@schools.gov.sg</a></td>
     <td>Mdm Siti Norafizah<br>(Mdm Nora)<br><br><a href="mailto:siti_norafizah_rahmat@schools.gov.sg" target="_blank" rel="noopener noreferrer">siti_norafizah_rahmat@schools.gov.sg</a></td>
   </tr>
   <tr>
