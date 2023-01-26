@@ -38,7 +38,7 @@ third_nav_title: Contact Us
   <tr>
     <td>2C</td>
     <td>Mdm Khor Hong Yee (Mrs Low)<br><br><a href="mailto:khor_hong_yee@schools.gov.sg">khor_hong_yee@schools.gov.sg</a></td>
-    <td>Ms Carol Chua Zhi Ning<br><br><a href="mailto:Chua_Zhi_Ning_Carol@schools.gov.sg">Chua_Zhi_Ning_Carol@schools.gov.sg</a></td>
+    <td>Mdm Nur Saarah Lim<br><br><a href="mailto:nur_saarah_lim@schools.gov.sg">nur_saarah_lim@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>2D</td>
