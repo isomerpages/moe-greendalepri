@@ -43,7 +43,7 @@ third_nav_title: Contact Us
   <tr>
     <td>2D</td>
     <td>Mdm Fa'izah Bte Ibrahim<br><br><a href="mailto:faizah_ibrahim@schools.gov.sg">faizah_ibrahim@schools.gov.sg</a></td>
-    <td>Ms Nurdiana Binte Hasim<br><br><a href="mailto:nurdiana_hasim@schools.gov.sg" target="_blank" rel="noopener noreferrer">nurdiana_hasim@schools.gov.sg</a></td>
+    <td>Ms Eng Mei Qing<br><br><a href="mailto:eng_mei_qing@schools.gov.sg" target="_blank" rel="noopener noreferrer">eng_mei_qing@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>2E</td>
