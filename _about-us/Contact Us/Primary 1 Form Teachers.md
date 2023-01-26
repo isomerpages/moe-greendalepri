@@ -38,7 +38,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>1B</td>
-    <td>Mrs Stephanie Teng<br><br><a href="mailto:teo_ai_hoon_stephanie@schools.gov.sg" target="_blank" rel="noopener noreferrer">teo_ai_hoon_stephanie@schools.gov.sg</a></td>
+    <td>Ms Nabila Banu<br><br><a href="mailto:nabila_banu_mohamed_hassan@schools.gov.sg" target="_blank" rel="noopener noreferrer">nabila_banu_mohamed_hassan@schools.gov.sg</a></td>
     <td>Mr Nur Muhammad Kamal<br><br><a href="mailto:nur_muhammad_kamal_mat@schools.gov.sg">nur_muhammad_kamal_mat@schools.gov.sg</a><br></td>
   </tr>
   <tr>
