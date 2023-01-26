@@ -56,7 +56,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>2G</td>
-    <td> Mdm Chia Mei Shan<br><br><a href="mailto:chia_mei_shan@schools.gov.sg">chia_mei_shan@schools.gov.sg</a> </td>
+    <td> Mdm Syazwani Samsudin (Mdm Syaz)<br><br><a href="mailto:syazwani_samsudin@schools.gov.sg">syazwani_samsudin@schools.gov.sg</a> </td>
     <td>Mr Ng Kian Woon<br><br><a href="mailto:Ng_Kian_Woon@schools.gov.sg" target="_blank" rel="noopener noreferrer">Ng_Kian_Woon@schools.gov.sg</a> </td>
   </tr>
   <tr>
