@@ -37,7 +37,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>2C</td>
-    <td>Ms Nabila Banu<br><br><a href="mailto:nabila_banu_mohamed_hassan@schools.gov.sg">nabila_banu_mohamed_hassan@schools.gov.sg</a></td>
+    <td>Mdm Khor Hong Yee (Mrs Low)<br><br><a href="mailto:khor_hong_yee@schools.gov.sg">khor_hong_yee@schools.gov.sg</a></td>
     <td>Ms Carol Chua Zhi Ning<br><br><a href="mailto:Chua_Zhi_Ning_Carol@schools.gov.sg">Chua_Zhi_Ning_Carol@schools.gov.sg</a></td>
   </tr>
   <tr>
