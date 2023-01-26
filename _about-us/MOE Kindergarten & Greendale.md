@@ -8,8 +8,6 @@ description: ""
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="MOE Kindergarten @ Greendale Open House" src="https://www.youtube.com/embed/VKpdeLrymgU" height="426" width="759"></iframe>
 
-
-
 A well-designed curriculum that enables children to learn actively through play. The learning environment is designed to enable enactment of the curriculum safely.  
   
 Every space in MK@Greendale is a learning space - creative use of available space encourages our children to discover and explore their surroundings. The inviting and thoughtfully-designed classrooms support teaching and learning while the safe outdoor spaces promote learning, engagement and active play.
