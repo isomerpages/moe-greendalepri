@@ -127,5 +127,4 @@ With effect from 1 January 2023, the not-to-exceed prices for the school bus far
 ![Fees Table]()
 
 
-Mr Joseph Koh<br> 
-Tel: 9622 0262 / 62820262
+For enquiries please contact Ms Judy (SFX Transport) at 8800 0262 / 6282 0262.
