@@ -69,7 +69,7 @@ third_nav_title: Contact Us
   <tr>
     <td>  1H</td>
     <td>Ms Lee Lay Khim Celetio<br><br><a href="mailto:lee_lay_khim_celetio@schools.gov.sgg" target="_blank" rel="noopener noreferrer">lee_lay_khim_celetio@schools.gov.sg</a></td>
-    <td>  Mdm Lim Li Ling Carol (Mrs Quek)<br><br><a href="mailto:lim_li_ling_carol@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_li_ling_carol@schools.gov.sg</a></td>
+    <td>Mdm Li Jia Min<br><br><a href="mailto:li_jiamin_a@schools.gov.sg" target="_blank" rel="noopener noreferrer">li_jiamin_a@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td> 1J</td>
