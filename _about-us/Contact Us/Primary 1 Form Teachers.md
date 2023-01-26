@@ -53,7 +53,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>1E</td>
-    <td>Ms Goh Caiping Regina<br><br><a href="mailto:regina_goh_caiping@schools.gov.sg" target="_blank" rel="noopener noreferrer">regina_goh_caiping@schools.gov.sg</a> </td>
+    <td>Mdm Nur Azimah Bte Hassan<br><br><a href="mailto:nur_azimah_hassan@schools.gov.sg" target="_blank" rel="noopener noreferrer">nur_azimah_hassan@schools.gov.sg</a> </td>
     <td>Mdm Nazima Banu<br><br><a href="mailto:nazima_banu@schools.gov.sg" target="_blank" rel="noopener noreferrer">nazima_banu@schools.gov.sg</a> </td>
   </tr>
   <tr>
