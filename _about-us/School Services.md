@@ -119,5 +119,5 @@ Please refer to their website for operating hours. [http://myuniformshop.com.sg]
 #### **<u>School Bus Service</u>**
 
 **SFX Transport Services**<br>
-Mr Joseph Koh<br>
+Mr Joseph Koh<br> 
 Tel: 9622 0262 / 62820262
