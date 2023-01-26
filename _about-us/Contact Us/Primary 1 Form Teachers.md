@@ -63,7 +63,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>1G</td>
-    <td>Mdm Syazwani Samsudin (Mdm Syaz)<br><br><a href="mailto:syazwani_samsudin@schools.gov.sg" target="_blank" rel="noopener noreferrer">syazwani_samsudin@schools.gov.sg</a> </td>
+    <td>Miss Kua En Na<br><br><a href="mailto:kua_en_na@schools.gov.sg" target="_blank" rel="noopener noreferrer">kua_en_na@schools.gov.sg</a> </td>
     <td> Mdm Li Lin<br><br><a href="mailto:li_lin@schools.gov.sg" target="_blank" rel="noopener noreferrer">li_lin@schools.gov.sg</a></td>
   </tr>
   <tr>
