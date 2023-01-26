@@ -42,7 +42,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>2D</td>
-    <td>Ms Leong Wei Peck<br><br><a href="mailto:leong_wei_peck@schools.gov.sg">leong_wei_peck@schools.gov.sg</a></td>
+    <td>Mdm Fa'izah Bte Ibrahim<br><br><a href="mailto:faizah_ibrahim@schools.gov.sg">faizah_ibrahim@schools.gov.sg</a></td>
     <td>Ms Nurdiana Binte Hasim<br><br><a href="mailto:nurdiana_hasim@schools.gov.sg" target="_blank" rel="noopener noreferrer">nurdiana_hasim@schools.gov.sg</a></td>
   </tr>
   <tr>
