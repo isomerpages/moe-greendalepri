@@ -61,13 +61,13 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>2H</td>
-    <td> Mdm Lee Lena<br><br><a href="mailto:lee_lena@schools.gov.sg">lee_lena@schools.gov.sg</a></td>
+    <td>Ms Chen Wanxing (Ms Jaclyn)<br><br><a href="mailto:chen_wanxing_jaclyn@schools.gov.sg">chen_wanxing_jaclyn@schools.gov.sg</a></td>
     <td> Mdm Benasir<br><br><a href="mailto:benasir_a@schools.gov.sg">benasir_a@schools.gov.sg</a> </td>
   </tr>
   <tr>
     <td>2J</td>
-    <td> Ms Lee Lay Khim Celetio<br><br><a href="mailto:lee_lay_khim_celetio@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_lay_khim_celetio@schools.gov.sg</a></td>
-    <td> Mdm Nur Saarah Lim<br><br><a href="mailto:nur_saarah_lim@schools.gov.sg" target="_blank" rel="noopener noreferrer">nur_saarah_lim@schools.gov.sg</a></td>
+    <td>Ms Tan Li Li<br><br><a href="mailto:tan_li_li_a@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_li_li_a@schools.gov.sg</a></td>
+    <td>Ms Pierre Rachel Edmond<br><br><a href="mailto:pierre_rachel_edmond@schools.gov.sg" target="_blank" rel="noopener noreferrer">pierre_rachel_edmond@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
