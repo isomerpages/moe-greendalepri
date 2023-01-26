@@ -91,16 +91,11 @@ The dental clinic may be closed on certain days as the dental staff is away for 
 
 Parents may confirm the schedule with
 
-• Dental staff at Tel: **68861887** <br>
-• School’s General Office at Tel: **68861413**<br>
- For emergency dental treatment, parents/guardians may contact the following clinic for appointment:<br>
-• Edgefield Primary School Dental Clinic, Tel: **63156424**
+			• Dental staff at Tel: **68861887** <br>
+			• School’s General Office at Tel: **68861413**<br>
 
-  
 
 #### **<u>Pacific Bookstores Pte Ltd</u>**  
-
-  
 
 **Opening Hours:**<br>
 2.00pm to 3.00pm (Monday and Tuesday)<br>
