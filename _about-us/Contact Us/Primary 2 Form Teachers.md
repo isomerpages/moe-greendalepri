@@ -47,8 +47,8 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>2E</td>
-    <td>Ms Nur Hidayah Binte Jais<br><br><a href="mailto:nur_hidayah_jais@schools.gov.sg">nur_hidayah_jais@schools.gov.sg</a></td>
-    <td>Ms Musfirah Binte Mohamed<br><br><a href="mailto:musfirah_mohamed@schools.gov.sg">musfirah_mohamed@schools.gov.sg</a></td>
+    <td>Ms Goh Caiping Regina<br><br><a href="mailto:regina_goh_caiping@schools.gov.sg">regina_goh_caiping@schools.gov.sg</a></td>
+    <td>Ms Tan Jia Yi<br><br><a href="mailto:tan_jia_yi@schools.gov.sg">tan_jia_yi@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>2F</td>
