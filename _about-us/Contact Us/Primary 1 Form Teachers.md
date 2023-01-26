@@ -68,7 +68,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>  1H</td>
-    <td>Ms Gnaneswary (Ms Gnanes)<br><br><a href="mailto:gnaneswary_govinda_rajoo_gopaldass@schools.gov.sg" target="_blank" rel="noopener noreferrer">gnaneswary_govinda_rajoo_gopaldass@schools.gov.sg</a></td>
+    <td>Ms Lee Lay Khim Celetio<br><br><a href="mailto:lee_lay_khim_celetio@schools.gov.sgg" target="_blank" rel="noopener noreferrer">lee_lay_khim_celetio@schools.gov.sg</a></td>
     <td>  Mdm Lim Li Ling Carol (Mrs Quek)<br><br><a href="mailto:lim_li_ling_carol@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_li_ling_carol@schools.gov.sg</a></td>
   </tr>
   <tr>
