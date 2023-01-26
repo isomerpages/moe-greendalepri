@@ -5,7 +5,7 @@ description: ""
 ---
 ## **School Services**
 
-#### **<u>Student Care Centre (SCC)</u>**
+### <u>Student Care Centre (SCC)</u>
 
  
 **<u>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</u>**
@@ -66,7 +66,7 @@ For assistance, please email us at [greendale@singaporeedusmart.com.sg](mailto:
 
   
 
-#### **<u>Dental Service</u>**
+### <u>Dental Service</u>
 
   
 
@@ -95,38 +95,23 @@ Parents may confirm the schedule with
 			• School’s General Office at Tel: **68861413**<br>
 
 
-#### **<u>Pacific Bookstores Pte Ltd</u>**  
+### <u>School Bookshop</u>
+##### Pacific Bookstores Pte Ltd
 
 **Opening Hours:**<br>
-2.00pm to 3.00pm (Monday and Tuesday)<br>
-1.30pm to 3.00pm (Wednesday to Friday)
-
-  
-
+2.00pm to 3.00pm (Monday and Friday)<br>
 Closed on Sat, Sun and Public Holidays
 
-  
+### <u>Sale of uniforms</u>
 
-  
-
-#### **<u>Sale of uniforms</u>**  
-
-  
-
-#### **My Uniform Shop (ASIA) Pte Ltd**
-
-  
+##### My Uniform Shop (ASIA) Pte Ltd
 
 Retail Address:<br>
 209 New Upper Changi Road<br>
 #03-651 Singapore 460209
 
-  
-
 Retail outlet contact no:<br>
 **62766689**
-
-  
 
 Operating hours:<br>
 Please refer to their website for operating hours. [http://myuniformshop.com.sg](http://myuniformshop.com.sg)
