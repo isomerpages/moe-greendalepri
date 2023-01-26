@@ -54,7 +54,7 @@ third_nav_title: Contact Us
   <tr>
     <td>1E</td>
     <td>Mdm Nur Azimah Bte Hassan<br><br><a href="mailto:nur_azimah_hassan@schools.gov.sg" target="_blank" rel="noopener noreferrer">nur_azimah_hassan@schools.gov.sg</a> </td>
-    <td>Mdm Nazima Banu<br><br><a href="mailto:nazima_banu@schools.gov.sg" target="_blank" rel="noopener noreferrer">nazima_banu@schools.gov.sg</a> </td>
+    <td>Mr Neo Aik Ghee<br><br><a href="mailto:neo_aik_ghee@schools.gov.sg" target="_blank" rel="noopener noreferrer">neo_aik_ghee@schools.gov.sg</a> </td>
   </tr>
   <tr>
     <td>1F</td>
