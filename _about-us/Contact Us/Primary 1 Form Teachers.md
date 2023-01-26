@@ -58,7 +58,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>1F</td>
-    <td>Mr Muhd Saifulbahry (Mr Saiful)<br><br><a href="mailto:muhammad_saifulbahry_abdul_raman@schools.gov.sg" target="_blank" rel="noopener noreferrer">muhammad_saifulbahry_abdul_raman@schools.gov.sg</a> </td>
+    <td>Mdm Lee Lena<br><br><a href="mailto:lee_lena@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_lena@schools.gov.sg</a> </td>
     <td>Mdm Chen Xujin<br><br><a href="mailto:chen_xujin@schools.gov.sg">chen_xujin@schools.gov.sg</a> </td>
   </tr>
   <tr>
