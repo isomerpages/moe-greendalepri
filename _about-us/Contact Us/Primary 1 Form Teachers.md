@@ -74,7 +74,7 @@ third_nav_title: Contact Us
   <tr>
     <td> 1J</td>
     <td>Ms Leong Wei Peck<br><br><a href="mailto:leong_wei_peck@schools.gov.sg" target="_blank" rel="noopener noreferrer">leong_wei_peck@schools.gov.sg</a> </td>
-    <td>Mdm Rashidah Bte Mohamed Rafei<br><br><a href="mailto:rashidah_mohamed_rafei@schools.gov.sg" target="_blank" rel="noopener noreferrer">rashidah_mohamed_rafei@schools.gov.sg</a> </td>
+    <td>Mdm Chen Xujin<br><br><a href="mailto:chen_xujin@schools.gov.sg" target="_blank" rel="noopener noreferrer">chen_xujin@schools.gov.sg</a> </td>
   </tr>
 </tbody>
 </table>
