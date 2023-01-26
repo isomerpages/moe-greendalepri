@@ -34,7 +34,7 @@ third_nav_title: Contact Us
   <tr>
     <td>1A</td>
     <td>Mdm Ng Xiangqi<br><br><a href="mailto:ng_xiangqi@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_xiangqi@schools.gov.sg</a></td>
-    <td>Mr Nur Muhammad Kamal<br><br><a href="mailto:nur_muhammad_kamal_mat@schools.gov.sg" target="_blank" rel="noopener noreferrer">neo_aik_ghee@schools.gov.sg</a></td>
+    <td>Mr Nur Muhammad Kamal<br><br><a href="mailto:nur_muhammad_kamal_mat@schools.gov.sg" target="_blank" rel="noopener noreferrer">nur_muhammad_kamal_mat@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>1B</td>
