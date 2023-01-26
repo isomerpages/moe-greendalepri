@@ -53,7 +53,6 @@ third_nav_title: Contact Us
   <tr>
     <td>2F</td>
     <td>  Mr Muhd Saifulbahry (Mr Saiful)<br><br><a href="mailto:muhammad_saifulbahry_abdul_raman@schools.gov.sg">muhammad_saifulbahry_abdul_raman@schools.gov.sg</a></td>
-    <td> Mdm Peng Jing Jing<br><br><a href="mailto:peng_jingjing@schools.gov.sg">peng_jingjing@schools.gov.sg</a> </td>
   </tr>
   <tr>
     <td>2G</td>
