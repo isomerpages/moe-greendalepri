@@ -59,7 +59,7 @@ third_nav_title: Contact Us
   <tr>
     <td>1F</td>
     <td>Mdm Lee Lena<br><br><a href="mailto:lee_lena@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_lena@schools.gov.sg</a> </td>
-    <td>Mdm Chen Xujin<br><br><a href="mailto:chen_xujin@schools.gov.sg">chen_xujin@schools.gov.sg</a> </td>
+    <td>Mr Ng Kian Woon<br><br><a href="mailto:Ng_Kian_Woon@schools.gov.sg">Ng_Kian_Woon@schools.gov.sg</a> </td>
   </tr>
   <tr>
     <td>1G</td>
