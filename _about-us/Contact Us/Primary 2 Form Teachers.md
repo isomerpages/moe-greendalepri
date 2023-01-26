@@ -28,7 +28,7 @@ third_nav_title: Contact Us
   <tr>
     <td>2A</td>
     <td>Mdm Doris Yap Li Ching<br><br><a href="mailto:yap_li_ching_doris@schools.gov.sg">yap_li_ching_doris@schools.gov.sg</a></td>
-    <td>Mr Wong Yew Hoong<br><br><a href="mailto:wong_yew_hoong@schools.gov.sg">wong_yew_hoong@schools.gov.sg</a><br></td>
+    <td>Ms Nurdiana Binte Hasim<br><br><a href="mailto:nurdiana_hasim@schools.gov.sg">nurdiana_hasim@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>2B</td>
