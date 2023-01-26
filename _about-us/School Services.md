@@ -116,8 +116,16 @@ Retail outlet contact no:<br>
 Operating hours:<br>
 Please refer to their website for operating hours. [http://myuniformshop.com.sg](http://myuniformshop.com.sg)
 
-#### **<u>School Bus Service</u>**
+### <u>School Bus Service</u>
 
-**SFX Transport Services**<br>
+##### SFX Transport Services<br>
+
+The school's appointed daily school bus vendor is SFX Transport Services.
+
+With effect from 1 January 2023, the not-to-exceed prices for the school bus fares are found in the table below.  Parents who are interested to register for daily school bus services in 2023 can do so online via [gps.sfxtransport.com.sg](http://gps.sfxtransport.com.sg/) by 25 November 2022.  For successful registrations received after the deadline of 25 November 2022, arrangements will be made for the students to commence the bus services from 16th January 2023 onwards unless otherwise stated.
+
+![Fees Table]()
+
+
 Mr Joseph Koh<br> 
 Tel: 9622 0262 / 62820262
