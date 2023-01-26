@@ -4,8 +4,6 @@ permalink: /about-us/contact-us/primary-2-form-teachers/
 description: ""
 third_nav_title: Contact Us
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **Primary 2 - Form Teachers**
 
 <table>
@@ -29,7 +27,7 @@ third_nav_title: Contact Us
 <tbody>
   <tr>
     <td>2A</td>
-    <td>Mdm Tan Hai Sing (Mrs Chong)<br><br><a href="mailto:tan_hai_sing@schools.gov.sg">tan_hai_sing@schools.gov.sg</a></td>
+    <td>Mdm Doris Yap Li Ching<br><br><a href="mailto:yap_li_ching_doris@schools.gov.sg">yap_li_ching_doris@schools.gov.sg</a></td>
     <td>Mr Wong Yew Hoong<br><br><a href="mailto:wong_yew_hoong@schools.gov.sg">wong_yew_hoong@schools.gov.sg</a><br></td>
   </tr>
   <tr>
