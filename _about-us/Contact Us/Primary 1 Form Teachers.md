@@ -4,8 +4,6 @@ permalink: /about-us/contact-us/primary-1-form-teachers/
 description: ""
 third_nav_title: Contact Us
 ---
-![](/images/About%20Us/subbanner2.jpg)
-
 ## **Primary 1 - Form Teachers**
 
 <table>
@@ -35,8 +33,8 @@ third_nav_title: Contact Us
 <tbody>
   <tr>
     <td>1A</td>
-    <td>Mdm Doris Yap Li Ching<br><br><a href="mailto:yap_li_ching_doris@schools.gov.sg" target="_blank" rel="noopener noreferrer">yap_li_ching_doris@schools.gov.sg</a></td>
-    <td>Mr Neo Aik Ghee<br><br><a href="mailto:neo_aik_ghee@schools.gov.sg" target="_blank" rel="noopener noreferrer">neo_aik_ghee@schools.gov.sg</a></td>
+    <td>Mdm Ng Xiangqi<br><br><a href="mailto:ng_xiangqi@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_xiangqi@schools.gov.sg</a></td>
+    <td>Mr Nur Muhammad Kamal<br><br><a href="mailto:nur_muhammad_kamal_mat@schools.gov.sg" target="_blank" rel="noopener noreferrer">neo_aik_ghee@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>1B</td>
