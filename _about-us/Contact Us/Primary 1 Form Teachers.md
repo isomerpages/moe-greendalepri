@@ -48,7 +48,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td> 1D</td>
-    <td>Mdm Fa'izah Bte Ibrahim<br><br><a href="mailto:faizah_ibrahim@schools.gov.sg" target="_blank" rel="noopener noreferrer">faizah_ibrahim@schools.gov.sg</a> </td>
+    <td>Mdm Chia Mei Shan<br><br><a href="mailto:chia_mei_shan@schools.gov.sg" target="_blank" rel="noopener noreferrer">chia_mei_shan@schools.gov.sg</a> </td>
     <td>Mdm Koh Pei Ling Daylily<br><br><a href="mailto:koh_pei_ling_daylily@schools.gov.sg">koh_pei_ling_daylily@schools.gov.sg</a> </td>
   </tr>
   <tr>
