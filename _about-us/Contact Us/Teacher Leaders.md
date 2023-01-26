@@ -4,8 +4,6 @@ permalink: /about-us/contact-us/teacher-leaders/
 description: ""
 third_nav_title: Contact Us
 ---
-![](/images/About%20Us/subbanner1.jpg)
-
 ## **Teacher Leaders**
 
 <table>
