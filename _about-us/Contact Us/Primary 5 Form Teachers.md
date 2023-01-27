@@ -13,12 +13,6 @@ third_nav_title: Contact Us
     <td><br>Mr Chean Eu Chang Jonathan<br><br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg">chean_eu_chang_jonathan@schools.gov.sg</a></td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <th> <br>Assistant Year Head</th>
-    <td><br>Mr Ishak Bin Buang<br><br><a href="mailto:ishak_buang@schools.gov.sg">ishak_buang@schools.gov.sg</a> </td>
-  </tr>
-</tbody>
 </table>
 
 <br>
