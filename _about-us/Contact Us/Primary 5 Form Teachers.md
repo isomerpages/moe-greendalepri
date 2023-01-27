@@ -42,8 +42,8 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>5D</td>
-    <td>Mr Mohd Ghazaly Ibrahim Goghari<br><br>(Mr Emmanuel)<br><a href="mailto:mohamed_ghazaly_ibrahim_goghari@schools.gov.sg" target="_blank" rel="noopener noreferrer">mohamed_ghazaly_ibrahim_goghari@schools.gov.sg</a><br></td>
-    <td><br>Mdm Chek Davoudou Ragmath Nissa<br><br><a href="mailto:chek_davoudou_raghmath_nissa@schools.gov.sg" target="_blank" rel="noopener noreferrer">chek_davoudou_raghmath_nissa@schools.gov.sg</a></td>
+    <td>Ms Arifah Bte Adnan<br><br><a href="mailto:arifah_adnan@schools.gov.sg" target="_blank" rel="noopener noreferrer">arifah_adnan@schools.gov.sg</a><br></td>
+    <td>Mdm Chek Davoudou Ragmath Nissa<br><br><a href="mailto:chek_davoudou_raghmath_nissa@schools.gov.sg" target="_blank" rel="noopener noreferrer">chek_davoudou_raghmath_nissa@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>5E</td>
