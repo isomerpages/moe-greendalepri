@@ -4,8 +4,6 @@ permalink: /about-us/contact-us/primary-3-form-teachers/
 description: ""
 third_nav_title: Contact Us
 ---
-![](/images/About%20Us/subbanner1.jpg)
-
 ## **Primary 3 - Form Teachers**
 
 <table>
@@ -29,7 +27,7 @@ third_nav_title: Contact Us
 <tbody>
   <tr>
     <td>3A</td>
-    <td>Ms Koh Hwee Ming Angeline<br><br><a href="mailto:koh_hwee_ming_angeline@schools.gov.sg">koh_hwee_ming_angeline@schools.gov.sg</a><br></td>
+    <td>Mr Mohd Ghazaly Ibrahim Goghari<br>(Mr Emmanuel)<br><br><a href="mailto:mohamed_ghazaly_ibrahim_goghari@schools.gov.sg">mohamed_ghazaly_ibrahim_goghari@schools.gov.sg</a><br></td>
     <td><br><br></td>
   </tr>
   <tr>
