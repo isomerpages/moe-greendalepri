@@ -45,5 +45,10 @@ third_nav_title: Contact Us
     <td>Ms Huang Siyi Joanna<br><br><a href="mailto:Joanna_Huang_Siyi@schools.gov.sg" target="_blank" rel="noopener noreferrer">Joanna_Huang_Siyi@schools.gov.sg</a></td>
     <td>Mr Lim Jenn Yang<br><br><a href="mailto:Lim_Jenn_Yang@schools.gov.sg">Lim_Jenn_Yang@schools.gov.sg</a></td>
   </tr>
+	 <tr>
+    <td>3E</td>
+    <td>Mr Samuel Lee Zhi Wei<br><br><a href="mailto:Samuel_Lee_Zhi_Wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">Samuel_Lee_Zhi_Wei@schools.gov.sg</a></td>
+    <td>Mr Lim Jenn Yang<br><br><a href="mailto:Lim_Jenn_Yang@schools.gov.sg">Lim_Jenn_Yang@schools.gov.sg</a></td>
+  </tr>
 </tbody>
 </table>
