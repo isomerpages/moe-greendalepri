@@ -32,7 +32,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>5B</td>
-    <td>Ms Huang Siyi Joanna<br><br><a href="mailto:joanna_huang_siyi@schools.gov.sg" target="_blank" rel="noopener noreferrer">joanna_huang_siyi@schools.gov.sg</a></td>
+    <td>Mdm Nur Hafizaa Binte Halim Sah<br><br><a href="mailto:nur_hafizaa_halim_sah@schools.gov.sg" target="_blank" rel="noopener noreferrer">nur_hafizaa_halim_sah@schools.gov.sg</a></td>
     <td>Mdm Lily Chan<br><br><a href="mailto:lily_chan@schools.gov.sg">lily_chan@schools.gov.sg</a><br></td>
   </tr>
   <tr>
