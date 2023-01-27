@@ -53,7 +53,7 @@ third_nav_title: Contact Us
   <tr>
     <td>5F</td>
     <td>Mdm Kong Shi Yun Callie<br><br><a href="mailto:kong_shi_yun@schools.gov.sg" target="_blank" rel="noopener noreferrer">kong_shi_yun@schools.gov.sg</a><br></td>
-    <td>Mdm Kong Shi Yun Callie<br><br><a href="mailto:kong_shi_yun@schools.gov.sg">kong_shi_yun@schools.gov.sg</a></td>
+    <td>Ms Caelyn Whyndee Lim<br><br><a href="mailto:caelyn_whyndee_lim@schools.gov.sg">caelyn_whyndee_lim@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
