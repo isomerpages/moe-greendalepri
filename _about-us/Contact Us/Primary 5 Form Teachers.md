@@ -37,8 +37,8 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>5C</td>
-    <td><br>Mdm Siti Zulaikha Binte Zainal Abidin<br><br><a href="mailto:siti_zulaikha@schools.gov.sg" target="_blank" rel="noopener noreferrer">siti_zulaikha@schools.gov.sg</a></td>
-    <td><br>Ms Selvakkumari d/o Veerasamy (Ms Kumari)<br><br><a href="mailto:selvakkumari_veerasamy@schools.gov.sg" target="_blank" rel="noopener noreferrer">selvakkumari_veerasamy@schools.gov.sg</a><br></td>
+    <td>Ms Cheok Ying Xuan Delcine<br><br><a href="mailto:cheok_ying_xuan_delcine@schools.gov.sg" target="_blank" rel="noopener noreferrer">cheok_ying_xuan_delcine@schools.gov.sg</a></td>
+    <td>Ms Selvakkumari d/o Veerasamy (Ms Kumari)<br><br><a href="mailto:selvakkumari_veerasamy@schools.gov.sg" target="_blank" rel="noopener noreferrer">selvakkumari_veerasamy@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>5D</td>
