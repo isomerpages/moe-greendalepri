@@ -4,16 +4,13 @@ permalink: /about-us/contact-us/primary-4-form-teachers/
 description: ""
 third_nav_title: Contact Us
 ---
-![](/images/About%20Us/subbanner2.jpg)
-
 ## **Primary 4 - Form Teachers**
-
 
 <table>
 <thead>
   <tr>
     <th><br>Year Head</th>
-    <td>Mdm Koh Po Wun Caroline<br><br><a href="mailto:koh_po_wun_caroline@schools.gov.sg">koh_po_wun_caroline@schools.gov.sg</a></td>
+    <td><br>Mdm Koh Po Wun Caroline<br><br><a href="mailto:koh_po_wun_caroline@schools.gov.sg">koh_po_wun_caroline@schools.gov.sg</a></td>
   </tr>
 </thead>
 	<tbody>
