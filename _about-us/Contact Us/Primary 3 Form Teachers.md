@@ -37,7 +37,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>3C</td>
-    <td>Mdm Kong Shi Yun Callie<br><br><a href="mailto:kong_shi_yun@schools.gov.sg" target="_blank" rel="noopener noreferrer">kong_shi_yun@schools.gov.sg</a><br></td>
+    <td>Mr Lim Ban Poh Vincent<br><br><a href="mailto:lim_ban_poh@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_ban_poh@schools.gov.sg</a><br></td>
     <td>Mdm Zubaidah Binte Amid<br><br><a href="mailto:zubaidah_amid@schools.gov.sg">zubaidah_amid@schools.gov.sg</a></td>
   </tr>
   <tr>
