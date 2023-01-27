@@ -42,7 +42,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>3D</td>
-    <td>Mr Yuen Hong Sheng Alfred<br><br><a href="mailto:yuen_hong_sheng@schools.gov.sg" target="_blank" rel="noopener noreferrer">yuen_hong_sheng@schools.gov.sg</a></td>
+    <td>Ms Huang Siyi Joanna<br><br><a href="mailto:Joanna_Huang_Siyi@schools.gov.sg" target="_blank" rel="noopener noreferrer">Joanna_Huang_Siyi@schools.gov.sg</a></td>
     <td>Miss Kua En Na<br><br><a href="mailto:kua_en_na@schools.gov.sg">kua_en_na@schools.gov.sg</a></td>
   </tr>
 </tbody>
