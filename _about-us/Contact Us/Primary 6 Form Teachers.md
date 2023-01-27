@@ -4,16 +4,17 @@ permalink: /about-us/contact-us/primary-6-form-teachers/
 description: ""
 third_nav_title: Contact Us
 ---
-![](/images/About%20Us/subbanner1.jpg)
-
 ## **Primary 6 - Form Teachers**
-
 
 <table>
 <thead>
   <tr>
-    <th><br>Year Head<br></th>
+    <th>Year Head<br></th>
     <td>Mr Chean Eu Chang Jonathan<br><br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg" target="_blank" rel="noopener noreferrer">chean_eu_chang_jonathan@schools.gov.sg</a></td>
+  </tr>
+	 <tr>
+    <th>Assistant Year Head<br></th>
+    <td>Mdm Kimberly Quek Kwee Chiew (Mrs Lee)<br><br><a href="mailto:kimberly_quek_kwee_chiew@schools.gov.sg" target="_blank" rel="noopener noreferrer">kimberly_quek_kwee_chiew@schools.gov.sg</a></td>
   </tr>
 </thead>
 </table>
