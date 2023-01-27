@@ -4,15 +4,13 @@ permalink: /about-us/contact-us/primary-5-form-teachers/
 description: ""
 third_nav_title: Contact Us
 ---
-![](/images/About%20Us/subbanner2.jpg)
-
 ## **Primary 5 - Form Teachers**
 
 <table>
 <thead>
   <tr>
-    <th><br><br>Year Head</th>
-    <td>Mr Chean Eu Chang Jonathan<br><br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg">chean_eu_chang_jonathan@schools.gov.sg</a></td>
+    <th><br>Year Head</th>
+    <td><br>Mr Chean Eu Chang Jonathan<br><br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg">chean_eu_chang_jonathan@schools.gov.sg</a></td>
   </tr>
 </thead>
 <tbody>
