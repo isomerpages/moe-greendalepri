@@ -38,7 +38,7 @@ third_nav_title: Contact Us
   <tr>
     <td>3C</td>
     <td>Mr Lim Ban Poh Vincent<br><br><a href="mailto:lim_ban_poh@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_ban_poh@schools.gov.sg</a><br></td>
-    <td>Mdm Zubaidah Binte Amid<br><br><a href="mailto:zubaidah_amid@schools.gov.sg">zubaidah_amid@schools.gov.sg</a></td>
+    <td>Mdm Liow Shu Hwa (Mrs Joanne Goh)<br><br><a href="mailto:Liow_Shu_Hwa@schools.gov.sg">Liow_Shu_Hwa@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>3D</td>
