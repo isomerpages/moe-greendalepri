@@ -48,7 +48,7 @@ third_nav_title: Contact Us
   <tr>
     <td>5E</td>
     <td>Mdm Puah Yun Wen Shirley<br><br><a href="mailto:puah_yun_wen@schools.gov.sg" target="_blank" rel="noopener noreferrer">puah_yun_wen@schools.gov.sg</a></td>
-    <td><br>Mdm Hafidzah Binte Abdullah<br><br><a href="mailto:hafidzah_abdullah@schools.gov.sg" target="_blank" rel="noopener noreferrer">hafidzah_abdullah@schools.gov.sg</a><br></td>
+    <td>Mdm Hafidzah Binte Abdullah<br><br><a href="mailto:hafidzah_abdullah@schools.gov.sg" target="_blank" rel="noopener noreferrer">hafidzah_abdullah@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>5F</td>
