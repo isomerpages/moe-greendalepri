@@ -33,7 +33,7 @@ third_nav_title: Contact Us
   <tr>
     <td>5B</td>
     <td>Mdm Nur Hafizaa Binte Halim Sah<br><br><a href="mailto:nur_hafizaa_halim_sah@schools.gov.sg" target="_blank" rel="noopener noreferrer">nur_hafizaa_halim_sah@schools.gov.sg</a></td>
-    <td>Mdm Lily Chan<br><br><a href="mailto:lily_chan@schools.gov.sg">lily_chan@schools.gov.sg</a><br></td>
+    <td>Mdm Seah Li Hui Agnes (Mrs Yeo)<br><br><a href="mailto:agnes_seah_li_hui@schools.gov.sg">agnes_seah_li_hui@schools.gov.sgg</a><br></td>
   </tr>
   <tr>
     <td>5C</td>
