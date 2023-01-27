@@ -33,7 +33,7 @@ third_nav_title: Contact Us
   <tr>
     <td>3B</td>
     <td>Mr Wong Yew Hoong <br><br><a href="mailto:wong_yew_hoong@schools.gov.sg" target="_blank" rel="noopener noreferrer">wong_yew_hoong@schools.gov.sg</a></td>
-    <td>Ms Siti Norazirah Binte Ma'arof<br><br><a href="mailto:siti_norazirah_maarof@schools.gov.sg" target="_blank" rel="noopener noreferrer">siti_norazirah_maarof@schools.gov.sg</a><br><br></td>
+    <td>Ms Lim Mei Ling Helen<br><br><a href="mailto:Lim_Mei_Ling_Helen@schools.gov.sg" target="_blank" rel="noopener noreferrer">Lim_Mei_Ling_Helen@schools.gov.sg</a><br><br></td>
   </tr>
   <tr>
     <td>3C</td>
