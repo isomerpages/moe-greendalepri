@@ -35,8 +35,8 @@ third_nav_title: Contact Us
 <tbody>
   <tr>
     <td>4A</td>
-    <td><br>Mr Lim Ban Poh Vincent<br><br><a href="mailto:lim_ban_poh@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_ban_poh@schools.gov.sg</a></td>
-    <td><br>Mdm Goh Kar Hui (Mrs Jolene Teo)<br><br><a href="mailto:goh_kar_hui@schools.gov.sg">goh_kar_hui@schools.gov.sg</a><br></td>
+    <td>Mr Lim Ban Poh Vincent<br><br><a href="mailto:lim_ban_poh@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_ban_poh@schools.gov.sg</a></td>
+    <td>Mdm Goh Kar Hui (Mrs Jolene Teo)<br><br><a href="mailto:goh_kar_hui@schools.gov.sg">goh_kar_hui@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>4B</td>
