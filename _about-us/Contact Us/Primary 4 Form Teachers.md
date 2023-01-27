@@ -50,7 +50,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>4D</td>
-    <td><br>Ms Divyalakshimi Ganeson (Miss Divya)<br><br><a href="mailto:divyalakshmi_ganeson@schools.gov.sg" target="_blank" rel="noopener noreferrer">divyalakshmi_ganeson@schools.gov.sg</a><br><br></td>
+    <td><br>Ms Divyalakshimi Ganeson <br>(Miss Divya)<br><br><a href="mailto:divyalakshmi_ganeson@schools.gov.sg" target="_blank" rel="noopener noreferrer">divyalakshmi_ganeson@schools.gov.sg</a><br><br></td>
     <td><br>Ms Musfirah Binte Mohamed<br><br><br><a href="mailto:musfirah_mohamed@schools.gov.sg" target="_blank" rel="noopener noreferrer">musfirah_mohamed@schools.gov.sg</a><br></td>
   </tr>
   <tr>
