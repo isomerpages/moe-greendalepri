@@ -45,7 +45,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>4C</td>
-    <td>Mdm Chew Meiqian (Mrs Selena Tan)<br><br><br><a href="mailto:chew_meiqian@schools.gov.sg" target="_blank" rel="noopener noreferrer">chew_meiqian@schools.gov.sg</a></td>
+    <td>Mdm Ee Yuan Qi Eugenia<br><br><a href="mailto:ee_yuan_qi_eugenia@schools.gov.sg" target="_blank" rel="noopener noreferrer">ee_yuan_qi_eugenia@schools.gov.sg</a></td>
     <td>Mdm Liow Shu Hwa (Mrs Joanne Goh)<br><br><a href="mailto:liow_shu_hwa@schools.gov.sg">liow_shu_hwa@schools.gov.sg</a><br></td>
   </tr>
   <tr>
