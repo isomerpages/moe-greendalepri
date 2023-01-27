@@ -50,5 +50,10 @@ third_nav_title: Contact Us
     <td>Mr Samuel Lee Zhi Wei<br><br><a href="mailto:Samuel_Lee_Zhi_Wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">Samuel_Lee_Zhi_Wei@schools.gov.sg</a></td>
     <td>Mdm Chek Davoudou Ragmath Nissa<br><br><a href="mailto:Chek_Davoudou_Raghmath_Nissa@schools.gov.sg">Chek_Davoudou_Raghmath_Nissa@schools.gov.sg</a></td>
   </tr>
+	 <tr>
+    <td>3F</td>
+    <td>Mdm Siti Norafizah (Mdm Nora)<br><br><a href="mailto:Siti_Norafizah_Rahmat@schools.gov.sg" target="_blank" rel="noopener noreferrer">Siti_Norafizah_Rahmat@schools.gov.sg</a></td>
+    <td>Mdm Chek Davoudou Ragmath Nissa<br><br><a href="mailto:Chek_Davoudou_Raghmath_Nissa@schools.gov.sg">Chek_Davoudou_Raghmath_Nissa@schools.gov.sg</a></td>
+  </tr>
 </tbody>
 </table>
