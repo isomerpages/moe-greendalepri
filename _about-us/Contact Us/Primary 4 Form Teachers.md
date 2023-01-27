@@ -54,14 +54,6 @@ third_nav_title: Contact Us
     <td>Ms Musfirah Binte Mohamed<br><br><br><a href="mailto:musfirah_mohamed@schools.gov.sg" target="_blank" rel="noopener noreferrer">musfirah_mohamed@schools.gov.sg</a><br></td>
   </tr>
   <tr>
-    <td>4E</td>
-    <td><br>Mdm Phua Min Li (Mrs Koh)<br><br><a href="mailto:phua_min_li@schools.gov.sg" target="_blank" rel="noopener noreferrer">phua_min_li@schools.gov.sg</a><br><br></td>
-    <td><br>Mdm Chew Boon Ping Janice<br><br><a href="mailto:chew_boon_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer">chew_boon_ping@schools.gov.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>4F</td>
-    <td>Mdm Goh Yan Qi<br><br><a href="mailto:goh_yan_qi@schools.gov.sg" target="_blank" rel="noopener noreferrer">goh_yan_qi@schools.gov.sg</a></td>
-    <td>Mr Samuel Lee Zhi Wei<br><br><a href="mailto:samuel_lee_zhi_wei@schools.gov.sg">samuel_lee_zhi_wei@schools.gov.sg</a></td>
-  </tr>
+    
 </tbody>
 </table>
