@@ -27,7 +27,7 @@ third_nav_title: Contact Us
 <tbody>
   <tr>
     <td>5A</td>
-    <td>Mr Ishak Bin Buang<br><br><a href="mailto:ishak_buang@schools.gov.sg" target="_blank" rel="noopener noreferrer">ishak_buang@schools.gov.sg</a> <br></td>
+    <td>Mdm Goh Yan Qi<br><br><a href="mailto:goh_yan_qi@schools.gov.sg" target="_blank" rel="noopener noreferrer">goh_yan_qi@schools.gov.sg</a> <br></td>
     <td> Mdm Puah Yun Wen Shirley<br><br><a href="mailto:puah_yun_wen@schools.gov.sg" target="_blank" rel="noopener noreferrer">puah_yun_wen@schools.gov.sg</a><br></td>
   </tr>
   <tr>
