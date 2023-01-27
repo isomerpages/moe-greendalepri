@@ -43,7 +43,7 @@ third_nav_title: Contact Us
   <tr>
     <td>5D</td>
     <td>Ms Arifah Bte Adnan<br><br><a href="mailto:arifah_adnan@schools.gov.sg" target="_blank" rel="noopener noreferrer">arifah_adnan@schools.gov.sg</a><br></td>
-    <td>Mdm Chek Davoudou Ragmath Nissa<br><br><a href="mailto:chek_davoudou_raghmath_nissa@schools.gov.sg" target="_blank" rel="noopener noreferrer">chek_davoudou_raghmath_nissa@schools.gov.sg</a></td>
+    <td>Mdm Goh Kar Hui <br> (Mrs Jolene Teo)<br><a href="mailto:goh_kar_hui@schools.gov.sg" target="_blank" rel="noopener noreferrer">goh_kar_hui@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>5E</td>
