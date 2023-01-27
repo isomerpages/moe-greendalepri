@@ -16,7 +16,7 @@ third_nav_title: Contact Us
 <tbody>
   <tr>
     <th> <br>Assistant Year Head</th>
-    <td>Mr Ishak Bin Buang<br><br><a href="mailto:ishak_buang@schools.gov.sg">ishak_buang@schools.gov.sg</a> </td>
+    <td><br>Mr Ishak Bin Buang<br><br><a href="mailto:ishak_buang@schools.gov.sg">ishak_buang@schools.gov.sg</a> </td>
   </tr>
 </tbody>
 </table>
