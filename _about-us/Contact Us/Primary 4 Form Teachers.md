@@ -16,7 +16,7 @@ third_nav_title: Contact Us
 	<tbody>
   <tr>
     <th>  Assistant Year Head</th>
-    <td>  Mr Ahmad Zaki Bin Hassan<br><br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg">ahmad_zaki_b_hassan@schools.gov.sg</a>  </td>
+    <td>  Mr Ahmad Zaki Bin Hassan<br><br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg">ahmad_zaki_b_hassan@schools.gov.sg</a> </td>
   </tr>
 </tbody>
 </table>
