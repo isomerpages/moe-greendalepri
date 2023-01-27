@@ -46,7 +46,7 @@ third_nav_title: Contact Us
   <tr>
     <td>4C</td>
     <td>Mdm Ee Yuan Qi Eugenia<br><br><a href="mailto:ee_yuan_qi_eugenia@schools.gov.sg" target="_blank" rel="noopener noreferrer">ee_yuan_qi_eugenia@schools.gov.sg</a></td>
-    <td>Mdm Liow Shu Hwa (Mrs Joanne Goh)<br><br><a href="mailto:liow_shu_hwa@schools.gov.sg">liow_shu_hwa@schools.gov.sg</a><br></td>
+    <td>Mr Ahmad Zaki Bin Hassan<br><br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg">ahmad_zaki_b_hassan@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>4D</td>
