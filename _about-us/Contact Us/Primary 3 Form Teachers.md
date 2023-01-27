@@ -28,7 +28,7 @@ third_nav_title: Contact Us
   <tr>
     <td>3A</td>
     <td>Mr Mohd Ghazaly Ibrahim Goghari<br>(Mr Emmanuel)<br><a href="mailto:mohamed_ghazaly_ibrahim_goghari@schools.gov.sg">mohamed_ghazaly_ibrahim_goghari@schools.gov.sg</a><br></td>
-    <td>Mdm Chew Boon Ping Janice <br><br><a href="mailto:siti_norazirah_maarof@schools.gov.sg" target="_blank" rel="noopener noreferrer">siti_norazirah_maarof@schools.gov.sg</a><br><br></td>
+    <td>Mdm Chew Boon Ping Janice <br><br><a href="mailto:chew_boon_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer">chew_boon_ping@schools.gov.sg</a><br><br></td>
   </tr>
   <tr>
     <td>3B</td>
