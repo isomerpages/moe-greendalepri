@@ -36,7 +36,7 @@ third_nav_title: Contact Us
   <tr>
     <td>4A</td>
     <td>Mdm Chew Meiqian (Mrs Selena Tan)<br><br><a href="mailto:chew_meiqian@schools.gov.sg" target="_blank" rel="noopener noreferrer">chew_meiqian@schools.gov.sg</a></td>
-    <td>Mdm Goh Kar Hui (Mrs Jolene Teo)<br><br><a href="mailto:goh_kar_hui@schools.gov.sg">goh_kar_hui@schools.gov.sg</a><br></td>
+    <td>Mdm Zubaidah Binte Amid<br><br><a href="mailto:zubaidah_amid@schools.gov.sg">zubaidah_amid@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>4B</td>
