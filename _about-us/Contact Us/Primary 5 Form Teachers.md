@@ -28,7 +28,7 @@ third_nav_title: Contact Us
   <tr>
     <td>5A</td>
     <td>Mdm Goh Yan Qi<br><br><a href="mailto:goh_yan_qi@schools.gov.sg" target="_blank" rel="noopener noreferrer">goh_yan_qi@schools.gov.sg</a> <br></td>
-    <td> Mdm Puah Yun Wen Shirley<br><br><a href="mailto:puah_yun_wen@schools.gov.sg" target="_blank" rel="noopener noreferrer">puah_yun_wen@schools.gov.sg</a><br></td>
+    <td>  Mdm Phua Min Li (Mrs Koh)<br><br><a href="mailto:phua_min_li@schools.gov.sg" target="_blank" rel="noopener noreferrer">phua_min_li@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>5B</td>
