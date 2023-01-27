@@ -52,8 +52,8 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>5F</td>
-    <td>Mr Tan Hock Siong Dennis<br><br><a href="mailto:dennis_tan_hock_siong@schools.gov.sg" target="_blank" rel="noopener noreferrer">dennis_tan_hock_siong@schools.gov.sg</a><br></td>
-    <td>Mdm Dong Baohong<br><br><a href="mailto:Dong_Baohong@schools.gov.sg">Dong_Baohong@schools.gov.sg</a></td>
+    <td>Mdm Kong Shi Yun Callie<br><br><a href="mailto:kong_shi_yun@schools.gov.sg" target="_blank" rel="noopener noreferrer">kong_shi_yun@schools.gov.sg</a><br></td>
+    <td>Mdm Kong Shi Yun Callie<br><br><a href="mailto:kong_shi_yun@schools.gov.sg">kong_shi_yun@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
