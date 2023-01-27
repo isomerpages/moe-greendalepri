@@ -47,7 +47,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>5E</td>
-    <td><br>Mr Mohan s/o Krishnamoorthy<br><br><a href="mailto:mohan_krishnamoorthy@schools.gov.sg" target="_blank" rel="noopener noreferrer">mohan_krishnamoorthy@schools.gov.sg</a></td>
+    <td>Mr Mohan s/o Krishnamoorthy<br><br><a href="mailto:mohan_krishnamoorthy@schools.gov.sg" target="_blank" rel="noopener noreferrer">mohan_krishnamoorthy@schools.gov.sg</a></td>
     <td><br>Mdm Hafidzah Binte Abdullah<br><br><a href="mailto:hafidzah_abdullah@schools.gov.sg" target="_blank" rel="noopener noreferrer">hafidzah_abdullah@schools.gov.sg</a><br></td>
   </tr>
   <tr>
