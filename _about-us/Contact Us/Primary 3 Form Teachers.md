@@ -32,7 +32,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>3B</td>
-    <td>Mdm Kimberly Quek Kwee Chiew <br>(Mrs Lee)<br><br><a href="mailto:kimberly_quek_kwee_chiew@schools.gov.sg" target="_blank" rel="noopener noreferrer">kimberly_quek_kwee_chiew@schools.gov.sg</a></td>
+    <td>Mr Wong Yew Hoong <br><br><a href="mailto:wong_yew_hoong@schools.gov.sg" target="_blank" rel="noopener noreferrer">wong_yew_hoong@schools.gov.sg</a></td>
     <td>Ms Siti Norazirah Binte Ma'arof<br><br><a href="mailto:siti_norazirah_maarof@schools.gov.sg" target="_blank" rel="noopener noreferrer">siti_norazirah_maarof@schools.gov.sg</a><br><br></td>
   </tr>
   <tr>
