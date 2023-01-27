@@ -53,7 +53,7 @@ third_nav_title: Contact Us
 	 <tr>
     <td>3F</td>
     <td>Mdm Siti Norafizah (Mdm Nora)<br><br><a href="mailto:Siti_Norafizah_Rahmat@schools.gov.sg" target="_blank" rel="noopener noreferrer">Siti_Norafizah_Rahmat@schools.gov.sg</a></td>
-    <td>Mdm Chek Davoudou Ragmath Nissa<br><br><a href="mailto:Chek_Davoudou_Raghmath_Nissa@schools.gov.sg">Chek_Davoudou_Raghmath_Nissa@schools.gov.sg</a></td>
+    <td>Mrs Este Chow Tan Lee Peng<br><br><a href="mailto:Este_CHOW@schools.gov.sg">Este_CHOW@schools.gov.sg</a></td>
   </tr>
 </tbody>
 </table>
