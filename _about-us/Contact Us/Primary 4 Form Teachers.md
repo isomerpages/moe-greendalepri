@@ -22,9 +22,7 @@ third_nav_title: Contact Us
     <td>  Mr Ahmad Zaki Bin Hassan<br><br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg">ahmad_zaki_b_hassan@schools.gov.sg</a>  </td>
   </tr>
 </tbody>
-	
 </table>
-
 <br>
 
 <table>
