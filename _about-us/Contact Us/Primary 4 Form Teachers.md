@@ -16,6 +16,13 @@ third_nav_title: Contact Us
     <td>Mdm Koh Po Wun Caroline<br><br><a href="mailto:koh_po_wun_caroline@schools.gov.sg">koh_po_wun_caroline@schools.gov.sg</a></td>
   </tr>
 </thead>
+	<tbody>
+  <tr>
+    <th>  Assistant Year Head</th>
+    <td>  Mr Ahmad Zaki Bin Hassan<br><br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg">ahmad_zaki_b_hassan@schools.gov.sg</a>  </td>
+  </tr>
+</tbody>
+	
 </table>
 
 <br>
