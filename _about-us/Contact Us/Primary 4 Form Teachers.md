@@ -40,7 +40,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>4B</td>
-    <td>Mdm Ng Xiangqi<br><br><a href="mailto:ng_xiangqi@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_xiangqi@schools.gov.sg</a><br></td>
+    <td>Mdm Koh Pei Ling Daylily<br><br><a href="mailto:koh_pei_ling_daylily@schools.gov.sg" target="_blank" rel="noopener noreferrer">koh_pei_ling_daylily@schools.gov.sg</a><br></td>
     <td>Mr Lim Jenn Yang<br><br><a href="mailto:lim_jenn_yang@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_jenn_yang@schools.gov.sg</a><br></td>
   </tr>
   <tr>
