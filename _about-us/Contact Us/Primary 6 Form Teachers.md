@@ -31,8 +31,8 @@ third_nav_title: Contact Us
 <tbody>
   <tr>
     <td>6A</td>
-    <td><br>Mdm Seah Li Hui Agnes (Mrs Yeo)<br><br><a href="mailto:agnes_seah_li_hui@schools.gov.sg" target="_blank" rel="noopener noreferrer">agnes_seah_li_hui@schools.gov.sg</a><br></td>
-    <td><br>Mr Zul Fahmie Bin Jumairi<br><br><a href="mailto:zul_fahmie_bin_jumairi@schools.gov.sg" target="_blank" rel="noopener noreferrer">zul_fahmie_bin_jumairi@schools.gov.sg</a></td>
+    <td>Ms Koh Hwee Ming Angeline<br><br><a href="mailto:koh_hwee_ming_angeline@schools.gov.sg" target="_blank" rel="noopener noreferrer">koh_hwee_ming_angeline@schools.gov.sg</a><br></td>
+    <td>Mr Zul Fahmie Bin Jumairi<br><br><a href="mailto:zul_fahmie_bin_jumairi@schools.gov.sg" target="_blank" rel="noopener noreferrer">zul_fahmie_bin_jumairi@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>6B</td>
