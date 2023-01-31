@@ -32,7 +32,7 @@ third_nav_title: Contact Us
   <tr>
     <td>6A</td>
     <td>Ms Koh Hwee Ming Angeline<br><br><a href="mailto:koh_hwee_ming_angeline@schools.gov.sg" target="_blank" rel="noopener noreferrer">koh_hwee_ming_angeline@schools.gov.sg</a><br></td>
-    <td>Mr Zul Fahmie Bin Jumairi<br><br><a href="mailto:zul_fahmie_bin_jumairi@schools.gov.sg" target="_blank" rel="noopener noreferrer">zul_fahmie_bin_jumairi@schools.gov.sg</a></td>
+    <td>Mdm Siti Zulaikha Binte Zainal Abidin<br><br><a href="mailto:siti_zulaikha@schools.gov.sg" target="_blank" rel="noopener noreferrer">siti_zulaikha@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>6B</td>
