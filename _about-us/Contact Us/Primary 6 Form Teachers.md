@@ -46,8 +46,8 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>6D</td>
-    <td><br>Mdm Farrah Eliana Binte Adam<br><br><a href="mailto:farrah_eliana_adam@schools.gov.sg">farrah_eliana_adam@schools.gov.sg</a><br></td>
-    <td><br>Ms Caelyn Whyndee Lim<br><br><a href="mailto:caelyn_whyndee_lim@schools.gov.sg">caelyn_whyndee_lim@schools.gov.sg</a><br></td>
+    <td>Mr Yuen Hong Sheng Alfred<br><br><a href="mailto:yuen_hong_sheng@schools.gov.sg">yuen_hong_sheng@schools.gov.sg</a><br></td>
+    <td>Mdm Hamidah Binte Abdul Razak<br><br><a href="mailto:hamidah_abdul_razak@schools.gov.sg">hamidah_abdul_razak@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>6E</td>
