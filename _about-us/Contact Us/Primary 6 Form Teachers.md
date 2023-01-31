@@ -36,8 +36,8 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>6B</td>
-    <td><br>Ms Lim Mei Ling Helen<br><br><a href="mailto:lim_mei_ling_helen@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_mei_ling_helen@schools.gov.sg</a><br></td>
-    <td><br>Mrs Este Chow Tan Lee Peng<br><br><a href="mailto:este_chow@schools.gov.sg" target="_blank" rel="noopener noreferrer">este_chow@schools.gov.sg</a><br></td>
+    <td>Mdm Farrah Eliana Binte Adam<br><br><a href="mailto:farrah_eliana_adam@schools.gov.sg" target="_blank" rel="noopener noreferrer">farrah_eliana_adam@schools.gov.sg</a><br></td>
+    <td>Mrs Este Chow Tan Lee Peng<br><br><a href="mailto:este_chow@schools.gov.sg" target="_blank" rel="noopener noreferrer">este_chow@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>6C</td>
