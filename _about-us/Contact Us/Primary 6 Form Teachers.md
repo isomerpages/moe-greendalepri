@@ -42,7 +42,7 @@ third_nav_title: Contact Us
   <tr>
     <td>6C</td>
     <td><br>Mdm Dong Baohong<br><br><a href="mailto:Dong_Baohong@schools.gov.sg" target="_blank" rel="noopener noreferrer">Dong_Baohong@schools.gov.sg</a> <br></td>
-    <td><br>Mr Ng Jun Kiat<br><br><a href="mailto:ng_jun_kiat@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_jun_kiat@schools.gov.sg</a></td>
+    <td><br>Mdm Sabrina Binte Mohamed Osman<br><br><a href="mailto:sabrina_mohamed_osman@schools.gov.sg" target="_blank" rel="noopener noreferrer">sabrina_mohamed_osman@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>6D</td>
