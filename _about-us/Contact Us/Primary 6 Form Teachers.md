@@ -56,8 +56,8 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>6F</td>
-    <td>Mdm Nur Hafizaa Binte Halim Sah<br><br><a href="mailto:nur_hafizaa_halim_sah@schools.gov.sg">nur_hafizaa_halim_sah@schools.gov.sg</a><br></td>
-    <td>Ms Pierre Rachel Edmond<br><br><a href="mailto:pierre_rachel_edmond@schools.gov.sg">pierre_rachel_edmond@schools.gov.sg</a><br></td>
+    <td>Mr Tan Hock Siong Dennis<br><br><a href="mailto:dennis_tan_hock_siong@schools.gov.sg">dennis_tan_hock_siong@schools.gov.sg</a><br></td>
+    <td>Mdm Kimberly Quek Kwee Chiew (Mrs Lee)<br><br><a href="mailto:kimberly_quek_kwee_chiew@schools.gov.sg">kimberly_quek_kwee_chiew@schools.gov.sg</a><br></td>
   </tr>
 </tbody>
 </table>
