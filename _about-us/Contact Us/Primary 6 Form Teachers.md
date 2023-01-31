@@ -51,8 +51,8 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>6E</td>
-    <td><br>Ms Cheok Ying Xuan Delcine<br><br><a href="mailto:cheok_ying_xuan_delcine@schools.gov.sg">cheok_ying_xuan_delcine@schools.gov.sg</a><br></td>
-    <td><br>Ms Mak Sher-Lin (Stephanie)<br><br><a href="mailto:mak_sher-lin@schools.gov.sg" target="_blank" rel="noopener noreferrer">mak_sher-lin@schools.gov.sg</a><br></td>
+    <td>Mdm Hafidzah Binte Abdullah<br><br><a href="mailto:hafidzah_abdullah@schools.gov.sg">hafidzah_abdullah@schools.gov.sg</a><br></td>
+    <td>Mr Mohan s/o Krishnamoorthy<br><br><a href="mailto:mohan_krishnamoorthy@schools.gov.sg" target="_blank" rel="noopener noreferrer">mohan_krishnamoorthy@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>6F</td>
