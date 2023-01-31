@@ -41,7 +41,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>6C</td>
-    <td><br>Ms Arifah Bte Adnan<br><br><a href="mailto:arifah_adnan@schools.gov.sg" target="_blank" rel="noopener noreferrer">arifah_adnan@schools.gov.sg</a> <br></td>
+    <td><br>Mdm Dong Baohong<br><br><a href="mailto:Dong_Baohong@schools.gov.sg" target="_blank" rel="noopener noreferrer">Dong_Baohong@schools.gov.sg</a> <br></td>
     <td><br>Mr Ng Jun Kiat<br><br><a href="mailto:ng_jun_kiat@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_jun_kiat@schools.gov.sg</a></td>
   </tr>
   <tr>
