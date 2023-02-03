@@ -4,8 +4,6 @@ permalink: /about-us/contact-us/mk-at-greendale/
 description: ""
 third_nav_title: Contact Us
 ---
-![](/images/About%20Us/subbanner1.jpg)
-
 ## **MK @ Greendale**
 
 <table>
@@ -25,8 +23,6 @@ third_nav_title: Contact Us
     <td>Ms Nur Refah Binte Haa-meed</td>
   </tr>
   <tr>
-    <td>English Language Teacher </td>
-    <td>Ms Iman Khannam D/O Mohamed Feroz </td>
   </tr>
   <tr>
     <td>English Language Teacher </td>
