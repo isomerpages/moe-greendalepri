@@ -30,7 +30,7 @@ third_nav_title: Contact Us
   <tr>
   </tr>
   <tr>
-    <th rowspan="4">Management Support Officer</th>
+    <th rowspan="3">Management Support Officer</th>
     <td>Mdm Law Gek Leng Valerie</td>
   </tr>
   <tr>
@@ -39,9 +39,7 @@ third_nav_title: Contact Us
   <tr>
     <td>Ms Siti Fairuz Binte Hashim</td>
   </tr>
-	<tr>
-    <td>Ms Hasnah Binti Bakar</td>
-  </tr>
+	
   <tr>
     <th>Office Attendant</th>
     <td>Mdm Ng Kim Choo</td>
