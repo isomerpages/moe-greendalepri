@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports and Games/Netball (Girls Only).md
       - Sports and Games/Badminton.md
       - Sports and Games/.keep
       - Visual and Performing Arts/.keep
