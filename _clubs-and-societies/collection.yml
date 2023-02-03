@@ -2,7 +2,6 @@ collections:
   clubs-and-societies:
     output: true
     order:
-      - Infocomm Club.md
       - Environmental Club/.keep
       - Environmental Club/Environmental Club.md
       - Environmental Club/Happenings.md
