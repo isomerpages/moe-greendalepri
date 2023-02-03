@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Sports and Games/Wushu.md
       - Sports and Games/Volleyball.md
       - Sports and Games/Softball (Boys Only).md
       - Sports and Games/Netball (Girls Only).md
