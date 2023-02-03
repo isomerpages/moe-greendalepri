@@ -4,8 +4,6 @@ permalink: /about-us/contact-us/support-staff/
 description: ""
 third_nav_title: Contact Us
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **Support Staff**
 
 
