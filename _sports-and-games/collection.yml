@@ -2,7 +2,6 @@ collections:
   sports-and-games:
     output: true
     order:
-      - Netball (Girls Only).md
       - Softball (Boys Only).md
       - Table Tennis/.keep
       - Table Tennis/Table Tennis.md
