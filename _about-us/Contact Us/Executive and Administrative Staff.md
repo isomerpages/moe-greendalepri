@@ -17,21 +17,20 @@ third_nav_title: Contact Us
 <tbody>
   <tr>
     <th>Operation Manager</th>
-    <td>Mr Karunamuthi s/o Muthiah (Mr Karu)</td>
+    <td>Mr Karunamuthi s/o Muthiah <br>(Mr Karu)</td>
   </tr>
   <tr>
     <th>ICT Manager</th>
     <td>Mdm Zeenat Begum Binte Shamsuddin </td>
   </tr>
   <tr>
-    <th rowspan="2">Administrative Executive</th>
-    <td>Mdm Nur Faradilah Binte Padawi</td>
-  </tr>
-  <tr>
+    <th>Administrative Executive</th>
     <td>Mdm Lim Sook Ngoh Carmen</td>
   </tr>
   <tr>
-    <th rowspan="3">Management Support Officer</th>
+  </tr>
+  <tr>
+    <th rowspan="4">Management Support Officer</th>
     <td>Mdm Law Gek Leng Valerie</td>
   </tr>
   <tr>
@@ -39,6 +38,9 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>Ms Siti Fairuz Binte Hashim</td>
+  </tr>
+	<tr>
+    <td>Ms Hasnah Binti Bakar</td>
   </tr>
   <tr>
     <th>Office Attendant</th>
