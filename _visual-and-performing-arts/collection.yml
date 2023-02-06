@@ -2,7 +2,6 @@ collections:
   visual-and-performing-arts:
     output: true
     order:
-      - Chinese Calligraphy & Painting/.keep
       - International Dance/.keep
       - International Dance/International Dance.md
       - International Dance/Happenings.md
