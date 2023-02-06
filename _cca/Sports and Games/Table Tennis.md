@@ -29,8 +29,8 @@ Although we promote table tennis as a recreational sport, we also identify and n
   <tr>
     <td>Mdm Chen Xu Jin - I/C<br>Ms Cheok Ying Xuan Delcine<br>Mr Vincent Lim</td>
     <td>Wednesday*<br><br>Friday<br></td>
-    <td>2.00 pm - 4.00 pm<br></td>
-    <td>World Map</td>
+    <td><br>2.00 pm - 4.00 pm<br></td>
+    <td><br>World Map</td>
   </tr>
 </tbody>
 </table>
