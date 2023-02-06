@@ -7,6 +7,7 @@ third_nav_title: Sports and Games
 ## **Softball (Boys Only)**
 
 ![Softball](/images/CCA/Softball/Softball.gif)
+
 Softball is a bat-and-ball sport played between two teams on a large field. It evolved from baseball with some key differences: softballs are larger than baseballs and the pitches are thrown underhand rather than overhand. Despite the game's name, the standard softball is not soft; in fact, it is harder than a baseball.
 
   
