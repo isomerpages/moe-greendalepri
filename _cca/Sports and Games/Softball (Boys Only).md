@@ -4,9 +4,6 @@ permalink: /cca/sports-and-games/softball-boys-only/
 description: ""
 third_nav_title: Sports and Games
 ---
-
-![](/images/About%20Us/subbanner2.jpg)
-
 ## **Softball (Boys Only)**
 
 Softball is a bat-and-ball sport played between two teams on a large field. It evolved from baseball with some key differences: softballs are larger than baseballs and the pitches are thrown underhand rather than overhand. Despite the game's name, the standard softball is not soft; in fact, it is harder than a baseball.
@@ -81,8 +78,8 @@ We currently have both Junior and Senior boys in the softball team. Our senior b
   <tr>
     <td>Mrs Carol Lim Li Ling – I/C<br>Mdm Peng Jing Jing<br>Ms Khor Hong Yee</td>
     <td>Wednesday*<br><br>Friday<br><br></td>
-    <td>2.00 pm - 4.00 pm<br></td>
-    <td>School Field</td>
+    <td><br>2.00 pm - 4.00 pm<br></td>
+    <td><br>School Field</td>
   </tr>
 </tbody>
 </table>
