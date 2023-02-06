@@ -2,5 +2,4 @@ collections:
   uniformed-groups:
     output: true
     order:
-      - Boys Brigade.md
       - Girls Brigade.md
