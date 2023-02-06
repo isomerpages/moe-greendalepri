@@ -4,9 +4,6 @@ permalink: /cca/uniformed-groups/red-cross/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
-![](/images/About%20Us/subbanner2.jpg)
-
 ## **Red Cross**
 
 <img src="/images/CCA/Red%20Cross/Red%20Cross%201.jpg"  
