@@ -49,7 +49,7 @@ Our team participates in the Inter-Schools Volleyball Championships and the vari
   <tr>
     <td>Mr Dennis Tan – I/C<br>Ms Este Chow<br>Mdm Goh Yan Qi</td>
     <td>Wednesday*<br><br>Friday<br></td>
-    <td>2.00 pm to 4.00 pm<br><br></td>
+    <td><br>2.00 pm to 4.00 pm<br><br></td>
     <td>Indoor Sport Hall (Wed)<br><br>Basketball Court (Fri)</td>
   </tr>
 </tbody>
