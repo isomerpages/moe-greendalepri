@@ -4,9 +4,6 @@ permalink: /cca/sports-and-games/netball-girls-only/
 description: ""
 third_nav_title: Sports and Games
 ---
-
-![](/images/About%20Us/subbanner2.jpg)
-
 ## **Netball (Girls Only)**
 
 Netball is the number one girls' school sport in Singapore with 330 schools running it as a Co-Curricular Activity (CCA). The Netball CCA in Greendale Primary School aims to provide opportunities for pupils to learn and apply the fundamental netball skills and simple court play strategies in playing a netball game.
@@ -46,7 +43,7 @@ Team Greendale will also be training progressively to prepare pupils to represen
   <tr>
     <td>Ms Tan Shumin Cecilia - I/C<br>Mdm Kimberly Quek<br>Mdm Agnes Seah Li Hui<br>Mdm Zubaidah Bte Amid<br></td>
     <td>Wednesday<br><br>Friday*</td>
-    <td>2:00 pm - 4:00 pm</td>
+    <td><br>2:00 - 4:00 pm</td>
     <td>Basketball Court (Wed)<br><br>Indoor Sport Hall (Fri)</td>
   </tr>
 </tbody>
