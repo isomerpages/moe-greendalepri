@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Greendale Homepage GIF.gif
+      background: /images/Home Page/Homepage.jpg
       title: Greendale Primary
       subtitle: Ad Astra
       key_highlights:
