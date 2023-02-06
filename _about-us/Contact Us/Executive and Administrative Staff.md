@@ -58,10 +58,10 @@ third_nav_title: Contact Us
     <td>Mdm Wong Siew Haur</td>
   </tr>
   <tr>
-    <td>Mdm Soon Lay Wah Joanne</td>
+    <td>Mdm Soon Lay Wah (Joanne)</td>
   </tr>
   <tr>
-    <td>Mdm Lim May Kwee Jasline</td>
+    <td>Mdm Chia Geok Ling (Eve)</td>
   </tr>
 </tbody>
 </table>
