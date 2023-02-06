@@ -4,9 +4,6 @@ permalink: /cca/clubs-and-societies/environmental-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
-![](/images/About%20Us/subbanner2.jpg)
-
 ## **Environmental Club**
 
 ![](/images/CCA/Environmental%20Club%201.jpg)
@@ -32,4 +29,4 @@ Greendale Primary School strongly believes that environment education is an impo
 </tbody>
 </table>
 
-Disclaimer: All photos of pupils without masks are taken prior to the Circuit Breaker period.  
+Disclaimer: All photos of pupils without masks are taken prior to the Circuit Breaker period.
