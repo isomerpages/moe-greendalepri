@@ -4,8 +4,6 @@ permalink: /cca/uniformed-groups/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-![](/images/About%20Us/subbanner2.jpg)
-
 ## **Girls Brigade**
 
 <center>87th Company</center>
