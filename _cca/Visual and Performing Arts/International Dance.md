@@ -4,9 +4,6 @@ permalink: /cca/visual-and-performing-arts/international-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **International Dance**
 
 **<u>Singapore Youth Festival (SYF)</u>**
@@ -93,4 +90,4 @@ A few days later, on the 24th June, 6 of our dancers represented Greendale Prima
 </tbody>
 </table>
 
-Disclaimer: All photos of pupils without masks are taken prior to the Circuit Breaker period.  
+Disclaimer: All photos of pupils without masks are taken prior to the Circuit Breaker period.
