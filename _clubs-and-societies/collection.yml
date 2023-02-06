@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Environmental Club/.keep
-      - Environmental Club/Environmental Club.md
       - Environmental Club/Happenings.md
       - Environmental Club/Learning Journey to Eco Town.md
       - Environmental Club/Upcycling Workshop on Making of Pot Coaster.md
