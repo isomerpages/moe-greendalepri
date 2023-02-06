@@ -4,9 +4,6 @@ permalink: /cca/visual-and-performing-arts/chinese-calligraphy-and-painting/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **Chinese Calligraphy and Painting**
 
 
