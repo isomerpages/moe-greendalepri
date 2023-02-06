@@ -4,9 +4,6 @@ permalink: /cca/sports-and-games/wushu/
 description: ""
 third_nav_title: Sports and Games
 ---
-
-![](/images/About%20Us/subbanner1.jpg)
-
 ## **Wushu**
 
 
