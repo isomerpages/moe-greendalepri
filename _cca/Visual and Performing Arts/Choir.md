@@ -4,9 +4,6 @@ permalink: /cca/visual-and-performing-arts/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **Choir**
 
 GDPS Choir started in 2010 with the vision of developing students with a passion for singing. It is also a platform for students to enhance their school values, such as strengthening resilience and collaborating in a team.
