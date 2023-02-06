@@ -4,9 +4,6 @@ permalink: /cca/visual-and-performing-arts/guitar/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **Guitar**
 
 Which type of music do you like? Rock? Pop? Jazz? Blues? Classical? Join the Guitar Club to discover how a six string classical instrument can resonate such beautiful melodies that even some orchestras have them!
@@ -46,7 +43,7 @@ Pupils will learn musical notations and technical skills such as strumming and p
   <tr>
     <td>Ms Leong Wei Peck – I/C<br>Mdm Rashidah Bte M Rafei<br>Mr Ishak B Buang</td>
     <td>Wednesday*<br><br>Friday (All members)<br><br></td>
-    <td>2:00 pm to 4:00 pm<br></td>
+    <td><br>2:00 pm to 4:00 pm<br></td>
     <td>CCA Room 1 Guitar<br>(New Block Level 5)<br><br>Band Room<br>(New Block Level 6)</td>
   </tr>
 </tbody>
