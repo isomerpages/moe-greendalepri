@@ -1,5 +1,4 @@
 collections:
   sports-and-games:
     output: true
-    order:
-      - Table Tennis/.keep
+    order: []
