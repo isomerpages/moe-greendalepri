@@ -4,9 +4,6 @@ permalink: /cca/visual-and-performing-arts/art/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-
-![](/images/About%20Us/subbanner2.jpg)
-
 ## **Art**&nbsp;
 
 Art Club is a safe space for the exploration and experiential learning of Art beyond the boundaries of the classroom. It is also a platform for students to extend their interest in Art. Opportunities are given for students to participate in nationwide competition such as Singapore Youth Festival (SYF), to go for learning journeys to the museum and to learn and create art based on art techniques learnt.
