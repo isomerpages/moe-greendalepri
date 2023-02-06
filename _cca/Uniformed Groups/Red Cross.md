@@ -77,7 +77,7 @@ The Red Cross CCA will thus be an avenue for our links to make a difference in t
   <tr>
     <td>Mdm Farrah Eliana – I/C<br>Ms Gnaneswary<br>Ms Arifah Bte Adnan<br>Mdm Doris Yap</td>
     <td>Friday<br></td>
-    <td><br>2.00 pm - 4.00 pm<br></td>
+    <td>2.00 pm - 4.00 pm<br></td>
     <td>Classroom 4A, 4B, 4C<br></td>
   </tr>
 </tbody>
