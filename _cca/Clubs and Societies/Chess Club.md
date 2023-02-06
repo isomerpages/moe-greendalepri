@@ -4,10 +4,6 @@ permalink: /cca/clubs-and-societies/chess-club/
 description: ""
 third_nav_title: Clubs and Societies
 ---
-
-![](/images/About%20Us/subbanner3.jpg)
-
-
 ## **Chess Club**
 
 ![](/images/CCA/Chess%201.jpeg)
