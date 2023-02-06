@@ -4,9 +4,6 @@ permalink: /cca/sports-and-games/table-tennis/
 description: ""
 third_nav_title: Sports and Games
 ---
-
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **Table-Tennis**
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTI64CWm3Gfgfu_7Ofx7H8mYZ-UAp07rof6t092dxl4JVU-GeXkPp9OIeFuLCbZh-68dN0lKnSOuBss/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
