@@ -35,7 +35,7 @@ Our Wushu members have represented the school during events such as Punggol Stre
   <tr>
     <td>Ms Neo Aik Ghee– I/C<br>Mdm Sabrina bte M Osman<br>Mdm Chia Mei Shan<br>Ms Koh Pei Ling Daylily</td>
     <td>Wednesday*<br><br>Friday<br><br></td>
-    <td>2.00 pm - 4.00 pm<br></td>
+    <td><br>2.00 pm - 4.00 pm<br></td>
     <td>Hall/Stage</td>
   </tr>
 </tbody>
