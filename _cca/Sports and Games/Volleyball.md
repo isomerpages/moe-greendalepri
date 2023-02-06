@@ -4,10 +4,6 @@ permalink: /cca/sports-and-games/volleyball/
 description: ""
 third_nav_title: Sports and Games
 ---
-
-![](/images/About%20Us/subbanner2.jpg)
-
-
 ## **Volleyball**
 
 ![](/images/CCA/Volleyball%201.png)
