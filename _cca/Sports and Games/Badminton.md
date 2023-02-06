@@ -4,10 +4,6 @@ permalink: /cca/sports-and-games/badminton/
 description: ""
 third_nav_title: Sports and Games
 ---
-
-![](/images/About%20Us/subbanner1.jpg)
-
-
 ## **Badminton**
 
 ![](/images/CCA/Badminton%20(1).jpg)
