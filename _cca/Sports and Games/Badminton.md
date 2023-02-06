@@ -46,8 +46,8 @@ To date, our team currently has a total of 4 School Teams representing the schoo
   <tr>
     <td>Mr Zul Fahmie - I/C<br>Ms Lee Lay Khim Celetio<br>Ms Chek Davoudou Nissa<br>Mr Nur Muhammad Kamal<br></td>
     <td>Wednesday<br><br>Friday*</td>
-    <td>2.00 pm - 4.00 pm<br></td>
-    <td>Hall</td>
+    <td><br>2.00 pm - 4.00 pm<br></td>
+    <td><br>Hall</td>
   </tr>
 </tbody>
 </table>
