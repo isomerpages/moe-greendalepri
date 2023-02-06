@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Chinese Calligraphy & Painting/.keep
-      - Chinese Calligraphy & Painting/Chinese Calligraphy & Painting.md
       - International Dance/.keep
       - International Dance/International Dance.md
       - International Dance/Happenings.md
