@@ -4,8 +4,6 @@ permalink: /useful-links/useful-links-for-parents/parents-gateway/
 description: ""
 third_nav_title: Useful Links for Parents
 ---
-![](/images/About%20Us/subbanner1.jpg)
-
 ## **Parents Gateway**
 
 **<u>Parents Gateway (PG)</u>**
