@@ -4,9 +4,6 @@ permalink: /useful-links/useful-links-for-parents/annual-newsletter/
 description: ""
 third_nav_title: Useful Links for Parents
 ---
-![](/images/About%20Us/subbanner2.jpg)
-
-
 ## **Annual Newsletter**
 
 Reach for the stars, spread your wings and fly.  
