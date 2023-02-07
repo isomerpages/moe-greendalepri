@@ -4,9 +4,6 @@ permalink: /useful-links/useful-links-for-parents/parents-briefing/
 description: ""
 third_nav_title: Useful Links for Parents
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
-
 ## **Parents Briefing**
 
 <table>
