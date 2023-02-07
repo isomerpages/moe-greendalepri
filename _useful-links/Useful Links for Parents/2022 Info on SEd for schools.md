@@ -4,9 +4,7 @@ permalink: /useful-links/useful-links-for-parents/2022-info-on-sed-for-schools/
 description: ""
 third_nav_title: Useful Links for Parents
 ---
-![](/images/About%20Us/subbanner1.jpg)
-
-## **2022 Info on SEd for schools**
+## **2023 Info on SEd for schools**
 
 **Moe Sexuality Education in Schools**
 
@@ -187,4 +185,3 @@ Information for Parents
 10.       Parents can contact the school at 68861413 or [Greendaleps@moe.edu.sg](mailto:Greendaleps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
 11.       Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
-
