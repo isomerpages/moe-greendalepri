@@ -87,3 +87,9 @@ Feeling anxious about your child going to P1? How can we help our children throu
 Join Esther Foong, family life educator and mother of 2 primary school going children, to learn how we can better prepare our children (and ourselves) for this important milestone! Sign up via this QR code today!
 ![Speaker and QR code](/images/Partners/Speaker%20and%20QR.jpg)
 Let's explore how we can support them better in a brand new learning environment, by taking into consideration our children's emotional and social needs, as well as their unique personality.
+
+##### Speaker's Bio
+
+Esther Foong is a Family Life Educator whose work aims to resource, train and inspire parents to better understand their children, so as to build stronger relationships with them. She regularly conducts parenting talks and workshops for schools, companies, churches and other community organisations. She is also passionate about values inculcation and character development in children, and sees great importance in the role of parents in this aspect.
+
+Esther is the co-founder of SGFamilies, a ground-up movement by parents that aims to raise wholesome generations together. She also serves as Head of Partnerships and Programmes for GetConnected.sg, a customised digital parenting playbook. As a part-time lecturer at National Institute of Education, she supervises trainee teachers for their teaching practicum.
