@@ -17,4 +17,4 @@ Parents may opt their children out of Sexuality Education lessons, and/or supple
   
 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here]() . The completed opt-out form is to be submitted by 3 March 2023  
 
-Parents can contact the school at 68861413 or [Greendaleps@moe.edu.sg](mailto:Greendaleps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+Parents can contact the school at 68861413 or [greendaleps@moe.edu.sg](mailto:greendaleps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
