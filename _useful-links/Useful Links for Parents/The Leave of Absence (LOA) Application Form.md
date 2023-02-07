@@ -4,8 +4,6 @@ permalink: /useful-links/useful-links-for-parents/the-leave-of-absence-loa-appli
 description: ""
 third_nav_title: Useful Links for Parents
 ---
-![](/images/About%20Us/subbanner2.jpg)
-
 ## **The Leave of Absence (LOA) Application Form**
 
 
