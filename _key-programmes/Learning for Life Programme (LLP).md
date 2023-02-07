@@ -3,8 +3,6 @@ title: Learning for Life Programme (LLP)
 permalink: /key-programmes/learning-for-life-programme-llp/
 description: ""
 ---
-![](/images/About%20Us/subbanner1.jpg)
-
 ## **Learning for Life Programme (LLP)**
 
 
