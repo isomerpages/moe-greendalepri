@@ -85,7 +85,5 @@ Participate and/or organise the various father-child activities. Learn from and 
 Feeling anxious about your child going to P1? How can we help our children through this transition?
 
 Join Esther Foong, family life educator and mother of 2 primary school going children, to learn how we can better prepare our children (and ourselves) for this important milestone! Sign up via this QR code today!
-
 ![Speaker and QR code](/images/Partners/Speaker%20and%20QR.jpg)
-
-
+Let's explore how we can support them better in a brand new learning environment, by taking into consideration our children's emotional and social needs, as well as their unique personality.
