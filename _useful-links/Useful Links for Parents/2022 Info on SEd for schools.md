@@ -8,7 +8,7 @@ third_nav_title: Useful Links for Parents
 
 ##### **Moe Sexuality Education in Schools**
 
-Click [here](/files/SEd/2023%20Info%20on%20SEd%20for%20schs.pdf)  for more information.
+[Click here for more information.](/files/SEd/2023%20Info%20on%20SEd%20for%20schs.pdf)
 
 #### Information for Parents
 -----------------------
