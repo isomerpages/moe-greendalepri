@@ -3,8 +3,6 @@ title: Parent Support Group
 permalink: /partners-1/parent-support-group/
 description: ""
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **Parent Support Group**
 
 
@@ -82,50 +80,12 @@ Participate and/or organise the various father-child activities. Learn from and 
 --------------
 
 
-### **Preparing for PSLE: Managing your child's stress workshop 2021**
+### **Parenting Talk 2023**
+
+Feeling anxious about your child going to P1? How can we help our children through this transition?
+
+Join Esther Foong, family life educator and mother of 2 primary school going children, to learn how we can better prepare our children (and ourselves) for this important milestone! Sign up via this QR code today!
+
+![Speaker and QR code](/images/Partners/Speaker%20and%20QR.jpg)
 
 
-![](/images/Partners/PSLE%20PSG%20Workshop.jpeg)
-
-<br>
-
----------------
-
-
-### **Online Family Bonding Event 2020**
-
-
-![](/images/Partners/Online%20family%20bonding%20event%202020.jpg)
-
-### **Father-Child Climbing @ T-Hall (Crawford Lane)  - For Pri 3 to Pri 6 students**
-
-
-  
-Held on Sat, 20 July 2019, this activity provided a unique opportunity for fathers to communicate, build trust and bond with their child whilst experiencing bouldering and thematic climbing.   
-
-### **Fathers@Greendale Archery Clinic @ Archery Club of Singapore (Hougang)**
-
-
-  
-
-We are organizing our third father-child Archery Clinic. Our first two sessions in 2013 and 2015 were very well received. There will be instructors to teach and guide you to shoot a bow and arrow, and we’ll have competitions between father-child pairs. This is an exciting father-child bonding activity not to be missed, especially if you have not tried Archery before. Click [**here**](/files/Fathers@Greendale%20Archery%20@%20ACS%20(23%20Nov%202019).pdf) for more information.
-
-  
-
-**Date/Time:** Sat 23 Nov (1.30 to 3.30 pm)
-
-  
-
-**Venue:** Archery Club of Singapore (542 Hougang Ave 8, Singapore 530542)
-
-  
-
-**Cost:** $60.00 per father-child pair  
-
-  
-
-**Target group:** P2 (8 yrs) to P6
-
-  
-
-**Registration is closed.**
