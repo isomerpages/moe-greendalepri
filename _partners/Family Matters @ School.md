@@ -3,10 +3,6 @@ title: Family Matters @ School
 permalink: /partners-1/family-matters-at-school/
 description: ""
 ---
-
-![](/images/About%20Us/subbanner3.jpg)
-
-
 ## **Family Matters @ School**
 
 **FamilyMatters@School**
@@ -47,55 +43,15 @@ Thankfully, Greendale Primary is offering a toolbox of parenting tips and strate
 
 Prevent behavioural, emotional and developmental problems in children by enhancing the knowledge, skills and confidence of parents
 
-  
-
 **<u>Delivery Format</u>**
 
-  
-
 The seminars will be remotely conducted via a secured and reliable online platform. Each seminar will be conducted for parents from 3 schools and each School is limited to the first 40 parents who sign up.   
-
-  
-
-**<u>Seminars in 2020</u>**
-
-  
-
-In 2020, the schedule for the 3 seminars offered under Triple P Level 2:
-
-  
-
-MSF-recommended trainers will be engaged by MWS FSP to deliver the seminars via zoom.  
-
-  
-
-**Seminar 1**: Power of Positive Parenting<br>
-**Date**: 15 August, Saturday<br>
-**Time**: 11am- 12.30pm
-
-   
-
-**Seminar 2**: Raising Confident & Competent Children<br> 
-**Date**: 29 August, Saturday<br>
-**Time**: 11am- 12.30pm
-
-  
-
-**Seminar 3**: Raising Resilient Children<br> 
-**Date**: 12 September, Saturday<br>
-**Time**: 11am- 12.30pm
-
-  
 
 **L2 Seminar Info Graphic**
 
 ![](/images/Partners/L2%20Seminar%20Infographic.jpg)
 
-
-
 **<u>Presentation Materials</u>**  
-
-  
 
 Please click **[here](/files/publicity_slides.pdf)** to download the PDF version of the slides:
 
