@@ -3,10 +3,8 @@ title: School Advisory Committee
 permalink: /partners-1/school-advisory-committee/
 description: ""
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **School Advisory Committee**
-
+![](/images/Partners/School%20Advisory%20Committee.jpg)
 <table>
 <thead>
   <tr>
@@ -18,6 +16,10 @@ description: ""
   <tr>
     <td>Mr Khong Kwok Wai</td>
     <td>Chairman</td>
+  </tr>
+	<tr>
+    <td>Mrs Noorismawaty Sng</td>
+    <td>Honorary Secretary</td>
   </tr>
   <tr>
     <td>Mr Cheng Kang Lim</td>
@@ -45,6 +47,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
-
-![](/images/Partners/School%20Advisory%20Committee.jpg)
