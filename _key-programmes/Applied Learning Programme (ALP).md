@@ -3,8 +3,6 @@ title: Applied Learning Programme (ALP)
 permalink: /key-programmes/applied-learning-programme-alp/
 description: ""
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **Applied Learning Programme (ALP)**
 
 **Toy Story – A Toy design project**  
