@@ -8,7 +8,7 @@ third_nav_title: Useful Links for Parents
 
 ##### **Moe Sexuality Education in Schools**
 
-Click [here](https://greendalepri.moe.edu.sg/qql/slot/u478/For%20Parents/SED/2023%20Info%20on%20SEd%20for%20schs.pdf)  for more information.
+Click [here](/files/SEd/2023%20Info%20on%20SEd%20for%20schs.pdf)  for more information.
 
 #### Information for Parents
 -----------------------
