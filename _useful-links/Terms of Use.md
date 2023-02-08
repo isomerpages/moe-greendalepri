@@ -3,8 +3,6 @@ title: Terms of Use
 permalink: /useful-links/terms-of-use/
 description: ""
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **Terms of Use**
 
 
