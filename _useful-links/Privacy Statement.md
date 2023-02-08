@@ -3,8 +3,6 @@ title: Privacy Statement
 permalink: /useful-links/privacy-statement/
 description: ""
 ---
-![](/images/About%20Us/subbanner1.jpg)
-
 ## **Privacy Statement**
 
 *   This is a School under the Government of Singapore website.
