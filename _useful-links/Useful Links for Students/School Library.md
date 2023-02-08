@@ -4,8 +4,6 @@ permalink: /useful-links/useful-links-for-students/school-library/
 description: ""
 third_nav_title: Useful Links for Students
 ---
-![](/images/About%20Us/subbanner1.jpg)
-
 ## **School Library**
 
 Our school library provides a conducive environment and suitable resources for students to read, learn and collaborate. Our activities aim to enthuse and nurture a love of reading in all our students.   
