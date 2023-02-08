@@ -73,10 +73,9 @@ Our school offers Higher Mother Tongue lessons from Primary 3 onwards.  Student
 At the end of Primary 4, the school will recommend the subject combination that is most suitable for them in Primary 5. Based on your child's Mother Tongue Language results, these subjects may include Higher Mother Tongue Language in one of the official languages.
 
 
-**4\. Why are there construction activities taking place in the school?** 
+**4\. **Is there a student care centre in the school?**** 
 
-As part of the Ministry of Education’s plan to support holistic education, the school will be upgraded with additional facilities such as redesigned classrooms, performing arts studio and outdoor jogging path. A new block is being constructed at the school field. These upgrading works will be carried out till Dec 2019.
-
+There is a school-based student care centre managed by Singapore EduSmart Learning Centre. This is our new operator from 1 January 2023.  The student care centre is open till 7.00pm from Monday to Friday. The Centre has moved to the new premises within Level 1 of school. More information on the student care centre e.g. monthly rates can be found here: [/about-us/school-services.](https://greendalepri-moe-edu-sg-admin.cwp.sg/about-us/school-services) Alternatively, you may wish to email their staff at: [greendale@singaporeedusmart.com.sg](mailto:greendale@singaporeedusmart.com.sg) for further enquiries.
   
 
 Both the school and our contractors will implement the necessary measures to ensure the safety and security of our pupils, staff and visitors during this construction period. Our contractors will also try to minimise noise, dust and other disturbances to the neighbouring residential blocks.
