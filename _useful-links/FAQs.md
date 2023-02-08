@@ -77,6 +77,10 @@ At the end of Primary 4, the school will recommend the subject combination that 
 
 There is a school-based student care centre managed by Singapore EduSmart Learning Centre. This is our new operator from 1 January 2023.  The student care centre is open till 7.00pm from Monday to Friday. The Centre has moved to the new premises within Level 1 of school. More information on the student care centre e.g. monthly rates can be found here:[/about-us/school-services](https://staging.d26uzavxcoervm.amplifyapp.com/about-us/school-services/). Alternatively, you may wish to email their staff at: [greendale@singaporeedusmart.com.sg](mailto:greendale@singaporeedusmart.com.sg) for further enquiries.
   
-**5\. Is there a student care centre in the school?** 
+**5\. **Can parents/guardian park inside the school?**** 
 
-There is a school-based student care centre managed by Little Professors Learning Centre. The student care centre is open till 7.00pm from Monday to Friday. The Centre has moved to the newly renovated premises within the school. More information on the student care centre e.g. monthly rates can be found here: [/about-us/school-services](https://staging.d26uzavxcoervm.amplifyapp.com/about-us/school-services/). Alternatively, you may wish to email their staff at: [greendale@littleprofessors.com.sg](mailto:greendale@littleprofessors.com.sg), for further enquiries.
+Since Aug 2018, Greendale Primary has implemented season parking. The school’s carpark is small and all available parking lots have been designated as season parking for school staff.  Hence, parents/guardians and parent volunteers who are visiting the school would not be able to park in the school.   
+
+Parents/guardian who need to pick up their children who are unwell or injured would be allowed to park their vehicle at the school foyer for a short duration.  
+
+During term time, we will continue to allow parents/guardians to drive into the school premises for students’ morning arrival (before 7.30am).
