@@ -4,8 +4,6 @@ permalink: /useful-links/useful-links-for-students/student-learning-space/
 description: ""
 third_nav_title: Useful Links for Students
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
 ## **Student Learning Space**
 
 **Student Learning Space (SLS)**
