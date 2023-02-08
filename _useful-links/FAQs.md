@@ -68,11 +68,10 @@ Pupils are advised to bring light and healthy snacks such as cereals, oatmeal bi
 
 **3\. Does the school offer Higher Mother Tongue?**
 
-The school offers Higher Mother Tongue from Primary 5 onwards. Our pupils who have demonstrated the interest and required competency in their Mother Tongue would be offered by the school to do Higher Mother Tongue.
+Our school offers Higher Mother Tongue lessons from Primary 3 onwards.  Students who have demonstrated the interest and required competency in their Mother Tongue would be offered by the school to do Higher Mother Tongue. 
 
-  
+At the end of Primary 4, the school will recommend the subject combination that is most suitable for them in Primary 5. Based on your child's Mother Tongue Language results, these subjects may include Higher Mother Tongue Language in one of the official languages.
 
-  
 
 **4\. Why are there construction activities taking place in the school?** 
 
