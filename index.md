@@ -8,8 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
-      title: Greendale Primary
-      subtitle: Ad Astra
       key_highlights:
         - title: Facebook
           description: Our School Facebook
