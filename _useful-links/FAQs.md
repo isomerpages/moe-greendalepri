@@ -52,7 +52,7 @@ Our school offers Higher Mother Tongue lessons from Primary 3 onwards.  Student
 At the end of Primary 4, the school will recommend the subject combination that is most suitable for them in Primary 5. Based on your child's Mother Tongue Language results, these subjects may include Higher Mother Tongue Language in one of the official languages.
 
 
-**4\. **Is there a student care centre in the school?**** 
+**4\. Is there a student care centre in the school?**
 
 There is a school-based student care centre managed by Singapore EduSmart Learning Centre. This is our new operator from 1 January 2023.  The student care centre is open till 7.00pm from Monday to Friday. The Centre has moved to the new premises within Level 1 of school. More information on the student care centre e.g. monthly rates can be found here:[/about-us/school-services](https://staging.d26uzavxcoervm.amplifyapp.com/about-us/school-services/). Alternatively, you may wish to email their staff at: [greendale@singaporeedusmart.com.sg](mailto:greendale@singaporeedusmart.com.sg) for further enquiries.
   
