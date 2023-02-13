@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Inspiring Teacher of English Award.md
       - MK Open House 2023.md
-      - GDPS' Online Art Exhibition 2022.md
+      - Inspiring Teacher of English Award.md
       - Cycling to School.md
+      - GDPS' Online Art Exhibition 2022.md
