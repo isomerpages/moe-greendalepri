@@ -3,7 +3,6 @@ title: MOE Kindergarten @ Greendale
 permalink: /about-us/moe-kindergarten-at-greendale/
 description: ""
 ---
-
 ## **MOE Kindergarten @ Greendale**
 
 
@@ -12,10 +11,6 @@ description: ""
 A well-designed curriculum that enables children to learn actively through play. The learning environment is designed to enable enactment of the curriculum safely.  
   
 Every space in MK@Greendale is a learning space - creative use of available space encourages our children to discover and explore their surroundings. The inviting and thoughtfully-designed classrooms support teaching and learning while the safe outdoor spaces promote learning, engagement and active play.
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT_bAqStz9FIrGhEBg61Z33wVZLiIfreTITBP0v0KQumJ28a8S-FQL1ptSznzXEf7j1NBwlHe0PQSac/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
 
 Outdoor Playground and Tricycle Play:&nbsp;[https://goo.gl/maps/85QvFdV3WA4oywyU6](https://goo.gl/maps/85QvFdV3WA4oywyU6)  
 Outdoor Garden and Sand Pit Play:&nbsp;[https://goo.gl/maps/XK2WcoVWAce8KX3j9](https://goo.gl/maps/XK2WcoVWAce8KX3j9)  
