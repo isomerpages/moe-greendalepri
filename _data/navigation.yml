@@ -2,6 +2,8 @@ logo: /images/school logo.png
 links:
   - title: ABOUT US
     collection: about-us
+  - title: Announcements
+    url: /permalink
   - title: CCA
     collection: cca
   - title: KEY PROGRAMMES
