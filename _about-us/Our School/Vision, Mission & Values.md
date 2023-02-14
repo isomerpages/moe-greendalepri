@@ -6,7 +6,7 @@ description: ""
 ---
 ## **Vision, Mission & Values**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNxvmDY3rJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Greendale Primary" src="https://www.youtube.com/embed/qNxvmDY3rJA" height="470" width="836"></iframe>
 
 ### **Vision**
 An excellent community of learners anchored in values.
