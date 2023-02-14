@@ -1,0 +1,15 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language & Social Studies.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - Physical and Health Education.md
+      - Aesthetics.md
+      - Character & Citizenship Education.md
+      - Information and Communication Technology.md

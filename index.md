@@ -1,32 +1,18 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: Greendale Primary School
+description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Home Page/Homepage.jpg
+      key_highlights:
+        - title: Facebook
+          description: Our School Facebook
+          url: https://www.facebook.com/greendaleps
+        - title: Instagram
+          description: Our School Instagram
+          url: https://go.gov.sg/greendaleps-ig
 ---
-

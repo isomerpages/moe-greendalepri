@@ -1,0 +1,27 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Foreword.md
+      - Our School/.keep
+      - Our School/Vision, Mission & Values.md
+      - Our School/School Emblem and Motto.md
+      - Our School/School Anthem.md
+      - School EXCO.md
+      - School Rules.md
+      - School Services.md
+      - MOE Kindergarten @ Greendale.md
+      - Contact Us/.keep
+      - Contact Us/Contact Us.md
+      - Contact Us/Teacher Leaders.md
+      - Contact Us/Primary 1 Form Teachers.md
+      - Contact Us/Primary 2 Form Teachers.md
+      - Contact Us/Primary 3 Form Teachers.md
+      - Contact Us/Primary 4 Form Teachers.md
+      - Contact Us/Primary 5 Form Teachers.md
+      - Contact Us/Primary 6 Form Teachers.md
+      - Contact Us/Allied Educators.md
+      - Contact Us/Executive and Administrative Staff.md
+      - Contact Us/Support Staff.md
+      - Contact Us/MK @ Greendale.md
+      - Service Charter.md

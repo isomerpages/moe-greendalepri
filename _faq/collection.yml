@@ -1,0 +1,5 @@
+collections:
+  faq:
+    output: true
+    order:
+      - Frequently Asked Questions.md
