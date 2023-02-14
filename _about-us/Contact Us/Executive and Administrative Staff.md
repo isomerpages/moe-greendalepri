@@ -21,7 +21,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <th>ICT Manager</th>
-    <td>Mdm Zeenat Begum Binte Shamsuddin </td>
+    <td>Ms Zeenat Begum Binte Shamsuddin </td>
   </tr>
   <tr>
     <th rowspan="2">Administrative Executive</th>
