@@ -12,6 +12,10 @@ third_nav_title: Contact Us
     <th><br><br>Year Head</th>
     <td><br>Mdm Low Mun Chin (Mrs Chan)<br><br><a href="mailto:low_mun_chin@schools.gov.sg">low_mun_chin@schools.gov.sg</a></td>
   </tr>
+	<tr>
+    <th>  Assistant Year Head</th>
+    <td> Mdm Nazima Banu d/o Mashuthoo<br><br><a href="mailto:nazima_banu@schools.gov.sg">nazima_banu@schools.gov.sg</a>  </td>
+  </tr>
 </thead>
 </table>
 
