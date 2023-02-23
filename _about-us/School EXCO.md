@@ -17,7 +17,7 @@ description: ""
 <tbody>
   <tr>
     <th>Vice -Principal (EO)</th>
-    <td>Mr Terence Tan<br><a href="mailto:terence_tan@schools.gov.sg">terence_tan@schools.gov.sg</a><br></td>
+    <td>Ms Ms He Kangya<br><a href="mailto:he_kangya@schools.gov.sg">he_kangya@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <th>Vice -Principal (Admin)<br></th>
