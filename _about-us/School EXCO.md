@@ -44,10 +44,7 @@ description: ""
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <th>HOD Special Projects</th>
-    <td>Mr Ng Kian Woon<br><a href="mailto:Ng_Kian_Woon@schools.gov.sg">Ng_Kian_Woon@schools.gov.sg</a><br></td>
-  </tr>
+  
   <tr>
     <th> HOD ICT</th>
     <td> Ms Selvakkumari<br><a href="mailto:selvakkumari_veerasamy@schools.gov.sg">selvakkumari_veerasamy@schools.gov.sg</a></td>
