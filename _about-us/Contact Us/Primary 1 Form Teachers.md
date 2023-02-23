@@ -14,10 +14,7 @@ third_nav_title: Contact Us
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <th>  Assistant Year Head</th>
-    <td> Mdm Nazima Banu d/o Mashuthoo<br><br><a href="mailto:nazima_banu@schools.gov.sg">nazima_banu@schools.gov.sg</a>  </td>
-  </tr>
+  
 </tbody>
 </table>
 
