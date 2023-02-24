@@ -17,7 +17,7 @@ description: ""
 <tbody>
   <tr>
     <th>Vice -Principal (EO)</th>
-    <td>Mr Terence Tan<br><a href="mailto:terence_tan@schools.gov.sg">terence_tan@schools.gov.sg</a><br></td>
+    <td>Ms He Kangya<br><a href="mailto:he_kangya@schools.gov.sg">he_kangya@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <th>Vice -Principal (Admin)<br></th>
@@ -44,10 +44,7 @@ description: ""
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <th>HOD Special Projects</th>
-    <td>Mr Ng Kian Woon<br><a href="mailto:Ng_Kian_Woon@schools.gov.sg">Ng_Kian_Woon@schools.gov.sg</a><br></td>
-  </tr>
+  
   <tr>
     <th> HOD ICT</th>
     <td> Ms Selvakkumari<br><a href="mailto:selvakkumari_veerasamy@schools.gov.sg">selvakkumari_veerasamy@schools.gov.sg</a></td>
