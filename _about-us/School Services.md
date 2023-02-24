@@ -90,8 +90,8 @@ The dental clinic may be closed on certain days as the dental staff is away for 
 
 
 Parents may confirm the schedule with <br>
-			• Dental staff at Tel: **68861887** <br>
-			• School's General Office at Tel: **68861413** <br>
+			• Dental staff at Tel: **8522 8424** <br>
+			• School's General Office at Tel: **6886 1413** <br>
 
 ### <u>School Bookshop</u>
 ##### Pacific Bookstores Pte Ltd
