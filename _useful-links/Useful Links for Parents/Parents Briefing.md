@@ -9,6 +9,20 @@ third_nav_title: Useful Links for Parents
 <table>
 <thead>
   <tr>
+    <th colspan="2">Parents Briefing 2023</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Parents Math Briefing P5 & P6</td>
+    <td><a href="/files/Parents%20Briefing/P5P6 Parent's Briefing 2023.pdf">Click here to download</a></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
     <th colspan="2">Parents Briefing 2022</th>
   </tr>
 </thead>
