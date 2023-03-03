@@ -118,7 +118,7 @@ description: ""
   </tr>
 	<tr>
     <th>Assistant Year Head Lower Primary</th>
-    <td>Mdm Nazima Banu<br><a href="mailto:nazima_banu@schools.gov.sg">nazima_banu@schools.gov.sg</a></td>
+    <td>Mdm Nazima Banu d/o Mashuthoo<br><a href="mailto:nazima_banu@schools.gov.sg">nazima_banu@schools.gov.sg</a></td>
   </tr>
 	<tr>
     <th> Assistant Year Head Middle Primary</th>
