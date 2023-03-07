@@ -80,7 +80,7 @@ Thursday                    : **8.00am to 12.30pm**
 Friday                           : **8.00am to 12.00pm**<br>
 Lunch                           : **1.00pm to 2.00pm**
 
-[Click here to refer to the schedule for more details.](/files/Dental%20Schedule/FEB%202023%20SCHEDULE.pdf)
+[Click here to refer to the schedule for more details.](/files/Dental%20Schedule/DENTAL%20SCHEDULE%20MARCH%202023.pdf)
 
 **Note**
 
