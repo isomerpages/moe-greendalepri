@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Test Page.md
       - Principal's Foreword.md
       - Our School/.keep
       - Our School/Vision, Mission & Values.md
@@ -26,3 +25,4 @@ collections:
       - Contact Us/Support Staff.md
       - Contact Us/MK @ Greendale.md
       - Service Charter.md
+      - Test Page.md
