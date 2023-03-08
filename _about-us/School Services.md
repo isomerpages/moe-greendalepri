@@ -83,6 +83,15 @@ Closed on Sat, Sun and Public Holidays
 	</p>
 </div></li>  
 
+<li><input id="accordion4" type="checkbox">  
+<label for="accordion4">Sale of uniforms</label><div>  
+	<p><u>My Uniform Shop (ASIA) Pte Ltd</u>
+		<br><br>
+		<b>Retail Address:</b><br>
+209 New Upper Changi Road<br>
+#03-651 Singapore 460209
+	</p>  
+</div></li>  
 
 
 
