@@ -72,40 +72,19 @@ Lunch                           : **1.00pm to 2.00pm**
 </p>  
 </div></li>  
 
-
-### <u>Dental Service</u>
-
-  
-
-**Typical Opening Hours:**  
-
-  
-
-Monday to Wednesday : **8.00am to 5.30pm**<br>
-Thursday                    : **8.00am to 12.30pm**
-<br>
-Friday                           : **8.00am to 12.00pm**<br>
-Lunch                           : **1.00pm to 2.00pm**
-
-[Click here to refer to the schedule for more details.](/files/Dental%20Schedule/DENTAL%20SCHEDULE%20MARCH%202023.pdf)
-
-**Note**
-
-The dental clinic may be closed on certain days as the dental staff is away for meetings or stationed at other locations.
-
-  
-
-
-Parents may confirm the schedule with <br>
-			• Dental staff at Tel: **8522 8424** <br>
-			• School's General Office at Tel: **6886 1413** <br>
-
-### <u>School Bookshop</u>
-##### Pacific Bookstores Pte Ltd
-
-**Opening Hours:**<br>
-2.00pm to 3.00pm (Monday and Friday)<br>
+<li><input id="accordion3" type="checkbox">  
+<label for="accordion3">School Bookshop</label><div>  
+	<p><u>Pacific Bookstores Pte Ltd</u>
+	<br><br>
+		<b>Opening Hours:</b>
+		<br>
+		2.00pm to 3.00pm (Monday and Friday)<br>
 Closed on Sat, Sun and Public Holidays
+	</p>
+</div></li>  
+
+
+
 
 ### <u>Sale of uniforms</u>
 
