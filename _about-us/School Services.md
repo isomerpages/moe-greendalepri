@@ -61,6 +61,11 @@ Lunch                           : **1.00pm to 2.00pm**
 	<b>Note</b>
 	<br>
 	The dental clinic may be closed on certain days as the dental staff is away for meetings or stationed at other locations.
+	<br><br>
+	Parents may confirm the schedule with <br>
+
+	* Dental staff at Tel: 8522 8424
+	* School's General Office at Tel: 6886 1413
 </p>  
 </div></li>  
 
