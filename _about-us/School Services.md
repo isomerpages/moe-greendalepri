@@ -42,6 +42,7 @@ We will provide more information on the centre’s closure days by end of the ye
 	<u>SCC Contact</u>
 <br><br>
 	For assistance, please email us at [greendale@singaporeedusmart.com.sg](mailto:greendale@singaporeedusmart.com.sg)
+	
 </p>  
 </div></li> 
 
@@ -55,7 +56,8 @@ Thursday                    : **8.00am to 12.30pm**
 <br>
 Friday                           : **8.00am to 12.00pm**<br>
 Lunch                           : **1.00pm to 2.00pm**
-
+<br>
+	
 [Click here to refer to the schedule for more details.](/files/Dental%20Schedule/DENTAL%20SCHEDULE%20MARCH%202023.pdf)
 	<br><br>
 	<b>Note</b>
@@ -65,6 +67,7 @@ Lunch                           : **1.00pm to 2.00pm**
 	Parents may confirm the schedule with <br>
 
 	* Dental staff at Tel: 8522 8424
+	
 	* School's General Office at Tel: 6886 1413
 </p>  
 </div></li>  
