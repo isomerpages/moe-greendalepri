@@ -57,6 +57,10 @@ Friday                           : **8.00am to 12.00pm**<br>
 Lunch                           : **1.00pm to 2.00pm**
 
 [Click here to refer to the schedule for more details.](/files/Dental%20Schedule/DENTAL%20SCHEDULE%20MARCH%202023.pdf)
+	<br><br>
+	<b>Note</b>
+	<br>
+	The dental clinic may be closed on certain days as the dental staff is away for meetings or stationed at other locations.
 </p>  
 </div></li>  
 
