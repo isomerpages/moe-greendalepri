@@ -101,19 +101,6 @@ Please refer to their website for operating hours. [http://myuniformshop.com.sg]
 
 
 
-### <u>Sale of uniforms</u>
-
-##### My Uniform Shop (ASIA) Pte Ltd
-
-Retail Address:<br>
-209 New Upper Changi Road<br>
-#03-651 Singapore 460209
-
-Retail outlet contact no:<br>
-**62766689**
-
-Operating hours:<br>
-Please refer to their website for operating hours. [http://myuniformshop.com.sg](http://myuniformshop.com.sg)
 
 ### <u>School Bus Service</u>
 
