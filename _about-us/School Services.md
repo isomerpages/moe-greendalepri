@@ -28,9 +28,9 @@ Please refer to the website for [SCFA eligibility criteria](https://www.msf.gov
 <br><br>
 	<u>Operating Hours (Monday to Friday)</u>
 	<br><br>
-	School Term: **After School to 7.00 p.m.**<br>
-School Holidays: **7.30 a.m. to 7.00 p.m.**<br>
-The student care centre is **closed** on Saturdays, Sundays and gazetted public holidays.
+	School Term: <b>After School to 7.00 p.m.</b><br>
+	School Holidays: <b>7.30 a.m. to 7.00 p.m.</b><br><br>
+	The student care centre is <b>closed</b> on Saturdays, Sundays and gazetted public holidays.
 
 We will provide more information on the centre’s closure days by end of the year to confirmed SCC students.
 <br><br>
