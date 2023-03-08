@@ -30,19 +30,27 @@ Please refer to the website for [SCFA eligibility criteria](https://www.msf.gov
 	Due to limited capacity, interested 2023 P1 parents need to register their interest via the [2023 P1 Registration of Interest link](https://zfrmz.com/mQuMnl2rDhgfLWSqCDFK) **by Friday, 4 November 2022**.
 
 We will inform all successful applications via email by **18 November 2022**.  All successful applicants will need to complete their registration and payment by **end November 2022**.
+<br><br>
+	<u>Operating Hours (Monday to Friday)</u>
+	<br><br>
+	School Term: **After School to 7.00 p.m.**<br>
+School Holidays: **7.30 a.m. to 7.00 p.m.**<br>
+The student care centre is **closed** on Saturdays, Sundays and gazetted public holidays.
 
+We will provide more information on the centre’s closure days by end of the year to confirmed SCC students.
+<br><br>
+	<u>SCC Contact</u>
+<br><br>
+	For assistance, please email us at [greendale@singaporeedusmart.com.sg](mailto:greendale@singaporeedusmart.com.sg)
 </p>  
 </div></li> 
 
-	
-	
+
 ### <u>Student Care Centre (SCC)</u>
 
 **<u>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</u>**
 
 Greendale Primary School’s student care centre (SCC) started on 3 January 2012. With effect from 1 Jan 2023, the SCC will be operated by Singapore EduSmart Learning Hub ( EduSmart ). EduSmart is established in 2012, and serves more than 1,000 children across several Singapore schools.  
-
-  
 
 The SCC programme aims to provide an environment for children that caters to their developmental needs through a holistic mix of character development, enrichment and outdoor activities.  There is also supervised study time to complement the school’s teaching.
 
