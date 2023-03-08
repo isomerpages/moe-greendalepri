@@ -45,11 +45,11 @@ We will provide more information on the centre’s closure days by end of the ye
 <p>
 	<u>Typical Opening Hours:</u>
 	<br><br>
-	Monday to Wednesday : **8.00am to 5.30pm**<br>
-Thursday                    : **8.00am to 12.30pm**
+	Monday to Wednesday : <b>8.00am to 5.30pm</b><br>
+	Thursday                    : <b>8.00am to 12.30pm</b>
 <br>
-Friday                           : **8.00am to 12.00pm**<br>
-Lunch                           : **1.00pm to 2.00pm**
+	Friday                           : <b>8.00am to 12.00pm</b><br>
+	Lunch                           : <b>1.00pm to 2.00pm</b>
 <br>
 	
 [Click here to refer to the schedule for more details.](/files/Dental%20Schedule/DENTAL%20SCHEDULE%20MARCH%202023.pdf)
