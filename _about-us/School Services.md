@@ -16,12 +16,12 @@ The SCC programme aims to provide an environment for children that caters to the
 	<u>Monthly SCC fees</u>
 	<br><br>
 	The monthly SCC fees in 2023 is <b>$235</b>.  1 month deposit and other miscellaneous fees will also be needed to be paid.   <br><br>
-We will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF).  
+We will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF). 
 <br><br>
 Please refer to the website for [SCFA eligibility criteria](https://www.msf.gov.sg/Comcare/Pages/ComCare-Student-Care-Subsidies.aspx)
 	<br><br>
 	<u>2023 P1 Registration of Interest for EduSmart SCC services</u>
-	<br><br>Due to limited capacity, interested 2023 P1 parents need to register their interest via the [2023 P1 Registration of Interest link](https://zfrmz.com/mQuMnl2rDhgfLWSqCDFK) <b>by Friday, 4 November 2022.</b>
+	<br><br>Due to limited capacity, interested 2023 P1 parents need to register their interest via the <a href="https://zfrmz.com/mQuMnl2rDhgfLWSqCDFK">2023 P1 Registration of Interest link</a> <b>by Friday, 4 November 2022.</b>
 <br><br>We will inform all successful applications via email by <b>18 November 2022</b>.  All successful applicants will need to complete their registration and payment by <b>end November 2022.</b>
 <br><br>
 	<u>Operating Hours (Monday to Friday)</u>
@@ -33,7 +33,7 @@ Please refer to the website for [SCFA eligibility criteria](https://www.msf.gov
 We will provide more information on the centre’s closure days by end of the year to confirmed SCC students.
 <br><br>
 	<u>SCC Contact</u>
-<br><br>For assistance, please email us at [greendale@singaporeedusmart.com.sg](mailto:greendale@singaporeedusmart.com.sg)
+<br><br>For assistance, please email us at <a href="mailto:greendale@singaporeedusmart.com.sg">greendale@singaporeedusmart.com.sg</a>
 </p>  
 </div></li> 
 
@@ -49,7 +49,7 @@ We will provide more information on the centre’s closure days by end of the ye
 	Lunch                           : <b>1.00pm to 2.00pm</b>
 <br>
 	
-[Click here to refer to the schedule for more details.](/files/Dental%20Schedule/DENTAL%20SCHEDULE%20MARCH%202023.pdf)
+<a href="/files/Dental%20Schedule/DENTAL%20SCHEDULE%20MARCH%202023.pdf" target="_blank">Click here to refer to the schedule for more details.</a>
 	<br><br>
 	<b>Note</b>
 	<br>
@@ -85,7 +85,7 @@ Closed on Sat, Sun and Public Holidays
 		<br><br>
 		<b>Operating hours:</b><br>
 		
-Please refer to their website for operating hours. [http://myuniformshop.com.sg](http://myuniformshop.com.sg)
+Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg">http://myuniformshop.com.sg</a>
 	</p>  
 </div></li>  
 
@@ -95,8 +95,8 @@ Please refer to their website for operating hours. [http://myuniformshop.com.sg]
 		<br><br>
 The school's appointed daily school bus vendor is SFX Transport Services.
 
-With effect from 1 January 2023, the not-to-exceed prices for the school bus fares are found in the table below.  Parents who are interested to register for daily school bus services in 2023 can do so online via [gps.sfxtransport.com.sg](http://gps.sfxtransport.com.sg/) by 25 November 2022.  For successful registrations received after the deadline of 25 November 2022, arrangements will be made for the students to commence the bus services from 16th January 2023 onwards unless otherwise stated. <br><br>
-		![Fee Table](/images/About%20Us/School%20Bus%20Fees%20Table.jpg)
+With effect from 1 January 2023, the not-to-exceed prices for the school bus fares are found in the table below.  Parents who are interested to register for daily school bus services in 2023 can do so online via <a href="http://gps.sfxtransport.com.sg/">gps.sfxtransport.com.sg</a> by 25 November 2022.  For successful registrations received after the deadline of 25 November 2022, arrangements will be made for the students to commence the bus services from 16th January 2023 onwards unless otherwise stated. <br><br>
+<img src="/images/About%20Us/School%20Bus%20Fees%20Table.jpg" alt="Fee Table">
 
 For enquiries please contact Ms Judy (SFX Transport) at 8800 0262 / 6282 0262.
 	</p>  
