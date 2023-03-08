@@ -21,10 +21,8 @@ We will assist eligible parents to apply for Student Care Financial Assistance, 
 Please refer to the website for [SCFA eligibility criteria](https://www.msf.gov.sg/Comcare/Pages/ComCare-Student-Care-Subsidies.aspx)
 	<br><br>
 	<u>2023 P1 Registration of Interest for EduSmart SCC services</u>
-	<br><br>
-	Due to limited capacity, interested 2023 P1 parents need to register their interest via the [2023 P1 Registration of Interest link](https://zfrmz.com/mQuMnl2rDhgfLWSqCDFK) <b>by Friday, 4 November 2022.</b>
-<br><br>
-	We will inform all successful applications via email by <b>18 November 2022</b>.  All successful applicants will need to complete their registration and payment by <b>end November 2022.</b>
+	<br><br>Due to limited capacity, interested 2023 P1 parents need to register their interest via the [2023 P1 Registration of Interest link](https://zfrmz.com/mQuMnl2rDhgfLWSqCDFK) <b>by Friday, 4 November 2022.</b>
+<br><br>We will inform all successful applications via email by <b>18 November 2022</b>.  All successful applicants will need to complete their registration and payment by <b>end November 2022.</b>
 <br><br>
 	<u>Operating Hours (Monday to Friday)</u>
 	<br><br>
@@ -35,8 +33,7 @@ Please refer to the website for [SCFA eligibility criteria](https://www.msf.gov
 We will provide more information on the centre’s closure days by end of the year to confirmed SCC students.
 <br><br>
 	<u>SCC Contact</u>
-<br><br>
-	For assistance, please email us at [greendale@singaporeedusmart.com.sg](mailto:greendale@singaporeedusmart.com.sg)
+<br><br>For assistance, please email us at [greendale@singaporeedusmart.com.sg](mailto:greendale@singaporeedusmart.com.sg)
 </p>  
 </div></li> 
 
