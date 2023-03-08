@@ -15,14 +15,9 @@ The SCC programme aims to provide an environment for children that caters to the
 	<br><br>
 	<u>Monthly SCC fees</u>
 	<br><br>
-	The monthly SCC fees in 2023 is **$235**.  1 month deposit and other miscellaneous fees will also be needed to be paid.   
-
-  
-
+	The monthly SCC fees in 2023 is <b>$235</b>.  1 month deposit and other miscellaneous fees will also be needed to be paid.   <br><br>
 We will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF).  
-
-  
-
+<br><br>
 Please refer to the website for [SCFA eligibility criteria](https://www.msf.gov.sg/Comcare/Pages/ComCare-Student-Care-Subsidies.aspx)
 	<br><br>
 	<u>2023 P1 Registration of Interest for EduSmart SCC services</u>
