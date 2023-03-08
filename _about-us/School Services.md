@@ -5,9 +5,39 @@ description: ""
 ---
 ## **School Services**
 
+<ul class="jekyllcodex_accordion">
+<li><input id="accordion1" type="checkbox">  
+<label for="accordion1">Student Care Centre (SCC)</label><div>  
+<p><u>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</u> 
+	<br><br>Greendale Primary School’s student care centre (SCC) started on 3 January 2012. With effect from 1 Jan 2023, the SCC will be operated by Singapore EduSmart Learning Hub ( EduSmart ). EduSmart is established in 2012, and serves more than 1,000 children across several Singapore schools.  
+
+The SCC programme aims to provide an environment for children that caters to their developmental needs through a holistic mix of character development, enrichment and outdoor activities.  There is also supervised study time to complement the school’s teaching.
+	<br><br>
+	<u>Monthly SCC fees</u>
+	<br><br>
+	The monthly SCC fees in 2023 is **$235**.  1 month deposit and other miscellaneous fees will also be needed to be paid.   
+
+  
+
+We will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF).  
+
+  
+
+Please refer to the website for [SCFA eligibility criteria](https://www.msf.gov.sg/Comcare/Pages/ComCare-Student-Care-Subsidies.aspx)
+	<br><br>
+	<u>2023 P1 Registration of Interest for EduSmart SCC services</u>
+	<br><br>
+	Due to limited capacity, interested 2023 P1 parents need to register their interest via the [2023 P1 Registration of Interest link](https://zfrmz.com/mQuMnl2rDhgfLWSqCDFK) **by Friday, 4 November 2022**.
+
+We will inform all successful applications via email by **18 November 2022**.  All successful applicants will need to complete their registration and payment by **end November 2022**.
+
+</p>  
+</div></li> 
+
+	
+	
 ### <u>Student Care Centre (SCC)</u>
 
- 
 **<u>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</u>**
 
 Greendale Primary School’s student care centre (SCC) started on 3 January 2012. With effect from 1 Jan 2023, the SCC will be operated by Singapore EduSmart Learning Hub ( EduSmart ). EduSmart is established in 2012, and serves more than 1,000 children across several Singapore schools.  
