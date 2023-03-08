@@ -90,6 +90,12 @@ Closed on Sat, Sun and Public Holidays
 		<b>Retail Address:</b><br>
 209 New Upper Changi Road<br>
 #03-651 Singapore 460209
+		<br><br>
+		<b>Retail outlet contact no:</b> 62766689
+		<br><br>
+		<b>Operating hours:</b><br>
+		
+Please refer to their website for operating hours. [http://myuniformshop.com.sg](http://myuniformshop.com.sg)
 	</p>  
 </div></li>  
 
