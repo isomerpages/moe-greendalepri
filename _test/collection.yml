@@ -1,6 +1,0 @@
-collections:
-  test:
-    output: true
-    order:
-      - test2.md
-      - test1.md

@@ -5,8 +5,7 @@ description: ""
 ---
 ## **MOE Kindergarten @ Greendale**
 
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="MOE Kindergarten @ Greendale Open House" src="https://www.youtube.com/embed/VKpdeLrymgU" height="426" width="759"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="MOE Kindergarten @ Greendale Open House" src="https://www.youtube.com/embed/oKRiVun9jc0" height="426" width="759"></iframe>
 
 A well-designed curriculum that enables children to learn actively through play. The learning environment is designed to enable enactment of the curriculum safely.  
   
