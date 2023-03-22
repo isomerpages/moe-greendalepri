@@ -4,7 +4,8 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Register your interest for our Open House today at
+  https://go.gov.sg/gdpsopenhouse23
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
