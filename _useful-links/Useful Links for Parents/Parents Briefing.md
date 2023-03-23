@@ -17,6 +17,10 @@ third_nav_title: Useful Links for Parents
     <td>Parents Math Briefing P5 & P6</td>
     <td><a href="/files/Parents%20Briefing/P5P6 Parent's Briefing 2023.pdf">Click here to download</a></td>
   </tr>
+<td>Parents EL Briefing for P3 & P4</td>
+    <td><a href="/files/Parents%20Briefing/Parents EL Briefing for P3 & P4 2023.pdf">Click here to download</a></td>
+  </tr>
+	
 </tbody>
 </table>
 <br>
