@@ -48,4 +48,4 @@ SBS 3, 62, 83, 381, 386
 Take the North East Line northwards, alight at Punggol MRT station. Then, take the LRT and alight at Coral Edge LRT station.
 
 
-<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7977.254552538543!2d103.913058!3d1.400025!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc415722e601f6098!2sMOE%20Kindergarten%20%40%20Horizon!5e0!3m2!1sen!2ssg!4v1671160169301!5m2!1sen!2ssg"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.633655418904!2d103.91053371379255!3d1.3962705618158493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da17d0aae67213%3A0x83f68f9c36751b78!2sGreendale%20Primary%20School!5e0!3m2!1sen!2ssg!4v1679624741605!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
