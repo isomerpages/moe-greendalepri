@@ -2,7 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - Triple P (Positive Parenting Program).md
       - Greendale Primary School Open House 2023.md
+      - Triple P (Positive Parenting Program).md
       - Inspiring Teacher of English Award.md
       - Cycling to School.md
