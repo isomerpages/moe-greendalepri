@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Distinguished Chinese Language Teachers Awards 2023.md
       - Greendale Primary School Open House 2023.md
       - Triple P (Positive Parenting Program).md
       - Inspiring Teacher of English Award.md
