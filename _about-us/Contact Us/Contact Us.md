@@ -4,8 +4,6 @@ permalink: /about-us/contact-us/
 description: ""
 third_nav_title: Contact Us
 ---
-![](/images/About%20Us/subbanner2.jpg)
-
 ## **Contact Us**
 
 
