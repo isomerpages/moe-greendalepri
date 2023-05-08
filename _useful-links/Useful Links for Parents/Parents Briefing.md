@@ -5,7 +5,20 @@ description: ""
 third_nav_title: Useful Links for Parents
 ---
 ## **Parents Briefing**
-
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Direct School Admission 2023</th>
+  </tr>
+</thead>
+<tbody>
+	<tr>
+    <td>DSA 2023</td>
+    <td><a href="/files/Parents%20Briefing/dsa%20sec%202023.pdf">Click here to download</a></td>
+  </tr>
+</tbody>
+</table>
+<br>
 <table>
 <thead>
   <tr>
