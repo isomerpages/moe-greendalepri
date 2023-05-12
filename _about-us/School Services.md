@@ -9,31 +9,31 @@ description: ""
 <li><input id="accordion1" type="checkbox">  
 <label for="accordion1">Student Care Centre (SCC)</label><div>  
 <p><u>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</u> 
-	<br><br>Greendale Primary School’s student care centre (SCC) started on 3 January 2012. With effect from 1 Jan 2023, the SCC will be operated by Singapore EduSmart Learning Hub ( EduSmart ). EduSmart is established in 2012, and serves more than 1,000 children across several Singapore schools.  
+	<br><br>Greendale Primary School’s student care centre (SCC) started on 3 January 2012.&nbsp;With effect from 1 Jan 2023, the SCC will be operated by Singapore EduSmart Learning Hub ( EduSmart ). EduSmart is established in 2012, and serves more than 1,000 children across several Singapore schools.&nbsp;&nbsp;
 
-The SCC programme aims to provide an environment for children that caters to their developmental needs through a holistic mix of character development, enrichment and outdoor activities.  There is also supervised study time to complement the school’s teaching.
+The SCC programme aims to provide an environment for children that caters to their developmental needs through a holistic mix of character development, enrichment and outdoor activities.&nbsp; There is also supervised study time to complement the school’s teaching.
 	<br><br>
 	<u>Monthly SCC fees</u>
 	<br><br>
-	The monthly SCC fees in 2023 is <b>$235</b>.  1 month deposit and other miscellaneous fees will also be needed to be paid.   <br><br>
-We will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF). 
+	The monthly SCC fees in 2023 is&nbsp;<b>$235</b>.&nbsp; 1 month deposit and other miscellaneous fees will also be needed to be paid.&nbsp;  <br><br>
+We will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF).&nbsp;
 <br><br>
-Please refer to the website for [SCFA eligibility criteria](https://www.msf.gov.sg/Comcare/Pages/ComCare-Student-Care-Subsidies.aspx)
+Please refer to the website for&nbsp;[SCFA eligibility criteria](https://www.msf.gov.sg/Comcare/Pages/ComCare-Student-Care-Subsidies.aspx)
 	<br><br>
 	<u>2023 P1 Registration of Interest for EduSmart SCC services</u>
-	<br><br>Due to limited capacity, interested 2023 P1 parents need to register their interest via the <a href="https://zfrmz.com/mQuMnl2rDhgfLWSqCDFK">2023 P1 Registration of Interest link</a> <b>by Friday, 4 November 2022.</b>
-<br><br>We will inform all successful applications via email by <b>18 November 2022</b>.  All successful applicants will need to complete their registration and payment by <b>end November 2022.</b>
+	<br><br>Due to limited capacity, interested 2023 P1 parents need to register their interest via the&nbsp;<a href="https://zfrmz.com/mQuMnl2rDhgfLWSqCDFK">2023 P1 Registration of Interest link</a>&nbsp;<b>by Friday, 4 November 2022.</b>
+<br><br>We will inform all successful applications via email by&nbsp;<b>18 November 2022</b>.&nbsp; All successful applicants will need to complete their registration and payment by&nbsp;<b>end November 2022.</b>
 <br><br>
 	<u>Operating Hours (Monday to Friday)</u>
 	<br><br>
-	School Term: <b>After School to 7.00 p.m.</b><br>
-	School Holidays: <b>7.30 a.m. to 7.00 p.m.</b><br><br>
-	The student care centre is <b>closed</b> on Saturdays, Sundays and gazetted public holidays.
+	School Term:&nbsp;<b>After School to 7.00 p.m.</b><br>
+	School Holidays:&nbsp;<b>7.30 a.m. to 7.00 p.m.</b><br><br>
+	The student care centre is&nbsp;<b>closed</b>&nbsp;on Saturdays, Sundays and gazetted public holidays.
 	<br><br>
 We will provide more information on the centre’s closure days by end of the year to confirmed SCC students.
 <br><br>
 	<u>SCC Contact</u>
-<br><br>For assistance, please email us at <a href="mailto:greendale@singaporeedusmart.com.sg">greendale@singaporeedusmart.com.sg</a>
+<br><br>For assistance, please email us at&nbsp;<a href="mailto:greendale@singaporeedusmart.com.sg">greendale@singaporeedusmart.com.sg</a>
 </p>  
 </div></li> 
 
@@ -42,14 +42,14 @@ We will provide more information on the centre’s closure days by end of the ye
 <p>
 	<u>Typical Opening Hours:</u>
 	<br><br>
-	Monday to Wednesday : <b>8.00am to 5.30pm</b><br>
-	Thursday                    : <b>8.00am to 12.30pm</b>
+	Monday to Wednesday :&nbsp;<b>8.00am to 5.30pm</b><br>
+	Thursday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : <b>8.00am to 12.30pm</b>
 <br>
-	Friday                           : <b>8.00am to 12.00pm</b><br>
-	Lunch                           : <b>1.00pm to 2.00pm</b>
+	Friday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;<b>8.00am to 12.00pm</b><br>
+	Lunch&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;<b>1.00pm to 2.00pm</b>
 <br>
 	
-<a href="/files/Dental%20Schedule/DENTAL%20SCHEDULE%20MARCH%202023.pdf" target="_blank">Click here to refer to the schedule for more details.</a>
+<a href="/files/Dental%20Schedule/dental%20schedule%20may%202023.pdf" target="_blank">Click here to refer to the schedule for more details.</a>
 	<br><br>
 	<b>Note</b>
 	<br>
@@ -95,9 +95,9 @@ Please refer to their website for operating hours. <a href="http://myuniformshop
 		<br><br>
 The school's appointed daily school bus vendor is SFX Transport Services.
 
-With effect from 1 January 2023, the not-to-exceed prices for the school bus fares are found in the table below.  Parents who are interested to register for daily school bus services in 2023 can do so online via <a href="http://gps.sfxtransport.com.sg/">gps.sfxtransport.com.sg</a> by 25 November 2022.  For successful registrations received after the deadline of 25 November 2022, arrangements will be made for the students to commence the bus services from 16th January 2023 onwards unless otherwise stated. <br><br>
+With effect from 1 January 2023, the not-to-exceed prices for the school bus fares are found in the table below.&nbsp; Parents who are interested to register for daily school bus services in 2023 can do so online via&nbsp;<a href="http://gps.sfxtransport.com.sg/">gps.sfxtransport.com.sg</a>&nbsp;by 25 November 2022.&nbsp; For successful registrations received after the deadline of 25 November 2022, arrangements will be made for the students to commence the bus services from 16th January 2023 onwards unless otherwise stated. <br><br>
 <img src="/images/About%20Us/School%20Bus%20Fees%20Table.jpg" alt="Fee Table">
 
 For enquiries please contact Ms Judy (SFX Transport) at 8800 0262 / 6282 0262.
 	</p>  
-</div></li>
+</div></li></ul>
