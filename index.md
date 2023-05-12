@@ -17,7 +17,8 @@ sections:
           description: Our School Instagram
           url: https://go.gov.sg/greendaleps-ig
   - infobar:
-      title: Open House 2023
+      title: "Open House "
       button: to download e-brochure
       url: /announcements/gdps-open-house-2023/
+      description: 24 June 2023, Saturday
 ---
