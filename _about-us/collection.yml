@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Principal's Foreword.md
-      - Our School/School Brochure.md
       - Our School/.keep
       - Our School/Vision, Mission & Values.md
       - Our School/School Emblem and Motto.md
       - Our School/School Anthem.md
+      - Our School/School Brochure.md
       - School EXCO.md
       - School Rules.md
       - School Services.md
