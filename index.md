@@ -19,5 +19,5 @@ sections:
   - infobar:
       title: Latest School Brochure
       button: View Brochure
-      url: /announcements/gdps-open-house-2023/
+      url: /about-us/our-school/school-brochure/
 ---
