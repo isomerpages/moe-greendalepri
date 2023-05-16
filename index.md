@@ -16,4 +16,8 @@ sections:
         - title: Instagram
           description: Our School Instagram
           url: https://go.gov.sg/greendaleps-ig
+  - infobar:
+      title: Latest School Brochure
+      button: View Brochure
+      url: /about-us/our-school/school-brochure/
 ---
