@@ -54,9 +54,9 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>Administrative Executive </td>
-    <td>Mdm Hasnah Binti Bakar<br><br><a href="mailto:Hasnah_bakar@schools.gov.sg">Hasnah_bakar@schools.gov.sg</a> </td>
+    <td>Mdm Hasnah Binti Bakar<br><a href="mailto:Hasnah_bakar@schools.gov.sg">Hasnah_bakar@schools.gov.sg</a> </td>
   </tr>
 </tbody>
 </table>
 
-Teachers can be reached at [mk\_greendale@moe.edu.sg](mailto:mk_greendale@moe.edu.sg)
+Teachers can be reached at&nbsp;[mk\_greendale@moe.edu.sg](mailto:mk_greendale@moe.edu.sg)
