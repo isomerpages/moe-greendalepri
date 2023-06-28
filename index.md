@@ -4,8 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Register your interest for our Open House today at
-  https://go.gov.sg/gdpsopenhouse23
+notification: Closure of General Office on Mon, 3 July 2023
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
