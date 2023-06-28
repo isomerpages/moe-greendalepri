@@ -50,6 +50,10 @@ third_nav_title: Useful Links for Parents
 <td>Parents CL Briefing for P1 &amp; P2</td>
     <td><a href="/files/Parents%20Briefing/Parents CL Briefing for P1 &amp; P2 2023.pdf">Click here to download</a></td>
   </tr>
+	<tr>
+<td>Parents ML Briefing for P1 &amp; P2</td>
+    <td><a href="/files/Parents%20Briefing/parents%20ml%20briefing%20for%20p1%20&amp;%20p2%202023.pdf">Click here to download</a></td>
+  </tr>
 </tbody>
 </table>
 <br>
