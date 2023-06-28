@@ -68,7 +68,8 @@ We will provide more information on the centre’s closure days by end of the ye
 	<br><br>
 		<b>Opening Hours:</b>
 		<br>
-		2.00pm to 3.00pm (Monday and Friday)<br>
+		Monday: 8:30am to 3.00pm<br>
+		Tuesday to Friday: 8:30am to 3.30pm<br>
 Closed on Sat, Sun and Public Holidays
 	</p>
 </div></li>  
