@@ -2,6 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Call for proposal for school bus services.md
+      - Call for Proposal for School Bus Services.md
       - Triple P (Positive Parenting Program).md
       - Cycling to School.md
