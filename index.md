@@ -4,8 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: The General Office in Greendale Primary School and MK@Greendale
-  will be closed on 3 July 2023 (Mon)
+notification: Call for Proposals for School Bus Services by 17 July 2023
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
