@@ -21,4 +21,4 @@ Contact Person: Ms Joyce Chan (VPA)
 
 **How to get there?** <br>
 Nearest LRT: Coral Edge LRT (Punggol) - 10 minutes walking distance. <br>
-Bus number: 3, 62, 83, 381, 386 - 3 minutes
+Bus number: 3, 62, 83, 381, 386 - 3 minutes walking distance.
