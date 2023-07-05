@@ -12,7 +12,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Application Procedure**
 
 1. Complete the [Call for Proposal - Annex A](/files/Forms/gdps%20attachment%202%20call%20for%20proposal%20-%20annex%20a%20(version%20june%202023).pdf)
-2. Submit the completed Call for Proposal – Annex A by closing date, **17 July 2023 before 5pm**, to the School’s General Office or via email.
+2. Submit the completed Call for Proposal – Annex A by closing date, **17 July 2023 before 5pm**, to the School’s General Office.
 
 Address: No 50 Edgedale Plains, S828848 <br>
 Contact: 68861413 <br>
