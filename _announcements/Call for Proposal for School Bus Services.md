@@ -15,7 +15,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 2. Submit the completed Call for Proposal – Annex A by closing date, **17 July 2023 before 5pm**, to the School’s General Office.
 
 Address: No. 50 Edgedale Plains, S828848 <br>
-Contact: 68861413 <br>
+Contact: 6886 1413 <br>
 Email: joyce_chan@schools.gov.sg <br>
 Contact Person: Ms Joyce Chan (VPA)
 
