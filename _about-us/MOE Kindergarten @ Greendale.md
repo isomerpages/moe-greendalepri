@@ -20,8 +20,7 @@ For more information on our curriculum:&nbsp;[https://www.moe.gov.sg/preschool/m
 We offer 4-hour Kindergarten 1 and Kindergarten 2 programmes with the following options:
 
 
-<img src="/images/About%20Us/MK%20Programme.jpg"  
-     style="width:70%">
+<img src="/images/About%20Us/MK%20Programme.jpg" style="width:70%">
 
 
 In addition, we offer 3 mother-tongue languages; Chinese Language, Malay Language and Tamil Language.  
@@ -50,5 +49,5 @@ Jeep Sing Uniform and Beau Voix are the suppliers for the MOE Kindergarten unifo
 ##### **KCare Services at MOE Kindergarten@Greendale**  
   
 
-Our KCare services are provided by Little Professors Learning Centre.&nbsp;<br>
+Our KCare services are provided by Singapore EduSmart Learning Hub.&nbsp;<br>
 Operating hours: 7am – 7pm
