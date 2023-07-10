@@ -49,7 +49,7 @@ We will provide more information on the centre’s closure days by end of the ye
 	Lunch&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;<b>1.00pm to 2.00pm</b>
 <br>
 	
-<a href="/files/Dental%20Schedule/dental%20schedule%20may%202023.pdf" target="_blank">Click here to refer to the schedule for more details.</a>
+<a href="/files/Dental%20Schedule/dental%20schedule%20jul%202023.pdf" target="_blank">Click here to refer to the schedule for more details.</a>
 	<br><br>
 	<b>Note</b>
 	<br>
