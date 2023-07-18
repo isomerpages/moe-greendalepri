@@ -71,11 +71,9 @@ Some of our programmes include personal enrichment, adventure training and commu
 
 The highlight event for the first half of 2015 was the Enrolment Service in March. The girls joined the Boys’ Brigade pupils to put up a song item to all the guests. Another highlight is the end of the term Games Day in which they played water games and laser tag.
 
-<img src="/images/CCA/Girls%20Brigade/GB%203.jpg"  
-     style="width:65%">
+<img src="/images/CCA/Girls%20Brigade/GB%203.jpg" style="width:65%">
 
-<img src="/images/CCA/Girls%20Brigade/GB%204.jpg"  
-     style="width:65%">
+<img src="/images/CCA/Girls%20Brigade/GB%204.jpg" style="width:65%">
 
 
 <table>
@@ -89,7 +87,7 @@ The highlight event for the first half of 2015 was the Enrolment Service in Marc
 </thead>
 <tbody>
   <tr>
-    <td>Ms Geetha Christina - I/C<br>Mrs April Choo<br>Mdm Chew Boon Ping Janice<br>Ms Kua En Na</td>
+    <td>Mdm Chew Boon Ping Janice<br>Ms Kua En Na</td>
     <td>Friday<br></td>
     <td>2.00 - 4.00 pm<br></td>
     <td>CCA Room 2,<br>Teaching Lab<br>(New Block Level 4/5)</td>
