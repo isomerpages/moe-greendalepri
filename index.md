@@ -4,7 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Call for Proposals for School Bus Services by 17 July 2023
+notification: ""
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
