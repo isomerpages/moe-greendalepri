@@ -101,8 +101,7 @@ With effect from 1 January 2023, the not-to-exceed prices for the school bus far
 <img src="/images/About%20Us/School%20Bus%20Fees%20Table.jpg" alt="Fee Table">
 
 
-The school has recently appointed SFX Transport Services to provide school bus services from Year 2024 to Year 2025.
-<br><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" target="_blank"> Click here to refer to the new bus fares.</a>
-<br>Information on how to register your interest for Year 2024 will be available in September.
-	</p>  
-</div></li></ul>
+The school has recently appointed SFX Transport Services to provide school bus services from Year 2024 to Year 2025. The new bus fares are found in the attachment.
+<br><br>Information on how to register your interest for Year 2024 will be available in September.
+<br><br><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" target="_blank"> Click here to refer to the new bus fares.</a>
+</p></div></li></ul>
