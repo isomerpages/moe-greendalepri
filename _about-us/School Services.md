@@ -96,9 +96,13 @@ Please refer to their website for operating hours. <a href="http://myuniformshop
 		<br><br>
 The school's appointed daily school bus vendor is SFX Transport Services.
 
-With effect from 1 January 2023, the not-to-exceed prices for the school bus fares are found in the table below.&nbsp; Parents who are interested to register for daily school bus services in 2023 can do so online via&nbsp;<a href="http://gps.sfxtransport.com.sg/">gps.sfxtransport.com.sg</a>&nbsp;by 25 November 2022.&nbsp; For successful registrations received after the deadline of 25 November 2022, arrangements will be made for the students to commence the bus services from 16th January 2023 onwards unless otherwise stated. <br><br>
+With effect from 1 January 2023, the not-to-exceed prices for the school bus fares are found in the table below.&nbsp; 
+<br><br>
 <img src="/images/About%20Us/School%20Bus%20Fees%20Table.jpg" alt="Fee Table">
 
-For enquiries please contact Ms Judy (SFX Transport) at 8800 0262 / 6282 0262.
+
+The school has recently appointed SFX Transport Services to provide school bus services from Year 2024 to Year 2025.
+<br><a href="/files/Dental%20Schedule/dental%20schedule%20july%202023.pdf" target="_blank"> Click here to refer to the new bus fares.</a>
+<br>Information on how to register your interest for Year 2024 will be available in September.
 	</p>  
 </div></li></ul>
