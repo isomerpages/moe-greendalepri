@@ -10,17 +10,14 @@ third_nav_title: Contact Us
 <thead>
   <tr>
     <th rowspan="14"><br><br><br><br><br><br><br><br>Senior Teachers</th>
-    <th >English Language</th>
+    <th>English Language</th>
     <th>Mdm Sabrina Osman<br><br><a href="mailto:sabrina_mohamed_osman@schools.gov.sg">sabrina_mohamed_osman@schools.gov.sg</a>
 		<br><br>Mdm Hamida Binte Abdul Razak <a href="mailto:hamidah_abdul_razak@schools.gov.sg"><br><br>hamidah_abdul_razak@schools.gov.sg</a></th>
 	
   </tr>
   <tr>
   </tr>
-  <tr>
-    <th> Chinese Language</th>
-    <th>Mdm Dong Baohong<br><br><a href="mailto:Dong_baohong@schools.gov.sg">Dong_baohong@schools.gov.sg  </a></th>
-  </tr>
+ 
   <tr>
   </tr>
   <tr>
