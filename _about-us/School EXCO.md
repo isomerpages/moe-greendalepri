@@ -75,6 +75,10 @@ description: ""
     <td>Mdm Lily Chan<br><a href="mailto:lily_chan@schools.gov.sg">lily_chan@schools.gov.sg</a></td>
   </tr>
 	<tr>
+    <th> Level Head Mathematics</th>
+    <td> Ms Lim Mei Ling Helen<br><a href="mailto:Lim_Mei_Ling_Helen@schools.gov.sg">Lim_Mei_Ling_Helen@schools.gov.sg</a></td>
+  </tr>
+	<tr>
     <th> HOD Science</th>
     <td> Ms Caelyn Lim<br><a href="mailto:caelyn_whyndee_lim@schools.gov.sg">caelyn_whyndee_lim@schools.gov.sg</a></td>
   </tr>
@@ -83,7 +87,7 @@ description: ""
     <td>Mr Mohan Krishnamoorthy<br><a href="mailto:mohan_krishnamoorthy@schools.gov.sg">mohan_krishnamoorthy@schools.gov.sg</a></td>
   </tr>
 		<tr>
-    <th>HOD PE & CCA</th>
+    <th>HOD PE &amp; CCA</th>
     <td>Mr Ng Kian Woon<br><a href="mailto:ng_kian_woon@schools.gov.sg">ng_kian_woon@schools.gov.sg</a></td>
   </tr>
 		<tr>
