@@ -28,6 +28,21 @@ third_nav_title: Contact Us
     <td>English Language Teacher </td>
     <td>Ms Qudsia Binte Juwanda </td>
   </tr>
+	 <tr>
+    <td>English Language Teacher </td>
+    <td>Ms Nurul Fatin Binte Hassan </td>
+  </tr>
+    <tr><td>English Language Teacher </td>
+    <td>Ms Ong Rui Ying Rachel </td>
+  </tr>
+	 <tr>
+    <td>English Language Teacher </td>
+    <td>Ms Wong Simone </td>
+  </tr>
+	 <tr>
+    <td>English Language Teacher</td>
+    <td>Ms Gwyneth Quek Ee-En</td>
+  </tr>
   <tr>
     <td>Chinese Language Teacher</td>
     <td>Ms Cai Yiping </td>
