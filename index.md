@@ -4,7 +4,8 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Alumni may come visit on 31 Aug (Thursday) from 10:30am to
+  11:15am. Book an appointment with your teacher directly via email.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
