@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - Artopia.md
       - Triple P (Positive Parenting Program).md
       - Cycling to School.md
