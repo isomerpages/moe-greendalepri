@@ -4,8 +4,8 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Alumni may come visit on 31 Aug (Thursday) from 10:30am to
-  11:15am. Book an appointment with your teacher directly via email.
+notification: Hello Greendalites! It is time for our GDPS’ Online Art Exhibition
+  2023! Click on Artopia under announcement for more information.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
