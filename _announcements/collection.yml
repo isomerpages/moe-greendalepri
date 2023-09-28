@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - The Caring Teacher Awards.md
       - Artopia.md
       - Triple P (Positive Parenting Program).md
       - Cycling to School.md
