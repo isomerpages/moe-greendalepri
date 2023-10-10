@@ -4,7 +4,7 @@ permalink: /cca/visual-and-performing-arts/international-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-## **International Dance**
+## **Modern Dance**
 
 **<u>Singapore Youth Festival (SYF)</u>**
 
