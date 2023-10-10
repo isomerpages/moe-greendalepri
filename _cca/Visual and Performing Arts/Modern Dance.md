@@ -1,10 +1,10 @@
 ---
-title: International Dance
-permalink: /cca/visual-and-performing-arts/international-dance/
+title: Modern Dance
+permalink: /cca/visual-and-performing-arts/modern-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
 ---
-## **International Dance**
+## **Modern Dance**
 
 **<u>Singapore Youth Festival (SYF)</u>**
 

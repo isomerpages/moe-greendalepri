@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Orientation for P1 2024 Cohort.md
       - The Caring Teacher Awards.md
       - Artopia.md
       - Triple P (Positive Parenting Program).md
