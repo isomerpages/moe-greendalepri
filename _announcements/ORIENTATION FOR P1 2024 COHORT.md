@@ -17,7 +17,8 @@ Download the free Parents Gateway mobile app on your mobile phone (available on 
 <br><br>
 <img src="/images/Annoucements/parents%20gateway.jpg" alt="parents gateway">
 
-The list of FAQs for parents is available at [https://pg.moe.edu.sg/faq](https://pg.moe.edu.sg/faq)
+The list of FAQs for Parents is available at  <a href="https://pg.moe.edu.sg/faq">https://pg.moe.edu.sg/faq</a>
+	<p></p>  
 
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox">  
