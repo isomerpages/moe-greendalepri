@@ -4,8 +4,8 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Hello Greendalites! It is time for our GDPS’ Online Art Exhibition
-  2023! Click on Artopia under announcement for more information.
+notification: For information on P1 Orientation 2024 cohort, click on P1
+  Orientation under Announcement.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
@@ -16,6 +16,11 @@ sections:
         - title: Instagram
           description: Our School Instagram
           url: https://go.gov.sg/greendaleps-ig
+  - infobar:
+      title: P1 Orientation 2024 cohort
+      id: infobar
+      button: View information
+      url: /announcements/orientation-for-p1-2024-cohort/
   - infobar:
       title: Latest School Brochure
       button: View Brochure
