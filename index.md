@@ -20,7 +20,7 @@ sections:
       title: P1 Orientation 2024 cohort
       id: infobar
       button: View information
-      url: /announcements/orientation-for-p1-2024-cohort/
+      url: /announcements/p1-orientation/
   - infobar:
       title: Latest School Brochure
       button: View Brochure
