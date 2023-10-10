@@ -3,8 +3,6 @@ title: ORIENTATION FOR P1 2024 COHORT
 permalink: /announcements/p1-orientation/
 description: ""
 ---
-## **P1 ORIENTATION**
-
 We are pleased to welcome your child/ward to Greendale Primary School! We will be organising an <b>Orientation Programme on 17 November 2023 from 9.00am to 11.00am </b> for parents and their child. We seek your understanding that there will not be any sales of textbooks and school uniform during Orientation.
 We will be sharing more details of the Orientation via School Website, Parents Gateway and Email soon.
 
@@ -29,13 +27,12 @@ Students who are Eurasian, of mixed parentage and whose mother tongue is not one
 </p>
 <p>
 	Non-Tamil speaking students of Indian ethnicity can apply to study Non-Tamil Indian Language (Bengali, Gujarati, Hindi, Punjabi or Urdu). These language classes are conducted outside of school premises and hours. Students are required to sit for the approved MTL at PSLE and GCE “N”, “O’ and “A” level examinations.
-</p>
 <br>
 For more information on MOE MTL, please visit: <a href="https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/learning-in-school">https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/learning-in-school</a>
 <br><br>
 For enquiries, please call the School’s Office at Tel: 6886 1413.
 <br>
-<ul class="jekyllcodex_accordion">
+</p><ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox">  
 <label for="accordion1">Orientation Details</label><div>  
 <p>More details will be shared on a later date.
