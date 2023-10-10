@@ -5,7 +5,7 @@ description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
 notification: For information on P1 Orientation 2024 cohort, click on
-  Orientation for P1 under Announcement.
+  Orientation for P1 under Announcements.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
