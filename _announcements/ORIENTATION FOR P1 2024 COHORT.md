@@ -18,8 +18,23 @@ Download the free Parents Gateway mobile app on your mobile phone (available on 
 <img src="/images/Annoucements/parents%20gateway.jpg" alt="parents gateway">
 
 The list of FAQs for Parents is available at  <a href="https://pg.moe.edu.sg/faq">https://pg.moe.edu.sg/faq</a>
-	<p></p>  
-
+<br>
+##### 	Mother-Tongue Languages
+<p>
+Mother Tongue Language (MTL) is offered in Singapore schools as a second language. It is a compulsory subject. There are 3 official MTLs: Chinese, Malay and Tamil.
+</p>
+<p>
+Students of Chinese, Malay and Indian ethnicities will study their own MTLs.
+Students who are Eurasian, of mixed parentage and whose mother tongue is not one of the official MTLs can request to study any of them subject to approval.
+</p>
+<p>
+	Non-Tamil speaking students of Indian ethnicity can apply to study Non-Tamil Indian Language (Bengali, Gujarati, Hindi, Punjabi or Urdu). These language classes are conducted outside of school premises and hours. Students are required to sit for the approved MTL at PSLE and GCE “N”, “O’ and “A” level examinations.
+</p>
+<br>
+For more information on MOE MTL, please visit: <a href="https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/learning-in-school">https://www.moe.gov.sg/primary/curriculum/mother-tongue-languages/learning-in-school</a>
+<br><br>
+For enquiries, please call the School’s Office at Tel: 6886 1413.
+<br>
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox">  
 <label for="accordion1">Orientation Details</label><div>  
