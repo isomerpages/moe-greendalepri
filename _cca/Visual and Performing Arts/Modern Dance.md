@@ -8,69 +8,53 @@ third_nav_title: Visual and Performing Arts
 
 **<u>Singapore Youth Festival (SYF)</u>**
 
-In April 2018, we represented our school and participated in the Singapore Youth Festival (SYF). Through the many practices, we learnt to persevere and became very united as a team. Being part of this allowed us to articulate our thoughts and express our feelings through the arts. We were so happy and proud that we managed to achieve Distinction again!
+![](/images/CCA/Dance/dance1.jpg)
+<br>
+The Ministry of Education annually hosts the Singapore Youth Festival (SYF) to celebrate the energy and talents of our young students in the field of Arts.
+<p>
+SYF has several goals:
+<br>
+It serves as a platform for nurturing character development, 21st-century skills, and emotional intelligence through artistic expression. By encouraging participation in arts co-curricular activities (CCA) in schools, where students can either actively engage in the arts as CCA members or enjoy artistic performances and exhibitions as audience members. It celebrates the vibrancy of our youth by showcasing a wide array of artistic talents and creative expressions. It contributes to nation-building by fostering cultural awareness and appreciation through aesthetics education.
+</p>
+The SYF comprises three main components: 
+<br>
+Arts Presentation, Art Exhibition, and Celebrations.
+<p>
+For our school's participation in the 2022 Dance SYF, we sent two teams instead of one.
+One team consisted of 18 students from Primary 4 and 5, while the other team was composed of 9 students from Primary 6. 
+</p>
+<p>
+We take great pride in the dedication shown by both groups of students who wholeheartedly committed themselves to this endeavour, with a special commendation for our Primary 6 students who faced limited rehearsal time. It was in May that we made the decision to assemble another team, specifically a Primary 6 dance team. All our dancers exhibited tremendous enthusiasm and dedication for their participation  in July 2022.
+</p>
+<p>
+We held a pizza celebration in the school canteen to celebrate the success of our SYF performances and also to bid farewell for our P6 pupils who will be stepping down after SYF. 
+</p>
 
-
-![](/images/CCA/Int%20Dance%201.jpeg)
-
-**<u>Values in Action (VIA)</u>**
-
-  
-
-For our Values in action (VIA) Programme, we went to a kindergarten to teach them how to dance. We got together and discussed how we should simplify the dance moves we had learnt for the kindergarten kids. Initially, we were a little afraid and felt a little awkward. However, the kindergarten kids warmed up to us pretty quickly. It was a fun time teaching, interacting and dancing with the little kids.
-
-
-![](/images/CCA/Int%20Dance%202.jpeg)
-
-**<u>School events – Teachers’ Day</u>**
-
-  
-
-We also took part in a few school events. One of them was Teachers’ Day. We danced for our Teachers and hoped that they enjoyed our energetic and electrifying dance moves. We danced to the popular song "Du du du".
-
-
-![](/images/CCA/Int%20Dance%203.jpeg)
-
-
-**<u>School events- Annual Prize Presentation (AAP)</u>**
-
-  
-
-We also participated in our school’s Annual Prize Presentation (AAP). It was the first time that we (the junior dancers) were performing. We learnt the dance in 9 sessions! It was a fun and an exhilarating first experience.
-
-![](/images/CCA/Int%20Dance%204.jpeg)
-
-
-**<u>Learning&nbsp; Journey – Super 24 Competition 2018</u>**
-
-  
-
-Every year, our teachers will bring us out to watch a dance performance. We managed to watch the Super 24 Dance Competition at the Singapore Sports Hub. We were so impressed by the secondary school dancers. We watched a variety of dance genres such as hip hop, contemporary, lyrical, street jazz…etc.&nbsp; The whole place was filled with people who were so passionate for dance and we were all so inspired. The dance, music and lightings made the place so electrifying! We hope that in future, we will be able to dance like them.
-
-
-![](/images/CCA/Int%20Dance%205.jpeg)
-
-
-It was a fun yet busy month of June for Team Greendale’s International Dance.
-
-  
-
-We were honored to represent our school in two dance competitions.
-
-  
-
-On 22nd June, 16 of our dancers represented Greendale Primary in a dance competition cum VIA program organised by HCA Hospice Care, with the theme Color The Wind, Let’s Go, at Aliwal Arts Centre (Champions).&nbsp; The judges and audience were enthralled and captivated by the medley item.
-
-  
-
-We were up against 9 other schools; 2 other primary schools, 9 secondary and higher institutions. We won Best Ensemble&nbsp; at the end of the competition!
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT7Enm94a1eunB59w_u8htdLhG-6LQ9nU6pO1NiPOE89x3p25hta3oIyhD3CuU7e7y8LdBQraiPstYF/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
-A few days later, on the 24th June, 6 of our dancers represented Greendale Primary in a dance and singing competition, organised by Mediacorp TV. The Sheng Siong Show, which was telecast LIVE on Channel 8, was a milestone for our dance team as we appeared for the very first time on national television.&nbsp; Our dance team was a unique and diverse one. Belting out Elva’s&nbsp; Xiao Sa Xiao Jie, our dancers sure did us proud! On 3rd July, we had the honour of performing in front of Mr Tony Tan during the Heartware Network 17th Anniversary Gala Dinner 2017 at Mandarin Orchard Hotel.
-
-
+![](/images/CCA/Dance/dance2.jpg)
+<br>
+**<u>Learning Journeys</u>**
+<br><br>
+	![](/images/CCA/Dance/dance3.jpg)
+<p>
+Each year, our dance Co-Curricular Activity (CCA) arranges an annual outing to witness live dance presentations. This exposure serves as a wellspring of inspiration and motivation for our dance CCA members, showcasing the extraordinary achievements made possible through unwavering dedication and innate talent. Attending these performances provides our students with invaluable learning opportunities by allowing them to glean insights from accomplished dancers and choreographers. They have the chance to observe a diverse array of dance styles, techniques, and artistic interpretations, ultimately enriching their own dance skills and comprehension.
+</p>
+<p>
+This year, the Dance CCA members went to watch the technical rehearsal of SOTA’s (School of The Arts) dance showcase, Rapport 2023. The students were treated to performances choreographed by their Dance Faculty and industry professionals, performed by our Year 4, 5, 6 dance students. Many of them also reflected that watching the performance have inspired them to do better.
+</p>
+	
+**<u>Dance Values in Action (VIA)</u>**
+<br><br>
+![](/images/CCA/Dance/dance4.jpg)
+<p>
+Our dance CCA also embarked on a Values-in-Action (VIA) project. In this initiative, they engaged in a "Design for Change" project that involved a four-stage process: "Feel," "Imagine," "Do," and "Share."
+</p>
+<p>
+In the initial "Feel" stage, our students observed and identified issues that concerned them. In the "Imagine" phase, they brainstormed creative solutions to address these issues. Subsequently, in the "Do" stage, they collaborated in teams to implement their chosen solutions. Finally, in the "Share" phase, they shared their transformative solutions with the broader community to inspire others to take action, fostering a spirit of "I CAN!"
+</p>
+<p>
+For their VIA project, the focus of our dance CCA was on our school's kindergarten pupils and teachers. They developed interview questions and carefully analysed the responses they received. Ultimately, they decided to alleviate the workload of our kindergarten teachers, who were tasked with choreographing three dances for the K2 graduation performance. To achieve this, our dance CCA members put their heads together to choreograph a dance using the song by Justin Timberlake “Can’t Stop the Feeling” They then dedicated an afternoon to teach the kindergarten students the choreography they had created.
+</p>
+<p>
 <table>
 <thead>
   <tr>
@@ -89,5 +73,4 @@ A few days later, on the 24th June, 6 of our dancers represented Greendale Prima
   </tr>
 </tbody>
 </table>
-
-Disclaimer: All photos of pupils without masks are taken prior to the Circuit Breaker period.
+</p>
