@@ -66,7 +66,7 @@ For their VIA project, the focus of our dance CCA was on our school's kindergart
 </thead>
 <tbody>
   <tr>
-    <td>Ms Joanna Huang– I/C<br>Ms Musfirah<br>Mdm Nazima Banu</td>
+    <td>Ms Joanna Huang– I/C<br>Ms Musfirah<br>Mdm Nazima Banu<br>Mdm Siti Norafizah (Mdm Nora)</td>
     <td>Friday<br></td>
     <td>2.00 pm - 4.00 pm<br></td>
     <td>PAL Room</td>
