@@ -78,7 +78,9 @@ Click to read more about FAS.
 <p>
 Click to download MOE FAS application form.</p>	
 <a href="/files/Announcements/Moe%20fas%20application.pdf" target="_blank">MOE FAS Application Form</a>
-
+<br>
+<p>e-FAS via FormSG using Singpass login</p>
+<img src="/images/Annoucements/qrefas.jpg" alt="qrefas">
 </div></li> 
 
 <li><input id="accordion3" type="checkbox">  
