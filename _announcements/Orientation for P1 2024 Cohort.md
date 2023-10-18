@@ -97,6 +97,12 @@ Click to download MOE FAS application form.</p>
 	<p>
 		Both parents must login separately to the portal using his/her own Singpass account to submit particulars of himself/herself.
 	</p>
+	<p>
+		Please note only the parent with access rights to the P1 child can submit the information for the child.
+	</p>
+	<p>
+		Please submit the information through the online Student Details Form portal from 10.00 am, 27 Nov 2023.  All submission must be completed by 29 Dec 2023.
+	</p>
 </div></li> 
 
 <li><input id="accordion3" type="checkbox">  
