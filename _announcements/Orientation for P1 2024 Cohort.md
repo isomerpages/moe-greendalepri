@@ -104,6 +104,8 @@ Click to download MOE FAS application form.</p>
 		Please submit the information through the online Student Details Form portal from <b> 10.00 am, 27 Nov 2023. </b> All submission must be completed by <b> 29 Dec 2023.</b>
 	</p>
 	&nbsp;<a href="https://pg.moe.edu.sg/forms/sdf">Click here to access the portal via Singpass login.</a>&nbsp;
+	<br>
+	<img src="/images/Annoucements/qrpgportal.jpg" alt="qrpgportal">
 </div></li> 
 
 <li><input id="accordion3" type="checkbox">  
