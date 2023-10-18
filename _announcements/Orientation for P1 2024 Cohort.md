@@ -106,6 +106,10 @@ Click to download MOE FAS application form.</p>
 	&nbsp;<a href="https://pg.moe.edu.sg/forms/sdf">Click here to access the portal via Singpass login.</a>&nbsp;
 	<br>
 	<img src="/images/Annoucements/qrpgportal.jpg" alt="qrpgportal">
+	<p>
+		<b>School Student Particulars Form</b>
+	</p>
+	Please refer to upcoming email from the school to complete the form.
 </div></li> 
 
 <li><input id="accordion3" type="checkbox">  
