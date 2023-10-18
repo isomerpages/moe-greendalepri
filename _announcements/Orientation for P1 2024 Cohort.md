@@ -65,6 +65,9 @@ All Singapore Citizen students will have an Edusave account automatically opened
 <b>MOE Financial Assistance Scheme (FAS)</b>
 </p>
 MOE provides financial assistance to Singaporean who need financial assistance for their studies.
+<br><br>
+Click to read more about FAS.
+<br>
 	
 </div></li> 
 
