@@ -81,6 +81,7 @@ Click to download MOE FAS application form.</p>
 <br>
 <p>e-FAS via FormSG using Singpass login</p>
 <img src="/images/Annoucements/qrefas.jpg" alt="qrefas">
+&nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>&nbsp;
 </div></li> 
 
 <li><input id="accordion3" type="checkbox">  
