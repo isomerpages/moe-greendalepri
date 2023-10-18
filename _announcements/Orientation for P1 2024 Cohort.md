@@ -61,6 +61,11 @@ All Singapore Citizen students will have an Edusave account automatically opened
 &nbsp;<a href="https://www.moe.gov.sg/financial-matters/edusave-account">Click here to read more about Edusave Account</a>&nbsp;
 <br>	
 &nbsp;<a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59">Click here to sign up for Edusave Standing Order via Singpass login.</a>&nbsp;
+<p>
+<b>MOE Financial Assistance Scheme (FAS)</b>
+</p>
+MOE provides financial assistance to Singaporean who need financial assistance for their studies.
+	
 </div></li> 
 
 <li><input id="accordion3" type="checkbox">  
