@@ -38,7 +38,7 @@ For enquiries, please call the School’s Office at Tel: 6886 1413.
 <p>We will be sending out details of our Orientation Programme to your registered email address soon. Please keep a lookout for the email. For enquiries, please call the School’s Office at Tel: 6886 1413.
 </p> 
 <p> 
-<b>ORIENTATION BRIEFING SLIDES AND HANDBOOK</b>
+<b>Orientation briefing slides and handbook</b>
 <br>Coming soon.
 </p>
 </div></li> 
