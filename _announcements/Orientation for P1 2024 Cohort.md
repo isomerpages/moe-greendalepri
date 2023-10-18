@@ -85,7 +85,18 @@ Click to download MOE FAS application form.</p>
 <p>
 	<b>e-FAS via Parents Gateway via Singpass login</b>
 </p>Parents Gateway (under Services tab – Financial Assistance)
-	
+	<p>
+		<b>Capturing of Pupil Data via Student Details Form (SDF) Portal</b>
+	</p>
+	<p>
+		As your child/ward will be starting primary one in January 2024, the Ministry of Education (MOE) would like to collect necessary information about you and your child/ward to provide educational services for your child/ward in our schools.
+	</p>
+	<p>
+		For first-time P1 parents ie both father and mother must login to the SDF portal to submit the information. For parents who already have an elder child enrolled in MOE mainstream schools, either the father or mother can submit the information for the P1 child. 
+	</p>
+	<p>
+		Both parents must login separately to the portal using his/her own Singpass account to submit particulars of himself/herself.
+	</p>
 </div></li> 
 
 <li><input id="accordion3" type="checkbox">  
