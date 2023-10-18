@@ -34,9 +34,13 @@ For enquiries, please call the School’s Office at Tel: 6886 1413.
 <br>
 </p><ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox">  
-<label for="accordion1">Orientation Details</label><div>  
-<p>More details will be shared on a later date.
-</p>  
+<label for="accordion1">Orientation Details</label><div>
+<p>We will be sending out details of our Orientation Programme to your registered email address soon. Please keep a lookout for the email. For enquiries, please call the School’s Office at Tel: 6886 1413.
+</p> 
+<p> 
+<b>ORIENTATION BRIEFING SLIDES AND HANDBOOK</b>
+<br>Coming soon.
+</p>
 </div></li> 
 
 <li><input id="accordion2" type="checkbox">  
