@@ -54,6 +54,11 @@ This GIRO arrangement can be used to pay fees, enrichment programmes and charges
 &nbsp;<a href="https://www.moe.gov.sg/financial-matters/fees/egiro">Click here to apply for eGIRO</a>&nbsp;
 <br>
 <a href="/files/Announcements/eGiro%20user%20guide.pdf" target="_blank">Click here to refer to eGIRO user guide.</a>
+<br>
+<br><b>Edusave Standing Order</b>
+<p>
+All Singapore Citizen students will have an Edusave account automatically opened for them and receive a yearly contribution. Parents can sign up for the Edusave Standing Order to use your child’s Edusave account to pay miscellaneous fees and enrichment programmes to reduce your out-of-pocket expenses.</p>
+&nbsp;<a href="https://www.moe.gov.sg/financial-matters/edusave-account">Click here to read more about Edusave Account</a>&nbsp;
 </div></li> 
 
 <li><input id="accordion3" type="checkbox">  
