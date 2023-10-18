@@ -75,6 +75,10 @@ Click to read more about FAS.
 <a href="/files/Announcements/Fas%20ML.pdf" target="_blank">FAS user guide in Malay</a>
 <br>
 <a href="/files/Announcements/Fas%20TL.pdf" target="_blank">FAS user guide in Tamil</a>
+<p>
+Click to download MOE FAS application form.</p>	
+<a href="/files/Announcements/Moe%20fas%20application.pdf" target="_blank">MOE FAS Application Form</a>
+
 </div></li> 
 
 <li><input id="accordion3" type="checkbox">  
