@@ -83,7 +83,7 @@ Click to download MOE FAS application form.</p>
 <img src="/images/Annoucements/qrefas.jpg" alt="qrefas">
 &nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>&nbsp;
 <p>
-	e-FAS via Parents Gateway via Singpass login
+	<b>e-FAS via Parents Gateway via Singpass login</b>
 </p>Parents Gateway (under Services tab – Financial Assistance)
 	
 </div></li> 
