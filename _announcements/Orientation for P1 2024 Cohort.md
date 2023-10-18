@@ -52,6 +52,8 @@ We would like to invite all parents to join our GIRO scheme to enjoy the hassle-
 This GIRO arrangement can be used to pay fees, enrichment programmes and charges, national examination fees (if applicable) and for disbursement/refund purposes. (eg. Payment of school awards or refund of excess paid)
 </p> 
 &nbsp;<a href="https://www.moe.gov.sg/financial-matters/fees/egiro">Click here to apply for eGIRO</a>&nbsp;
+<br>
+<a href="/files/Announcements/eGiro%20user%20guide.pdf" target="_blank">Click here to refer to eGIRO user guide.</a>
 </div></li> 
 
 <li><input id="accordion3" type="checkbox">  
