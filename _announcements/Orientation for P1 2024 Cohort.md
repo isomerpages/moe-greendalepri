@@ -45,9 +45,13 @@ For enquiries, please call the School’s Office at Tel: 6886 1413.
 
 <li><input id="accordion2" type="checkbox">  
 <label for="accordion2">Administrative matters</label><div>  
-<p>More details will be shared on a later date.
+<b> GIRO</b>
+<p>
+We would like to invite all parents to join our GIRO scheme to enjoy the hassle-free and convenient payment arrangements. In this way, your child will not need to bring additional cash to school monthly.</p>
+<p>
+This GIRO arrangement can be used to pay fees, enrichment programmes and charges, national examination fees (if applicable) and for disbursement/refund purposes. (eg. Payment of school awards or refund of excess paid)
 </p>  
-</div></li>  
+</div></li> 
 
 <li><input id="accordion3" type="checkbox">  
 <label for="accordion3">School Services Providers</label><div>  
