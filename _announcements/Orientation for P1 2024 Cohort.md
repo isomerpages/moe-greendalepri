@@ -121,7 +121,9 @@ Click to download MOE FAS application form.</p>
 	Website closing date: 15 December 2023
 <p>
 P1 parents are advised to make their online purchase only in early Dec 2023 pending the availability of prices for books marked Not Fixed yet (NFY) to avoid multiple delivery/self-collection.
-</p>
+</p>	
+<a href="/files/Announcements/pbpurchaseguide.pdf" target="_blank">Click here to refer to Purchase Guide.</a>
+	
 </div></li>  
 	
 </ul>
