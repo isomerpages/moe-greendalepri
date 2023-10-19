@@ -30,7 +30,7 @@ Please refer to the website for&nbsp;[SCFA eligibility criteria](https://support
 	School Holidays:&nbsp;<b>7.30 a.m. to 7.00 p.m.</b><br><br>
 	The student care centre is&nbsp;<b>closed</b>&nbsp;on Saturdays, Sundays and gazetted public holidays.
 	<br><br>
-We will provide more information on the centre’s closure days by end of the year to confirmed SCC students.
+More information on the centre’s closure days by end of the year will be provided to confirmed SCC students.
 <br><br>
 	<u>SCC Contact</u>
 <br><br>For assistance, please email us at&nbsp;<a href="mailto:greendale@singaporeedusmart.com.sg">greendale@singaporeedusmart.com.sg</a>
