@@ -130,6 +130,7 @@ P1 parents are advised to make their online purchase only in early Dec 2023 pend
 <b>School Uniform My Uniform Shop (ASIA) Pte Ltd</b>
 <br>(for ordering of Uniform, PE Attires, Shoes and Socks)
 </p>
+	<a href="/files/Announcements/myuniformshop.pdf" target="_blank">Click here to refer to Prices and Size Chart.</a>
 </div></li>  
 	
 </ul>
