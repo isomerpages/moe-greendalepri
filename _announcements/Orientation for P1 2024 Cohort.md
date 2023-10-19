@@ -124,8 +124,11 @@ P1 parents are advised to make their online purchase only in early Dec 2023 pend
 </p>	
 <a href="/files/Announcements/pbpurchaseguide.pdf" target="_blank">Click here to refer to Purchase Guide.</a>
 	<br>
-		<a href="/files/Announcements/booklist.pdf" target="_blank">Click here to refer to refer to Booklist.</a>
-	
+	<a href="/files/Announcements/booklist.pdf" target="_blank">Click here to refer to Booklist.</a>
+
+<p>
+<b>School Uniform My Uniform Shop (ASIA) Pte Ltd</b>
+</p>
 </div></li>  
 	
 </ul>
