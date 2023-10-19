@@ -141,8 +141,10 @@ P1 parents are advised to make their online purchase only in early Dec 2023 pend
 <a href="/files/Announcements/busregistration.pdf" target="_blank">Click here to request for School Bus Services.</a>
 <p>
 <b>Student Care Centre (SCC)
-SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</b>
-</p>
+	SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</b></p>
+&nbsp;<a href="https://zfrmz.com/xh0YVsr5aLMH0Vl46aOH">Click here to register your interest</a>&nbsp;<b>by 3 November 2023.</b>
+<br>
+<a href="/files/Announcements/sccintro.pdf" target="_blank">Click here for EduSmart GDPS Introduction</a>
 </div></li>  
 	
 </ul>
