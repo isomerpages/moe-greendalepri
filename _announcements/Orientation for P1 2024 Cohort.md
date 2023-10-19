@@ -75,11 +75,11 @@ Click to read more about FAS.
 <a href="/files/Announcements/Fas%20ML.pdf" target="_blank">FAS user guide in Malay</a>
 <br>
 <a href="/files/Announcements/Fas%20TL.pdf" target="_blank">FAS user guide in Tamil</a>
-<p>
-Click to download MOE FAS application form.</p>	
+<p><b>
+	Click to download MOE FAS application form.</b></p>	
 <a href="/files/Announcements/Moe%20fas%20application.pdf" target="_blank">MOE FAS Application Form</a>
 <br>
-<p>e-FAS via FormSG using Singpass login</p>
+	<p><b>e-FAS via FormSG using Singpass login</b></p>
 &nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>&nbsp;
 <p>
 	<b>e-FAS via Parents Gateway via Singpass login</b>
