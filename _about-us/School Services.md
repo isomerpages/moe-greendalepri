@@ -104,8 +104,9 @@ We wish to share that the school bus operator is not obliged to provide transpor
 <p>
 If your child is not taking the school bus (e.g. if he/she is on medical leave), please inform the driver. 
 </p>
-
-<br><br><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" target="_blank"> Click here to refer to the new bus fares.
-<br><br></a><a href="/files/School%20Services/school%20bus%20request.pdf" target="_blank"> Click here for information on school bus request.</a>
-		<br><br><a href="/files/School%20Services/registration%202024.pdf" target="_blank"> Click here for the school bus registration form.</a>
+<p>
+In the first two months of school, the timings for pick-up and drop-off for your child might vary by 10-15 minutes due to the traffic conditions and the student attendance taking process during school dismissal.  The driver may also make adjustments to the routes.  We seek your understanding and patience on this.
+</p>
+<a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" target="_blank">Click here to refer to the new bus fares.
+<br></a><a href="/files/School%20Services/school%20bus%20request.pdf" target="_blank"> Click here for the school bus request form and the terms and conditions.</a>
 <p></p></div></li></ul>
