@@ -123,6 +123,8 @@ Click to download MOE FAS application form.</p>
 P1 parents are advised to make their online purchase only in early Dec 2023 pending the availability of prices for books marked Not Fixed yet (NFY) to avoid multiple delivery/self-collection.
 </p>	
 <a href="/files/Announcements/pbpurchaseguide.pdf" target="_blank">Click here to refer to Purchase Guide.</a>
+	<br>
+		<a href="/files/Announcements/booklist.pdf" target="_blank">Click here to refer to refer to Booklist.</a>
 	
 </div></li>  
 	
