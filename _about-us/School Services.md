@@ -15,12 +15,12 @@ The SCC programme aims to provide an environment for children that caters to the
 	<br><br>
 	<u>Monthly SCC fees</u>
 	<br><br>
-	The monthly SCC fees in 2023 is&nbsp;<b>$235</b>.&nbsp; 1 month deposit and other miscellaneous fees will also be needed to be paid.&nbsp;  <br><br>
-We will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF).&nbsp;
+	The monthly SCC fees in Year 2024 is&nbsp;<b>$235</b>.&nbsp; 1 month deposit and other miscellaneous fees will also be needed to be paid.&nbsp;  <br><br>
+The SCC operator will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF).&nbsp;
 <br><br>
-Please refer to the website for&nbsp;[SCFA eligibility criteria](https://www.msf.gov.sg/Comcare/Pages/ComCare-Student-Care-Subsidies.aspx)
+Please refer to the website for&nbsp;[SCFA eligibility criteria](https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa)
 	<br><br>
-	<u>2023 P1 Registration of Interest for EduSmart SCC services</u>
+	<u>2024 Registration of Interest for EduSmart SCC services (for new students)</u>
 	<br><br>Due to limited capacity, interested 2023 P1 parents need to register their interest via the&nbsp;<a href="https://zfrmz.com/mQuMnl2rDhgfLWSqCDFK">2023 P1 Registration of Interest link</a>&nbsp;<b>by Friday, 4 November 2022.</b>
 <br><br>We will inform all successful applications via email by&nbsp;<b>18 November 2022</b>.&nbsp; All successful applicants will need to complete their registration and payment by&nbsp;<b>end November 2022.</b>
 <br><br>
