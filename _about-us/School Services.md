@@ -9,7 +9,7 @@ description: ""
 <li><input id="accordion1" type="checkbox">  
 <label for="accordion1">Student Care Centre (SCC)</label><div>  
 <p><u>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</u> 
-	<br><br>Greendale Primary School’s student care centre (SCC) started on 3 January 2012.&nbsp;With effect from 1 Jan 2023, the SCC will be operated by Singapore EduSmart Learning Hub ( EduSmart ). EduSmart is established in 2012, and serves more than 1,000 children across several Singapore schools.&nbsp;&nbsp;
+	<br><br>Greendale Primary School’s student care centre (SCC) started on 3 January 2012.<br><br>&nbsp;With effect from 1 Jan 2023, the SCC will be operated by Singapore EduSmart Learning Hub ( EduSmart ). EduSmart is established in 2012, and serves more than 1,000 children across several Singapore schools.&nbsp;&nbsp;
 
 The SCC programme aims to provide an environment for children that caters to their developmental needs through a holistic mix of character development, enrichment and outdoor activities.&nbsp; There is also supervised study time to complement the school’s teaching.
 	<br><br>
