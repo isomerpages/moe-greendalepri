@@ -114,8 +114,14 @@ Click to download MOE FAS application form.</p>
 
 <li><input id="accordion3" type="checkbox">  
 <label for="accordion3">School Services Providers</label><div>  
-	<p>More details will be shared on a later date.
-</p>  
+	<p><b>School Bookshop Pacific Bookstores Pte Ltd</b>
+		<br>(for ordering of books and embroidered name-tag)</p>
+  Website launch date: 6 November 2023
+	<br>
+	Website closing date: 15 December 2023
+<p>
+P1 parents are advised to make their online purchase only in early Dec 2023 pending the availability of prices for books marked Not Fixed yet (NFY) to avoid multiple delivery/self-collection.
+</p>
 </div></li>  
 	
 </ul>
