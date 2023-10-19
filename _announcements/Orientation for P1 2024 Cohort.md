@@ -80,7 +80,6 @@ Click to download MOE FAS application form.</p>
 <a href="/files/Announcements/Moe%20fas%20application.pdf" target="_blank">MOE FAS Application Form</a>
 <br>
 <p>e-FAS via FormSG using Singpass login</p>
-<img src="/images/Annoucements/qrefas.jpg" alt="qrefas">
 &nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>&nbsp;
 <p>
 	<b>e-FAS via Parents Gateway via Singpass login</b>
@@ -104,8 +103,6 @@ Click to download MOE FAS application form.</p>
 		Please submit the information through the online Student Details Form portal from <b> 10.00 am, 27 Nov 2023. </b> All submission must be completed by <b> 29 Dec 2023.</b>
 	</p>
 	&nbsp;<a href="https://pg.moe.edu.sg/forms/sdf">Click here to access the portal via Singpass login.</a>&nbsp;
-	<br>
-	<img src="/images/Annoucements/qrpgportal.jpg" alt="qrpgportal">
 	<p>
 		<b>School Student Particulars Form</b>
 	</p>
