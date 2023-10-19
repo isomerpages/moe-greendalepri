@@ -33,7 +33,7 @@ Please refer to the website for&nbsp;[SCFA eligibility criteria](https://support
 More information on the centre’s closure days by end of the year will be provided to confirmed SCC students.
 <br><br>
 	<u>SCC Contact</u>
-<br><br>For assistance, please email us at&nbsp;<a href="mailto:greendale_sccops@singaporeedusmart.edu.sg">greendale_sccops@singaporeedusmart.edu.sg</a> or hp: 80319788.
+<br><br>For assistance, please email the Centre at&nbsp;<a href="mailto:greendale_sccops@singaporeedusmart.edu.sg">greendale_sccops@singaporeedusmart.edu.sg</a> or hp: 80319788.
 </p>  
 </div></li> 
 
