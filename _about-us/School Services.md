@@ -22,7 +22,7 @@ Please refer to the website for&nbsp;[SCFA eligibility criteria](https://support
 	<br><br>
 	<u>2024 Registration of Interest for EduSmart SCC services (for new students)</u>
 	<br><br>Due to limited capacity, interested parents need to register their interest via the&nbsp;<a href="https://zfrmz.com/xh0YVsr5aLMH0Vl46aOH">2023 P1 Registration of Interest link</a>&nbsp;<b>by Friday, 3 November 2023 to confirm a place at the SCC for Jan intake.</b>
-<br><br>All successful applications will be notified via email by&nbsp;<b>18 November 2022</b>.&nbsp; All successful applicants will need to complete their registration and payment by&nbsp;<b>10 November 2023.</b>
+<br><br>All successful applications will be notified via email by&nbsp;<b>18 November 2022</b>.&nbsp; All successful applicants will need to complete their registration and payment by&nbsp;<b>10 November 2023.</b>.&nbsp; You will need to complete your registration and payment by&nbsp;<b>15 November 2023</b>&nbsp; to confirm a place at the SCC for Ja intake.
 <br><br>
 	<u>Operating Hours (Monday to Friday)</u>
 	<br><br>
