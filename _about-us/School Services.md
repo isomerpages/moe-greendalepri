@@ -95,12 +95,17 @@ Please refer to their website for operating hours. <a href="http://myuniformshop
 	<p><u>SFX Transport Services</u>
 		<br><br>
 The school's appointed daily school bus operator from Year 2024 to Year 2025 is SFX Transport Services.  The bus operator can be contacted at tel: 88000262 / 6282 0262 or email:<a href="greendalepri@sfxtransport.com.sg">greendalepri@sfxtransport.com.sg</a>
-<br><br>
-<img src="/images/About%20Us/School%20Bus%20Fees%20Table.jpg" alt="Fee Table">
-<br>
-The school has recently appointed SFX Transport Services to provide school bus services from Year 2024 to Year 2025. The new bus fares are found in the attachment.
+</p><p>
+School bus request form for Year 2024 should be submitted to SFX Transport Services by 30 November 2023 (Thu).
+</p>
+<p>
+We wish to share that the school bus operator is not obliged to provide transport services where the distance between the pick-up and/or drop-off location is more than 4km from the school, or where your child/ward requires after-school drop off for activities ending after 4pm.
+</p>
+<p>
+If your child is not taking the school bus (e.g. if he/she is on medical leave), please inform the driver. 
+</p>
 
 <br><br><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" target="_blank"> Click here to refer to the new bus fares.
 <br><br></a><a href="/files/School%20Services/school%20bus%20request.pdf" target="_blank"> Click here for information on school bus request.</a>
 		<br><br><a href="/files/School%20Services/registration%202024.pdf" target="_blank"> Click here for the school bus registration form.</a>
-</p></div></li></ul>
+<p></p></div></li></ul>
