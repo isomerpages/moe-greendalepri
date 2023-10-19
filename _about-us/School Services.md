@@ -9,20 +9,20 @@ description: ""
 <li><input id="accordion1" type="checkbox">  
 <label for="accordion1">Student Care Centre (SCC)</label><div>  
 <p><u>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</u> 
-	<br><br>Greendale Primary School’s student care centre (SCC) started on 3 January 2012.&nbsp;With effect from 1 Jan 2023, the SCC will be operated by Singapore EduSmart Learning Hub ( EduSmart ). EduSmart is established in 2012, and serves more than 1,000 children across several Singapore schools.&nbsp;&nbsp;
+	<br><br>Greendale Primary School’s student care centre (SCC) started on 3 January 2012.<br><br>&nbsp;With effect from 1 Jan 2023, the SCC will be operated by Singapore EduSmart Learning Hub ( EduSmart ). EduSmart is established in 2012, and serves more than 1,000 children across several Singapore schools.&nbsp;&nbsp;
 
 The SCC programme aims to provide an environment for children that caters to their developmental needs through a holistic mix of character development, enrichment and outdoor activities.&nbsp; There is also supervised study time to complement the school’s teaching.
 	<br><br>
 	<u>Monthly SCC fees</u>
 	<br><br>
-	The monthly SCC fees in 2023 is&nbsp;<b>$235</b>.&nbsp; 1 month deposit and other miscellaneous fees will also be needed to be paid.&nbsp;  <br><br>
-We will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF).&nbsp;
+	The monthly SCC fees in Year 2024 is&nbsp;<b>$235</b>.&nbsp; A one-month deposit and other miscellaneous fees will also be needed to be paid.&nbsp;  <br><br>
+The SCC operator will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF).&nbsp;
 <br><br>
-Please refer to the website for&nbsp;[SCFA eligibility criteria](https://www.msf.gov.sg/Comcare/Pages/ComCare-Student-Care-Subsidies.aspx)
+Please refer to the website for&nbsp;[SCFA eligibility criteria](https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa)
 	<br><br>
-	<u>2023 P1 Registration of Interest for EduSmart SCC services</u>
-	<br><br>Due to limited capacity, interested 2023 P1 parents need to register their interest via the&nbsp;<a href="https://zfrmz.com/mQuMnl2rDhgfLWSqCDFK">2023 P1 Registration of Interest link</a>&nbsp;<b>by Friday, 4 November 2022.</b>
-<br><br>We will inform all successful applications via email by&nbsp;<b>18 November 2022</b>.&nbsp; All successful applicants will need to complete their registration and payment by&nbsp;<b>end November 2022.</b>
+	<u>2024 Registration of Interest for EduSmart SCC services (for new students)</u>
+	<br><br>Due to limited capacity, interested parents need to register their interest via&nbsp;<a href="https://zfrmz.com/xh0YVsr5aLMH0Vl46aOH">https://zfrmz.com/xh0YVsr5aLMH0Vl46aOH</a>&nbsp;<b>by Friday, 3 November 2023.</b>
+<br><br>All successful applications will be notified via email by&nbsp;<b>10 November 2023</b>.&nbsp; You will need to complete your registration and payment by&nbsp;<b>15 November 2023</b>&nbsp; to confirm a place at the SCC for Jan intake.
 <br><br>
 	<u>Operating Hours (Monday to Friday)</u>
 	<br><br>
@@ -30,10 +30,10 @@ Please refer to the website for&nbsp;[SCFA eligibility criteria](https://www.msf
 	School Holidays:&nbsp;<b>7.30 a.m. to 7.00 p.m.</b><br><br>
 	The student care centre is&nbsp;<b>closed</b>&nbsp;on Saturdays, Sundays and gazetted public holidays.
 	<br><br>
-We will provide more information on the centre’s closure days by end of the year to confirmed SCC students.
+More information on the centre’s closure days by end of the year will be provided to confirmed SCC students.
 <br><br>
 	<u>SCC Contact</u>
-<br><br>For assistance, please email us at&nbsp;<a href="mailto:greendale@singaporeedusmart.com.sg">greendale@singaporeedusmart.com.sg</a>
+<br><br>For assistance, please email the Centre at&nbsp;<a href="mailto:greendale_sccops@singaporeedusmart.edu.sg">greendale_sccops@singaporeedusmart.edu.sg</a> or hp: 80319788.
 </p>  
 </div></li> 
 
@@ -94,15 +94,19 @@ Please refer to their website for operating hours. <a href="http://myuniformshop
 <label for="accordion5">School Bus Service</label><div>  
 	<p><u>SFX Transport Services</u>
 		<br><br>
-The school's appointed daily school bus vendor is SFX Transport Services.
-
-With effect from 1 January 2023, the not-to-exceed prices for the school bus fares are found in the table below.&nbsp; 
-<br><br>
-<img src="/images/About%20Us/School%20Bus%20Fees%20Table.jpg" alt="Fee Table">
-<br>
-The school has recently appointed SFX Transport Services to provide school bus services from Year 2024 to Year 2025. The new bus fares are found in the attachment.
-
-<br><br><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" target="_blank"> Click here to refer to the new bus fares.
-<br><br></a><a href="/files/School%20Services/school%20bus%20request.pdf" target="_blank"> Click here for information on school bus request.</a>
-		<br><br><a href="/files/School%20Services/registration%202024.pdf" target="_blank"> Click here for the school bus registration form.</a>
-</p></div></li></ul>
+The school's appointed daily school bus operator from Year 2024 to Year 2025 is SFX Transport Services.  The bus operator can be contacted at tel: 88000262 / 6282 0262 or email:<a href="greendalepri@sfxtransport.com.sg">greendalepri@sfxtransport.com.sg</a>
+</p><p>
+School bus request form for Year 2024 should be submitted to SFX Transport Services by 30 November 2023 (Thu).
+</p>
+<p>
+We wish to share that the school bus operator is not obliged to provide transport services where the distance between the pick-up and/or drop-off location is more than 4km from the school, or where your child/ward requires after-school drop off for activities ending after 4pm.
+</p>
+<p>
+If your child is not taking the school bus (e.g. if he/she is on medical leave), please inform the driver. 
+</p>
+<p>
+In the first two months of school, the timings for pick-up and drop-off for your child might vary by 10-15 minutes due to the traffic conditions and the student attendance taking process during school dismissal.  The driver may also make adjustments to the routes.  We seek your understanding and patience on this.
+</p>
+<a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" target="_blank">Click here to refer to the new bus fares.
+<br></a><a href="/files/School%20Services/school%20bus%20request.pdf" target="_blank"> Click here for the school bus request form and the terms and conditions.</a>
+<p></p></div></li></ul>
