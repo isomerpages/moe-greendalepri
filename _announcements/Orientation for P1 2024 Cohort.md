@@ -137,6 +137,8 @@ P1 parents are advised to make their online purchase only in early Dec 2023 pend
 	Please register your interest by<b> 30 November 2023.</b>
 	<br>
 	<a href="/files/Announcements/busprice.pdf" target="_blank">Click here to refer to bus prices.</a>
+	<br>
+<a href="/files/Announcements/busregistration.pdf" target="_blank">Click here to request for School Bus Services.</a>
 </div></li>  
 	
 </ul>
