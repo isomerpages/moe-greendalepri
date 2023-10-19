@@ -94,9 +94,7 @@ Please refer to their website for operating hours. <a href="http://myuniformshop
 <label for="accordion5">School Bus Service</label><div>  
 	<p><u>SFX Transport Services</u>
 		<br><br>
-The school's appointed daily school bus vendor is SFX Transport Services.
-
-With effect from 1 January 2023, the not-to-exceed prices for the school bus fares are found in the table below.&nbsp; 
+The school's appointed daily school bus operator from Year 2024 to Year 2025 is SFX Transport Services.  The bus operator can be contacted at tel: 88000262 / 6282 0262 or email:<a href="greendalepri@sfxtransport.com.sg">greendalepri@sfxtransport.com.sg</a>
 <br><br>
 <img src="/images/About%20Us/School%20Bus%20Fees%20Table.jpg" alt="Fee Table">
 <br>
