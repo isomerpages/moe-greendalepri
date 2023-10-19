@@ -131,6 +131,12 @@ P1 parents are advised to make their online purchase only in early Dec 2023 pend
 <br>(for ordering of Uniform, PE Attires, Shoes and Socks)
 </p>
 	<a href="/files/Announcements/myuniformshop.pdf" target="_blank">Click here to refer to Prices and Size Chart.</a>
+<p><b>
+	School Bus Services SFX Transport Services</b>
+	</p>
+	Please register your interest by<b> 30 November 2023.</b>
+	<br>
+	<a href="/files/Announcements/busprice.pdf" target="_blank">Click here to refer to bus prices.</a>
 </div></li>  
 	
 </ul>
