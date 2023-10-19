@@ -15,7 +15,7 @@ The SCC programme aims to provide an environment for children that caters to the
 	<br><br>
 	<u>Monthly SCC fees</u>
 	<br><br>
-	The monthly SCC fees in Year 2024 is&nbsp;<b>$235</b>.&nbsp; 1 month deposit and other miscellaneous fees will also be needed to be paid.&nbsp;  <br><br>
+	The monthly SCC fees in Year 2024 is&nbsp;<b>$235</b>.&nbsp; A one-month deposit and other miscellaneous fees will also be needed to be paid.&nbsp;  <br><br>
 The SCC operator will assist eligible parents to apply for Student Care Financial Assistance, administered by Ministry of Social and Family Development (MSF).&nbsp;
 <br><br>
 Please refer to the website for&nbsp;[SCFA eligibility criteria](https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa)
