@@ -53,7 +53,7 @@ This GIRO arrangement can be used to pay fees, enrichment programmes and charges
 </p> 
 &nbsp;<a href="https://www.moe.gov.sg/financial-matters/fees/egiro">Click here to apply for eGIRO</a>&nbsp;
 <br>
-<a href="/files/Announcements/eGiro%20user%20guide.pdf" target="_blank">Click here to refer to eGIRO user guide.</a>
+<a href="/files/Announcements/egiro%20user%20guide.pdf" target="_blank">Click here to refer to eGIRO user guide.</a>
 <br>
 <br><b>Edusave Standing Order</b>
 <p>
@@ -70,11 +70,11 @@ Click to read more about FAS.
 <br>
 <a href="/files/Announcements/Fas%20el.pdf" target="_blank">FAS user guide in English</a>
 <br>
-<a href="/files/Announcements/Fas%20cl.pdf" target="_blank">FAS user guide in Chinese</a>
+<a href="/files/Announcements/fas%20cl.pdf" target="_blank">FAS user guide in Chinese</a>
 <br>
-<a href="/files/Announcements/Fas%20ml.pdf" target="_blank">FAS user guide in Malay</a>
+<a href="/files/Announcements/fas%20ml.pdf" target="_blank">FAS user guide in Malay</a>
 <br>
-<a href="/files/Announcements/Fas%20tl.pdf" target="_blank">FAS user guide in Tamil</a>
+<a href="/files/Announcements/fas%20tl.pdf" target="_blank">FAS user guide in Tamil</a>
 <p><b>
 	Click to download MOE FAS application form.</b></p>	
 <a href="/files/Announcements/Moe%20fas%20application.pdf" target="_blank">MOE FAS Application Form</a>
