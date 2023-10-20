@@ -53,7 +53,7 @@ This GIRO arrangement can be used to pay fees, enrichment programmes and charges
 </p> 
 &nbsp;<a href="https://www.moe.gov.sg/financial-matters/fees/egiro">Click here to apply for eGIRO</a>&nbsp;
 <br>
-<a href="/files/Announcements/eGiro%20user%20guide.pdf" target="_blank">Click here to refer to eGIRO user guide.</a>
+<a href="/files/Announcements/egiro%20user%20guide.pdf" target="_blank">Click here to refer to eGIRO user guide.</a>
 <br>
 <br><b>Edusave Standing Order</b>
 <p>
@@ -68,16 +68,16 @@ MOE provides financial assistance to Singaporean who need financial assistance f
 <br><br>
 Click to read more about FAS.
 <br>
-<a href="/files/Announcements/Fas%20EL.pdf" target="_blank">FAS user guide in English</a>
+<a href="/files/Announcements/fas%20el.pdf" target="_blank">FAS user guide in English</a>
 <br>
-<a href="/files/Announcements/Fas%20CL.pdf" target="_blank">FAS user guide in Chinese</a>
+<a href="/files/Announcements/fas%20cl.pdf" target="_blank">FAS user guide in Chinese</a>
 <br>
-<a href="/files/Announcements/Fas%20ML.pdf" target="_blank">FAS user guide in Malay</a>
+<a href="/files/Announcements/fas%20ml.pdf" target="_blank">FAS user guide in Malay</a>
 <br>
-<a href="/files/Announcements/Fas%20TL.pdf" target="_blank">FAS user guide in Tamil</a>
+<a href="/files/Announcements/fas%20tl.pdf" target="_blank">FAS user guide in Tamil</a>
 <p><b>
 	Click to download MOE FAS application form.</b></p>	
-<a href="/files/Announcements/Moe%20fas%20application.pdf" target="_blank">MOE FAS Application Form</a>
+<a href="/files/Announcements/moe%20fas%20application.pdf" target="_blank">MOE FAS Application Form</a>
 <br>
 	<p><b>e-FAS via FormSG using Singpass login</b></p>
 &nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>&nbsp;
@@ -119,7 +119,7 @@ Click to read more about FAS.
 <p>
 P1 parents are advised to make their online purchase only in early Dec 2023 pending the availability of prices for books marked Not Fixed yet (NFY) to avoid multiple delivery/self-collection.
 </p>	
-<a href="/files/Announcements/pbpurchaseguide.pdf" target="_blank">Click here to refer to Purchase Guide.</a>
+<a href="/files/Announcements/pbonlinepurchaseguide.pdf" target="_blank">Click here to refer to Purchase Guide.</a>
 	<br>
 	<a href="/files/Announcements/booklist.pdf" target="_blank">Click here to refer to Booklist.</a>
 
