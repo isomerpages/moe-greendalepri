@@ -21,7 +21,7 @@ The SCC operator will assist eligible parents to apply for Student Care Financia
 Please refer to the website for&nbsp;[SCFA eligibility criteria](https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa)
 	<br><br>
 	<u>2024 Registration of Interest for EduSmart SCC services (for new students)</u>
-	<br><br>Due to limited capacity, interested parents need to register their interest via&nbsp;<a href="https://zfrmz.com/xh0YVsr5aLMH0Vl46aOH">https://zfrmz.com/xh0YVsr5aLMH0Vl46aOH</a>&nbsp;<b>by Friday, 3 November 2023.</b>
+	<br><br>Due to limited capacity, interested parents need to register their interest via&nbsp;<a href="https://zfrmz.com/xh0YVsr5aLMH0Vl46aOH">this link</a>&nbsp;<b>by Friday, 3 November 2023.</b>
 <br><br>All successful applications will be notified via email by&nbsp;<b>10 November 2023</b>.&nbsp; You will need to complete your registration and payment by&nbsp;<b>15 November 2023</b>&nbsp; to confirm a place at the SCC for Jan intake.
 <br><br>
 	<u>Operating Hours (Monday to Friday)</u>
