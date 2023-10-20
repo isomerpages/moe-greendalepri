@@ -68,7 +68,7 @@ MOE provides financial assistance to Singaporean who need financial assistance f
 <br><br>
 Click to read more about FAS.
 <br>
-<a href="/files/Announcements/Fas%20el.pdf" target="_blank">FAS user guide in English</a>
+<a href="/files/Announcements/fas%20el.pdf" target="_blank">FAS user guide in English</a>
 <br>
 <a href="/files/Announcements/fas%20cl.pdf" target="_blank">FAS user guide in Chinese</a>
 <br>
