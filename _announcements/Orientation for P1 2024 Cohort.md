@@ -77,7 +77,7 @@ Click to read more about FAS.
 <a href="/files/Announcements/fas%20tl.pdf" target="_blank">FAS user guide in Tamil</a>
 <p><b>
 	Click to download MOE FAS application form.</b></p>	
-<a href="/files/Announcements/Moe%20fas%20application.pdf" target="_blank">MOE FAS Application Form</a>
+<a href="/files/Announcements/moe%20fas%20application.pdf" target="_blank">MOE FAS Application Form</a>
 <br>
 	<p><b>e-FAS via FormSG using Singpass login</b></p>
 &nbsp;<a href="https://go.gov.sg/moe-efas">https://go.gov.sg/moe-efas</a>&nbsp;
