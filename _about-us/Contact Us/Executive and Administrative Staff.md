@@ -24,12 +24,10 @@ third_nav_title: Contact Us
     <td>Ms Zeenat Begum Binte Shamsuddin </td>
   </tr>
   <tr>
-    <th rowspan="2">Administrative Executive</th>
-    <td>Mdm Lim Sook Ngoh Carmen</td>
-		<tr>
+    <th rowspan="1">Administrative Executive</th>
 		<td>Mdm Hasnah Binti Bakar</td>
 		</tr>
-  </tr>
+  
   <tr>
   </tr>
   <tr>
@@ -48,7 +46,7 @@ third_nav_title: Contact Us
     <td>Mdm Ng Kim Choo</td>
   </tr>
   <tr>
-    <th rowspan="5">School Attendant</th>
+    <th rowspan="6">School Attendant</th>
     <td>Mr Abdul Rahman Bin Hamid Kutty</td>
   </tr>
   <tr>
@@ -62,6 +60,9 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <td>Mdm Chia Geok Ling (Eve)</td>
+  </tr>
+	<tr>
+   <td>Toh Han Kok Sam</td>
   </tr>
 </tbody>
 </table>

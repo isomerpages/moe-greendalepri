@@ -25,7 +25,7 @@ We offer 4-hour Kindergarten 1 and Kindergarten 2 programmes with the following 
 
 In addition, we offer 3 mother-tongue languages; Chinese Language, Malay Language and Tamil Language.  
   
-**Our MK Online Registration Exercise for 2022 is currently open.**  
+**Our MK Online Registration Exercise for 2024 is currently open.**  
   
 
 ### **Useful information**
@@ -43,7 +43,7 @@ Email:&nbsp;[mk\_greendale@moe.edu.sg](mailto:mk_greendale@moe.edu.sg)
   
 ##### **MOE Kindergarten Uniform Supplier**  
   
-Jeep Sing Uniform and Beau Voix are the suppliers for the MOE Kindergarten uniforms. To purchase the MOE Kindergarten uniforms, please visit the websites&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/)&nbsp;or&nbsp;[www.beauvoix.com/preschool](http://www.beauvoix.com/preschool).
+Jeep Sing Uniform and Beau Voix are the suppliers for the MOE Kindergarten uniforms. To purchase the MOE Kindergarten uniforms, please visit the websites&nbsp;[www.jeepsinguniform.com](http://www.jeepsinguniform.com/)&nbsp;or&nbsp;[www.beauvoix.com.sg/](http://www.beauvoix.com.sg/).
 
   
 ##### **KCare Services at MOE Kindergarten@Greendale**  
