@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Outstanding Youth in Education Award 2024.md
       - The President's Award for Teachers.md
       - Orientation for P1 2024 Cohort.md
       - The Caring Teacher Awards.md
