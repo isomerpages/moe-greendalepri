@@ -1,6 +1,6 @@
 ---
-title: The Caring Teacher Awards
-permalink: /announcements/cta/
+title: The Caring Teacher Awards 2024
+permalink: /announcements/cta2024/
 description: ""
 ---
 ##### Nominate your teacher for the The Caring Teacher Awards 2024.
