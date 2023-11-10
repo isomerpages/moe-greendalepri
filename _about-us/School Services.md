@@ -76,7 +76,7 @@ Closed on Sat, Sun and Public Holidays
 	<p>
 		<a href="/files/School%20Services/pbguide2024.pdf" target="_blank">Click here to refer to the purchase guide.</a>
 		<br>
-		<a href="/files/School%20Services/p1booklist2024.pdf" target="_blank">Click here to refer to the purchase guide.</a>
+		<a href="/files/School%20Services/p1booklist2024.pdf" target="_blank">Click here to refer to the P1 Booklist 2024.</a>
 		<br>
 	</p>
 </div></li>  
