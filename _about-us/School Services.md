@@ -53,6 +53,12 @@ More information on the centre’s closure days by end of the year will be provi
 <a href="/files/Dental%20Schedule/dental%20schedule%20oct%202023.pdf" target="_blank">Click here to refer to the schedule for more details.</a>
 	<br><br>
 	<b>Note</b>
+ <br>
+	Greendale primary school dental clinic will be closed for the year end school holidays 2023 and will reopen 1st week of January 2024. During the closure, parents may call the following buddy clinics to make an appointment.
+	<br>
+	Horizon Primary School at Tel: 85229106
+	<br>
+	Mee Toh School at Tel: 85332942
 	<br>
 	The dental clinic may be closed on certain days as the dental staff is away for meetings or stationed at other locations.
 	<br><br>
