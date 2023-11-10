@@ -74,7 +74,7 @@ More information on the centre’s closure days by end of the year will be provi
 Closed on Sat, Sun and Public Holidays
 	</p>
 	<p>
-		<a href="/files/School%20Services/pbguide2024.pdf" target="_blank">Click here to refer to the schedule for more details.</a>
+		<a href="/files/School%20Services/pbguide2024.pdf" target="_blank">Click here to refer to the purchase guide.</a>
 	</p>
 </div></li>  
 
