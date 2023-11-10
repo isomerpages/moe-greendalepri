@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - MOE Kindergarten @ Greendale/K2 Celebrates!.md
-      - MOE Kindergarten @ Greendale/MOE Kindergarten @ Greendale.md
       - MOE Kindergarten @ Greendale/.keep
+      - MOE Kindergarten @ Greendale/MOE Kindergarten @ Greendale.md
+      - MOE Kindergarten @ Greendale/K2 Celebrates!.md
       - Principal's Foreword.md
       - Our School/.keep
       - Our School/Vision, Mission & Values.md
