@@ -106,7 +106,9 @@ Closed on Sat, Sun and Public Holidays
 		<b>Operating hours:</b><br>
 		
 Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg">http://myuniformshop.com.sg</a>
-	</p>  
+	</p> 
+		<a href="/files/School%20Services/uniformsizeandpricechart.pdf" target="_blank">Click here to refer to the uniform size and prices chart.</a>
+		<br>
 </div></li>  
 
 <li><input id="accordion5" type="checkbox">  
