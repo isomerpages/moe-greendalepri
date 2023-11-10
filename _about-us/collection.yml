@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - MOE Kindergarten @ Greendale/MOE Kindergarten @ Greendale.md
       - MOE Kindergarten @ Greendale/.keep
       - Principal's Foreword.md
       - Our School/.keep
