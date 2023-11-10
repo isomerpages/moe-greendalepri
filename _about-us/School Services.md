@@ -2,6 +2,7 @@
 title: School Services
 permalink: /about-us/school-services/
 description: ""
+variant: markdown
 ---
 ## **School Services**
 
@@ -71,6 +72,9 @@ More information on the centre’s closure days by end of the year will be provi
 		Monday: 8:30am to 3.00pm<br>
 		Tuesday to Friday: 8:30am to 3.30pm<br>
 Closed on Sat, Sun and Public Holidays
+	</p>
+	<p>
+		<a href="/files/School%20Services/pbguide2024.pdf" target="_blank">Click here to refer to the schedule for more details.</a>
 	</p>
 </div></li>  
 
