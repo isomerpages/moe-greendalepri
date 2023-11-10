@@ -78,6 +78,18 @@ Closed on Sat, Sun and Public Holidays
 		<br>
 		<a href="/files/School%20Services/p1booklist2024.pdf" target="_blank">Click here to refer to the P1 Booklist 2024.</a>
 		<br>
+		<a href="/files/School%20Services/p2booklist2024.pdf" target="_blank">Click here to refer to the P2 Booklist 2024</a>
+		<br>
+			<a href="/files/School%20Services/p3booklist2024.pdf" target="_blank">Click here to refer to the P3 Booklist 2024</a>
+		<br>
+			<a href="/files/School%20Services/p4booklist2024.pdf" target="_blank">Click here to refer to the P4 Booklist 2024</a>
+		<br>
+			<a href="/files/School%20Services/p5fbooklist2024.pdf" target="_blank">Click here to refer to the P5 Foundation Booklist 2024</a>
+		<br>
+			<a href="/files/School%20Services/p5booklist2024.pdf" target="_blank">Click here to refer to the P5 Booklist 2024</a>
+		<br>
+			<a href="/files/School%20Services/p6booklist2024.pdf" target="_blank">Click here to refer to the P6 Booklist 2024</a>
+		<br>
 	</p>
 </div></li>  
 
