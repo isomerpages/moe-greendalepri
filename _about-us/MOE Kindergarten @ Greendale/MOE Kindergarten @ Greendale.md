@@ -2,6 +2,8 @@
 title: MOE Kindergarten @ Greendale
 permalink: /about-us/moe-kindergarten-at-greendale/
 description: ""
+third_nav_title: MOE Kindergarten @ Greendale
+variant: markdown
 ---
 ## **MOE Kindergarten @ Greendale**
 

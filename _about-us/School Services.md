@@ -2,6 +2,7 @@
 title: School Services
 permalink: /about-us/school-services/
 description: ""
+variant: markdown
 ---
 ## **School Services**
 
@@ -52,14 +53,22 @@ More information on the centre’s closure days by end of the year will be provi
 <a href="/files/Dental%20Schedule/dental%20schedule%20oct%202023.pdf" target="_blank">Click here to refer to the schedule for more details.</a>
 	<br><br>
 	<b>Note</b>
+ </p><p>
+	Greendale primary school dental clinic will be closed for the year end school holidays 2023 and will reopen 1st week of January 2024.
+	</p>
+	<p>During the closure, parents may call the following buddy clinics to make an appointment.
+	</p>
+	Horizon Primary School at Tel: 85229106
 	<br>
+	Mee Toh School at Tel: 85332942
+	<p>
 	The dental clinic may be closed on certain days as the dental staff is away for meetings or stationed at other locations.
-	<br><br>
+	</p>
 	Parents may confirm the schedule with <br>
 	* Dental staff at Tel: 8522 8424
 	<br>
 	* School's General Office at Tel: 6886 1413
-</p>  
+<p></p>  
 </div></li>  
 
 <li><input id="accordion3" type="checkbox">  
@@ -71,6 +80,24 @@ More information on the centre’s closure days by end of the year will be provi
 		Monday: 8:30am to 3.00pm<br>
 		Tuesday to Friday: 8:30am to 3.30pm<br>
 Closed on Sat, Sun and Public Holidays
+	</p>
+	<p>
+		<a href="/files/School%20Services/pbguide2024.pdf" target="_blank">Click here to refer to the purchase guide.</a>
+		<br>
+		<a href="/files/School%20Services/p1booklist2024.pdf" target="_blank">Click here to refer to the P1 Booklist 2024.</a>
+		<br>
+		<a href="/files/School%20Services/p2booklist2024.pdf" target="_blank">Click here to refer to the P2 Booklist 2024</a>
+		<br>
+			<a href="/files/School%20Services/p3booklist2024.pdf" target="_blank">Click here to refer to the P3 Booklist 2024</a>
+		<br>
+			<a href="/files/School%20Services/p4booklist2024.pdf" target="_blank">Click here to refer to the P4 Booklist 2024</a>
+		<br>
+			<a href="/files/School%20Services/p5fbooklist2024.pdf" target="_blank">Click here to refer to the P5 Foundation Booklist 2024</a>
+		<br>
+			<a href="/files/School%20Services/p5booklist2024.pdf" target="_blank">Click here to refer to the P5 Booklist 2024</a>
+		<br>
+			<a href="/files/School%20Services/p6booklist2024.pdf" target="_blank">Click here to refer to the P6 Booklist 2024</a>
+		<br>
 	</p>
 </div></li>  
 
@@ -87,7 +114,9 @@ Closed on Sat, Sun and Public Holidays
 		<b>Operating hours:</b><br>
 		
 Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg">http://myuniformshop.com.sg</a>
-	</p>  
+	</p> 
+		<a href="/files/School%20Services/uniformsizeandpricechart.pdf" target="_blank">Click here to refer to the uniform size and prices chart.</a>
+		<br>
 </div></li>  
 
 <li><input id="accordion5" type="checkbox">  
