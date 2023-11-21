@@ -41,9 +41,9 @@ For enquiries, please call the School’s Office at Tel: 6886 1413.
 <p> 
 <b>Orientation briefing slides and handbook</b>
 <br>
-		<a href="/files/p12024/p1slides2024.pdf" target="_blank">Click here for the briefing slides.</a>
+		<a href="/files/P12024/p1slides2024.pdf" target="_blank">Click here for the briefing slides.</a>
 	<br>
-		<a href="/files/p12024/p1handbook2024.pdf" target="_blank">Click here for the handbook.</a>
+		<a href="/files/P12024/p1handbook2024.pdf" target="_blank">Click here for the handbook.</a>
 </p>
 </div></li> 
 
