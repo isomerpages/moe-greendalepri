@@ -2,6 +2,7 @@
 title: Orientation for P1 2024 Cohort
 permalink: /announcements/p1-orientation/
 description: ""
+variant: markdown
 ---
 We are pleased to welcome your child/ward to Greendale Primary School! We will be organising an <b>Orientation Programme on 17 November 2023 from 9.00am to 11.00am </b> for parents and their child. We seek your understanding that there will not be any sales of textbooks and school uniform during Orientation.
 We will be sharing more details of the Orientation via School Website, Parents Gateway and Email soon.
@@ -39,7 +40,10 @@ For enquiries, please call the School’s Office at Tel: 6886 1413.
 </p> 
 <p> 
 <b>Orientation briefing slides and handbook</b>
-<br>Coming soon.
+<br>
+		<a href="/files/P12024/p1slides2024.pdf" target="_blank">Click here for the briefing slides.</a>
+	<br>
+		<a href="/files/P12024/p1handbook2024.pdf" target="_blank">Click here for the handbook.</a>
 </p>
 </div></li> 
 
