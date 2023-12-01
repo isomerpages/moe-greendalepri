@@ -4,7 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: P1 Orientation information can be found under the announcement section.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
