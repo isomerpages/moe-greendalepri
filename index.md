@@ -4,8 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: The General Office will be closed at 4.30pm on Thursday (23 Nov
-  2023) as the staff will be away for an external event.
+notification: ""
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
