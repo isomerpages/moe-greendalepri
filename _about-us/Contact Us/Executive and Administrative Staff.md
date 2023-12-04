@@ -3,6 +3,7 @@ title: Executive and Administrative Staff
 permalink: /about-us/contact-us/executive-and-administrative-staff/
 description: ""
 third_nav_title: Contact Us
+variant: markdown
 ---
 ## **Executive and Administrative Staff**
 
@@ -24,10 +25,12 @@ third_nav_title: Contact Us
     <td>Ms Zeenat Begum Binte Shamsuddin </td>
   </tr>
   <tr>
-    <th rowspan="1">Administrative Executive</th>
+    <th rowspan="2">Administrative Executive</th>
 		<td>Mdm Hasnah Binti Bakar</td>
-		</tr>
-  
+		</tr><tr>
+		<td>Ms Normala Basni</td>
+	</tr>
+		
   <tr>
   </tr>
   <tr>
