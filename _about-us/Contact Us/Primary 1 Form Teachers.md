@@ -64,6 +64,5 @@ variant: markdown
     <td>Mr Muhd Saifulbahry (Mr Saiful)<br><br><a href="mailto:muhammad_saifulbahry_abdul_raman@schools.gov.sg" target="_blank" rel="noopener noreferrer">muhammad_saifulbahry_abdul_raman@schools.gov.sg</a> </td>
     <td> Ms Tan Shumin Cecilia<br><br><a href="mailto:tan_shumin_cecilia@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_shumin_cecilia@schools.gov.sg</a></td>
   </tr>
- 
 </tbody>
 </table>
