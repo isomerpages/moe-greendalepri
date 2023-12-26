@@ -3,6 +3,7 @@ title: Primary 1 Form Teachers
 permalink: /about-us/contact-us/primary-1-form-teachers/
 description: ""
 third_nav_title: Contact Us
+variant: markdown
 ---
 ## **Primary 1 - Form Teachers**
 
@@ -30,8 +31,8 @@ third_nav_title: Contact Us
 <tbody>
   <tr>
     <td>1A</td>
-    <td>Mdm Ng Xiangqi<br><br><a href="mailto:ng_xiangqi@schools.gov.sg" target="_blank" rel="noopener noreferrer">ng_xiangqi@schools.gov.sg</a></td>
-    <td>Mr Nur Muhammad Kamal<br><br><a href="mailto:nur_muhammad_kamal_mat@schools.gov.sg" target="_blank" rel="noopener noreferrer">nur_muhammad_kamal_mat@schools.gov.sg</a></td>
+    <td>Ms Tan Li Li<br><br><a href="mailto:tan_li_li_a@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_li_li_a@schools.gov.sg</a></td>
+    <td>Mdm Nazima Banu<br><br><a href="mailto:nazima_banu@schools.gov.sg" target="_blank" rel="noopener noreferrer">nazima_banu@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>1B</td>
