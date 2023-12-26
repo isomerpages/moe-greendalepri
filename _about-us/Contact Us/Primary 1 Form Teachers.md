@@ -37,7 +37,7 @@ variant: markdown
   <tr>
     <td>1B</td>
     <td>Mdm Fa'izah Bte Ibrahim<br><br><a href="mailto:faizah_ibrahim@schools.gov.sg" target="_blank" rel="noopener noreferrer">faizah_ibrahim@schools.gov.sg</a></td>
-    <td>Mdm Peng Jing Jing<br><br><a href="mailto:peng_jingjing@schools.gov.sg">peng_jingjing@schools.gov.sg</a><br></td>
+    <td>Mr Ng Kian Woon<br><br><a href="mailto:ng_kian_woon@schools.gov.sg">ng_kian_woon@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>1C</td>
