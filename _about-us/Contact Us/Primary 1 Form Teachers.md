@@ -64,15 +64,6 @@ variant: markdown
     <td>Mr Muhd Saifulbahry (Mr Saiful)<br><br><a href="mailto:muhammad_saifulbahry_abdul_raman@schools.gov.sg" target="_blank" rel="noopener noreferrer">muhammad_saifulbahry_abdul_raman@schools.gov.sg</a> </td>
     <td> Ms Tan Shumin Cecilia<br><br><a href="mailto:tan_shumin_cecilia@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_shumin_cecilia@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td>  1H</td>
-    <td>Ms Lee Lay Khim Celetio<br><br><a href="mailto:lee_lay_khim_celetio@schools.gov.sgg" target="_blank" rel="noopener noreferrer">lee_lay_khim_celetio@schools.gov.sg</a></td>
-    <td>Mdm Li Jia Min<br><br><a href="mailto:li_jiamin_a@schools.gov.sg" target="_blank" rel="noopener noreferrer">li_jiamin_a@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td> 1J</td>
-    <td>Ms Leong Wei Peck<br><br><a href="mailto:leong_wei_peck@schools.gov.sg" target="_blank" rel="noopener noreferrer">leong_wei_peck@schools.gov.sg</a> </td>
-    <td>Mdm Chen Xujin<br><br><a href="mailto:chen_xujin@schools.gov.sg" target="_blank" rel="noopener noreferrer">chen_xujin@schools.gov.sg</a> </td>
-  </tr>
+ 
 </tbody>
 </table>
