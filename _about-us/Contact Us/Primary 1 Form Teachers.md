@@ -56,8 +56,8 @@ variant: markdown
   </tr>
   <tr>
     <td>1F</td>
-    <td>Mdm Lee Lena<br><br><a href="mailto:lee_lena@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_lena@schools.gov.sg</a> </td>
-    <td>Mr Ng Kian Woon<br><br><a href="mailto:Ng_Kian_Woon@schools.gov.sg">Ng_Kian_Woon@schools.gov.sg</a> </td>
+    <td>Mdm Syazwani Samsudin (Mdm Syaz)<br><br><a href="mailto:syazwani_samsudin@schools.gov.sg" target="_blank" rel="noopener noreferrer">syazwani_samsudin@schools.gov.sg</a> </td>
+    <td>Mrs Stephanie Teng<br><br><a href="mailto:teo_ai_hoon_stephanie@schools.gov.sg">teo_ai_hoon_stephanie@schools.gov.sg</a> </td>
   </tr>
   <tr>
     <td>1G</td>
