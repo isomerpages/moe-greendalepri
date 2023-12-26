@@ -46,8 +46,8 @@ variant: markdown
   </tr>
   <tr>
     <td> 1D</td>
-    <td>Mdm Chia Mei Shan<br><br><a href="mailto:chia_mei_shan@schools.gov.sg" target="_blank" rel="noopener noreferrer">chia_mei_shan@schools.gov.sg</a> </td>
-    <td>Ms Carol Chua Zhi Ning<br><br><a href="mailto:Chua_Zhi_Ning_Carol@schools.gov.sg">Chua_Zhi_Ning_Carol@schools.gov.sg</a> </td>
+    <td>Mdm Doris Yap Li Ching<br><br><a href="mailto:yap_li_ching_doris@schools.gov.sg" target="_blank" rel="noopener noreferrer">yap_li_ching_doris@schools.gov.sg</a> </td>
+    <td>Ms Goh Caiping Regina<br><br><a href="mailto:regina_goh_caiping@schools.gov.sg">regina_goh_caiping@schools.gov.sg</a> </td>
   </tr>
   <tr>
     <td>1E</td>
