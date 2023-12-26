@@ -29,7 +29,7 @@ variant: markdown
   <tr>
     <td>5A</td>
     <td>Mdm Chew Meiqian (Mrs Selena Tan)<br><br><a href="mailto:chew_meiqian@schools.gov.sg" target="_blank" rel="noopener noreferrer">chew_meiqian@schools.gov.sg</a> <br></td>
-    <td> &nbsp;Mdm Phua Min Li (Mrs Koh)<br><br><a href="mailto:phua_min_li@schools.gov.sg" target="_blank" rel="noopener noreferrer">phua_min_li@schools.gov.sg</a><br></td>
+    <td>Mdm Siti Norafizah<br><br><a href="mailto:siti_norafizah_rahmat@schools.gov.sg" target="_blank" rel="noopener noreferrer">siti_norafizah_rahmat@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>5B</td>
