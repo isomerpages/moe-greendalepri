@@ -28,7 +28,8 @@ variant: markdown
 <tbody>
   <tr>
     <td>3A</td>
-    <td>Ms Maybelline Chua, Ivy<br><a href="mailto:Chua_Maybelline_Ivy@schools.gov.sg">Chua_Maybelline_Ivy@schools.gov.sg</a><br></td>
+    <td>Ms Maybelline Chua, Ivy<br><br>
+			<a href="mailto:Chua_Maybelline_Ivy@schools.gov.sg">Chua_Maybelline_Ivy@schools.gov.sg</a><br></td>
     <td>Mdm&nbsp;Chew Boon Ping Janice <br><br><a href="mailto:chew_boon_ping@schools.gov.sg" target="_blank" rel="noopener noreferrer">chew_boon_ping@schools.gov.sg</a><br><br></td>
   </tr>
   <tr>
