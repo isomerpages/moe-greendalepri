@@ -3,6 +3,7 @@ title: Primary 4 Form Teachers
 permalink: /about-us/contact-us/primary-4-form-teachers/
 description: ""
 third_nav_title: Contact Us
+variant: markdown
 ---
 ## **Primary 4 - Form Teachers**
 
@@ -16,7 +17,7 @@ third_nav_title: Contact Us
 	<tbody>
   <tr>
     <th>  Assistant Year Head</th>
-    <td>  Mr Ahmad Zaki Bin Hassan<br><br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg">ahmad_zaki_b_hassan@schools.gov.sg</a> </td>
+    <td> &nbsp;Mr Ahmad Zaki Bin Hassan<br><br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg">ahmad_zaki_b_hassan@schools.gov.sg</a> </td>
   </tr>
 </tbody>
 </table>
@@ -32,7 +33,7 @@ third_nav_title: Contact Us
 <tbody>
   <tr>
     <td>4A</td>
-    <td>Mdm Chew Meiqian (Mrs Selena Tan)<br><br><a href="mailto:chew_meiqian@schools.gov.sg" target="_blank" rel="noopener noreferrer">chew_meiqian@schools.gov.sg</a></td>
+    <td>Mr&nbsp;Mohd Ghazaly Ibrahim Goghari (Mr Emmanuel)<br><br><a href="mailto:mohamed_ghazaly_ibrahim_goghari@schools.gov.sg" target="_blank" rel="noopener noreferrer">mohamed_ghazaly_ibrahim_goghari@schools.gov.sg</a></td>
     <td>Mdm Zubaidah Binte Amid<br><br><a href="mailto:zubaidah_amid@schools.gov.sg">zubaidah_amid@schools.gov.sg</a><br></td>
   </tr>
   <tr>
@@ -52,5 +53,5 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     
-</tbody>
+</tr></tbody>
 </table>
