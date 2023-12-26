@@ -51,8 +51,8 @@ variant: markdown
   </tr>
   <tr>
     <td>1E</td>
-    <td>Mdm Nur Azimah Bte Hassan<br><br><a href="mailto:nur_azimah_hassan@schools.gov.sg" target="_blank" rel="noopener noreferrer">nur_azimah_hassan@schools.gov.sg</a> </td>
-    <td>Mr Neo Aik Ghee<br><br><a href="mailto:neo_aik_ghee@schools.gov.sg" target="_blank" rel="noopener noreferrer">neo_aik_ghee@schools.gov.sg</a> </td>
+    <td>Mdm Khor Hong Yee (Mrs Low)<br><br><a href="mailto:khor_hong_yee@schools.gov.sg" target="_blank" rel="noopener noreferrer">khor_hong_yee@schools.gov.sg</a> </td>
+    <td>Ms Nurdiana Binte Hasim<br><br><a href="mailto:nurdiana_hasim@schools.gov.sg" target="_blank" rel="noopener noreferrer">nurdiana_hasim@schools.gov.sg</a> </td>
   </tr>
   <tr>
     <td>1F</td>
