@@ -4,8 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: "Due to Annual Power Shutdown, the school’s General Office will be
-  closed from 2.00pm on 28 Dec 2023.  "
+notification: ""
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
