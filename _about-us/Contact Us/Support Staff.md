@@ -3,6 +3,7 @@ title: Support Staff
 permalink: /about-us/contact-us/support-staff/
 description: ""
 third_nav_title: Contact Us
+variant: markdown
 ---
 ## **Support Staff**
 
@@ -28,7 +29,7 @@ third_nav_title: Contact Us
   </tr>
   <tr>
     <th>Dental Therapist</th>
-    <td>Mdm Rebecca Han </td>
+    <td>Mdm Kamisah Bte Khamis </td>
   </tr>
 </tbody>
 </table>
