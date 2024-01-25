@@ -1,0 +1,25 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Sports and Games/.keep
+      - Sports and Games/Badminton.md
+      - Sports and Games/Netball (Girls Only).md
+      - Sports and Games/Softball (Boys Only).md
+      - Sports and Games/Table Tennis.md
+      - Sports and Games/Volleyball.md
+      - Sports and Games/Wushu.md
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Art.md
+      - Visual and Performing Arts/Chinese Calligraphy & Painting.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Guitar.md
+      - Visual and Performing Arts/Modern Dance.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Chess Club.md
+      - Clubs and Societies/Infocomm Club.md
+      - Clubs and Societies/Environmental Club.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Red Cross.md
+      - Uniformed Groups/Boys Brigade.md
+      - Uniformed Groups/Girls Brigade.md
