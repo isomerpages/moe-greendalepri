@@ -2,64 +2,91 @@
 title: School Advisory Committee
 permalink: /partners-1/school-advisory-committee/
 description: ""
+variant: tiptap
 ---
-## **School Advisory Committee**
-![](/images/Partners/School%20Advisory%20Committee.jpg)
+<h2><strong>School Advisory Committee</strong></h2>
 <table>
-<thead>
-  <tr>
-    <th>Name   </th>
-    <th>Appointment</th>
-  </tr>
-</thead>
 <tbody>
-  <tr>
-    <td>Mr Khong Kwok Wai</td>
-    <td>Chairman</td>
-  </tr>
-	<tr>
-    <td>Mrs Noorismawaty Sng</td>
-    <td>Honorary Secretary</td>
-  </tr>
-	 <tr>
-    <td>Mr Edy Hardijana Tjugito</td>
-    <td>Member </td>
-  </tr>
-	  <tr>
-    <td>Ms Theodora Lai Xi Yi</td>
-    <td> Member</td>
-  </tr>
-	<tr>
-    <td>Mr Victor Tong Joo Chuan</td>
-    <td>Member </td>
-  </tr>
-	  <tr>
-    <td> Mdm Serene Koh</td>
-    <td>Member </td>
-  </tr>
-  <tr>
-    <td>Mr Cheng Kang Lim</td>
-    <td>Member</td>
-  </tr>
-  <tr>
-    <td>Mr Tony Lai</td>
-    <td>Member </td>
-  </tr>
-	<tr>
-    <td>Mr Foong Kok Pun</td>
-    <td>Member </td>
 <tr>
-    <td>Mr Alvin Ong</td>
-    <td>Member </td>
-  </tr>
-	<tr>
-    <td>Ms Jia Ying</td>
-    <td>Member </td>
-  </tr>
-	<tr>
-    <td>Mdm Shamin Razak</td>
-    <td>Member </td>
-  </tr>
-  </tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Appointment</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Foong Kok Pun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Term 2 Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tony Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairperson</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Noorismawaty Sng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Honorary Secretary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Edy Hardijana Tjugito</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Hsiao Juan Serene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Alvin Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sharmin Abdul Razak</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Maria Bhavani Dass</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Anthony Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
