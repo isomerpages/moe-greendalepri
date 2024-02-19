@@ -2,7 +2,7 @@ collections:
   moe-kindergarten-at-greendale:
     output: true
     order:
-      - Curriculum and Programmes.md
       - MOE Kindergarten @ Greendale.md
       - A Day At MOE Kindergarten.md
+      - Curriculum and Programmes.md
       - K2 Celebrates!.md
