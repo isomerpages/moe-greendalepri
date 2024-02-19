@@ -17,6 +17,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>Ms Amalina Batcha Sahib
+<br>
 <br><a href="amalina_batcha_sahib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amalina_batcha_sahib@schools.gov.sg</a>
 </p>
 </td>
@@ -43,14 +44,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Maybelline Chua, Ivy
 <br>
-<br><a href="mailto:Chua_Maybelline_Ivy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Maybelline_Ivy@schools.gov.sg</a>
+<br><a href="mailto:Chua_Maybelline_Ivy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Maybelline_Ivy@schools.gov.sg</a> 
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr&nbsp;Lim Jenn Yang
 <br>
-<br><a href="mailto:Lim_Jenn_Yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Jenn_Yang@schools.gov.sg</a>
+<br><a href="mailto:Lim_Jenn_Yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Jenn_Yang@schools.gov.sg</a> 
 <br>
 <br>
 </p>
@@ -69,7 +70,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm&nbsp;Suhaizan Bte Talib
 <br>
-<br><a href="mailto:Suhaizan_Talib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Suhaizan_Talib@schools.gov.sg</a>
+<br><a href="mailto:Suhaizan_Talib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Suhaizan_Talib@schools.gov.sg</a> 
 <br>
 </p>
 </td>
