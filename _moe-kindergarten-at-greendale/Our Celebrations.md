@@ -4,7 +4,7 @@ permalink: /about-us/moe-kindergarten-greendale/our-celebrations/
 variant: markdown
 description: ""
 ---
-### K2 Celebrates!
+### Our Celebrations
 
 [Please click on this link to view the montage](https://youtu.be/agYDSJspPL8?si=GmgQWkUQaRdL4QXH)
 <br>
