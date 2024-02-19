@@ -2,6 +2,7 @@ collections:
   moe-kindergarten-at-greendale:
     output: true
     order:
+      - Learning Environment.md
       - MOE Kindergarten @ Greendale.md
       - A Day At MOE Kindergarten.md
       - Curriculum and Programmes.md
