@@ -1,8 +1,8 @@
 ---
-title: MK @ Greendale
-permalink: /about-us/contact-us/mk-at-greendale/
+title: Contact Us
+permalink: /moe-kindergarten-at-greendale/contact-us/
 description: ""
-third_nav_title: Contact Us
+variant: tiptap
 ---
 ## **MK @ Greendale**
 
