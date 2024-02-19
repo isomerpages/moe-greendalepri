@@ -14,3 +14,15 @@ activities with a distinctive Singapore flavour.</p>
 and Starlight Literacy Programme for English and Mother Tongue Language
 (MTL). In addition, each term at MK will conclude in a Weeks of Wonder
 project.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Greendale/Kids_pointing.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Greendale/Crawling.jpeg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MK@Greendale/Activity.jpg">
+</div>
+<p></p>
