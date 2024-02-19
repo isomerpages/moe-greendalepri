@@ -1,11 +1,11 @@
 ---
 title: Our Celebrations
 permalink: /about-us/moe-kindergarten-greendale/our-celebrations/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-### Our Celebrations
-
-[Please click on this link to view the montage](https://youtu.be/agYDSJspPL8?si=GmgQWkUQaRdL4QXH)
-<br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/agYDSJspPL8?si=lHCxFAiPOztHuFML" height="470" width="836"></iframe>
+<h3>Our Celebrations</h3>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/f9ckMbHRUio?si=kvKnIE-q6-D4lJSe"></iframe>
+</div>
+<p></p>
