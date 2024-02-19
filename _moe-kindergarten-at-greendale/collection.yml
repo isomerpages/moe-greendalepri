@@ -2,5 +2,5 @@ collections:
   moe-kindergarten-at-greendale:
     output: true
     order:
-      - K2 Celebrates!.md
       - MOE Kindergarten @ Greendale.md
+      - K2 Celebrates!.md
