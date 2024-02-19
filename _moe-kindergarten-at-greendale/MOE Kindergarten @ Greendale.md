@@ -8,16 +8,13 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Q6AiwIxDnII?si=5OM36iNAKOHybQIR"></iframe>
 </div>
-<p>A well-designed curriculum that enables children to learn actively through
-play. The learning environment is designed to enable enactment of the curriculum
-safely.</p>
 <p>Every space in MK@Greendale is a learning space - creative use of available
 space encourages our children to discover and explore their surroundings.
 The inviting and thoughtfully-designed classrooms support teaching and
 learning while the safe outdoor spaces promote learning, engagement and
 active play.</p>
-<p>Outdoor Playground and Tricycle Play:&nbsp;<a href="https://goo.gl/maps/85QvFdV3WA4oywyU6" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/85QvFdV3WA4oywyU6</a>
-<br>Outdoor Garden and Sand Pit Play:&nbsp;<a href="https://goo.gl/maps/XK2WcoVWAce8KX3j9" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/XK2WcoVWAce8KX3j9</a>
+<p>Outdoor Playground and Tricycle Play:&nbsp;<a href="https://goo.gl/maps/85QvFdV3WA4oywyU6" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/85QvFdV3WA4oywyU6</a> 
+<br>Outdoor Garden and Sand Pit Play:&nbsp;<a href="https://goo.gl/maps/XK2WcoVWAce8KX3j9" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/XK2WcoVWAce8KX3j9</a> 
 <br>Classrooms:&nbsp;<a href="https://goo.gl/maps/4oSMHzmc1gTCS3Nd7" rel="noopener noreferrer nofollow" target="_blank">https://goo.gl/maps/4oSMHzmc1gTCS3Nd7</a>
 </p>
 <p>For more information on our curriculum:&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten</a>
