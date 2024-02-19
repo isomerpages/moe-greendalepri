@@ -1,4 +1,5 @@
 collections:
   moe-kindergarten-at-greendale:
     output: true
-    order: []
+    order:
+      - MOE Kindergarten @ Greendale.md
