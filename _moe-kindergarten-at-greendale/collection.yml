@@ -2,9 +2,9 @@ collections:
   moe-kindergarten-at-greendale:
     output: true
     order:
-      - Contact Us.md
       - MOE Kindergarten @ Greendale.md
       - A Day At MOE Kindergarten.md
       - Curriculum and Programmes.md
       - Learning Environment.md
       - Our Celebrations.md
+      - Contact Us.md
