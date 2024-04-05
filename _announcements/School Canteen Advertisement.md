@@ -60,8 +60,11 @@ Singapore Food Agency (SFA).</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Download and complete the application form. You may also request for hardcopy
-form at the School’s General Office.</p>
+<p>Download and complete the application form.
+<br><a href="/files/Forms/application_for_school_canteen_stall.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<br>You may also request for hardcopy form at the School’s General Office.
+<br>
+</p>
 </li>
 <li>
 <p>Attach the following documents together with the application form:</p>
@@ -84,7 +87,7 @@ email OR to the School’s General Office.
 <br>
 <br>Address: 50 Edgedale Plains
 <br>Contact No: 68861413
-<br>Email: <a href="Greendale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Greendale_ps@moe.edu.sg</a>
+<br>Email: <a href="Greendale_ps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Greendale_ps@moe.edu.sg</a> 
 <br>Contact Person: Mr Karunamuthi Muthiah, Operations Manager</p>
 </li>
 <li>
