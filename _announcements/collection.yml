@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Outstanding Youth in Education Award 2024.md
       - Orientation for P1 2024 Cohort.md
       - Artopia.md
       - Triple P (Positive Parenting Program).md
