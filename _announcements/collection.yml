@@ -2,9 +2,9 @@ collections:
   announcements:
     output: true
     order:
-      - Orientation for P1 2024 Cohort.md
       - Outstanding Youth in Education Award 2024.md
       - The President's Award for Teachers 2024.md
+      - Orientation for P1 2024 Cohort.md
       - Artopia.md
       - Triple P (Positive Parenting Program).md
       - Cycling to School.md
