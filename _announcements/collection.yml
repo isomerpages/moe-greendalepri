@@ -2,5 +2,6 @@ collections:
   announcements:
     output: true
     order:
+      - Open House 2024.md
       - School Canteen Advertisement.md
       - Cycling to School.md
