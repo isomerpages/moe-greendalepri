@@ -19,7 +19,7 @@ sections:
       title: Open House 2024
       id: infobar
       button: view details
-      url: /announcements/open-house-2024/
+      url: https://greendalepri.moe.edu.sg/open-house-2024/
   - infobar:
       title: Latest School Brochure
       button: View Brochure
