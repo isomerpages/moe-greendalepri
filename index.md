@@ -4,7 +4,8 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Register now for our Open House and Exhibition 2024. Check under
+  "Announcements" for more details.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
