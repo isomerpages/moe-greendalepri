@@ -16,10 +16,10 @@ sections:
           description: Our School Instagram
           url: https://go.gov.sg/greendaleps-ig
   - infobar:
-      title: P1 Orientation 2024 cohort
+      title: Open House 2024
       id: infobar
       button: View information
-      url: /announcements/p1-orientation/
+      url: /announcements/open-house-2024/
   - infobar:
       title: Latest School Brochure
       button: View Brochure
