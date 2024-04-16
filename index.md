@@ -18,7 +18,7 @@ sections:
   - infobar:
       title: Open House 2024
       id: infobar
-      button: View information
+      button: view details
       url: /announcements/open-house-2024/
   - infobar:
       title: Latest School Brochure
