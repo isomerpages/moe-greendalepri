@@ -12,7 +12,7 @@ variant: markdown
 <thead>
   <tr>
     <th>Administration Manager</th>
-    <td>Mdm Quek Swee Kim (Mrs Linda Yip)</td>
+    <td>Ms Ng Meiyan Teresa</td>
   </tr>
 </thead>
 <tbody>
