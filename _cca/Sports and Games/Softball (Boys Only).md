@@ -47,26 +47,6 @@ Championships!</p>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/CCA/Softball%204.jpg">
 </div>
-<p><strong><u>Awesome seniors 2019</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/CCA/Softball%205.jpg">
-</div>
-<p><strong><u>Amazing juniors 2019</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/CCA/Softball%206.jpg">
-</div>
-<p><strong><u>Softball carnival at Monfort Secondary</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/CCA/Softball%207.jpg">
-</div>
-<p><strong><u>2nd Place</u></strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/CCA/Softball%208.jpg">
-</div>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
