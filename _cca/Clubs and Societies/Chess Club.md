@@ -61,5 +61,4 @@ people of any age, gender, race and social class can all play.</p>
 </tr>
 </tbody>
 </table>
-<p>Disclaimer: All photos of pupils without masks are taken prior to the
-Circuit Breaker period.</p>
+<p></p>
