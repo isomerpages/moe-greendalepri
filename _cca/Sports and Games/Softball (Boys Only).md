@@ -67,9 +67,7 @@ Championships!</p>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/CCA/Softball%208.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
