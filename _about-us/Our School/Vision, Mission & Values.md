@@ -15,7 +15,6 @@ values.</p>
 <h3><strong>Mission</strong></h3>
 <p>Inspiring Minds, Nurturing Hearts, Empowering Growth.</p>
 <h3><strong>School Values</strong></h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/About Us/Grace_Values.png">
 </div>
