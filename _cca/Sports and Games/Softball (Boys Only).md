@@ -75,7 +75,7 @@ Championships!</p>
 <p>Mr Lim Jenn Yang – I/C
 <br>Mr Zaki Hassan
 <br>Mdm Arifah
-<br>Mdm Ng chin Hoon</p>
+<br>Mdm Ng Chin Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday*
