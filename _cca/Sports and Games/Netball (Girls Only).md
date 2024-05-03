@@ -3,6 +3,7 @@ title: Netball (Girls Only)
 permalink: /cca/sports-and-games/netball-girls-only/
 description: ""
 third_nav_title: Sports and Games
+variant: markdown
 ---
 ## **Netball (Girls Only)**
 
@@ -16,17 +17,13 @@ The pupils will also learn to embrace the values of excellence, sportsmanship an
 
 Team Greendale will also be training progressively to prepare pupils to represent the school in the North Zone Netball Tournament and carnivals organised by Netball Singapore. We look forward to maximising the exposure and experience of the girls in our CCA.
 
-<img src="/images/CCA/Netball%20(1).jpg"  
-     style="width:55%">
+<img src="/images/CCA/Netball%20(1).jpg" style="width:55%">
 
-<img src="/images/CCA/Netball%20(2).jpg"  
-     style="width:55%">
+<img src="/images/CCA/Netball%20(2).jpg" style="width:55%">
 		 
-<img src="/images/CCA/Netball%20(3).jpg"  
-     style="width:55%">
+<img src="/images/CCA/Netball%20(3).jpg" style="width:55%">
 		 
-<img src="/images/CCA/Netball%20(4).jpg"  
-     style="width:55%">		 
+<img src="/images/CCA/Netball%20(4).jpg" style="width:55%">		 
 
 <br>
 
@@ -53,4 +50,3 @@ Team Greendale will also be training progressively to prepare pupils to represen
 
   
 
-Disclaimer: All photos of pupils without masks are taken prior to the Circuit Breaker period.
