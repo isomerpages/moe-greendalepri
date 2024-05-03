@@ -66,5 +66,3 @@ selected get to participate in the Inter-School Table Tennis competitions.</p>
 </tbody>
 </table>
 <p>* School Team only</p>
-<p>Disclaimer: All photos of pupils without masks are taken prior to the
-Circuit Breaker period.</p>
