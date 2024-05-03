@@ -35,8 +35,8 @@ Financial Assistance, administered by Ministry of Social and Family Development
 <br>
 <br><u>Operating Hours (Monday to Friday)</u> 
 <br>
-<br>School Term:&nbsp;<strong>After School to 7.00 p.m.</strong>
-<br>School Holidays:&nbsp;<strong>7.30 a.m. to 7.00 p.m.</strong>
+<br>School Term:&nbsp;<strong>After School to 7.00 p.m.</strong> 
+<br>School Holidays:&nbsp;<strong>7.30 a.m. to 7.00 p.m.</strong> 
 <br>
 <br>The student care centre is&nbsp;<strong>closed</strong>&nbsp;on Saturdays,
 Sundays and gazetted public holidays.
@@ -54,16 +54,16 @@ hp: 80319788.</p>
 <p>Dental Service</p>
 <p><u>Typical Opening Hours:</u> 
 <br>
-<br>Monday to Wednesday :&nbsp;<strong>8.00am to 5.30pm</strong>
+<br>Monday to Wednesday :&nbsp;<strong>8.00am to 5.30pm</strong> 
 <br>Thursday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; : <strong>8.00am to 12.30pm</strong> 
 <br>Friday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;<strong>8.00am to 12.00pm</strong>
+&nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;<strong>8.00am to 12.00pm</strong> 
 <br>Lunch&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;<strong>1.00pm to 2.00pm</strong> 
 <br>
 </p>
-<p><a href="/files/Dental%20Schedule/dental%20schedule%20mar%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a> 
+<p><a href="/files/Dental Schedule/dental schedule may 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a> 
 <br>
 <br><strong>Note</strong>
 </p>
@@ -104,13 +104,13 @@ away for meetings or stationed at other locations.</p>
 <p>Sale of uniforms</p>
 <p><u>My Uniform Shop (ASIA) Pte Ltd</u> 
 <br>
-<br><strong>Retail Address:</strong>
+<br><strong>Retail Address:</strong> 
 <br>209 New Upper Changi Road
 <br>#03-651 Singapore 460209
 <br>
 <br><strong>Retail outlet contact no:</strong> 62766689
 <br>
-<br><strong>Operating hours:</strong>
+<br><strong>Operating hours:</strong> 
 <br>
 </p>
 <p>Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://myuniformshop.com.sg</a>
@@ -141,7 +141,7 @@ for your child might vary by 10-15 minutes due to the traffic conditions
 and the student attendance taking process during school dismissal. The
 driver may also make adjustments to the routes. We seek your understanding
 and patience on this.</p>
-<p><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the new bus fares. <br></a>
+<p><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the new bus fares. <br></a> 
 <a href="/files/School%20Services/school%20bus%20request.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the school bus request form and the terms and conditions.</a>
 </p>
 <p></p>
