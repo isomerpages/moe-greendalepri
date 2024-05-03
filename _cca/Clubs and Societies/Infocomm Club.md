@@ -57,5 +57,4 @@ ideas and use them in their school projects.</p>
 </tr>
 </tbody>
 </table>
-<p>Disclaimer: All photos of pupils without masks are taken prior to the
-Circuit Breaker period.</p>
+<p></p>
