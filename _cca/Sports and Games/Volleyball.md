@@ -80,5 +80,3 @@ the various volleyball carnivals. If you like challenge, join our CCA!</p>
 </tbody>
 </table>
 <p>* School Team only</p>
-<p>Disclaimer: All photos of pupils without masks are taken prior to the
-Circuit Breaker period.</p>
