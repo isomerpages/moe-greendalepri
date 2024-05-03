@@ -14,15 +14,6 @@ and plucking. The exposure to musical and artistic components is an integral
 part in developing the personality and art appreciation of the pupils.
 With familiar repertoires to play to, pupils will enjoy this CCA and achieve
 confidence to perform on the big stage.</p>
-<div class="iframe-wrapper">
-<iframe height="467" width="831" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/QDehpSCd0pc"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="467" width="831" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zJ5OTQhZPlo"></iframe>
-</div>
-<div class="iframe-wrapper">
-<iframe height="468" width="832" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fAWM7EXsQ_k"></iframe>
-</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
