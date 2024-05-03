@@ -95,8 +95,9 @@ Championships!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Jenn Yang – I/C
-<br>Mdm Peng Jing Jing
-<br>Ms Khor Hong Yee</p>
+<br>Mr Zaki Hassan</p>
+<p>Mdm Arifah Bte Adnan</p>
+<p>Mdm Ng chin Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday*
