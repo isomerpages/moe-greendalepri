@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
-<h2><strong>International Dance</strong></h2>
+<h2><strong>Modern Dance</strong></h2>
 <p><strong><u>Singapore Youth Festival (SYF)</u></strong>
 </p>
 <div class="isomer-image-wrapper">
