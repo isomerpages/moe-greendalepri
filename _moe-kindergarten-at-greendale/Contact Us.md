@@ -17,7 +17,7 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Yoke Duan
-<br><a href="mailto:koh_yoke_duan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_yoke_duan@schools.gov.sg</a>
+<br><a href="mailto:koh_yoke_duan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_yoke_duan@schools.gov.sg</a> 
 <br>
 </p>
 </td>
@@ -36,14 +36,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Refah Binte Haa-meed</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
