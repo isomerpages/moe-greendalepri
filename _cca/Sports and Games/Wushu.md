@@ -51,6 +51,7 @@ They have also made the school proud during the National School Games.</p>
 <p>Ms Neo Aik Ghee– I/C
 <br>Mdm Chia Mei Shan
 <br>Mdm Khor Hong Yee</p>
+<p>Mdm Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday*
