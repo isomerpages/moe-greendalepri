@@ -119,7 +119,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Low Bee Lyn Janet</p>
+<p>Mdm Low Bee Lyn (Janet)</p>
 </td>
 </tr>
 </tbody>
