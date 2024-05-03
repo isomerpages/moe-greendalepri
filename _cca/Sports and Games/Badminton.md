@@ -83,5 +83,3 @@ Boys, Junior Girls, Senior Boys and Senior Girls.
 </tbody>
 </table>
 <p>* School Team only</p>
-<p>Disclaimer: All photos of pupils without masks are taken prior to the
-Circuit Breaker period.</p>
