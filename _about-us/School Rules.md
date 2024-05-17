@@ -236,7 +236,7 @@ property.</p>
 <p>Hair length must not touch the shirt collar, ears and eyebrows.</p>
 </li>
 <li>
-<p>Being clean shaven e.g. All male students must be clean-shaven at all
+<p>Being clean-shaven e.g. All male students must be clean-shaven at all
 times. Moustache and beards are not allowed.</p>
 </li>
 </ol>
