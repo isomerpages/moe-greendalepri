@@ -12,7 +12,7 @@ description: ""
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Anthem and Pledge</h4>
+<h3>Anthem and Pledge</h3>
 </th>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ the heart.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Attire</h4>
+<h3>Attire</h3>
 </th>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ PE and Sport CCA training sessions for safety reasons.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Attendance</h4>
+<h3>Attendance</h3>
 </th>
 </tr>
 <tr>
@@ -111,7 +111,7 @@ including afternoon school activities.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Leaving school during school hours</h4>
+<h3>Leaving school during school hours</h3>
 </th>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ a form before taking the student home.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Safety and Security</h4>
+<h3>Safety and Security</h3>
 </th>
 </tr>
 <tr>
@@ -180,8 +180,118 @@ provided if teachers need to use them in class.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h3>Attitude</h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Students must uphold the good name of the school at all times and at all
+places.</p>
+</li>
+<li>
+<p>Students are to be gracious to one another and greet teachers and visitors.</p>
+</li>
+<li>
+<p>Students are to take good care of their own belongings and all school
+property.</p>
+</li>
+<li>
+<p>Students are to be attentive in class and do their best at all times.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h3>Personal Grooming</h3>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4>Boys</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Tinted or dyed hair is not allowed.</p>
+</li>
+<li>
+<p>Only short and neat hairstyle for boys.</p>
+</li>
+<li>
+<p>Hair length must not touch the shirt collar, ears and eyebrows.</p>
+</li>
+<li>
+<p>Being clean shaven e.g. All male students must be clean-shaven at all
+times. Moustache and beards are not allowed.</p>
+</li>
+</ol>
+<h4>Girls</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Tinted or dyed hair is not allowed.</p>
+</li>
+<li>
+<p>Only simple hairstyle for girls.</p>
+</li>
+<li>
+<p>Short hair - Hair length must be above collar.</p>
+</li>
+<li>
+<p>Long hair - Hair must be neatly tied-up or plaited with black rubber bands
+or scrunchies.</p>
+</li>
+<li>
+<p>Girls with long fringes must use black hairbands or black hair clips to
+pin up their fringes.</p>
+</li>
+</ol>
+<h4>Fingernails</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students are not allowed to apply nail polish.</p>
+</li>
+<li>
+<p>Fingernails are to be kept short and clean at all times.</p>
+</li>
+</ol>
+<h4>Accessories</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p>Girls can only wear small plain gold or silver ear studs.</p>
+</li>
+<li>
+<p>Boys are not allowed to wear earrings or ear studs.</p>
+</li>
+<li>
+<p>Students are not allowed to wear jewellery (genuine or fake) in school.</p>
+</li>
+<li>
+<p>No henna painting and tattoos are allowed.</p>
+</li>
+<li>
+<p>No fanciful and colourful spectacle frames. Only simple solid coloured
+frames are allowed.</p>
+</li>
+</ol>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
