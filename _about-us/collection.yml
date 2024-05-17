@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Rules 2.md
       - Principal's Foreword.md
       - Our School/.keep
       - Our School/Vision, Mission & Values.md
