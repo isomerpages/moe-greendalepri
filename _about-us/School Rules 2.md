@@ -119,7 +119,7 @@ including afternoon school activities.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Students are not allowed to leave the school during school hours unless
-fetched by parent or Guardian.</p>
+fetched by Parent or Guardian.</p>
 </li>
 <li>
 <p>Parents must report to General Office upon reaching the school and complete
