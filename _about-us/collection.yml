@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Rules 2.md
       - Principal's Foreword.md
       - Our School/.keep
       - Our School/Vision, Mission & Values.md
@@ -10,6 +9,7 @@ collections:
       - Our School/School Anthem.md
       - Our School/School Brochure.md
       - School EXCO.md
+      - School Rules 2.md
       - School Rules.md
       - School Services.md
       - Contact Us/.keep
