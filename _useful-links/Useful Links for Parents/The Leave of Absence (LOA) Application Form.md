@@ -13,5 +13,5 @@ application has to be renewed yearly. Application must reach the school
 by&nbsp;<strong>1 Nov</strong>&nbsp;for renewal to be effective the following
 year.</p>
 <p>Parents may submit the application via the following url:</p>
-<p><a href="https://form.gov.sg/60bedba22dd57e00117cb4a2" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/60bedba22dd57e00117cb4a2</a>
+<p><a href="https://go.gov.sg/gdps-loa" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/gdps-loa</a>
 </p>
