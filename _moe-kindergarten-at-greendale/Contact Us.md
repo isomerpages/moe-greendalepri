@@ -67,14 +67,6 @@ variant: tiptap
 <p>English Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Simone</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Gwyneth Quek Ee-En</p>
 </td>
 </tr>
