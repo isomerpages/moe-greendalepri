@@ -43,7 +43,7 @@ the heart.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Students are to wear the prescribed school uniform and modification to
-the school uniform is not allowed.</p>
+the uniform is not allowed.</p>
 </li>
 <li>
 <p>PE T-shirt and shorts are only meant for PE and games.</p>
@@ -144,7 +144,7 @@ a form before taking the student home.</p>
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p>All students are not allowed to have in their possession any weapon. They
+<p>Students are not allowed to have in their possession any weapon. They
 are also not allowed to bring any weapon-like item which is intended to
 be used to cause harm to others.</p>
 </li>
@@ -236,8 +236,8 @@ property.</p>
 <p>Hair length must not touch the shirt collar, ears and eyebrows.</p>
 </li>
 <li>
-<p>Being clean-shaven e.g. All male students must be clean-shaven at all
-times. Moustache and beards are not allowed.</p>
+<p>Males being clean-shaven e.g. All male students must be clean shaven at
+all times. Moustache and beards are not allowed.</p>
 </li>
 </ol>
 <h4>Girls</h4>
