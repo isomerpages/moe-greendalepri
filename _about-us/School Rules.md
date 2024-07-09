@@ -43,7 +43,7 @@ the heart.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Students are to wear the prescribed school uniform and modification to
-the school uniform is not allowed.</p>
+the uniform is not allowed.</p>
 </li>
 <li>
 <p>PE T-shirt and shorts are only meant for PE and games.</p>
