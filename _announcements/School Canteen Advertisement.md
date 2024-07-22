@@ -4,7 +4,12 @@ permalink: /school-canteen-advertisement/
 variant: tiptap
 description: ""
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -22,7 +27,7 @@ description: ""
 <p>Economy Rice Stall (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 May 2024</p>
+<p>30 August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>See Below</p>
@@ -30,10 +35,21 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Others (Non-Halal, open to proposal)</p>
+<p>Economy Rice Stall (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 May 2024</p>
+<p>30 August 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>See Below</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Others (Halal, open to proposal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>30 August 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>See Below</p>
