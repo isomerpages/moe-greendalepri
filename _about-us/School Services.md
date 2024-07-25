@@ -46,7 +46,7 @@ be provided to confirmed SCC students.
 <br>
 <br><u>SCC Contact</u> 
 <br>
-<br>For assistance, please email the Centre at&nbsp;<a href="mailto:greendale_sccops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_sccops@singaporeedusmart.edu.sg</a> or
+<br>For assistance, please email the Centre at&nbsp;<a href="mailto:greendale_sccops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_sccops@singaporeedusmart.edu.sg</a><br> or
 hp: 80319788.</p>
 </div></li>
 	
