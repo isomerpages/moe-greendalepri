@@ -130,7 +130,6 @@ and patience on this.</p>
 <p><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the new bus fares. <br></a> 
 <a href="/files/School%20Services/school%20bus%20request.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the school bus request form and the terms and conditions.</a>
 </p>
-<p></p>
 </div></li>
 
 
