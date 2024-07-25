@@ -16,10 +16,10 @@ sections:
           description: Our School Instagram
           url: https://go.gov.sg/greendaleps-ig
   - infobar:
-      title: Open House 2024
+      title: Canteen Advertisement
       id: infobar
       button: view details
-      url: https://greendalepri.moe.edu.sg/open-house-2024/
+      url: https://www.greendalepri.moe.edu.sg/school-canteen-advertisement/
   - infobar:
       title: Latest School Brochure
       button: View Brochure
