@@ -4,6 +4,7 @@ permalink: /about-us/school-services/
 description: ""
 variant: markdown
 ---
+<ul class="jekyllcodex\_accordion">
 <h2><strong>School Services</strong></h2>
 <li><input type="checkbox" id="accordion1">
 <label for="accordion1">Student Care Centre (SCC)</label><div>
@@ -135,4 +136,4 @@ and patience on this.</p>
 
 
 
-<p></p>
+<p></p></ul>
