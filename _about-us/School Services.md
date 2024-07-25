@@ -67,8 +67,8 @@ hp: 80319788.</p>
 </p>
 <p></p>
 </div></li>
-<li>
-<p>School Bookshop</p>
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">School Bookshop</label><div>
 <p><u>Pacific Bookstores Pte Ltd</u> 
 <br>
 <br><strong>Opening Hours:</strong> 
@@ -85,9 +85,9 @@ hp: 80319788.</p>
 <br><a href="/files/School%20Services/p6booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P6 Booklist 2024</a> 
 <br>
 </p>
-</li>
-<li>
-<p>Sale of uniforms</p>
+</div></li>
+<li><input type="checkbox" id="accordion4">  
+<label for="accordion4">Sale of uniforms</label><div>
 <p><u>My Uniform Shop (ASIA) Pte Ltd</u> 
 <br>
 <br><strong>Retail Address:</strong> 
@@ -105,9 +105,9 @@ hp: 80319788.</p>
 <br>
 </p>
 <p></p>
-</li>
-<li>
-<p>School Bus Service</p>
+</div></li>
+<li><input type="checkbox" id="accordion5">  
+<label for="accordion5">School Bus Service</label><div>
 <p><u>SFX Transport Services</u> 
 <br>
 <br>The school's appointed daily school bus operator from Year 2024 to Year
@@ -131,6 +131,7 @@ and patience on this.</p>
 <a href="/files/School%20Services/school%20bus%20request.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the school bus request form and the terms and conditions.</a>
 </p>
 <p></p>
-</li>
+</div></li>
+
 
 <p></p>
