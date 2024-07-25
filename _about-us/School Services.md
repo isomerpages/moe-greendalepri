@@ -48,8 +48,8 @@ be provided to confirmed SCC students.
 <br>
 <br>For assistance, please email the Centre at&nbsp;<a href="mailto:greendale_sccops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_sccops@singaporeedusmart.edu.sg</a> or
 hp: 80319788.</p>
-<p></p>
-</div></li></ul>
+</div></li>
+	
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">Dental Service</label><div>
 <p><u>Typical Opening Hours:</u> 
@@ -65,8 +65,8 @@ hp: 80319788.</p>
 </p>
 <p><a href="/files/Dental Schedule/dental schedule jul 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
 </p>
-<p></p>
 </div></li>
+
 <li><input type="checkbox" id="accordion3">
 <label for="accordion3">School Bookshop</label><div>
 <p><u>Pacific Bookstores Pte Ltd</u> 
@@ -86,6 +86,7 @@ hp: 80319788.</p>
 <br>
 </p>
 </div></li>
+	
 <li><input type="checkbox" id="accordion4">  
 <label for="accordion4">Sale of uniforms</label><div>
 <p><u>My Uniform Shop (ASIA) Pte Ltd</u> 
@@ -106,6 +107,7 @@ hp: 80319788.</p>
 </p>
 <p></p>
 </div></li>
+	
 <li><input type="checkbox" id="accordion5">  
 <label for="accordion5">School Bus Service</label><div>
 <p><u>SFX Transport Services</u> 
@@ -131,7 +133,4 @@ and patience on this.</p>
 <a href="/files/School%20Services/school%20bus%20request.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the school bus request form and the terms and conditions.</a>
 </p>
 </div></li>
-
-
-
-<p></p>
+</ul>
