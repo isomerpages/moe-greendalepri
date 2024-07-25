@@ -16,7 +16,7 @@ sections:
           description: Our School Instagram
           url: https://go.gov.sg/greendaleps-ig
   - infobar:
-      title: Canteen Advertisement
+      title: School Canteen Advertisement
       id: infobar
       button: view details
       url: https://www.greendalepri.moe.edu.sg/school-canteen-advertisement/
