@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 ---
 <h2><strong>School Services</strong></h2>
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">Student Care Centre (SCC)</label><div>
 <ul>
-<li>
-<p>Student Care Centre (SCC)</p>
 <p><u>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</u> 
 <br>
 <br>Greendale Primary School’s student care centre (SCC) started on 3 January
@@ -49,9 +49,9 @@ be provided to confirmed SCC students.
 <br>For assistance, please email the Centre at&nbsp;<a href="mailto:greendale_sccops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_sccops@singaporeedusmart.edu.sg</a> or
 hp: 80319788.</p>
 <p></p>
-</li>
-<li>
-<p>Dental Service</p>
+</ul></div></li>
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">Dental Service</label><div>
 <p><u>Typical Opening Hours:</u> 
 <br>
 <br>Monday to Wednesday :&nbsp;<strong>8.00am to 5.30pm</strong> 
@@ -66,7 +66,7 @@ hp: 80319788.</p>
 <p><a href="/files/Dental Schedule/dental schedule jul 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
 </p>
 <p></p>
-</li>
+</div></li>
 <li>
 <p>School Bookshop</p>
 <p><u>Pacific Bookstores Pte Ltd</u> 
@@ -132,5 +132,5 @@ and patience on this.</p>
 </p>
 <p></p>
 </li>
-</ul>
+
 <p></p>
