@@ -4,7 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Click on 'Announcements' for information on school canteen stall application.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
@@ -16,10 +16,10 @@ sections:
           description: Our School Instagram
           url: https://go.gov.sg/greendaleps-ig
   - infobar:
-      title: Open House 2024
+      title: School Canteen Advertisement
       id: infobar
       button: view details
-      url: https://greendalepri.moe.edu.sg/open-house-2024/
+      url: https://www.greendalepri.moe.edu.sg/school-canteen-advertisement/
   - infobar:
       title: Latest School Brochure
       button: View Brochure

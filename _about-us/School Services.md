@@ -2,12 +2,12 @@
 title: School Services
 permalink: /about-us/school-services/
 description: ""
-variant: tiptap
+variant: markdown
 ---
+<ul class="jekyllcodex_accordion">
 <h2><strong>School Services</strong></h2>
-<ul>
-<li>
-<p>Student Care Centre (SCC)</p>
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">Student Care Centre (SCC)</label><div>
 <p><u>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</u> 
 <br>
 <br>Greendale Primary School’s student care centre (SCC) started on 3 January
@@ -46,12 +46,12 @@ be provided to confirmed SCC students.
 <br>
 <br><u>SCC Contact</u> 
 <br>
-<br>For assistance, please email the Centre at&nbsp;<a href="mailto:greendale_sccops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_sccops@singaporeedusmart.edu.sg</a> or
+<br>For assistance, please email the Centre at&nbsp;<a href="mailto:greendale_sccops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_sccops@singaporeedusmart.edu.sg</a><br> or
 hp: 80319788.</p>
-<p></p>
-</li>
-<li>
-<p>Dental Service</p>
+</div></li>
+	
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">Dental Service</label><div>
 <p><u>Typical Opening Hours:</u> 
 <br>
 <br>Monday to Wednesday :&nbsp;<strong>8.00am to 5.30pm</strong> 
@@ -63,12 +63,12 @@ hp: 80319788.</p>
 &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;<strong>1.00pm to 2.00pm</strong> 
 <br>
 </p>
-<p><a href="/files/Dental Schedule/dental schedule jul 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
+<p><a href="/files/Dental Schedule/dental schedule aug 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
 </p>
-<p></p>
-</li>
-<li>
-<p>School Bookshop</p>
+</div></li>
+
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">School Bookshop</label><div>
 <p><u>Pacific Bookstores Pte Ltd</u> 
 <br>
 <br><strong>Opening Hours:</strong> 
@@ -85,9 +85,10 @@ hp: 80319788.</p>
 <br><a href="/files/School%20Services/p6booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P6 Booklist 2024</a> 
 <br>
 </p>
-</li>
-<li>
-<p>Sale of uniforms</p>
+</div></li>
+	
+<li><input type="checkbox" id="accordion4">  
+<label for="accordion4">Sale of uniforms</label><div>
 <p><u>My Uniform Shop (ASIA) Pte Ltd</u> 
 <br>
 <br><strong>Retail Address:</strong> 
@@ -105,9 +106,10 @@ hp: 80319788.</p>
 <br>
 </p>
 <p></p>
-</li>
-<li>
-<p>School Bus Service</p>
+</div></li>
+	
+<li><input type="checkbox" id="accordion5">  
+<label for="accordion5">School Bus Service</label><div>
 <p><u>SFX Transport Services</u> 
 <br>
 <br>The school's appointed daily school bus operator from Year 2024 to Year
@@ -130,7 +132,5 @@ and patience on this.</p>
 <p><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the new bus fares. <br></a> 
 <a href="/files/School%20Services/school%20bus%20request.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the school bus request form and the terms and conditions.</a>
 </p>
-<p></p>
-</li>
+</div></li>
 </ul>
-<p></p>
