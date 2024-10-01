@@ -4,7 +4,9 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Click on 'Announcements' for information on school canteen stall application.
+notification: The school's General Office will be closed from 11:30 AM to 5:00
+  PM on October 3, 2024, and will resume normal operating hours on October 4,
+  2024.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
