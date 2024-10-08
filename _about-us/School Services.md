@@ -88,7 +88,7 @@ hp: 80319788.</p>
 </div></li>
 	
 <li><input type="checkbox" id="accordion4">  
-<label for="accordion4">Sale of uniforms</label><div>
+<label for="accordion4">Sale of Uniforms</label><div>
 <p><u>My Uniform Shop (ASIA) Pte Ltd</u> 
 <br>
 <br><strong>Retail Address:</strong> 
