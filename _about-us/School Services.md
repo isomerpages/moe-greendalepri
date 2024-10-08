@@ -23,7 +23,7 @@ time to complement the school’s teaching.
 <br>
 <br><u>Monthly SCC fees</u> 
 <br>
-<br>The monthly SCC fees in Year 2024 is&nbsp;<strong>$235</strong>.&nbsp;
+<br>The monthly SCC fees in Year 2025 is&nbsp;<strong>$240</strong>.&nbsp;
 A one-month deposit and other miscellaneous fees will also be needed to
 be paid.&nbsp;
 <br>
@@ -31,7 +31,7 @@ be paid.&nbsp;
 Financial Assistance, administered by Ministry of Social and Family Development
 (MSF).&nbsp;
 <br>
-<br>Please refer to the website for&nbsp;<a href="https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa" rel="noopener noreferrer nofollow" target="_blank">SCFA eligibility criteria</a> 
+<br>More information is available via the website &nbsp;<a href="https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa" rel="noopener noreferrer nofollow" target="_blank">SCFA eligibility criteria</a> 
 <br>
 <br><u>Operating Hours (Monday to Friday)</u> 
 <br>
@@ -42,9 +42,20 @@ Financial Assistance, administered by Ministry of Social and Family Development
 Sundays and gazetted public holidays.
 <br>
 <br>More information on the centre’s closure days by end of the year will
-be provided to confirmed SCC students.
+be provided to confirmed SCC students by early January 2025.
 <br>
-<br><u>SCC Contact</u> 
+	<br><u>Registration of Interest (for new students, including P1 (2025) students)</u> 
+<br>
+<br>Parents/guardians who are interested in our student care services can fill up the registration of interest form online by clicking the link below.
+<br>
+<a href="https://zfrmz.com/4tROeqxljIQiTn9vVcaT" rel="noopener noreferrer nofollow" target="_blank">Registration of Interest Form</a>
+<br>
+<br>
+<strong>The deadline for registration of interest will be 25 October 2024.</strong><br>
+	<br>Successful applicants will be notified via email by <strong> 31 October 2024, </strong> and they are required to make payment by <strong> 10 November 2024 </strong> to secure a place in the centre for the January intake.
+	<br>
+<br>
+<u>SCC Contact</u> 
 <br>
 <br>For assistance, please email the Centre at&nbsp;<a href="mailto:greendale_sccops@singaporeedusmart.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendale_sccops@singaporeedusmart.edu.sg</a><br> or
 hp: 80319788.</p>
@@ -88,7 +99,7 @@ hp: 80319788.</p>
 </div></li>
 	
 <li><input type="checkbox" id="accordion4">  
-<label for="accordion4">Sale of uniforms</label><div>
+<label for="accordion4">Sale of Uniforms</label><div>
 <p><u>My Uniform Shop (ASIA) Pte Ltd</u> 
 <br>
 <br><strong>Retail Address:</strong> 

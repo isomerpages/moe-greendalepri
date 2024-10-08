@@ -85,7 +85,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<th rowspan="7" colspan="1">
+<th rowspan="6" colspan="1">
 <p>School Attendant</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -109,12 +109,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Geok Ling (Eve)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Toh Han Kok Sam</p>
+<p>Mr Toh Han Kok Sam</p>
 </td>
 </tr>
 <tr>
