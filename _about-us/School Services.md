@@ -31,7 +31,7 @@ be paid.&nbsp;
 Financial Assistance, administered by Ministry of Social and Family Development
 (MSF).&nbsp;
 <br>
-<br>Please refer to the website for&nbsp;<a href="https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa" rel="noopener noreferrer nofollow" target="_blank">SCFA eligibility criteria</a> 
+<br>More information is available via the website &nbsp;<a href="https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa" rel="noopener noreferrer nofollow" target="_blank">SCFA eligibility criteria</a> 
 <br>
 <br><u>Operating Hours (Monday to Friday)</u> 
 <br>
