@@ -32,6 +32,13 @@ of books under FAS.</p>
 do not make any uniform purchase until school has contacted you about your
 FAS application outcome and provided you with the steps for collection
 of uniforms under FAS.</p>
+<h4><strong>School Bus Services</strong><br><strong>SFX Transport Services</strong></h4>
+<p>Please register your interest by <strong>22 November 2024.</strong>
+</p>
+<p><a href="/files/P1 Orientation 2025/School_bus_prices_2025.pdf" rel="noopener nofollow" target="_blank">Click here to refer to bus prices</a>
+</p>
+<p><a href="/files/P1 Orientation 2025/Request_for_school_bus_services_2025.pdf" rel="noopener nofollow" target="_blank">Click here to request for School Bus Services</a>
+</p>
 <p></p>
 <p></p>
 <p></p>
