@@ -13,7 +13,7 @@ charges, national examination fees (if applicable) and for disbursement/refund
 purposes. (e.g. Payment of school awards or refund of excess paid)</p>
 <p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">Click here to apply for eGIRO</a>
 </p>
-<p><a href="/files/P1 Orientation 2025/egiro_user_guide_sep23.pdf" rel="noopener nofollow" target="_blank">Click here to refer to eGIRO user guide.</a>
+<p><a href="/files/P1 Orientation 2025/MOE_eGIRO_guide__updated_Sep_2024.pdf" rel="noopener nofollow" target="_blank">Click here to refer to eGIRO user guide.</a>
 </p>
 <h4><strong>Edusave Standing Order</strong></h4>
 <p>All Singapore Citizen students will have an Edusave account automatically
