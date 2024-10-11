@@ -1,4 +1,5 @@
 collections:
   p1-orientation-2025:
     output: true
-    order: []
+    order:
+      - Orientation Details.md
