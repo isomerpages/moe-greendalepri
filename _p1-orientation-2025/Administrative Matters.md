@@ -15,7 +15,7 @@ purposes. (e.g. Payment of school awards or refund of excess paid)</p>
 </p>
 <p><a href="/files/P1 Orientation 2025/egiro_user_guide_sep23.pdf" rel="noopener nofollow" target="_blank">Click here to refer to eGIRO user guide.</a>
 </p>
-<h4>Edusave Standing Order</h4>
+<h4><strong>Edusave Standing Order</strong></h4>
 <p>All Singapore Citizen students will have an Edusave account automatically
 opened for them and receive a yearly contribution. Parents can sign up
 for the Edusave Standing Order to use your child’s Edusave account to pay
@@ -25,7 +25,7 @@ expenses.</p>
 </p>
 <p><a href="https://form.gov.sg/5be24a1bb3f842000fdc4e59" rel="noopener nofollow" target="_blank">Click here to sign up for Edusave Standing Order via Singpass login.</a>
 </p>
-<h4>Financial Assistance Scheme (FAS)</h4>
+<h4><strong>Financial Assistance Scheme (FAS)</strong></h4>
 <p>MOE provides financial assistance to Singaporean who need financial assistance
 for their studies.</p>
 <p><a href="/files/P1 Orientation 2025/Document_4a_MOE_FAS_pamphlet_EL.pdf" rel="noopener nofollow" target="_blank">Click here to read more about FAS (English)</a>
