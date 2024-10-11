@@ -2,5 +2,5 @@ collections:
   p1-orientation-2025:
     output: true
     order:
-      - Administrative Matters.md
       - Orientation Details.md
+      - Administrative Matters.md
