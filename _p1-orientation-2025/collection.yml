@@ -2,5 +2,6 @@ collections:
   p1-orientation-2025:
     output: true
     order:
+      - Service Providers.md
       - Orientation Details.md
       - Administrative Matters.md
