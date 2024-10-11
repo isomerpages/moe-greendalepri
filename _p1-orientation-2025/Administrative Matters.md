@@ -78,6 +78,27 @@ documents are submitted.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Capturing of Pupil Data via Student Details Form (SDF) Portal</strong></h4>
+<p>As your child/ward will be starting primary one in January 2025, the Ministry
+of Education (MOE) would like to collect necessary information about you
+and your child/ward to provide educational services for your child/ward
+in our schools.</p>
+<p>Please submit the information through the online Student Details Form
+portal from <strong>10.00 am, 25 Nov 2024</strong>. The portal can be accessed
+via or <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a> the
+QR code.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/P1 Orientation 2025/Student_Details.png">
+</div>
+<p><u>Either parent can login to submit the required particulars.</u> We seek
+your help to complete the submission by <strong><u>31 Dec 2024</u></strong>.</p>
+<h4><strong>School Student Particular Form</strong></h4>
+<p>Please refer to the email from the school to complete the form.</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
