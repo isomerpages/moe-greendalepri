@@ -36,7 +36,48 @@ for their studies.</p>
 </p>
 <p><a href="/files/P1 Orientation 2025/Document_4a_MOE_FAS_pamphlet_Tamil.pdf" rel="noopener nofollow" target="_blank">Click here to read more about FAS (Tamil)</a>
 </p>
+<p>To help us process your application form please ensure all the required
+documents are submitted.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Hardcopy Form</p>
+</th>
+<th rowspan="1" colspan="1">
+<p><a href="/files/P1 Orientation 2025/MOE_FAS_Appilcation_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form 2025</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>e-FAS via FormSG using Singpass login</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation 2025/MOE_FAS_2025.png">
+</div>
+<p><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>e-FAS via Parents Gateway via Singpass login</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents Gateway (under Services tab – Financial Assistance)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
