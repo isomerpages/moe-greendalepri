@@ -61,7 +61,7 @@ documents are submitted.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation 2025/MOE_FAS_2025.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/P1 Orientation 2025/MOE_FAS_2025.png">
 </div>
 <p><a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
@@ -89,7 +89,7 @@ via or <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target=
 QR code.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/P1 Orientation 2025/Student_Details.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/P1 Orientation 2025/Student_Details.png">
 </div>
 <p><u>Either parent can login to submit the required particulars.</u> We seek
 your help to complete the submission by <strong><u>31 Dec 2024</u></strong>.</p>
