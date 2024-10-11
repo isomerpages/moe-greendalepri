@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>School Bookshop </strong><br><strong>Pacific Bookstores Pte Ltd</strong></h4>
-<p>(for ordering of books and embroidered name-tag)</p>
-<p>Website launch date: 7 November 2024</p>
-<p>Website closing date: 14 December 2024 (subject to slot availability)</p>
+<p>(for ordering of books and embroidered name-tag)
+<br>Website launch date: 7 November 2024
+<br>Website closing date: 14 December 2024 (subject to slot availability)</p>
 <p><a href="/files/P1 Orientation 2025/GDPS_P1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Click here to refer to booklist</a>
 </p>
 <p><a href="/files/P1 Orientation 2025/GDPS_online_purchase_guide.pdf" rel="noopener nofollow" target="_blank">Click here for the online purchase guide</a>
@@ -38,6 +38,15 @@ of uniforms under FAS.</p>
 <p><a href="/files/P1 Orientation 2025/School_bus_prices_2025.pdf" rel="noopener nofollow" target="_blank">Click here to refer to bus prices</a>
 </p>
 <p><a href="/files/P1 Orientation 2025/Request_for_school_bus_services_2025.pdf" rel="noopener nofollow" target="_blank">Click here to request for School Bus Services</a>
+</p>
+<h4><strong>Student Care Centre (SCC)</strong><br><strong>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</strong></h4>
+<p>Parents/Guardians who are interested in our student care services can
+fill up the registration of interest form online by clicking the link below.</p>
+<p><a href="https://zfrmz.com/4tROeqxljIQiTn9vVcaT" rel="noopener nofollow" target="_blank">Click here to register</a>
+</p>
+<p><strong>The deadline for registration is 25 October 2024.</strong>
+</p>
+<p><a href="/files/P1 Orientation 2025/SCC_P1_newsletter_2025.pdf" rel="noopener nofollow" target="_blank">Click here for the SCC P1 newsletter</a>
 </p>
 <p></p>
 <p></p>
