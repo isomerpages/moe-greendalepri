@@ -123,12 +123,11 @@ hp: 80319788.</p>
 <label for="accordion5">School Bus Service</label><div>
 <p><u>SFX Transport Services</u> 
 <br>
-<br>The school's appointed daily school bus operator from Year 2024 to Year
-2025 is SFX Transport Services. The bus operator can be contacted at tel:
+<br>The school's appointed daily school bus operator for Year 2025 is SFX Transport Services. The bus operator can be contacted at tel:
 88000262 / 6282 0262 or email:<a href="greendalepri@sfxtransport.com.sg" rel="noopener noreferrer nofollow" target="_blank">greendalepri@sfxtransport.com.sg</a>
 </p>
-<p>School bus request form for Year 2024 should be submitted to SFX Transport
-Services by 30 November 2023 (Thu).</p>
+<p>School bus request for Year 2025 should be submitted to SFX Transport
+	Services online by <b>22 November 2024 (Fri).</b>Please download the app using this link: <a href="https://sfxschool.plotigo.app/" rel="noopener noreferrer nofollow" target="_blank">https://sfxschool.plotigo.app/</a> to register your child/ward.</p>
 <p>We wish to share that the school bus operator is not obliged to provide
 transport services where the distance between the pick-up and/or drop-off
 location is more than 4km from the school, or where your child/ward requires
@@ -141,7 +140,7 @@ and the student attendance taking process during school dismissal. The
 driver may also make adjustments to the routes. We seek your understanding
 and patience on this.</p>
 <p><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the new bus fares. <br></a> 
-<a href="/files/School%20Services/school%20bus%20request.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the school bus request form and the terms and conditions.</a>
+<a href="/files/School%20Services/school%20bus%20request2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the school bus request form and the terms and conditions.</a>
 </p>
 </div></li>
 </ul>
