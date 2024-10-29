@@ -124,7 +124,7 @@ hp: 80319788.</p>
 <p><u>SFX Transport Services</u> 
 <br>
 <br>The school's appointed daily school bus operator for Year 2025 is SFX Transport Services. The bus operator can be contacted at tel:
-88000262 / 6282 0262 or email:<a href="greendalepri@sfxtransport.com.sg" rel="noopener noreferrer nofollow" target="_blank">greendalepri@sfxtransport.com.sg</a>
+88000262 / 6282 0262 or email:<a href="mailto:greendalepri@sfxtransport.com.sg" rel="noopener noreferrer nofollow" target="_blank">greendalepri@sfxtransport.com.sg</a>
 </p>
 <p>School bus request for Year 2025 should be submitted to SFX Transport
 	Services online by <b>22 November 2024 (Fri).</b>Please download the app using this link: <a href="https://sfxschool.plotigo.app/" rel="noopener noreferrer nofollow" target="_blank">https://sfxschool.plotigo.app/</a> to register your child/ward.</p>
