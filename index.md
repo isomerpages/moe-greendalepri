@@ -4,8 +4,9 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Click on 'Announcements' to view Greendale Primary School’s Online
-  Art Exhibition.
+notification: Click on 'Announcements' to nominate that special teacher for the
+  President's Award for Teachers 2025 and Outstanding Youth in Education Award
+  (OYEA) 2025.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
