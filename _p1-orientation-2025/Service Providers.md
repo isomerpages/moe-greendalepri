@@ -23,6 +23,8 @@ do not make any books purchase until school has contacted you about your
 FAS application outcome and provided you with the FAS access code for the
 books. You may refer to the attached guide for the steps to make the redemption
 using the FAS access code.</p>
+<p><a href="/files/P1 Orientation 2025/fas online redemption guide 2024.pdf" rel="noopener nofollow" target="_blank">FAS Online Redemption Guide</a>
+</p>
 <h4><strong>School Uniform </strong><br><strong>My Uniform Shop (ASIA) Pte Ltd</strong></h4>
 <p>(for ordering of Uniform, PE Attires, Shoes and Socks)</p>
 <p><a href="/files/P1 Orientation 2025/My_Uniform_Shop_Asia_Pte_Ltd.pdf" rel="noopener nofollow" target="_blank">Click here to refer to Prices and Size Chart</a>
