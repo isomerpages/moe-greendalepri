@@ -114,7 +114,7 @@ hp: 80319788.</p>
 </p>
 <p>Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://myuniformshop.com.sg</a>
 </p>
-<p><a href="/files/School%20Services/uniformsizeandpricechart.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a> 
+<p><a href="/files/School%20Services/uniformsizeandpricechart2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a> 
 <br>
 </p>
 <p></p>
