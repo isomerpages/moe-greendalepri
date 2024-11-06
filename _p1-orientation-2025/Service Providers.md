@@ -8,7 +8,7 @@ description: ""
 <p>(for ordering of books and embroidered name-tag)
 <br>Website launch date: 7 November 2024
 <br>Website closing date: 14 December 2024 (subject to slot availability)</p>
-<p><a href="/files/P1 Orientation 2025/GDPS_P1_Booklist_2025.pdf" rel="noopener nofollow" target="_blank">Click here to refer to booklist</a>
+<p><a href="/files/School Services/p1booklist2025.pdf" rel="noopener nofollow" target="_blank">Click here to refer to booklist</a>
 </p>
 <p><a href="/files/P1 Orientation 2025/gdps_online_purchase_guide.pdf" rel="noopener nofollow" target="_blank">Click here for the online purchase guide</a>
 </p>
