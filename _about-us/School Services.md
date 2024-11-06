@@ -74,7 +74,7 @@ hp: 80319788.</p>
 &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;<strong>1.00pm to 2.00pm</strong> 
 <br>
 </p>
-<p><a href="/files/Dental Schedule/dental schedule oct 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
+<p><a href="/files/Dental Schedule/dental schedule nov 2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
 </p>
 </div></li>
 
@@ -87,14 +87,14 @@ hp: 80319788.</p>
 <br>Tuesday to Friday: 8:30am to 3.30pm
 <br>Closed on Sat, Sun and Public Holidays</p>
 <p><a href="/files/P1%20Orientation%202025/fas%20online%20redemption%20guide%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the FAS redemption guide.</a>
-<br><a href="/files/School%20Services/pbguide2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a> 
-<br><a href="/files/School%20Services/p1booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P1 Booklist 2024.</a> 
-<br><a href="/files/School%20Services/p2booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P2 Booklist 2024</a> 
-<br><a href="/files/School%20Services/p3booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P3 Booklist 2024</a> 
-<br><a href="/files/School%20Services/p4booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P4 Booklist 2024</a> 
-<br><a href="/files/School%20Services/p5fbooklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P5 Foundation Booklist 2024</a> 
-<br><a href="/files/School%20Services/p5booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P5 Booklist 2024</a> 
-<br><a href="/files/School%20Services/p6booklist2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P6 Booklist 2024</a> 
+<br><a href="/files/School%20Services/pbguide2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a> 
+<br><a href="/files/School%20Services/p1booklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P1 Booklist 2025.</a> 
+<br><a href="/files/School%20Services/p2booklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P2 Booklist 2025</a> 
+<br><a href="/files/School%20Services/p3booklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P3 Booklist 2025</a> 
+<br><a href="/files/School%20Services/p4booklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P4 Booklist 2025</a> 
+<br><a href="/files/School%20Services/p5fbooklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P5 Foundation Booklist 2025</a> 
+<br><a href="/files/School%20Services/p5booklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P5 Booklist 2025</a> 
+<br><a href="/files/School%20Services/p6booklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P6 Booklist 2025</a> 
 <br>
 </p>
 </div></li>
@@ -114,7 +114,7 @@ hp: 80319788.</p>
 </p>
 <p>Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://myuniformshop.com.sg</a>
 </p>
-<p><a href="/files/School%20Services/uniformsizeandpricechart.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a> 
+<p><a href="/files/School%20Services/uniformsizeandpricechart2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a> 
 <br>
 </p>
 <p></p>
