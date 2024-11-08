@@ -89,7 +89,7 @@ hp: 80319788.</p>
 <br>
 <br>Priority will be given to students to purchase their books during recess timings (9.00am to 10.30am) and lunch timings (1.20pm to 2.00pm). Parents/gaurdians are strongly discouraged from coming during these periods given the expected long waiting time.
 <br>
-<br>Closed on Sat, Sun and Public Holidays</p>
+<br>Bookshop is closed on Sat, Sun and Public Holidays</p>
 <p><a href="/files/P1%20Orientation%202025/fas%20online%20redemption%20guide%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the FAS redemption guide.</a>
 <br><a href="/files/School%20Services/pbguide2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a> 
 <br><a href="/files/School%20Services/p1booklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P1 Booklist 2025.</a> 
