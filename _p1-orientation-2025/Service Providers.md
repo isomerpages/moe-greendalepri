@@ -45,6 +45,16 @@ using the FAS access code.</p>
 </p>
 <p><a href="/files/P1 Orientation 2025/My_Uniform_Shop_Asia_Pte_Ltd.pdf" rel="noopener nofollow" target="_blank">Click here to refer to Prices and Size Chart</a>
 </p>
+<p>Parents may opt for home-delivery or select from available timeslots for
+purchase and collection of uniform in school from the uniform website.
+<a href="https://www.myuniformshop.com.sg/book-now" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/book-now</a>
+</p>
+<p>Please note that there will be no parking available within the school
+compound. You may wish to park at the HDB carpark next to the school. When
+entering the school, please show your appointment confirmation email to
+the security guards.</p>
+<p></p>
+<p></p>
 <p><strong>For students under Financial Assistance</strong>
 </p>
 <p>If you are applying for MOE Financial Assistance Scheme (FAS), please
