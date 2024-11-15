@@ -12,6 +12,15 @@ description: ""
 </p>
 <p><a href="/files/P1 Orientation 2025/gdps_online_purchase_guide.pdf" rel="noopener nofollow" target="_blank">Click here for the online purchase guide</a>
 </p>
+<p>Please purchase the books and stationery online.</p>
+<p>Parents may opt for home-delivery or select from available timeslots for
+self-collection in school.</p>
+<p>For self-collection in school, please show your collection appointment
+to the security guards.</p>
+<p>Please note that there will be no parking available within the school
+compound. You may wish to park at the HDB carpark next to the school.</p>
+<p><strong>Name tag order from Pacific Bookstores</strong>
+</p>
 <p>The name tag order form for P1 will appear during payment checkout process
 for books. The estimated processing time for name tag is 3 weeks. Completed
 name tags will be handed to your child/ward through his or her Form Teacher
