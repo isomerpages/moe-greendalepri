@@ -4,9 +4,9 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Click on 'Announcements' to nominate that special teacher for the
-  President's Award for Teachers 2025 and Outstanding Youth in Education Award
-  (OYEA) 2025.
+notification: On 6 Dec 2024, GDPS and MK@Greendale will be having a power
+  shutdown, as part of its annual maintenance regime.  The General Office will
+  be open from 11am to 5pm that day.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
