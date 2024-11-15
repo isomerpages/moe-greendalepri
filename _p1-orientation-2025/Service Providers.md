@@ -36,7 +36,6 @@ using the FAS access code.</p>
 </p>
 <h4><strong>School Uniform </strong><br><strong>My Uniform Shop (ASIA) Pte Ltd</strong></h4>
 <p>(for ordering of Uniform, PE Attires, Shoes and Socks)</p>
-<p></p>
 <p><strong>Retail Address:</strong>
 <br>209 New Upper Changi Road
 <br>#03-651 Singapore 460209</p>
