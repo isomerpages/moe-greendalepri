@@ -12,10 +12,19 @@ description: ""
 </p>
 <p><a href="/files/P1 Orientation 2025/gdps_online_purchase_guide.pdf" rel="noopener nofollow" target="_blank">Click here for the online purchase guide</a>
 </p>
+<p>Please purchase the books and stationery online.
+<br>Parents may opt for home-delivery or select from available timeslots for
+self-collection in school.</p>
+<p>For self-collection in school, please show your collection appointment
+to the security guards. Please note that there will be no parking available
+within the school compound. You may wish to park at the HDB carpark next
+to the school.</p>
+<p><strong>Name tag order from Pacific Bookstores</strong>
+</p>
 <p>The name tag order form for P1 will appear during payment checkout process
 for books. The estimated processing time for name tag is 3 weeks. Completed
 name tags will be handed to your child/ward through his or her Form Teacher
-in batches in January 2025.</p>
+in batches from January 2025.</p>
 <p><strong>For students under Financial Assistance</strong>
 </p>
 <p>If you are applying for MOE Financial Assistance Scheme (FAS), please
@@ -27,8 +36,24 @@ using the FAS access code.</p>
 </p>
 <h4><strong>School Uniform </strong><br><strong>My Uniform Shop (ASIA) Pte Ltd</strong></h4>
 <p>(for ordering of Uniform, PE Attires, Shoes and Socks)</p>
+<p><strong>Retail Address:</strong>
+<br>209 New Upper Changi Road
+<br>#03-651 Singapore 460209</p>
+<p><strong>Retail outlet contact no:</strong> 62766689</p>
+<p>Website: <a href="http://myuniformshop.com.sg/" rel="noopener nofollow" target="_blank">http://myuniformshop.com.sg/</a>
+</p>
 <p><a href="/files/P1 Orientation 2025/My_Uniform_Shop_Asia_Pte_Ltd.pdf" rel="noopener nofollow" target="_blank">Click here to refer to Prices and Size Chart</a>
 </p>
+<p>Parents may opt for home-delivery or select from available timeslots for
+purchase and collection of uniform in school from the uniform website.
+<a href="https://www.myuniformshop.com.sg/book-now" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/book-now</a>
+</p>
+<p>Please note that there will be no parking available within the school
+compound. You may wish to park at the HDB carpark next to the school. When
+entering the school, please show your appointment confirmation email to
+the security guards.</p>
+<p></p>
+<p></p>
 <p><strong>For students under Financial Assistance</strong>
 </p>
 <p>If you are applying for MOE Financial Assistance Scheme (FAS), please

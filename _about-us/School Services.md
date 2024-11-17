@@ -87,7 +87,7 @@ hp: 80319788.</p>
 <br>Tuesday to Friday: 8:30am to 3.30pm
 <br>(Last walk-in is <b>15 minutes</b> before closing time)
 <br>
-<br>Priority will be given to students to purchase their books during recess timings (9.00am to 10.30am) and lunch timings (1.20pm to 2.00pm). Parents/gaurdians are strongly discouraged from coming during these periods given the expected long waiting time.
+<br>Priority will be given to students to purchase their books during recess timings (9.00am to 10.30am) and lunch timings (1.20pm to 2.00pm). Parents/guardians are strongly discouraged from coming during these periods given the expected long waiting time.
 <br>
 <br>Bookshop is closed on Sat, Sun and Public Holidays</p>
 <p>
