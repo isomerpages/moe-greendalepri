@@ -92,8 +92,8 @@ hp: 80319788.</p>
 <br>Bookshop is closed on Sat, Sun and Public Holidays</p>
 <p>
 <a href="/files/School%20Services/pbguide2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a> 
-<br><a href="/files/School%20Services/p1booklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P1 Booklist 2025.</a> 
-<br><a href="/files/School%20Services/p2booklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P2 Booklist 2025</a> 
+<br><a href="/files/School%20Services/p1booklist2025new.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P1 Booklist 2025.</a> 
+<br><a href="/files/School%20Services/p2booklist2025new.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P2 Booklist 2025</a> 
 <br><a href="/files/School%20Services/p3booklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P3 Booklist 2025</a> 
 <br><a href="/files/School%20Services/p4booklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P4 Booklist 2025</a> 
 <br><a href="/files/School%20Services/p5fbooklist2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P5 Foundation Booklist 2025</a> 
