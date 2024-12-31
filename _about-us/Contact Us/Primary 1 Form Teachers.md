@@ -73,12 +73,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1B</p>
+<p>1R</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Fa'izah Bte Ibrahim
-<br>
-<br><a href="mailto:faizah_ibrahim@schools.gov.sg" rel="noopener noreferrer" target="_blank">faizah_ibrahim@schools.gov.sg</a>
+<p>Mdm Ng Xiangqi<a href="mailto:ng_xiangqi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><br><u>ng_xiangqi@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
