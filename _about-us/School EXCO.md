@@ -164,6 +164,16 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Level Head Chinese Language</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ms Cherie Ang
+<br><a href="cherie_ang_hui_er@schools.gov.sg" rel="noopener nofollow" target="_blank">cherie_ang_hui_er@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p>HOD Mathematics</p>
 </th>
 <td rowspan="1" colspan="1">
