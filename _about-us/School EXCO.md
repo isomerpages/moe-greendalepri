@@ -277,8 +277,8 @@ variant: tiptap
 <p>Year Head Middle Primary</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Amalina Batcha Sahib
-<br><a href="amalina_batcha_sahib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amalina_batcha_sahib@schools.gov.sg</a>
+<p>Mr Jonathan Chean
+<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chean_eu_chang_jonathan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -287,8 +287,8 @@ variant: tiptap
 <p>Year Head Upper Primary</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Jonathan Chean
-<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chean_eu_chang_jonathan@schools.gov.sg</a>
+<p>Ms Amalina Batcha Sahib
+<br><a href="amalina_batcha_sahib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amalina_batcha_sahib@schools.gov.sg</a>
 </p>
 </td>
 </tr>
