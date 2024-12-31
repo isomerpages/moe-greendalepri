@@ -297,8 +297,8 @@ variant: tiptap
 <p>Assistant Year Head Lower Primary</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazima Banu d/o Mashuthoo
-<br><a href="mailto:nazima_banu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nazima_banu@schools.gov.sg</a>
+<p>Mr Ahmad Zaki Bin Hassan
+<br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaki_b_hassan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -307,8 +307,8 @@ variant: tiptap
 <p>Assistant Year Head Middle Primary</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Zaki Bin Hassan
-<br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaki_b_hassan@schools.gov.sg</a>
+<p>Mdm Nazima Banu d/o Mashuthoo
+<br><a href="mailto:nazima_banu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nazima_banu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
