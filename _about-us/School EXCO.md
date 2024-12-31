@@ -110,6 +110,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>SH Innovation and Partnerships</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ms Amelia Han
+<br><a href="amelia_han@schools.gov.sg" rel="noopener nofollow" target="_blank">amelia_han@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Departments</h5>
