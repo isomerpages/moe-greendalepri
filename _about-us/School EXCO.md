@@ -92,17 +92,6 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Dr Goh Sock Pio
-<br><a href="mailto:goh_sock_pio@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sock_pio@schools.gov.sg</a> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
 <p>HOD ICT</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -113,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Level Head ICT (Internal)</p>
+<p>Level Head ICT</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Nabila Banu
@@ -185,16 +174,6 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>HOD Science</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Ms Caelyn Lim
-<br><a href="mailto:caelyn_whyndee_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caelyn_whyndee_lim@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
 <p>Level Head Science</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -215,7 +194,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Subject Head PE &amp; CCA (Internal)</p>
+<p>Subject Head PE &amp; CCA</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Shumin Cecilia
