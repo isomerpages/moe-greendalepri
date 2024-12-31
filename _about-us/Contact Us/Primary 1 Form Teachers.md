@@ -62,14 +62,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Azimah Bte Hassan
-<br>
 <br><a href="mailto:nur_azimah_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azimah_hassan@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazima Banu
-<br>
-<br><a href="mailto:nazima_banu@schools.gov.sg" rel="noopener noreferrer" target="_blank">nazima_banu@schools.gov.sg</a>
+<p>Mr James
+<br><a href="euk_shin_james_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">euk_shin_james_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
