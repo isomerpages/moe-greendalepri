@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <h2><strong>School EXCO</strong></h2>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -49,9 +53,8 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Joyce Chan
-<br><a href="mailto:joyce_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joyce_chan@schools.gov.sg</a> 
-<br>
+<p>Mr David Ching
+<br><a href="ching_kin_hin@schools.gov.sg" rel="noopener nofollow" target="_blank">ching_kin_hin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -81,7 +84,11 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -118,7 +125,11 @@ variant: tiptap
 </table>
 <h5>Departments</h5>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -245,7 +256,11 @@ variant: tiptap
 </tbody>
 </table>
 <h5>Student Development Team<br></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -332,7 +347,11 @@ variant: tiptap
 </table>
 <h5>Character and Citizenship Education</h5>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
