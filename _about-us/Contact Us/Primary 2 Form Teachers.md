@@ -51,16 +51,14 @@ variant: tiptap
 <p>2 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Xiangqi
-<br>
-<br><a href="mailto:ng_xiangqi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_xiangqi@schools.gov.sg</a>
+<p>Mdm Annamary
+<br><a href="annamary_segaran@schools.gov.sg" rel="noopener nofollow" target="_blank">annamary_segaran@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Wanxing (Ms Jaclyn)
-<br>
-<br><a href="mailto:chen_wanxing_jaclyn@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chen_wanxing_jaclyn@schools.gov.sg</a>
-<br>
+<p>Mdm Goh Kar Hui
+<br>(Mrs Jolene Teo)
+<br><a href="goh_kar_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_kar_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
