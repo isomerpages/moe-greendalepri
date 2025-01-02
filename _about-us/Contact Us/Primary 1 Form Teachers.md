@@ -170,7 +170,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nur Hidayah Binte Jais
+<br><a href="nur_hidayah_jais@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_hidayah_jais@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
