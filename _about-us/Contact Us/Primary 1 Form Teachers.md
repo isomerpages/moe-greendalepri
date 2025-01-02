@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1G</p>
+<p>1 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nur Azimah Bte Hassan
@@ -73,23 +73,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1R</p>
+<p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ng Xiangqi<a href="mailto:ng_xiangqi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><br><u>ng_xiangqi@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Kian Woon
+<p>Ms Leong Yahui
 <br>
-<br><a href="mailto:ng_kian_woon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kian_woon@schools.gov.sg</a>
-<br>
+<br><a href="leong_yahui@schools.gov.sg" rel="noopener nofollow" target="_blank">leong_yahui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1C</p>
+<p>1 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Caiping Regina
@@ -106,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1D</p>
+<p>1 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Doris Yap Li Ching
@@ -123,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1E</p>
+<p>1 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Khor Hong Yee (Mrs Low)
@@ -140,7 +139,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1F</p>
+<p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Syazwani Samsudin (Mdm Syaz)
@@ -157,7 +156,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1G</p>
+<p>1 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhd Saifulbahry (Mr Saiful)
@@ -170,6 +169,17 @@ variant: tiptap
 <br>
 <br><a href="mailto:tan_shumin_cecilia@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_shumin_cecilia@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Unity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
