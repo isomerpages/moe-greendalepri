@@ -106,9 +106,8 @@ variant: tiptap
 <p>1 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Doris Yap Li Ching
-<br>
-<br><a href="mailto:yap_li_ching_doris@schools.gov.sg" rel="noopener noreferrer" target="_blank">yap_li_ching_doris@schools.gov.sg</a>
+<p>Mdm Seah Li Hui Agnes (Mrs Yeo)
+<br><a href="agnes_seah_li_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">agnes_seah_li_hui@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
