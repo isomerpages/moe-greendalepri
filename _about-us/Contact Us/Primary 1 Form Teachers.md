@@ -150,9 +150,8 @@ variant: tiptap
 <p>1 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Saifulbahry (Mr Saiful)
-<br>
-<br><a href="mailto:muhammad_saifulbahry_abdul_raman@schools.gov.sg" rel="noopener noreferrer" target="_blank">muhammad_saifulbahry_abdul_raman@schools.gov.sg</a>
+<p>Ms Lee Lay Khim Celetio
+<br><a href="lee_lay_khim_celetio@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_lay_khim_celetio@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
