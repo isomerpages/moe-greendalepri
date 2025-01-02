@@ -96,7 +96,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Nur Muhammad Kamal
-<br>
 <br><a href="mailto:nur_muhammad_kamal_mat@schools.gov.sg" rel="noopener noreferrer" target="_blank">nur_muhammad_kamal_mat@schools.gov.sg</a>
 </p>
 </td>
@@ -121,9 +120,8 @@ variant: tiptap
 <p>1 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Khor Hong Yee (Mrs Low)
-<br>
-<br><a href="mailto:khor_hong_yee@schools.gov.sg" rel="noopener noreferrer" target="_blank">khor_hong_yee@schools.gov.sg</a>
+<p>Mdm Ee Yuan Qi Eugenia
+<br><a href="ee_yuan_qi_eugenia@schools.gov.sg" rel="noopener nofollow" target="_blank">ee_yuan_qi_eugenia@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
