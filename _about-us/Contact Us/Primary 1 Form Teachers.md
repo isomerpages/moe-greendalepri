@@ -140,9 +140,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Stephanie Teng
-<br>
-<br><a href="mailto:teo_ai_hoon_stephanie@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">teo_ai_hoon_stephanie@schools.gov.sg</a>
+<p>Mdm Li Jia Min
+<br><a href="li_jiamin_a@schools.gov.sg" rel="noopener nofollow" target="_blank">li_jiamin_a@schools.gov.sg</a>
 </p>
 </td>
 </tr>
