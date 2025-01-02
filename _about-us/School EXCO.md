@@ -6,7 +6,11 @@ variant: tiptap
 ---
 <h2><strong>School EXCO</strong></h2>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -49,9 +53,8 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Joyce Chan
-<br><a href="mailto:joyce_chan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joyce_chan@schools.gov.sg</a> 
-<br>
+<p>Mr David Ching
+<br><a href="ching_kin_hin@schools.gov.sg" rel="noopener nofollow" target="_blank">ching_kin_hin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -81,19 +84,12 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Dr Goh Sock Pio
-<br><a href="mailto:goh_sock_pio@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sock_pio@schools.gov.sg</a> 
-<br>
-</p>
-</td>
-</tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>HOD ICT</p>
@@ -106,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Level Head ICT (Internal)</p>
+<p>Level Head ICT</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Nabila Banu
@@ -114,11 +110,25 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>SH Innovation and Partnerships</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ms Amelia Han
+<br><a href="amelia_han@schools.gov.sg" rel="noopener nofollow" target="_blank">amelia_han@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Departments</h5>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -154,6 +164,16 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Level Head Chinese Language</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ms Cherie Ang
+<br><a href="cherie_ang_hui_er@schools.gov.sg" rel="noopener nofollow" target="_blank">cherie_ang_hui_er@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p>HOD Mathematics</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -169,16 +189,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Lim Mei Ling Helen
 <br><a href="mailto:Lim_Mei_Ling_Helen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Mei_Ling_Helen@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>HOD Science</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Ms Caelyn Lim
-<br><a href="mailto:caelyn_whyndee_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caelyn_whyndee_lim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -204,7 +214,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Subject Head PE &amp; CCA (Internal)</p>
+<p>Subject Head PE &amp; CCA</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Shumin Cecilia
@@ -245,7 +255,11 @@ variant: tiptap
 </tbody>
 </table>
 <h5>Student Development Team<br></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -263,8 +277,8 @@ variant: tiptap
 <p>Year Head Middle Primary</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Amalina Batcha Sahib
-<br><a href="amalina_batcha_sahib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amalina_batcha_sahib@schools.gov.sg</a>
+<p>Mr Jonathan Chean
+<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chean_eu_chang_jonathan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -273,8 +287,8 @@ variant: tiptap
 <p>Year Head Upper Primary</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Jonathan Chean
-<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chean_eu_chang_jonathan@schools.gov.sg</a>
+<p>Ms Amalina Batcha Sahib
+<br><a href="amalina_batcha_sahib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amalina_batcha_sahib@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -283,8 +297,8 @@ variant: tiptap
 <p>Assistant Year Head Lower Primary</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazima Banu d/o Mashuthoo
-<br><a href="mailto:nazima_banu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nazima_banu@schools.gov.sg</a>
+<p>Mr Ahmad Zaki Bin Hassan
+<br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaki_b_hassan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -293,8 +307,8 @@ variant: tiptap
 <p>Assistant Year Head Middle Primary</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Ahmad Zaki Bin Hassan
-<br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaki_b_hassan@schools.gov.sg</a>
+<p>Mdm Nazima Banu d/o Mashuthoo
+<br><a href="mailto:nazima_banu@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nazima_banu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -332,7 +346,11 @@ variant: tiptap
 </table>
 <h5>Character and Citizenship Education</h5>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
