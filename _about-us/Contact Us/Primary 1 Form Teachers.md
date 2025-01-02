@@ -155,9 +155,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shumin Cecilia
-<br>
-<br><a href="mailto:tan_shumin_cecilia@schools.gov.sg" rel="noopener noreferrer" target="_blank">tan_shumin_cecilia@schools.gov.sg</a>
+<p>Mrs Stephanie Teng
+<br><a href="teo_ai_hoon_stephanie@schools.gov.sg" rel="noopener nofollow" target="_blank">teo_ai_hoon_stephanie@schools.gov.sg</a>
 </p>
 </td>
 </tr>
