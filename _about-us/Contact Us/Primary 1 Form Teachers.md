@@ -76,12 +76,11 @@ variant: tiptap
 <p>1 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Xiangqi<a href="mailto:ng_xiangqi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><br><u>ng_xiangqi@schools.gov.sg</u></a>
+<p>Mdm Ng Xiangqi<a href="mailto:ng_xiangqi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><br><u>ng_xiangqi@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Leong Yahui
-<br>
 <br><a href="leong_yahui@schools.gov.sg" rel="noopener nofollow" target="_blank">leong_yahui@schools.gov.sg</a>
 </p>
 </td>
@@ -91,9 +90,8 @@ variant: tiptap
 <p>1 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Caiping Regina
-<br>
-<br><a href="mailto:regina_goh_caiping@schools.gov.sg" rel="noopener noreferrer" target="_blank">regina_goh_caiping@schools.gov.sg</a>
+<p>Mdm Phua Min Li (Mrs Koh)
+<br><a href="phua_min_li@schools.gov.sg" rel="noopener nofollow" target="_blank">phua_min_li@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
