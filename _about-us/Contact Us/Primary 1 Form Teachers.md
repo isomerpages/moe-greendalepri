@@ -165,7 +165,9 @@ variant: tiptap
 <p>1 Unity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng chin Hoon
+<br><a href="ng_chin_hoon@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_chin_hoon@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
