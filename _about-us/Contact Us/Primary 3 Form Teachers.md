@@ -99,15 +99,13 @@ variant: tiptap
 <p>3 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Hai Sing
-<br>
-<br><a href="mailto:tan_hai_sing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hai_sing@schools.gov.sg</a>
+<p>Mdm Chia Mei Shan
+<br><a href="chia_mei_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_mei_shan@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Chew Boon Ping Janice
-<br>
-<br><a href="mailto:chew_boon_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_boon_ping@schools.gov.sg</a>
+<p>Ms Cherie Ang Hui Er
+<br><a href="cherie_ang_hui_er@schools.gov.sg" rel="noopener nofollow" target="_blank">cherie_ang_hui_er@schools.gov.sg</a>
 </p>
 </td>
 </tr>
