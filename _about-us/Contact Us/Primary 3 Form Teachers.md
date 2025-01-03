@@ -145,14 +145,13 @@ variant: tiptap
 <p>3 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohan s/o Krishnamoorthy</p>
-<p></p>
-<p><a href="mailto:mohan_krishnamoorthy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohan_krishnamoorthy@schools.gov.sg</a>
+<p>Ms Arifah Bte Adnan
+<br><a href="arifah_adnan@schools.gov.sg" rel="noopener nofollow" target="_blank">arifah_adnan@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela</p>
-<p><a href="mailto:Angela@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Angela@schools.gov.sg</a>
+<p>Ms Dou Jin Yi
+<br><a href="dou_jin_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">dou_jin_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>
