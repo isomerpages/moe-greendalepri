@@ -27,7 +27,7 @@ description: ""
 <p>Economy Rice Stall (Halal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 August 2024</p>
+<p>28 February 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>See Below</p>
@@ -38,7 +38,7 @@ description: ""
 <p>Economy Rice Stall (Chinese)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 August 2024</p>
+<p>28 February 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>See Below</p>
@@ -49,7 +49,7 @@ description: ""
 <p>Others (Halal, open to proposal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>30 August 2024</p>
+<p>28 February 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>See Below</p>
