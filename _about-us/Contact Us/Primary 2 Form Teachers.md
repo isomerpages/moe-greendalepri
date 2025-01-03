@@ -82,17 +82,13 @@ variant: tiptap
 <p>2 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Hidayah Binte Jais
-<br>
-<br><a href="mailto:nur_hidayah_jais@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_hidayah_jais@schools.gov.sg</a>
+<p>Ms Goh Caiping Regina
+<br><a href="mailto:regina_goh_caiping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>regina_goh_caiping@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Li Lin
-<br>
-</p>
-<p></p>
-<p><a href="mailto:li_lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">li_lin@schools.gov.sg</a>
+<p>Mr Ahmad Zaki Bin Hassan
+<br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ahmad_zaki_b_hassan@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
