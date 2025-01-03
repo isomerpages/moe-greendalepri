@@ -50,16 +50,13 @@ variant: tiptap
 <p>6 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Hafidzah Binte Abdullah
-<br>
-<br><a href="mailto:hafidzah_abdullah@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hafidzah_abdullah@schools.gov.sg</a>
-<br>
+<p>Mdm Chew Meiqian (Mrs Selena Tan)
+<br><a href="chew_meiqian@schools.gov.sg" rel="noopener nofollow" target="_blank">chew_meiqian@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Yiying
-<br>
-<br><a href="mailto:yang_yi_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_yi_ying@schools.gov.sg</a>
+<p>Mdm Siti Norafizah
+<br><a href="siti_norafizah_rahmat@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_norafizah_rahmat@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -68,16 +65,13 @@ variant: tiptap
 <p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Seah Li Hui Agnes (Mrs Yeo)
-<br>
-<br><a href="mailto:agnes_seah_li_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">agnes_seah_li_hui@schools.gov.sg</a>
+<p>Mrs Kimberly Lee
+<br><a href="kimberly_quek_kwee_chiew@schools.gov.sg" rel="noopener nofollow" target="_blank">kimberly_quek_kwee_chiew@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zul Fahmie Bin Jumairi
-<br>
-<br><a href="mailto:zul_fahmie_bin_jumairi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zul_fahmie_bin_jumairi@schools.gov.sg</a>
-<br>
+<p>Mdm Zubaidah Binte Amid
+<br><a href="zubaidah_amid@schools.gov.sg" rel="noopener nofollow" target="_blank">zubaidah_amid@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -86,17 +80,13 @@ variant: tiptap
 <p>6 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Ms Cheok Ying Xuan Delcine
-<br>
-<br><a href="mailto:cheok_ying_xuan_delcine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheok_ying_xuan_delcine@schools.gov.sg</a>
+<p>Mdm&nbsp;Farrah Eliana Binte Adam
+<br><a href="farrah_eliana_adam@schools.gov.sg" rel="noopener nofollow" target="_blank">farrah_eliana_adam@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Ms Mak Sher-Lin (Stephanie)
-<br>
-<br><a href="mailto:mak_sher-lin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mak_sher-lin@schools.gov.sg</a>
+<p>Mdm Priscilla Cheong Su Fen
+<br><a href="priscilla_cheong_su_fen@schools.gov.sg" rel="noopener nofollow" target="_blank">priscilla_cheong_su_fen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -105,18 +95,14 @@ variant: tiptap
 <p>6 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Arifah Bte Adnan
-<br>
-</p>
-<p><a href="mailto:arifah_adnan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">arifah_adnan@schools.gov.sg</a>
-<br>
+<p>Ms Divyalakshimi Ganeson
+<br>(Miss Divya)
+<br><a href="divyalakshmi_ganeson@schools.gov.sg" rel="noopener nofollow" target="_blank">divyalakshmi_ganeson@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Kar Hui
-<br>(Mrs Jolene Teo)
-<br><a href="mailto:goh_kar_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_kar_hui@schools.gov.sg</a>
-<br>
+<p>Mdm Lily Chan
+<br><a href="lily_chan@schools.gov.sg" rel="noopener nofollow" target="_blank">lily_chan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
