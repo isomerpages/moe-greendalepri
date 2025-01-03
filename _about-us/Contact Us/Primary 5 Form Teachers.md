@@ -89,10 +89,14 @@ variant: tiptap
 <p>5 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Hock Siong Dennis
+<br><a href="dennis_tan_hock_siong@schools.gov.sg" rel="noopener nofollow" target="_blank">dennis_tan_hock_siong@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Dong Baohong
+<br><a href="Dong_Baohong@schools.gov.sg" rel="noopener nofollow" target="_blank">Dong_Baohong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
