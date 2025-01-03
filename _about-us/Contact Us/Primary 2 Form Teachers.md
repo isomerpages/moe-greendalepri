@@ -97,15 +97,13 @@ variant: tiptap
 <p>2 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Mei Shan
-<br>
-<br><a href="mailto:chia_mei_shan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chia_mei_shan@schools.gov.sg</a>
+<p>Mdm Doris Yap Li Ching
+<br><a href="yap_li_ching_doris@schools.gov.sg" rel="noopener nofollow" target="_blank">yap_li_ching_doris@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms D Piriyadarisini
-<br>
-<br><a href="mailto:D_Piriyadarisini@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">D_Piriyadarisini@schools.gov.sg</a>
+<p>Mdm Peng Jing Jing
+<br><a href="mailto:peng_jingjing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>peng_jingjing@schools.gov.sg</u></a>
 </p>
 </td>
 </tr>
