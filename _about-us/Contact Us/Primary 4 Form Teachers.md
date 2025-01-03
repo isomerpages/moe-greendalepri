@@ -96,7 +96,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Selvakkumari d/o Veerasamy
+<br>(Ms Kumari)
+<br><a href="selvakkumari_veerasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">selvakkumari_veerasamy@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
