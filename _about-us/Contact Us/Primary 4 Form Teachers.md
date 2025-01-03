@@ -20,7 +20,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>Ms Amalina Batcha Sahib
-<br>
 <br><a href="amalina_batcha_sahib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amalina_batcha_sahib@schools.gov.sg</a>
 </p>
 </td>
@@ -31,7 +30,6 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Mr Ahmad Zaki Bin Hassan
-<br>
 <br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaki_b_hassan@schools.gov.sg</a>
 </p>
 </td>
