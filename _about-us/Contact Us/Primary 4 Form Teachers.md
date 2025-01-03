@@ -91,7 +91,9 @@ variant: tiptap
 <p>4 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chen Wanxing (Ms Jaclyn)
+<br><a href="chen_wanxing_jaclyn@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_wanxing_jaclyn@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
