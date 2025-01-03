@@ -84,16 +84,13 @@ variant: tiptap
 <p>3 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Selvakkumari d/o Veerasamy
-<br>(Ms Kumari)
-<br><a href="mailto:selvakkumari_veerasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">selvakkumari_veerasamy@schools.gov.sg</a>
+<p>Miss Kua En Na
+<br><a href="mailto:kua_en_na@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kua_en_na@schools.gov.sg</u></a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng chin Hoon
-<br>
-</p>
-<p><a href="mailto:ng_chin_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chin_hoon@schools.gov.sg</a>
+<p>Ms Ng Zi Chun
+<br><a href="Ng_Zi_Chun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ng_Zi_Chun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
