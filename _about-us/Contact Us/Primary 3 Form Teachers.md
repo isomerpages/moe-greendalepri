@@ -6,7 +6,11 @@ third_nav_title: Contact Us
 variant: tiptap
 ---
 <h2><strong>Primary 3 - Form Teachers</strong></h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -27,7 +31,12 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -39,124 +48,110 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3A</p>
+<p>3 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Maybelline Chua, Ivy
+<p>Mr&nbsp;Mohd Ghazaly Ibrahim Goghari (Mr Emmanuel)
+<br><a href="mohamed_ghazaly_ibrahim_goghari@schools.gov.sg" rel="noopener nofollow" target="_blank">mohamed_ghazaly_ibrahim_goghari@schools.gov.sg</a>
 <br>
-<br><a href="mailto:Chua_Maybelline_Ivy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Maybelline_Ivy@schools.gov.sg</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Puah Yun Wen Shirley
+<br><a href="puah_yun_wen@schools.gov.sg" rel="noopener nofollow" target="_blank">puah_yun_wen@schools.gov.sg</a>
 <br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Resilience</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Han Peiling Amelia
+<br><a href="amelia_han@schools.gov.sg" rel="noopener nofollow" target="_blank">amelia_han@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chen Xujin
+<br><a href="chen_xujin@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_xujin@schools.gov.sg</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Appreciation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Miss Kua En Na
+<br><a href="mailto:kua_en_na@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kua_en_na@schools.gov.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Zi Chun
+<br><a href="Ng_Zi_Chun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ng_Zi_Chun@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Commitment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chia Mei Shan
+<br><a href="chia_mei_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_mei_shan@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Cherie Ang Hui Er
+<br><a href="cherie_ang_hui_er@schools.gov.sg" rel="noopener nofollow" target="_blank">cherie_ang_hui_er@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Collaboration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Halimatus Sa'adiah Binte Roslan
+<br><a href="halimatus_saadiah_roslan@schools.gov.sg" rel="noopener nofollow" target="_blank">halimatus_saadiah_roslan@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr&nbsp;Lim Jenn Yang
-<br>
-<br><a href="mailto:Lim_Jenn_Yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Jenn_Yang@schools.gov.sg</a> 
-<br>
-<br>
+<br><a href="Lim_Jenn_Yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Lim_Jenn_Yang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3B</p>
+<p>3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Lim Mei Ling Helen
-<br>
-<br><a href="mailto:Lim_Mei_Ling_Helen@schools.gov.sg" rel="noopener noreferrer" target="_blank">Lim_Mei_Ling_Helen@schools.gov.sg</a>
+<p>Mdm Ong Bee Cheng Bebe
+<br><a href="Ong_Bee_Cheng_Bebe@schools.gov.sg" rel="noopener nofollow" target="_blank">Ong_Bee_Cheng_Bebe@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Suhaizan Bte Talib
-<br>
-<br><a href="mailto:Suhaizan_Talib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Suhaizan_Talib@schools.gov.sg</a> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3C</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Selvakkumari d/o Veerasamy
-<br>(Ms Kumari)
-<br><a href="mailto:selvakkumari_veerasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">selvakkumari_veerasamy@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng chin Hoon
-<br>
-</p>
-<p><a href="mailto:ng_chin_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_chin_hoon@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3D</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Tan Hai Sing
-<br>
-<br><a href="mailto:tan_hai_sing@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_hai_sing@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Chew Boon Ping Janice
-<br>
-<br><a href="mailto:chew_boon_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_boon_ping@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Leong Wei Peck
-<br>
-<br><a href="mailto:leong_wei_peck@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_wei_peck@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Ahmad Zaki Bin Hassan
-<br>
-<br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaki_b_hassan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Kong Shi Yun Callie
-<br>
-<br><a href="mailto:kong_shi_yun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kong_shi_yun@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Siti Zulaikha Binte Zainal Abidin
-<br><a href="mailto:siti_zulaikha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zulaikha@schools.gov.sg</a>
+<p>Mr Zul Fahmie Bin Jumairi
+<br><a href="zul_fahmie_bin_jumairi@schools.gov.sg" rel="noopener nofollow" target="_blank">zul_fahmie_bin_jumairi@schools.gov.sg</a>
 </p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3G</p>
+<p>3 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohan s/o Krishnamoorthy</p>
-<p></p>
-<p><a href="mailto:mohan_krishnamoorthy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mohan_krishnamoorthy@schools.gov.sg</a>
+<p>Ms Arifah Bte Adnan
+<br><a href="arifah_adnan@schools.gov.sg" rel="noopener nofollow" target="_blank">arifah_adnan@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela</p>
-<p><a href="mailto:Angela@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Angela@schools.gov.sg</a>
+<p>Ms Dou Jin Yi
+<br><a href="dou_jin_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">dou_jin_yi@schools.gov.sg</a>
 </p>
 </td>
 </tr>

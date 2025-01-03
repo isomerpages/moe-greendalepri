@@ -6,7 +6,11 @@ third_nav_title: Contact Us
 variant: tiptap
 ---
 <h2><strong>Primary 4 - Form Teachers</strong></h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -16,7 +20,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>Ms Amalina Batcha Sahib
-<br>
 <br><a href="amalina_batcha_sahib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amalina_batcha_sahib@schools.gov.sg</a>
 </p>
 </td>
@@ -27,7 +30,6 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>&nbsp;Mr Ahmad Zaki Bin Hassan
-<br>
 <br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaki_b_hassan@schools.gov.sg</a>
 </p>
 </td>
@@ -37,7 +39,12 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -49,103 +56,108 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4A</p>
+<p>4 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Mohd Ghazaly Ibrahim Goghari (Mr Emmanuel)
-<br>
-<br><a href="mailto:mohamed_ghazaly_ibrahim_goghari@schools.gov.sg" rel="noopener noreferrer" target="_blank">mohamed_ghazaly_ibrahim_goghari@schools.gov.sg</a>
+<p>Mrs Maybelline Ng
+<br><a href="Chua_Maybelline_Ivy@schools.gov.sg" rel="noopener nofollow" target="_blank">Chua_Maybelline_Ivy@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dong Baohong
-<br>
-<br><a href="mailto:Dong_Baohong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Dong_Baohong@schools.gov.sg</a>
+<p>Nazima Banu d/o Mashuthoo
+<br><a href="nazima_banu@schools.gov.sg" rel="noopener nofollow" target="_blank">nazima_banu@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4B</p>
+<p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Wong Yew Hoong
-<br>
-<br><a href="mailto:wong_yew_hoong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_yew_hoong@schools.gov.sg</a>
+<p>Ms&nbsp;Lim Mei Ling Helen
+<br><a href="Lim_Mei_Ling_Helen@schools.gov.sg" rel="noopener nofollow" target="_blank">Lim_Mei_Ling_Helen@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm&nbsp;Suhaizan Bte Talib
+<br><a href="Suhaizan_Talib@schools.gov.sg" rel="noopener nofollow" target="_blank">Suhaizan_Talib@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Appreciation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chen Wanxing (Ms Jaclyn)
+<br><a href="chen_wanxing_jaclyn@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_wanxing_jaclyn@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Selvakkumari d/o Veerasamy
+<br>(Ms Kumari)
+<br><a href="selvakkumari_veerasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">selvakkumari_veerasamy@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Koh Po Wun Caroline
-<br>
-<br><a href="mailto:koh_po_wun_caroline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_po_wun_caroline@schools.gov.sg</a>
-<br>
+<br><a href="mailto:koh_po_wun_caroline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_po_wun_caroline@schools.gov.sg</u></a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm&nbsp;Chew Boon Ping Janice
+<br><a href="chew_boon_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">chew_boon_ping@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4C</p>
+<p>4 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Lim Ban Poh Vincent
-<br>
-<br><a href="mailto:lim_ban_poh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ban_poh@schools.gov.sg</a>
+<p>Ms Nabila Banu
+<br><a href="nabila_banu_mohamed_hassan@schools.gov.sg" rel="noopener nofollow" target="_blank">nabila_banu_mohamed_hassan@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Liow Shu Hwa
 <br>(Mrs Joanne Goh)
-<br><a href="mailto:Liow_Shu_Hwa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Liow_Shu_Hwa@schools.gov.sg</a>
-<br>
+<br><a href="Liow_Shu_Hwa@schools.gov.sg" rel="noopener nofollow" target="_blank">Liow_Shu_Hwa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4D</p>
+<p>4 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Huang Siyi Joanna
-<br>
-<br><a href="mailto:Joanna_Huang_Siyi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Joanna_Huang_Siyi@schools.gov.sg</a>
+<p>Mdm&nbsp;Siti Zulaikha Binte Zainal Abidin
+<br><a href="siti_zulaikha@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_zulaikha@schools.gov.sg</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Yen San Chelsia
-<br>
-<br><a href="mailto:Lim_Yen_San_Chelsia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Yen_San_Chelsia@schools.gov.sg</a>
+<p>Mdm Kong Shi Yun Callie
+<br><a href="kong_shi_yun@schools.gov.sg" rel="noopener nofollow" target="_blank">kong_shi_yun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4E</p>
+<p>4 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Samuel Lee Zhi Wei</p>
-<p></p>
-<p><a href="mailto:Samuel_Lee_Zhi_Wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Samuel_Lee_Zhi_Wei@schools.gov.sg</a>
+<p>Mr Mohan s/o Krishnamoorthy
+<br><a href="mohan_krishnamoorthy@schools.gov.sg" rel="noopener nofollow" target="_blank">mohan_krishnamoorthy@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Chek Davoudou Ragmath Nissa</p>
-<p><a href="mailto:Chek_Davoudou_Raghmath_Nissa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chek_Davoudou_Raghmath_Nissa@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ee Yuan Qi Eugenia</p>
-<p><a href="mailto:ee_yuan_qi_eugenia@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ee_yuan_qi_eugenia@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Zubaidah Binte Amid</p>
-<p><a href="mailto:zubaidah_amid@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zubaidah_amid@schools.gov.sg</a>
+<p>Ms Angela
+<br><a href="Angela@schools.gov.sg" rel="noopener nofollow" target="_blank">Angela@schools.gov.sg</a>
 </p>
 </td>
 </tr>
