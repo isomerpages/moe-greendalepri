@@ -61,7 +61,7 @@ variant: tiptap
 <p>4 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Maybelline Chua, Ivy
+<p>Mrs Maybelline Ng
 <br><a href="Chua_Maybelline_Ivy@schools.gov.sg" rel="noopener nofollow" target="_blank">Chua_Maybelline_Ivy@schools.gov.sg</a>
 </p>
 </td>
