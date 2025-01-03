@@ -132,8 +132,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Aik Ghee</p>
-<p><a href="neo_aik_ghee@schools.gov.sg" rel="noopener nofollow" target="_blank">neo_aik_ghee@schools.gov.sg</a>
+<p>Mr Neo Aik Ghee
+<br><a href="neo_aik_ghee@schools.gov.sg" rel="noopener nofollow" target="_blank">neo_aik_ghee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
