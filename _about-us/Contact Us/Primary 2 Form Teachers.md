@@ -127,15 +127,13 @@ variant: tiptap
 <p>2 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lee Lena
-<br>
-<br><a href="mailto:lee_lena@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_lena@schools.gov.sg</a>
+<p>Mdm Syazwani Samsudin (Mdm Syaz)
+<br><a href="syazwani_samsudin@schools.gov.sg" rel="noopener nofollow" target="_blank">syazwani_samsudin@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Pierre Rachel Edmond</p>
-<p></p>
-<p><a href="mailto:pierre_rachel_edmond@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pierre_rachel_edmond@schools.gov.sg</a>
+<p>Mr Neo Aik Ghee</p>
+<p><a href="neo_aik_ghee@schools.gov.sg" rel="noopener nofollow" target="_blank">neo_aik_ghee@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -144,15 +142,13 @@ variant: tiptap
 <p>2 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kua En Na
-<br>
-<br><a href="mailto:kua_en_na@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kua_en_na@schools.gov.sg</a>
+<p>Mr Muhd Saifulbahry (Mr Saiful)
+<br><a href="muhammad_saifulbahry_abdul_raman@schools.gov.sg" rel="noopener nofollow" target="_blank">muhammad_saifulbahry_abdul_raman@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Norazirah Binti Ma'arof
-<br>
-<br><a href="mailto:siti_norazirah_maarof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_norazirah_maarof@schools.gov.sg</a>
+<p>Ms Tan Shumin Cecilia
+<br><a href="tan_shumin_cecilia@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_shumin_cecilia@schools.gov.sg</a>
 </p>
 </td>
 </tr>
