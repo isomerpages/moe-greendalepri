@@ -112,15 +112,13 @@ variant: tiptap
 <p>2 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Azimah Bte Hassan
-<br>
-<br><a href="mailto:nur_azimah_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_azimah_hassan@schools.gov.sg</a>
+<p>Mdm Khor Hong Yee (Mrs Low)
+<br><a href="khor_hong_yee@schools.gov.sg" rel="noopener nofollow" target="_blank">khor_hong_yee@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Aik Ghee
-<br>
-<br><a href="mailto:neo_aik_ghee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_aik_ghee@schools.gov.sg</a>
+<p>Mdm&nbsp;Chek Davoudou Ragmath Nissa
+<br><a href="Chek_Davoudou_Raghmath_Nissa@schools.gov.sg" rel="noopener nofollow" target="_blank">Chek_Davoudou_Raghmath_Nissa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
