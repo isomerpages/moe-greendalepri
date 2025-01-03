@@ -105,10 +105,14 @@ variant: tiptap
 <p>4 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Koh Po Wun Caroline
+<br><a href="mailto:koh_po_wun_caroline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_po_wun_caroline@schools.gov.sg</u></a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm&nbsp;Chew Boon Ping Janice
+<br><a href="chew_boon_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">chew_boon_ping@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
