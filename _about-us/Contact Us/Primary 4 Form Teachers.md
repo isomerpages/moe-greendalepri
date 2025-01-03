@@ -76,10 +76,14 @@ variant: tiptap
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms&nbsp;Lim Mei Ling Helen
+<br><a href="Lim_Mei_Ling_Helen@schools.gov.sg" rel="noopener nofollow" target="_blank">Lim_Mei_Ling_Helen@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm&nbsp;Suhaizan Bte Talib
+<br><a href="Suhaizan_Talib@schools.gov.sg" rel="noopener nofollow" target="_blank">Suhaizan_Talib@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
