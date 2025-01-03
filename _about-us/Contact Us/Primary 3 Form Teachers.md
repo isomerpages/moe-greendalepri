@@ -51,17 +51,14 @@ variant: tiptap
 <p>3 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Maybelline Chua, Ivy
-<br>
-<br><a href="mailto:Chua_Maybelline_Ivy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Maybelline_Ivy@schools.gov.sg</a> 
+<p>Mr&nbsp;Mohd Ghazaly Ibrahim Goghari (Mr Emmanuel)
+<br><a href="mohamed_ghazaly_ibrahim_goghari@schools.gov.sg" rel="noopener nofollow" target="_blank">mohamed_ghazaly_ibrahim_goghari@schools.gov.sg</a>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Lim Jenn Yang
-<br>
-<br><a href="mailto:Lim_Jenn_Yang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Jenn_Yang@schools.gov.sg</a> 
-<br>
+<p>Mdm Puah Yun Wen Shirley
+<br><a href="puah_yun_wen@schools.gov.sg" rel="noopener nofollow" target="_blank">puah_yun_wen@schools.gov.sg</a>
 <br>
 </p>
 </td>
