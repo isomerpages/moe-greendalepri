@@ -61,10 +61,14 @@ variant: tiptap
 <p>5 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Cheok Ying Xuan Delcine
+<br><a href="cheok_ying_xuan_delcine@schools.gov.sg" rel="noopener nofollow" target="_blank">cheok_ying_xuan_delcine@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms D Piriyadarisini
+<br><a href="D_Piriyadarisini@schools.gov.sg" rel="noopener nofollow" target="_blank">D_Piriyadarisini@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -72,10 +76,14 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms CHOY PEIZHI (CHRISTINE)
+<br><a href="choy_peizhi@schools.gov.sg" rel="noopener nofollow" target="_blank">choy_peizhi@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm&nbsp;Rashidah Bte Mohamed Rafei
+<br><a href="rashidah_mohamed_rafei@schools.gov.sg" rel="noopener nofollow" target="_blank">rashidah_mohamed_rafei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
