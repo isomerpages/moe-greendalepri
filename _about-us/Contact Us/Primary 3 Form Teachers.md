@@ -6,7 +6,11 @@ third_nav_title: Contact Us
 variant: tiptap
 ---
 <h2><strong>Primary 3 - Form Teachers</strong></h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -27,7 +31,12 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -39,7 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3A</p>
+<p>3 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Maybelline Chua, Ivy
@@ -59,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3B</p>
+<p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms&nbsp;Lim Mei Ling Helen
@@ -77,7 +86,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3C</p>
+<p>3 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Selvakkumari d/o Veerasamy
@@ -95,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3D</p>
+<p>3 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Tan Hai Sing
@@ -112,7 +121,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3E</p>
+<p>3 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Leong Wei Peck
@@ -129,7 +138,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3F</p>
+<p>3 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Kong Shi Yun Callie
@@ -146,7 +155,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3G</p>
+<p>3 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohan s/o Krishnamoorthy</p>
