@@ -20,7 +20,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>
 <br>Mr Chean Eu Chang Jonathan
-<br>
 <br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chean_eu_chang_jonathan@schools.gov.sg</a>
 </p>
 </td>
@@ -31,7 +30,6 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>Mrs Kimberly Lee
-<br>
 <br><a href="mailto:kimberly_quek_kwee_chiew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kimberly_quek_kwee_chiew@schools.gov.sg</a>
 </p>
 </td>
