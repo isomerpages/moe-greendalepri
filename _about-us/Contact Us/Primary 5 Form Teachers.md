@@ -124,7 +124,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Leong Jay Ker Ian
+<br><a href="Leong_Jay_Ker_Ian@schools.gov.sg" rel="noopener nofollow" target="_blank">Leong_Jay_Ker_Ian@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
