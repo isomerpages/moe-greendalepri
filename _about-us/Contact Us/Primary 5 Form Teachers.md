@@ -119,7 +119,9 @@ variant: tiptap
 <p>5 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Mak Sher-Lin (Stephanie)
+<br><a href="mak_sher-lin@schools.gov.sg" rel="noopener nofollow" target="_blank">mak_sher-lin@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
