@@ -4,7 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: Click on 'Announcements' for information on school canteen stall application.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
