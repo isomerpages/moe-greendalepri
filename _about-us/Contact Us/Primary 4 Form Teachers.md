@@ -120,10 +120,15 @@ variant: tiptap
 <p>4 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nabila Banu
+<br><a href="nabila_banu_mohamed_hassan@schools.gov.sg" rel="noopener nofollow" target="_blank">nabila_banu_mohamed_hassan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Liow Shu Hwa
+<br>(Mrs Joanne Goh)
+<br><a href="Liow_Shu_Hwa@schools.gov.sg" rel="noopener nofollow" target="_blank">Liow_Shu_Hwa@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -131,10 +136,14 @@ variant: tiptap
 <p>4 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm&nbsp;Siti Zulaikha Binte Zainal Abidin
+<br><a href="siti_zulaikha@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_zulaikha@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Kong Shi Yun Callie
+<br><a href="kong_shi_yun@schools.gov.sg" rel="noopener nofollow" target="_blank">kong_shi_yun@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
