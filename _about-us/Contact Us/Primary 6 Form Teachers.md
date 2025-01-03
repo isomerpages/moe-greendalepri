@@ -47,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6A</p>
+<p>6 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm&nbsp;Hafidzah Binte Abdullah
@@ -65,7 +65,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6B</p>
+<p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Seah Li Hui Agnes (Mrs Yeo)
@@ -83,7 +83,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6C</p>
+<p>6 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
@@ -102,7 +102,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6D</p>
+<p>6 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Arifah Bte Adnan
@@ -116,44 +116,6 @@ variant: tiptap
 <p>Mdm Goh Kar Hui
 <br>(Mrs Jolene Teo)
 <br><a href="mailto:goh_kar_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_kar_hui@schools.gov.sg</a>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6E</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Hock Siong Dennis
-<br>
-<br><a href="mailto:dennis_tan_hock_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dennis_tan_hock_siong@schools.gov.sg</a>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Puah Yun Wen Shirley
-<br>
-<br><a href="mailto:puah_yun_wen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">puah_yun_wen@schools.gov.sg</a>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>6F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Hamidah Binte Abdul Razak
-<br>
-<br><a href="mailto:hamidah_abdul_razak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hamidah_abdul_razak@schools.gov.sg</a>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Caelyn Whyndee Lim
-<br>
-<br><a href="mailto:caelyn_whyndee_lim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caelyn_whyndee_lim@schools.gov.sg</a>
 <br>
 </p>
 </td>
