@@ -68,14 +68,13 @@ variant: tiptap
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;HAN PEILING AMELIA
+<p>Ms Han Peiling Amelia
 <br><a href="amelia_han@schools.gov.sg" rel="noopener nofollow" target="_blank">amelia_han@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Suhaizan Bte Talib
-<br>
-<br><a href="mailto:Suhaizan_Talib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Suhaizan_Talib@schools.gov.sg</a> 
+<p>Mdm Chen Xujin
+<br><a href="chen_xujin@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_xujin@schools.gov.sg</a>
 <br>
 </p>
 </td>
