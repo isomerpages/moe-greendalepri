@@ -151,10 +151,14 @@ variant: tiptap
 <p>4 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mohan s/o Krishnamoorthy
+<br><a href="mohan_krishnamoorthy@schools.gov.sg" rel="noopener nofollow" target="_blank">mohan_krishnamoorthy@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Angela
+<br><a href="Angela@schools.gov.sg" rel="noopener nofollow" target="_blank">Angela@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
