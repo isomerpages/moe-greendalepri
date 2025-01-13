@@ -14,8 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>
-<br>Year Head</p>
+<p>Year Head</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mdm Low Mun Chin (Mrs Chan)
