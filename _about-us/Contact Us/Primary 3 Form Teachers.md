@@ -15,14 +15,12 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p>
-<br>
 <br>Year Head</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>
-<br>Ms Amalina Batcha Sahib
-<br>
-<br><a href="amalina_batcha_sahib@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">amalina_batcha_sahib@schools.gov.sg</a>
+<br>Mr Chean Eu Chang Jonathan
+<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chean_eu_chang_jonathan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
