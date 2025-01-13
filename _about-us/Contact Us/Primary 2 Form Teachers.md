@@ -15,14 +15,22 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p>
-<br>
 <br>Year Head</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>
 <br>Mdm Low Mun Chin (Mrs Chan)
-<br>
 <br><a href="mailto:low_mun_chin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">low_mun_chin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Mr Ahmad Zaki Bin Hassan
+<br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaki_b_hassan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
