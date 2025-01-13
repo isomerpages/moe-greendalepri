@@ -14,23 +14,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>
-<br>Year Head</p>
+<p>Year Head</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>
-<br>Mr Chean Eu Chang Jonathan
-<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chean_eu_chang_jonathan@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Mrs Kimberly Lee
-<br><a href="mailto:kimberly_quek_kwee_chiew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kimberly_quek_kwee_chiew@schools.gov.sg</a>
+<p>Ms Amalina Batcha Sahib
+<br><a href="amalina_batcha_sahib@schools.gov.sg" rel="noopener nofollow" target="_blank">amalina_batcha_sahib@schools.gov.sg</a>
 </p>
 </td>
 </tr>
