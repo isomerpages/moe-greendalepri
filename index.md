@@ -16,7 +16,7 @@ sections:
           description: Our School Instagram
           url: https://go.gov.sg/greendaleps-ig
         - title: MK@Greendale Instagram
-          description: MOE Kindergarten Instagram
+          description: Our Kindergarten Instagram
           url: https://www.instagram.com/moekindergarten_greendale/
   - infobar:
       title: MOE Kindergarten @ Greendale Open House 2025
