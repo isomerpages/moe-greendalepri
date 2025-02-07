@@ -16,6 +16,11 @@ sections:
           description: Our School Instagram
           url: https://go.gov.sg/greendaleps-ig
   - infobar:
+      title: MOE Kindergarten @ Greendale Open House 2025
+      id: infobar
+      button: View Details
+      url: https://greendalepri.moe.edu.sg/mk-greendale-open-house-2025/
+  - infobar:
       title: School Canteen Advertisement
       id: infobar
       button: view details
