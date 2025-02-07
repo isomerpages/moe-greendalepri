@@ -2,8 +2,8 @@ collections:
   moe-kindergarten-at-greendale:
     output: true
     order:
-      - MK @ Greendale Open House 2025.md
       - MOE Kindergarten @ Greendale.md
+      - MK @ Greendale Open House 2025.md
       - A Day At MOE Kindergarten.md
       - Curriculum and Programmes.md
       - Learning Environment.md
