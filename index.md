@@ -4,7 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Check 'Announcements' for details to Nominate teachers for the
+notification: Check 'Announcements' for details to nominate teachers for the
   Arif Budiman Malay Language Teacher Award (AGAB) 2025 or the Most Inspiring
   Tamil Teachers’ (MITT) Award 2025
 sections:
