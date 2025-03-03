@@ -19,11 +19,6 @@ sections:
           description: Our Kindergarten Instagram
           url: https://www.instagram.com/moekindergarten_greendale/
   - infobar:
-      title: School Canteen Advertisement
-      id: infobar
-      button: view details
-      url: https://www.greendalepri.moe.edu.sg/school-canteen-advertisement/
-  - infobar:
       title: Latest School Brochure
       button: View Brochure
       url: /about-us/our-school/school-brochure/
