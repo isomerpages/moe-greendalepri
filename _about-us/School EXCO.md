@@ -30,17 +30,6 @@ variant: tiptap
 <p>Vice -Principal (EO)</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms He Kangya
-<br><a href="mailto:he_kangya@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">he_kangya@schools.gov.sg</a> 
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Vice -Principal (EO)</p>
-</th>
-<td rowspan="1" colspan="1">
 <p>Mr Sim Chin Beng Wilson
 <br><a href="mailto:sim_chin_beng_wilson@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sim_chin_beng_wilson@schools.gov.sg</a>
 </p>
