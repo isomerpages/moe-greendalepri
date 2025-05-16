@@ -4,9 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Nominate teachers for Chinese Language, Malay Language, Tamil
-  Language and English Language Awards 2025. Check under 'Announcements' for
-  more details.
+notification: Open House 2025. Check under 'Announcements' for more details.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
