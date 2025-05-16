@@ -2,9 +2,7 @@ collections:
   announcements:
     output: true
     order:
-      - The 28th Distinguished Chinese Language Teachers Awards.md
-      - Inspiring Teacher of English Award 2025.md
-      - Malay Language and Tamil Language Award for Teachers 2025.md
+      - Open House 2025.md
       - School Canteen Advertisement.md
       - PAT and OYEA Nomination 2025.md
       - Greendale Primary School’s Online Art Exhibition 2024.md
