@@ -74,7 +74,7 @@ hp: 80319788.</p>
 &nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;<strong>1.00pm to 2.00pm</strong> 
 <br>
 </p>
-<p><a href="/files/Dental Schedule/dental schedule may 2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
+<p><a href="/files/Dental Schedule/dental schedule jun 2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
 </p>
 </div></li>
 
