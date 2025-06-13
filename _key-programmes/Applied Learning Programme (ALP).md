@@ -130,8 +130,15 @@ sessions, our Design Ambassadors help to guide the students to explore
 possibilities and generate ideas according to the given themes. The students
 have fun expressing their ideas using Lego and recycled materials in response
 to the challenge and share their ideas with their friends and teachers.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students having fun at the Maker Monday sessions" src="/images/Key Programmes/ALP/5.jpg">
 </div>
-<p></p>
+<p><em>Students having fun at the Maker Monday sessions.</em>
+</p>
+<p>As part of talent development, the school identifies and develops selected
+Primary 4 students as Design Ambassadors (DA) at Tier 2 of our ALP. Besides
+growing their leadership skills to guide and support their peers during
+Maker Monday sessions, our DAs represent the school at national Design
+Thinking competitions where they will learn to generate, evaluate, refine
+and present their ideas collaboratively according to the given issues or
+challenges.</p>
