@@ -104,9 +104,13 @@ as shown below:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students learning collaboratively" src="/images/Key Programmes/ALP/1.jpg">
 </div>
-<p><em>Students learning collaboratively</em>
+<p><em>Students learning collaboratively.</em>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students learning to use 3D pen to create their design ideas." src="/images/Key Programmes/ALP/2.jpg">
+</div>
+<p><em>Students learning to use 3D pen to create their design ideas.</em>
+</p>
 <p><strong>Programme Outline</strong>
 </p>
 <table style="minWidth: 50px">
@@ -189,5 +193,6 @@ the principle of energy conversion and forces that they have learnt.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
