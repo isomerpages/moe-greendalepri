@@ -122,6 +122,6 @@ Challenge.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students presenting their ideas to their peers during the Design Thinking Challenge" src="/images/Key Programmes/ALP/4.jpg">
 </div>
-<p><em>Students presenting their ideas to their peers during the Design Thinking Challenge</em>
+<p><em>Students presenting their ideas to their peers during the Design Thinking Challenge.</em>
 </p>
 <p></p>
