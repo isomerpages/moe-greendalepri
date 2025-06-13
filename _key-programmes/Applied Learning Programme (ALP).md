@@ -102,6 +102,9 @@ as shown below:</p>
 </table>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students learning collaboratively" src="/images/Key Programmes/ALP/1.jpg">
+</div>
 <p></p>
 <p></p>
 <p><strong>Programme Outline</strong>
