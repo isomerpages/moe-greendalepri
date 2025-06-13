@@ -124,4 +124,14 @@ Challenge.</p>
 </div>
 <p><em>Students presenting their ideas to their peers during the Design Thinking Challenge.</em>
 </p>
+<p>To nurture a culture of inventive thinking as a whole-school approach,
+Maker Monday sessions are held every term during recess. At the Maker Monday
+sessions, our Design Ambassadors help to guide the students to explore
+possibilities and generate ideas according to the given themes. The students
+have fun expressing their ideas using Lego and recycled materials in response
+to the challenge and share their ideas with their friends and teachers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students having fun at the Maker Monday sessions" src="/images/Key Programmes/ALP/5.jpg">
+</div>
 <p></p>
