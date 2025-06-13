@@ -117,6 +117,10 @@ as shown below:</p>
 </div>
 <p>Students creating their character for Ad Astra Carnival Design Thinking
 Challenge.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students presenting their ideas to their peers during the Design Thinking Challenge" src="/images/Key Programmes/ALP/4.jpg">
+</div>
 <p><strong>Programme Outline</strong>
 </p>
 <table style="minWidth: 50px">
@@ -199,6 +203,7 @@ the principle of energy conversion and forces that they have learnt.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
