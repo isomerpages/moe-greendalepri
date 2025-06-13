@@ -5,8 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Applied Learning Programme (ALP)</strong></h3>
-<p><strong>Learning by Design – Authentic Problem-solving through Design Thinking</strong>
-</p>
+<h4><strong>Learning by Design – Authentic Problem-solving through Design Thinking</strong></h4>
 <p><strong>Introduction</strong>
 </p>
 <p>Greendale Primary School has developed our unique Applied Learning Programme
