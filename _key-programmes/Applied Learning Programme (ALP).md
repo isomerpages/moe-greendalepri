@@ -14,36 +14,96 @@ variant: tiptap
 and skills with creativity and innovation. This programme aims to cultivate
 adaptive and inventive thinkers who show empathy and care by engaging in
 authentic problem-solving through Design Thinking.</p>
+<p>Through the ALP and at appropriate stages of their cognitive development,
+our students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to express their ideas visually in innovative ways to highlight
+their thoughts;</p>
+</li>
+<li>
+<p>Showcase their learning and understanding in research, user empathy, design
+development, and prototyping; and</p>
+</li>
+<li>
+<p>Demonstrate application of Design Thinking processes.</p>
+</li>
+</ul>
 <p><strong>Approach</strong>
 </p>
-<p>This theme, 'Toys', is used as it creates much interest among all levels
-of students, who will have lots of fun creating and designing their favourite
-toys using recycled items and concepts they have learnt in their daily
-lessons. We also believe that by getting the students to draw links between
-Science and the other subjects as well as to apply knowledge and skills
-from the academic curriculum into the project, this helps to spark their
-interest and develop them to be better problem-solvers in real world situations.</p>
-<p>Besides piquing their sense of creativity and interest, students have
-the opportunity to contribute actively to group decisions and develop their
-confidence by sharing their ideas at group and class level. The project
-will also require them to be self-directed in doing research and looking
-for ideas and information. With the collaborative nature of this project,
-students will be able to further hone their competencies in self-management,
-relationship management and social awareness through their interactions
-with their peers.</p>
-<p>Finally, the culmination of their learning is showcased via the Toy Carnival
-in which the students have to present their projects to their classmates,
-teachers and parents, and this helps to build their confidence in public
-speaking as well.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key%20Programmes/ALP%201.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key%20Programmes/ALP%202.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Key%20Programmes/ALP%203.jpg">
-</div>
+<p>The school adopts a two-tiered approach for our ALP. At Tier 1, we provide
+a resource-rich learning environment to develop student Design Thinking
+(DT) competencies for all our students through customised level programmes
+as shown below:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Level</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Brief Description</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DT-enabled Visual Arts Programme during PAL (Modular) Lessons</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DT-enhanced Drama Programme during PAL (Modular) Lessons</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level-based Ad Astra Carnival Design Thinking Challenge: Character Design
+(during Art Lessons)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level-based Design Thinking Challenge: Happiness by Design</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level-based Design Thinking Challenge: Eco Stewardship</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>P6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level-based Design Thinking Challenge: Games Carnival</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Programme Outline</strong>
 </p>
 <table style="minWidth: 50px">
@@ -126,4 +186,5 @@ the principle of energy conversion and forces that they have learnt.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
