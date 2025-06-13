@@ -107,10 +107,16 @@ as shown below:</p>
 <p><em>Students learning collaboratively.</em>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students learning to use 3D pen to create their design ideas." src="/images/Key Programmes/ALP/2.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="Students learning to use 3D pen to create their design ideas." src="/images/Key Programmes/ALP/2.jpg">
 </div>
 <p><em>Students learning to use 3D pen to create their design ideas.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students creating their character for Ad Astra Carnival Design Thinking Challenge." src="/images/Key Programmes/ALP/3.jpg">
+</div>
+<p>Students creating their character for Ad Astra Carnival Design Thinking
+Challenge.</p>
 <p><strong>Programme Outline</strong>
 </p>
 <table style="minWidth: 50px">
