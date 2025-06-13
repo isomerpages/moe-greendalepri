@@ -142,3 +142,10 @@ Maker Monday sessions, our DAs represent the school at national Design
 Thinking competitions where they will learn to generate, evaluate, refine
 and present their ideas collaboratively according to the given issues or
 challenges.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Design Ambassadors at the ‘Design For Change’ pitching session" src="/images/Key Programmes/ALP/6.jpg">
+</div>
+<p>Design Ambassadors at the ‘Design For Change’ pitching session.</p>
+<p></p>
+<p></p>
