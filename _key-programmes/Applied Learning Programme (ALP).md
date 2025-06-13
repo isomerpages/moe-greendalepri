@@ -151,5 +151,5 @@ challenges.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Design Ambassadors at the ‘Bedok Green Primary School Design Conference’" src="/images/Key Programmes/ALP/7.jpg">
 </div>
-<p><em>Design Ambassadors at the ‘Bedok Green Primary School Design Conference’</em>
+<p><em>Design Ambassadors at the ‘Bedok Green Primary School Design Conference’.</em>
 </p>
