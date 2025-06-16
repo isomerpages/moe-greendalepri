@@ -9,15 +9,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB%201.jpg">
 </div>
-<p><strong><u>Introduction</u></strong>
+<p><strong><u>Boy’s Brigade 20<sup>th</sup> Junior Company (20J)</u></strong>
 </p>
-<p>The Boys' Brigade is the first and oldest uniformed youth organisation
-in the world founded in 1883 by a Christian businessman in Glasgow, Scotland.
-It is a Christian Uniformed Organisation for Boys and is recognised by
-the Ministry of Education as one of the eight uniformed youth groups. The
-Boys' Brigade is open to Boys from all races, religions and nationalities
-as it is a CCA activity. It caters to your Boy to complement his academic
-pursuit.</p>
+<p></p>
 <p><strong><u>20J - The 'Greendale Primary' Company</u></strong>
 </p>
 <p>The movement is called The Boys' Brigade and the local unit is known as
@@ -51,7 +45,7 @@ engaging in sports.</p>
 <div class="isomer-image-wrapper">
 <img style="width:100%" height="auto" width="100%" src="/images/CCA/Boys%20Brigade/BB%204.jpg">
 </div>
-<p><strong> (From left to right: Mr Wong Yew Hong, Rev. Simon Cheo (LTA), Mdm Caroline Quek, Mdm Jennifer Joy Goh (2LT), Mdm Li Lin, Mr Emmanuel (2LT), Mr Samuel Lee)</strong>
+<p><strong>(From left to right: Mr Wong Yew Hong, Rev. Simon Cheo (LTA), Mdm Caroline Quek, Mdm Jennifer Joy Goh (2LT), Mdm Li Lin, Mr Emmanuel (2LT), Mr Samuel Lee)</strong>
 </p>
 <p>All the Boys’ Brigade teachers, officers and volunteers in Greendale Primary
 School are truly dedicated in mentoring the boys to the best of their abilities
@@ -122,12 +116,13 @@ responsible and useful citizens of our nation.</p>
 <br>Mr Samuel Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p>Wednesdays</p>
+<p>(All members)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm - 4.00 pm
+<p>2.00pm - 4.00pm
 <br>
 </p>
 </td>
