@@ -41,6 +41,15 @@ and service projects.</p>
 <p>By being part of the Red Cross CCA at Greendale Primary, students not
 only gain valuable life skills but also grow into compassionate individuals
 ready to make a difference in their school and beyond.</p>
+<p><u>Silver Award for First Aid Championship 2025</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Silver Award for First Aid Championship 2025" src="/images/CCA/Red_Cross_1.jpg">
+</div>
+<p><u>Outdoor Education module</u>
+</p>
+<p></p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
