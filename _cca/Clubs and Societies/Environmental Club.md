@@ -20,61 +20,31 @@ a deeper appreciation for nature and a sense of responsibility towards
 protecting the environment.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental_Club_1.jpg">
 </div>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental_Club_2.jpg">
 </div>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental_Club_3.jpg">
 </div>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental_Club_4.jpg">
 </div>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental_Club_5.jpg">
 </div>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_6.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental_Club_6.jpg">
 </div>
-<table style="width: 0px">
-<colgroup></colgroup>
-<tbody>
-<tr></tr>
-</tbody>
-</table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental_Club_7.jpg">
 </div>
 <table style="minWidth: 100px">
 <colgroup>
@@ -123,4 +93,6 @@ protecting the environment.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
