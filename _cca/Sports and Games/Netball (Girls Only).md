@@ -6,32 +6,13 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <h2><strong>Netball (Girls Only)</strong></h2>
-<p>Netball is the number one girls' school sport in Singapore with 330 schools
-running it as a Co-Curricular Activity (CCA). The Netball CCA in Greendale
-Primary School aims to provide opportunities for pupils to learn and apply
-the fundamental netball skills and simple court play strategies in playing
-a netball game.</p>
-<p>The pupils will also learn to embrace the values of excellence, sportsmanship
-and fair play. Training involves basic ball skills, stamina building, agility
-and coordination exercises under the close supervision of the coach and
-teachers-in-charge.</p>
-<p>Team Greendale will also be training progressively to prepare pupils to
-represent the school in the North Zone Netball Tournament and carnivals
-organised by Netball Singapore. We look forward to maximising the exposure
-and experience of the girls in our CCA.</p>
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/CCA/Netball%20(1).jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/CCA/Netball%20(2).jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/CCA/Netball%20(3).jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/CCA/Netball%20(4).jpg">
-</div>
-<p>
+<p>Through Netball CCA, we hope to inculcate our school values as well as
+sportsmanship among our netball girls. We also hope that our netball girls
+will forge lifelong friendships through the love of the sport.</p>
+<p>In term 1, our netball senior girls had made the school proud by winning
+3 games consecutively during the National School Games (NSG) Senior Girls
+(Pool Round). In addition, our senior girls are qualified to enter the
+league round which will be held in Term 2. All the best, girls!
 <br>
 </p>
 <table style="minWidth: 100px">
