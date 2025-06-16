@@ -66,7 +66,7 @@ Boys, Junior Girls, Senior Boys and Senior Girls.</p>
 <br>Thursdays*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm - 4.00pm</p>
+<p>2.00pm - 4.00pm</p>
 <p></p>
 <p>
 <br>3.00pm - 4.30pm</p>
