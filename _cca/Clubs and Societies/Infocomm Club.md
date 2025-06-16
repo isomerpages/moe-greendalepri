@@ -17,9 +17,14 @@ skills to communicate ideas and use them in their school projects.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm_2.jpg">
 </div>
-<p></p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
