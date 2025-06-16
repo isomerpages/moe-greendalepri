@@ -78,18 +78,19 @@ Championships!</p>
 <br>Mdm Ng Chin Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday*
+<p>Wednesdays (All members)
 <br>
-<br>Friday
+<br>Thursdays*
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>2.00 pm - 4.00 pm
+<p>2.00 pm - 4.00 pm
 <br>
 </p>
+<p></p>
+<p>3.00pm - 5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
