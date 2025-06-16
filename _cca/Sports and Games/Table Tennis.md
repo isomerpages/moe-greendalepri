@@ -18,6 +18,7 @@ and perseverance, fostering character development alongside technical proficienc
 providing them with opportunities to excel. Selected players represent
 the school in the Inter-School Table Tennis Competitions, where they showcase
 their skills and sportsmanship on a competitive platform.</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -69,3 +70,4 @@ their skills and sportsmanship on a competitive platform.</p>
 </tbody>
 </table>
 <p>* School Team only</p>
+<p></p>
