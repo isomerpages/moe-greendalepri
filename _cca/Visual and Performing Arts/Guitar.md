@@ -51,7 +51,7 @@ confidence to perform on the big stage.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>2:00 pm to 4:00 pm
+<br>2:00pm to4:00 pm
 <br>
 </p>
 </td>
