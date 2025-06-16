@@ -71,10 +71,10 @@ and experience of the girls in our CCA.</p>
 <br>Thursdays*</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 - 4:00 pm</p>
+<p>2.00pm - 4.00pm</p>
 <p></p>
 <p></p>
-<p>3:00 - 4.30pm</p>
+<p>3.00pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Basketball Court (Wed)
