@@ -48,8 +48,14 @@ ready to make a difference in their school and beyond.</p>
 </div>
 <p><u>Outdoor Education module</u>
 </p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Outdoor Education module" src="/images/CCA/Red_Cross_2.jpg">
+</div>
+<p><u>Engaging in fun games and activities</u>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Engaging in fun games and activities" src="/images/CCA/Red_Cross_3.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
