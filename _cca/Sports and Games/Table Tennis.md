@@ -19,6 +19,13 @@ providing them with opportunities to excel. Selected players represent
 the school in the Inter-School Table Tennis Competitions, where they showcase
 their skills and sportsmanship on a competitive platform.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table_Tennis_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Table_Tennis_2.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
