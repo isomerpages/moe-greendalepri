@@ -8,10 +8,17 @@ variant: tiptap
 <h2><strong>Infocomm Club</strong></h2>
 <p>The club aims to cultivate our students’ interest and develop skills in
 the information and communication technology, through experiential learning.&nbsp;We
-offer a variety of activities from photography, videography to coding and
-flying drones. Through the fun activities and projects, our members will
-appreciate technologies better and creatively apply their skills to communicate
-ideas and use them in their school projects.</p>
+offer a variety of activities from photography, videography, stop-motion
+animation to coding and flying drones. Through the fun activities and projects,
+our members will appreciate technologies better and creatively apply their
+skills to communicate ideas and use them in their school projects.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Infocomm_2.jpg">
+</div>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
