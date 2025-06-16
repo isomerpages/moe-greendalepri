@@ -41,10 +41,9 @@ also given opportunities for in-house and outdoor performances.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Hafidzah Binte Abdullah – I/C
-<br>Ms Nurdiana Bte Hashim
+<p>Ms Nurdiana Bte Hashim - I/C
 <br>Ms D.Piriyadarisini</p>
-<p>Ms Yang Yiying</p>
+<p>Ms Leong Ya Hui</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
