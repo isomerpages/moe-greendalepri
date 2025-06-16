@@ -41,12 +41,12 @@ ideas and use them in their school projects.</p>
 <br>Ms Halimatus Saadiah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p>Wednesdays
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 pm - 3.30 pm
+<p>2.00pm - 4.00pm
 <br>
 </p>
 </td>
