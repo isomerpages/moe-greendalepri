@@ -42,8 +42,7 @@ ideas and use them in their school projects.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays
-<br>
-</p>
+<br>(All members)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm - 4.00pm
