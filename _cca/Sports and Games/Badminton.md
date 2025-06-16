@@ -25,6 +25,10 @@ various levels.</p>
 the school in various competitions such as National School Games: Junior
 Boys, Junior Girls, Senior Boys and Senior Girls.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Badminton" src="/images/CCA/Badminton.jpg">
+</div>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
