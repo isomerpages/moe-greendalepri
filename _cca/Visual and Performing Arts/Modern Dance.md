@@ -99,20 +99,23 @@ they had created.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Joanna Huang– I/C
-<br>Ms Musfirah
-<br>Mdm Nazima Banu</p>
-<p>Mdm Peng Jing Jing</p>
+<p>Mdm Nazima Banu– I/C
+<br>Ms Cherie Ang</p>
+<p>Ms Ng Zi Chun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p>Wednesdays
 <br>
 </p>
+<p>Thursdays</p>
+<p></p>
+<p>(All members to attend both sessions)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm - 4.00 pm
+<p>2.00pm - 4.00pm
 <br>
 </p>
+<p>3.00pm - 5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAL Room</p>
