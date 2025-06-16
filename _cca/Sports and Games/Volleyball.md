@@ -6,9 +6,6 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <h2><strong>Volleyball</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Volleyball%201.png">
-</div>
 <p>Volleyball adopts a tactical game approach concept that places pupils
 at the centre to decide:</p>
 <ul>
@@ -58,23 +55,23 @@ the various volleyball carnivals. If you like challenge, join our CCA!</p>
 <br>Mr Muhammad Saifulbahry</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday*
+<p>Wednesdays (All members)
 <br>
-<br>Friday
+<br>Thursdays*
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>2.00 pm to 4.00 pm
+<p>2.00pm to 4.00pm
 <br>
 <br>
 </p>
+<p>3.00pm - 5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Indoor Sport Hall (Wed)
 <br>
-<br>Basketball Court (Fri)</p>
+<br>Basketball Court</p>
 </td>
 </tr>
 </tbody>
