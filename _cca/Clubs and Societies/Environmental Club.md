@@ -6,17 +6,76 @@ third_nav_title: Clubs and Societies
 variant: tiptap
 ---
 <h2><strong>Environmental Club</strong></h2>
+<p>At Greendale Primary School, environmental education is an integral part
+of holistic learning. The Environmental Club provides students with meaningful
+opportunities to explore sustainability and take active steps in caring
+for the planet.</p>
+<p>Through upcycling projects, biodiversity conservation efforts, planting
+initiatives, and school-wide environmental campaigns, members learn about
+the importance of environmental stewardship. They play a key role in advocating
+for sustainable practices and inspiring the school community to adopt eco-friendly
+habits.</p>
+<p>By engaging in hands-on activities and outreach programs, students develop
+a deeper appreciation for nature and a sense of responsibility towards
+protecting the environment.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Environmental%20Club%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_1.jpg">
 </div>
-<p>Greendale Primary School strongly believes that environment education
-is an important component of a holistic education and adopts a whole-school
-approach towards environment care. Our Environmental Club aims to give
-our members experiences and exposure to an array of interesting activities
-to educate them on the importance of caring for our environment. It campaigns
-for the improvement of the environment through activities such as planting,
-recycling and educating the rest of the school on doing our part for our
-environment.</p>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_2.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_3.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_4.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_5.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_6.jpg">
+</div>
+<table style="width: 0px">
+<colgroup></colgroup>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Environmental_Club_7.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -46,12 +105,13 @@ environment.</p>
 <p>Mr Wong Yew Hoong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p>Wednesdays</p>
+<p>(All members)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm - 4.00 pm
+<p>2.00pm - 4.00pm
 <br>
 </p>
 </td>
