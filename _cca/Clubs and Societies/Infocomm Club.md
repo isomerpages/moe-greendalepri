@@ -38,7 +38,7 @@ ideas and use them in their school projects.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Nabila Banu - I/C
-<br>Ms Halimatus</p>
+<br>Ms Halimatus Saadiah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday
