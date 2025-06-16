@@ -12,6 +12,29 @@ students to extend their interest in Art. Opportunities are given for students
 to participate in nationwide competition such as Singapore Youth Festival
 (SYF), to go for learning journeys to the museum and to learn and create
 art based on art techniques learnt.</p>
+<p>The Art Club at our school is a fun and welcoming place where young artists
+can explore their creativity and imagination. Art club gives children the
+chance to try new art activities, learn different techniques, and most
+importantly—have fun while making art!</p>
+<p>Each week, we enjoy hands-on projects like drawing, painting, resin art,
+3D pen, and ceramics.</p>
+<p><strong>In Art Club, we:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Try different art materials and styles</p>
+</li>
+<li>
+<p>Learn about famous artists and art from around the world</p>
+</li>
+<li>
+<p>Enter art competitions and show off our talents</p>
+</li>
+<li>
+<p>Encourage each other and celebrate everyone's creativity</p>
+</li>
+</ul>
+<p>Art Club is a joyful place where every child is an artist.</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
