@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<h2><strong>Table-Tennis</strong></h2>
+<h2><strong>Table Tennis (Boys only)</strong></h2>
 <p>In table tennis, we provide the best possible training and environment
 for members to reach their fullest sporting potential. As the members learn
 to master the fundamental skills and strategies of table tennis, they are
@@ -46,17 +46,18 @@ selected get to participate in the Inter-School Table Tennis competitions.</p>
 <p>Mdm Dong Baohong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday*
+<p>Wednesdays (All members)
 <br>
-<br>Friday
+<br>Thursdays*
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>2.00 pm - 4.00 pm
+<p>2.00pm - 4.00pm
 <br>
 </p>
+<p></p>
+<p>3.00pm - 5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
