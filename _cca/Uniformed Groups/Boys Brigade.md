@@ -30,6 +30,9 @@ to excellence in leadership, service, and personal development.</p>
 are committed to mentoring the boys and fostering values that contribute
 to their holistic development.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB_Photos.gif">
+</div>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
