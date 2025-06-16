@@ -23,6 +23,18 @@ is not just about physical prowess but also about personal growth discipline
 and respect. By joining the Wushu CCA, students can gain invaluable life
 skills while being part of a supportive community that values excellence,
 perseverance and cultural heritage.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu_3.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -33,7 +45,7 @@ perseverance and cultural heritage.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>eacher-In-Charge</p>
+<p>Teacher-In-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Training Day</p>
