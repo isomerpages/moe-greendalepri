@@ -5,13 +5,7 @@ description: ""
 third_nav_title: Sports and Games
 variant: tiptap
 ---
-<h2><strong>Badminton</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton%20(1).jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Badminton%20(2).jpg">
-</div>
+<h2><strong>Badminton (Boys and Girls)</strong></h2>
 <p>Badminton is a sport for two or four people. In this way, the game consists
 of either one player against one player or a team of two players against
 another team of two players. Players use rackets to hit a shuttlecock over
@@ -65,15 +59,15 @@ Boys, Junior Girls, Senior Boys and Senior Girls.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday
+<p>Wednesdays (All Members)
 <br>
-<br>Friday*</p>
+<br>Thursdays*</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2.00 pm - 4.00 pm</p>
+<p></p>
 <p>
-<br>2.00 pm - 4.00 pm
-<br>
-</p>
+<br>3.00pm - 4.30pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
