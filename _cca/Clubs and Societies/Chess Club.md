@@ -51,7 +51,7 @@ to think ahead, stay focused, and enjoy the game.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Helen Lim- IC
-<br>Ms Stephanie Teo</p>
+<br>Ms Bebe Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
