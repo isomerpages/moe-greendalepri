@@ -9,16 +9,21 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Chess%201.jpeg">
 </div>
-<p>Our Chess Club is set up with the objective of promoting intellectual
-games. It aims to introduce basic chess playing skills to members and help
-them develop higher order thinking skills such as the ability to visualize,
-analyze, and think critically. Through chess, the CCA members will improve
-their ability to focus on tasks. When playing chess, the pupils will see
-the importance of thinking ahead, trying to figure out their opponent’s
-next move and their own alternatives moves. There is evidence that chess-playing
-school children significantly outperform non-playing children in literacy,
-numeracy and problem solving skills. Chess is a game with no barriers as
-people of any age, gender, race and social class can all play.</p>
+<p>At our Chess Club, we believe that every move on the board is a step toward
+building sharper minds and stronger character. Open to pupils of all levels—from
+beginners to experienced players—the Chess CCA provides a fun and focused
+environment where pupils develop critical thinking, strategic planning,
+and concentration.</p>
+<p>Through weekly sessions, chess members learn fundamental rules, tactics,
+and advanced strategies. They engage in friendly matches and puzzle-solving
+activities that challenge their minds and nurture resilience. Beyond the
+board, pupils build confidence, patience, and good sportsmanship—skills
+that benefit them in both academic and everyday situations.</p>
+<p>Our Chess Club also prepares keen players for school-based and external
+competitions, offering them the chance to test their skills and grow through
+experience. Whether a pupil joins to learn a new skill or to compete at
+a higher level, the Chess Club is a space where every learner is empowered
+to think ahead, stay focused, and enjoy the game.</p>
 <p><a href="https://bit.ly/33iqjJz" rel="noopener noreferrer nofollow" target="_blank">Click here to view article</a>
 </p>
 <table style="minWidth: 100px">
@@ -46,7 +51,7 @@ people of any age, gender, race and social class can all play.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Helen Lim- IC
-<br>Ms Stephanie Teo</p>
+<br>Ms Bebe Ong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Friday</p>
@@ -55,8 +60,7 @@ people of any age, gender, race and social class can all play.</p>
 <p>2.00 pm − 4.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Computer Lab 3, 4E, 4F</p>
+<p>Computer Lab 3, 4E, 4F</p>
 </td>
 </tr>
 </tbody>

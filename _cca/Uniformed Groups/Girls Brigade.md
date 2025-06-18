@@ -10,8 +10,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/CCA/Girls%20Brigade/GB%201.jpg">
 </div>
-<p>You are invited to join the earliest girl band in the world – THE GIRLS’
-BRIGADE.</p>
+<p><strong><u>The 87<sup>th</sup> Company</u></strong>
+</p>
 <p>The Girls’ Brigade Singapore (GBS) is an international uniformed youth
 organisation for girls, recognised by Ministry of Education of Singapore
 as a Co-Curricular Activity in the schools.</p>
@@ -19,59 +19,24 @@ as a Co-Curricular Activity in the schools.</p>
 </p>
 <p>The mission of the Girls’ Brigade (GB) is to develop each Girl and Officer
 to her fullest potential by Equipping, Empowering and Enabling:</p>
-<p>• Every Girl a Leader.
-<br>• Every Officer a Servant Leader.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every Girl a Leader.</p>
+</li>
+<li>
+<p>Every Officer a Servant Leader.</p>
+</li>
+</ul>
 <p>Through the GB Junior Programme the 87Th Coy aims to develop the character
 of our GB members in tandem with our GB mission and the school values of
 respect, commitment and collaboration.</p>
-<p><strong><u>What do we do?</u></strong>
-</p>
-<p>Our training programme is geared towards developing the TOTAL girl – physically,
-educationally and socially. We inculcate moral values, develop character
-and provide training in leadership skills. Our members are encouraged to
-share what they have learnt in their homes, schools, community, nation
-and the region.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Educational
-<br>* Cultivating meaningful pursuits
-<br>* Expanding knowledge and skills</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Physical
-<br>* Developing physical skills
-<br>* Learning to care for themselves</p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="2">
-<p>Social
-<br>* Understanding oneself in relation to others
-<br>* Being of service in the home, school, community, nation and the region</p>
-</th>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Girls%20Brigade/GB%202.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/GB_1.jpg">
 </div>
-<p>The Girls’ Brigade is an established uniformed group with a long history
-of serving the community in Singapore. Started in Jan 2015, we form the
-87th Company of Girls’ Brigade, Singapore. We provide meaningful and enjoyable
-programmes that are educational, physical and social for our pupils.</p>
-<p>Some of our programmes include personal enrichment, adventure training
-and community service. Through these programmes, our girls are given opportunities
-to develop leadership qualities and life skills under the mentorship and
-guidance of the volunteer adult leaders. All these programmes embody our
-commitment to the total development of our students to become responsible
-and useful citizens of our nation.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/GB_2.jpg">
+</div>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -109,12 +74,12 @@ and useful citizens of our nation.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p>Wednesdays
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 - 4.00 pm
+<p>2.00pm - 4.00pm
 <br>
 </p>
 </td>

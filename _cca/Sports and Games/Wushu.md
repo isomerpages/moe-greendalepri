@@ -6,23 +6,34 @@ third_nav_title: Sports and Games
 variant: tiptap
 ---
 <h2><strong>Wushu</strong></h2>
-<p>Wushu is a martial art with its origins traced to self-defense needs,
-hunting activities and military training in ancient China. With time, Wushu
-expanded its purpose from self-defense to health and finally as a way of
-instilling self-discipline. If you want to improve your flexibility, agility
-and physical strength, join us!</p>
-<p>In our Wushu training sessions, pupils will learn the martial art and
-how to master different types of Chinese traditional weapons. Pupils will
-also learn important values such as resilience, respect for others, sportsmanship
-and integrity.</p>
-<p>Our Wushu members have represented the school during events such as Punggol
-Street Parade and added vibrant energy during our Chinese New Year concerts.
-They have also made the school proud during the National School Games.</p>
+<p>In our Wushu CCA, we provide students with the opportunity to learn both
+the traditional and modern aspects of this martial art. The activity focuses
+on physical fitness, flexibility and mental concentration while promoting
+a sense of pair work or teamwork. The sessions are designed to cater to
+students of all skill levels from beginners to advanced practitioners.</p>
+<p>Trainings include basic stances and footwork drills, learning traditional
+weapons such as the spear or sword. One of the benefits of Wushu is that
+it requires concentration and mental discipline which helps students to
+develop their focus and resilience.</p>
+<p>Students have the chance to showcase their skills in various competitions
+which help to boost confidence and improve performance under pressure.
+These competitions provide an opportunity for students to test their abilities,
+earn recognition and build connections with fellow martial artists. Wushu
+is not just about physical prowess but also about personal growth discipline
+and respect. By joining the Wushu CCA, students can gain invaluable life
+skills while being part of a supportive community that values excellence,
+perseverance and cultural heritage.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu%20(1).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu%20(2).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Wushu_3.jpg">
 </div>
 <table style="minWidth: 100px">
 <colgroup>
@@ -54,18 +65,19 @@ They have also made the school proud during the National School Games.</p>
 <p>Mdm Jolene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday*
+<p>Wednesdays (All members)
 <br>
-<br>Friday
+<br>Thursdays*
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>2.00 pm - 4.00 pm
+<p>2.00pm - 4.00pm
 <br>
 </p>
+<p></p>
+<p>3.00pm - 5.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>

@@ -38,9 +38,8 @@ confidence to perform on the big stage.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Wei Peck – I/C</p>
-<p>Mdm Norafizah Bte R
-<br>Mdm Rashidah Bte M Rafei</p>
+<p>Mdm Rashidah Bte M Rafei – I/C</p>
+<p>Mdm Norafizah Bte R</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday*
@@ -52,7 +51,7 @@ confidence to perform on the big stage.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>2:00 pm to 4:00 pm
+<br>2:00pm to4:00 pm
 <br>
 </p>
 </td>
