@@ -6,16 +6,50 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <h2><strong>Choir</strong></h2>
-<p>GDPS Choir started in 2010 with the vision of developing students with
-a passion for singing. It is also a platform for students to enhance their
-school values, such as strengthening resilience and collaborating in a
-team.</p>
-<p>The choir members undergo rigorous vocal and solfege training with an
-objective to develop each member to their fullest potential.</p>
-<p>Today, our musically-inclined members are able to blend their voices harmoniously
-and apply their musical skills in their ensemble.</p>
-<p>Our members are also exposed to a repository of musical genres. They are
-also given opportunities for in-house and outdoor performances.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The GDPS Choir, established in 2010, aims to nurture students with a deep
+passion for singing while providing a platform to develop key school values
+such as resilience and teamwork. Through structured and progressive vocal
+and solfège training, each member is guided to develop their musical abilities
+to the fullest.</p>
+<p>Today, our choir members confidently perform as a unified ensemble, showcasing
+their ability to harmonise and apply their musical skills with precision
+and expression. They are exposed to a diverse repertoire of musical genres
+and are regularly provided with opportunities to perform at both school-based
+and external events, allowing them to grow as confident and well-rounded
+performers. In 2024, our choristers achieved the <strong>Certificate of Distinction</strong> in
+the <strong>Singapore Youth Festival (SYF)</strong>, a testament to their
+hard work, dedication, and musical excellence.</p>
+<p>The GDPS Choir provides a nurturing platform for students to develop their
+musical talents and school values. Through dedicated training and performance
+opportunities, members grow in confidence, teamwork, and excellence—making
+the choir a fulfilling and enriching experience.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir_4.jpg">
+</div>
+<p></p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -46,14 +80,16 @@ also given opportunities for in-house and outdoor performances.</p>
 <p>Ms Leong Ya Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p>Wednesdays
 <br>
 </p>
+<p>Thursdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.30 pm - 4.30 pm
+<p>2.00 pm - 4.30 pm
 <br>
 </p>
+<p>3.00 pm - 4.30 pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Music Rm/ ITR Rm</p>
@@ -61,4 +97,5 @@ also given opportunities for in-house and outdoor performances.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
