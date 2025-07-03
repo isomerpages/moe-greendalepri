@@ -18,7 +18,6 @@ passion for singing while providing a platform to develop key school values
 such as resilience and teamwork. Through structured and progressive vocal
 and solfège training, each member is guided to develop their musical abilities
 to the fullest.</p>
-<p>&nbsp;</p>
 <p>Today, our choir members confidently perform as a unified ensemble, showcasing
 their ability to harmonise and apply their musical skills with precision
 and expression. They are exposed to a diverse repertoire of musical genres
@@ -27,7 +26,6 @@ and external events, allowing them to grow as confident and well-rounded
 performers. In 2024, our choristers achieved the <strong>Certificate of Distinction</strong> in
 the <strong>Singapore Youth Festival (SYF)</strong>, a testament to their
 hard work, dedication, and musical excellence.</p>
-<p>&nbsp;</p>
 <p>The GDPS Choir provides a nurturing platform for students to develop their
 musical talents and school values. Through dedicated training and performance
 opportunities, members grow in confidence, teamwork, and excellence—making
@@ -36,6 +34,22 @@ the choir a fulfilling and enriching experience.</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir_3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Choir_4.jpg">
+</div>
+<p></p>
 <p></p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -83,4 +97,5 @@ the choir a fulfilling and enriching experience.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
