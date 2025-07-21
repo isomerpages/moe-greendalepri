@@ -5,13 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2><strong>Red Cross</strong></h2>
-<div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/CCA/Red%20Cross/Red%20Cross%201.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:25%;margin-right:15px;" height="auto" width="100%" src="/images/CCA/Red%20Cross/Red%20Cross%202.jpg">
-</div>
+<h2><strong>Red Cross </strong></h2>
 <p>At Greendale Primary School, the Red Cross CCA aims to nurture students
 into socially responsible leaders who uphold the humanitarian values of
 the Red Cross Movement. Since its establishment in 1952, the Singapore
