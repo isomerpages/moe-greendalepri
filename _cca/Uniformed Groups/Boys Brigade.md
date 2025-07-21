@@ -6,8 +6,9 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2><strong>Boys Brigade</strong></h2>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Boys%20Brigade/BB%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB 1.jpg">
 </div>
 <p><strong><u>Boy’s Brigade 20<sup>th</sup> Junior Company (20J)</u></strong>
 </p>
