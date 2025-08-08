@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mrs Nooris Sng
+<p>Mrs Noorismawaty Sng-Ismail
 <br><a href="mailto:Noorismawaty_ISMAIL@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Noorismawaty_ISMAIL@schools.gov.sg</a> 
 <br>
 </p>
@@ -109,6 +109,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mr David Lim Kok San
+<br><a href="david_lim_kok_san@schools.gov.sg" rel="noopener nofollow" target="_blank">david_lim_kok_san@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Departments</h5>
@@ -158,6 +168,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Cherie Ang
 <br><a href="cherie_ang_hui_er@schools.gov.sg" rel="noopener nofollow" target="_blank">cherie_ang_hui_er@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Subject Head Malay Language (Internal)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ms Nurdiana Binte Hasim
+<br><a href="nurdiana_hasim@schools.gov.sg" rel="noopener nofollow" target="_blank">nurdiana_hasim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -326,7 +346,7 @@ variant: tiptap
 <p>Subject Head Student Leadership</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Musfirah
+<p>Ms Musfirah Binte Mohamed
 <br><a href="mailto:musfirah_mohamed@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">musfirah_mohamed@schools.gov.sg</a>
 </p>
 </td>
@@ -346,7 +366,7 @@ variant: tiptap
 <p>HOD CCE</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Zulaikha
+<p>Mdm Siti Zulaikha Binte Zainal Abidin
 <br><a href="mailto:siti_zulaikha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zulaikha@schools.gov.sg</a> 
 <br>
 </p>
