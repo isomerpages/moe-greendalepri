@@ -38,7 +38,7 @@ variant: tiptap
 <p>School Librarian</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Salbiah Binte Asmawi</p>
+<p>Mdm Suriatini Binte Nor Ahmad</p>
 </td>
 </tr>
 <tr>
