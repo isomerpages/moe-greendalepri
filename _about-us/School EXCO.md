@@ -366,7 +366,7 @@ variant: tiptap
 <p>HOD CCE</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Zulaikha
+<p>Mdm Siti Zulaikha Binte Zainal Abidin
 <br><a href="mailto:siti_zulaikha@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zulaikha@schools.gov.sg</a> 
 <br>
 </p>
