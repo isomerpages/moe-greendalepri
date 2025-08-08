@@ -173,6 +173,16 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Subject Head Malay Language (Internal)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Ms Nurdiana Binte Hasim</p>
+<p><a href="nurdiana_hasim@schools.gov.sg" rel="noopener nofollow" target="_blank">nurdiana_hasim@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p>HOD Mathematics</p>
 </th>
 <td rowspan="1" colspan="1">
