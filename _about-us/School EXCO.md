@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mrs Nooris Sng
+<p>Mrs Noorismawaty Sng-Ismail
 <br><a href="mailto:Noorismawaty_ISMAIL@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Noorismawaty_ISMAIL@schools.gov.sg</a> 
 <br>
 </p>
