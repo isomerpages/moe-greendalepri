@@ -109,6 +109,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mr David Lim Kok San</p>
+<p><a href="david_lim_kok_san@schools.gov.sg" rel="noopener nofollow" target="_blank">david_lim_kok_san@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h5>Departments</h5>
