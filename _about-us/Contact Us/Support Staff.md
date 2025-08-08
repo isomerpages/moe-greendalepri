@@ -46,7 +46,7 @@ variant: tiptap
 <p>Dental Therapist</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Kamisah Bte Khamis</p>
+<p>Ms Premavathy Suppiah</p>
 </td>
 </tr>
 </tbody>
