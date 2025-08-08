@@ -176,8 +176,8 @@ variant: tiptap
 <p>Subject Head Malay Language (Internal)</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Nurdiana Binte Hasim</p>
-<p><a href="nurdiana_hasim@schools.gov.sg" rel="noopener nofollow" target="_blank">nurdiana_hasim@schools.gov.sg</a>
+<p>Ms Nurdiana Binte Hasim
+<br><a href="nurdiana_hasim@schools.gov.sg" rel="noopener nofollow" target="_blank">nurdiana_hasim@schools.gov.sg</a>
 </p>
 </td>
 </tr>
