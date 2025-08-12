@@ -85,7 +85,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<th rowspan="7" colspan="1">
+<th rowspan="6" colspan="1">
 <p>School Attendant</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -110,11 +110,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Toh Han Kok Sam</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Low Bee Lyn (Janet)</p>
 </td>
 </tr>
 <tr>
