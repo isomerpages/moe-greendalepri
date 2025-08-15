@@ -24,10 +24,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher, English</p>
+<p>Lead Teacher, English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharifah Nooraishah Binte Sayed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head, English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Qudsia Binte Juwanda</p>
 </td>
 </tr>
 <tr>
@@ -36,14 +44,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Nur Refah Binte Haa-meed</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>English Language Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Qudsia Binte Juwanda</p>
 </td>
 </tr>
 <tr>
