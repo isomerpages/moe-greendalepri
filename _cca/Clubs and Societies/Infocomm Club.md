@@ -13,11 +13,11 @@ animation to coding and flying drones. Through the fun activities and projects,
 our members will appreciate technologies better and creatively apply their
 skills to communicate ideas and use them in their school projects.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Infocomm_1_new.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Infocomm_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Infocomm_2_new.jpg">
 </div>
 <table style="width: 0px">
 <colgroup></colgroup>
