@@ -4,7 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Open House 2025. Check under 'Announcements' for more details.
+notification: School Canteen Application. Check under 'Announcements' for more details.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
