@@ -17,3 +17,7 @@ application on your mobile phone and perform a simple one-time onboarding
 process using SingPass. Remember to Enable <strong>“Allow Notifications”</strong> to
 receive push notifications.</p>
 <p>Please click here for the steps to onboard Parents Gateway.</p>
+<p><a href="/files/P1 Orientation 2025/2025/Annex_A_One_Time_Onboarding_PG.pdf" rel="noopener nofollow" target="_blank">Please click here for the steps to onboard Parents Gateway.</a>
+</p>
+<p>The list of FAQs for parents is available at <a href="https://ask.gov.sg/parentsgateway" rel="noopener nofollow" target="_blank">https://ask.gov.sg/parentsgateway</a>
+</p>
