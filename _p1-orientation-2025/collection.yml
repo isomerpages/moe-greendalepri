@@ -2,6 +2,7 @@ collections:
   p1-orientation-2025:
     output: true
     order:
+      - Administrative Matters/Parents Gateway.md
       - Administrative Matters/.keep
       - Administrative Matters/GIRO.md
       - Administrative Matters/Edusave Standing Order.md
