@@ -2,6 +2,7 @@ collections:
   p1-orientation-2025:
     output: true
     order:
+      - Service Providers/.keep
       - Orientation Details.md
       - Administrative Matters/.keep
       - Administrative Matters/GIRO.md
