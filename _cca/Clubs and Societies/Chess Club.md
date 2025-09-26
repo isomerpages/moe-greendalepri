@@ -54,7 +54,7 @@ to think ahead, stay focused, and enjoy the game.</p>
 <br>Ms Bebe Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Thursday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00 pm − 4.00 pm</p>
