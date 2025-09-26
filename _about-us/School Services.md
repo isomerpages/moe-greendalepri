@@ -130,7 +130,7 @@ Please note that there will be no parking available within the school compound. 
 </p>
 <p>Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://myuniformshop.com.sg</a>
 </p>
-<p><a href="/files/School%20Services/uniformsizeandpricechart2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a> 
+<p><a href="/files/School%20Services/uniformsizeandpricechart2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a> 
 <br>
 <br>School uniforms are also available for purchase from the school bookshop from Term 2 onwards till the last day of school in Term 4. 
 <br>
