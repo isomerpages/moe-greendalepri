@@ -2,6 +2,7 @@ collections:
   p1-orientation-2025:
     output: true
     order:
+      - Service Providers/Student Care Centre.md
       - Service Providers/School Bookshop.md
       - Service Providers/.keep
       - Orientation Details.md
