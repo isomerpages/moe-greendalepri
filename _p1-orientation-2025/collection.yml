@@ -2,6 +2,7 @@ collections:
   p1-orientation-2025:
     output: true
     order:
+      - Orientation Details.md
       - Administrative Matters/.keep
       - Administrative Matters/GIRO.md
       - Administrative Matters/Edusave Standing Order.md
@@ -9,6 +10,5 @@ collections:
       - Administrative Matters/Financial Assistance Scheme (FAS).md
       - Administrative Matters/Capturing of Pupil Data via Student Details Form
         (SDF) Portal.md
-      - Orientation Details.md
       - Administrative Matters.md
       - Service Providers.md
