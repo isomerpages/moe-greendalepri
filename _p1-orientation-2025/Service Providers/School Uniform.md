@@ -15,8 +15,9 @@ third_nav_title: Service Providers
 </p>
 <p>Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>http://myuniformshop.com.sg</u></a>
 </p>
-<p><a href="https://www.greendalepri.moe.edu.sg/files/School%20Services/uniformsizeandpricechart2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Click here to refer to the uniform size and prices chart.</u></a>
-<br>
+<p><a href="/files/P1 Orientation 2025/2025/Myuniformshop.pdf" rel="noopener nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a>
+</p>
+<p>
 <br>School uniforms are also available for purchase from the school bookshop
 from Term 2 onwards till the last day of school in Term 4.
 <br>
