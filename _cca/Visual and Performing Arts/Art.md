@@ -61,6 +61,7 @@ importantly—have fun while making art!</p>
 <td rowspan="1" colspan="1">
 <p>Mdm Shirley Puah - I/C</p>
 <p>Mr Ian Leong</p>
+<p>Ms Rachel Pierre</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday
