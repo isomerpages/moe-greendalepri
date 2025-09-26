@@ -55,9 +55,8 @@ the Softball National Championships!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Jenn Yang – I/C
-<br>Mr Zaki Hassan
-<br>Mdm Arifah
 <br>Mdm Ng Chin Hoon</p>
+<p>Ms Amelia Han</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays (All members)

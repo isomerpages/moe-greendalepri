@@ -59,11 +59,12 @@ importantly—have fun while making art!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rachel Pierre – I/C
-<br>Mdm Shirley Puah</p>
+<p>Mdm Shirley Puah - I/C</p>
+<p>Mr Ian Leong</p>
+<p>Ms Rachel Pierre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday
+<p>Wednesday
 <br>
 </p>
 </td>

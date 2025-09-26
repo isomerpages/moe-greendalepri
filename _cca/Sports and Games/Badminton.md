@@ -53,12 +53,9 @@ Boys, Junior Girls, Senior Boys and Senior Girls.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Zul Fahmie - I/C
+<p>Mr Nur Muhammad Kamal - I/C
 <br>Ms Lee Lay Khim Celetio
-<br>Ms Chek Davoudou Nissa
-<br>Mr Nur Muhammad Kamal
-<br>
-</p>
+<br>Ms Chek Davoudou Nissa</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays (All Members)

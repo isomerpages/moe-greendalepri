@@ -77,6 +77,7 @@ enhancing their own skills and understanding of dance.
 <p>Mdm Nazima Banu– I/C
 <br>Ms Cherie Ang</p>
 <p>Ms Ng Zi Chun</p>
+<p>Ms Musfirah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays

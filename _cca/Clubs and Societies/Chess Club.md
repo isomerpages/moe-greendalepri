@@ -54,13 +54,13 @@ to think ahead, stay focused, and enjoy the game.</p>
 <br>Ms Bebe Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday</p>
+<p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00 pm − 4.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Computer Lab 3, 4E, 4F</p>
+<p>ITR Room</p>
 </td>
 </tr>
 </tbody>

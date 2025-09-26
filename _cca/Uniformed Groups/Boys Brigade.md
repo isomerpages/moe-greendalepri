@@ -32,7 +32,7 @@ are committed to mentoring the boys and fostering values that contribute
 to their holistic development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/BB_Photos.gif">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/BB_Photos.gif">
 </div>
 <p></p>
 <table style="minWidth: 100px">
@@ -60,7 +60,8 @@ to their holistic development.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Emmanuel- I/C
-<br>Mr Samuel Lee</p>
+<br>Mr Zul Fahmie</p>
+<p>Mr Jourdan Poon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays</p>

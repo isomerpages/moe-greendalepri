@@ -3,5 +3,14 @@ collections:
     output: true
     order:
       - Orientation Details.md
-      - Administrative Matters.md
-      - Service Providers.md
+      - Administrative Matters/.keep
+      - Administrative Matters/GIRO.md
+      - Administrative Matters/Edusave Standing Order.md
+      - Administrative Matters/Parents Gateway.md
+      - Administrative Matters/Financial Assistance Scheme (FAS).md
+      - Administrative Matters/Student Details Form (SDF) Portal.md
+      - Service Providers/.keep
+      - Service Providers/School Bookshop.md
+      - Service Providers/School Uniform.md
+      - Service Providers/School Bus Services.md
+      - Service Providers/Student Care Centre.md

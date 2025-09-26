@@ -55,8 +55,8 @@ you in our team! Join us and be part of the <strong>Greendale</strong>  <strong>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Dennis Tan – I/C
-<br>Ms Jaclyn Chen
 <br>Mr Muhammad Saifulbahry</p>
+<p>Ms Stephanie Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays (All members)
