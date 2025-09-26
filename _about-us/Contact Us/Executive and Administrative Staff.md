@@ -38,7 +38,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<th rowspan="2" colspan="1">
+<th rowspan="3" colspan="1">
 <p>Administrative Executive</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -52,10 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Wong Siew Ngo</p>
 </td>
 </tr>
 <tr>
