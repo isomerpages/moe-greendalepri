@@ -50,10 +50,9 @@ league round which will be held in Term 2. All the best, girls!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Shumin Cecilia - I/C
-<br>Mdm Kimberly Quek
-<br>Mdm Agnes Seah Li Hui
-<br>Mdm Zubaidah Bte Amid
+<p>Mdm Agnes Seah Li Hui - I/C
+<br>Mdm Zubaidah Bte Amid</p>
+<p>Ms Jaclyn Chen
 <br>
 </p>
 </td>
