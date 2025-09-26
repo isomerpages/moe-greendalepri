@@ -52,8 +52,7 @@ their skills and sportsmanship on a competitive platform.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Cheok Ying Xuan Delcine - I/C</p>
 <p>Mdm Chen Xu Jin
-<br>Mr Ian Leong</p>
-<p>Mdm Dong Baohong</p>
+<br>Ms Yang Yiying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays (All members)
