@@ -2,11 +2,6 @@ collections:
   p1-orientation-2025:
     output: true
     order:
-      - Service Providers/.keep
-      - Service Providers/School Bookshop.md
-      - Service Providers/School Uniform.md
-      - Service Providers/School Bus Services.md
-      - Service Providers/Student Care Centre.md
       - Orientation Details.md
       - Administrative Matters/.keep
       - Administrative Matters/GIRO.md
@@ -15,5 +10,10 @@ collections:
       - Administrative Matters/Financial Assistance Scheme (FAS).md
       - Administrative Matters/Capturing of Pupil Data via Student Details Form
         (SDF) Portal.md
+      - Service Providers/.keep
+      - Service Providers/School Bookshop.md
+      - Service Providers/School Uniform.md
+      - Service Providers/School Bus Services.md
+      - Service Providers/Student Care Centre.md
       - Administrative Matters.md
       - Service Providers.md
