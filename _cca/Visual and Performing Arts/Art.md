@@ -63,7 +63,7 @@ importantly—have fun while making art!</p>
 <p>Ms Rachel Pierre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday
+<p>Wednesday
 <br>
 </p>
 </td>
