@@ -23,4 +23,9 @@ purchase and collection of uniform in school from the uniform website.
 compound. You may wish to park at the HDB carpark next to the school. When
 entering the school, please show your appointment confirmation email to
 the security guards.</p>
-<p></p>
+<p><strong>For students under Financial Assistance</strong>
+</p>
+<p>If you are applying for MOE Financial Assistance Scheme (FAS), please
+do not make any uniform purchase until school has contacted you about your
+FAS application outcome and provided you with the steps for collection
+of uniforms under FAS.</p>
