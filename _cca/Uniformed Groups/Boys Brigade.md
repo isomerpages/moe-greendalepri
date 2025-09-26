@@ -60,7 +60,8 @@ to their holistic development.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Emmanuel- I/C
-<br>Mr Samuel Lee</p>
+<br>Mr Zul Fahmie</p>
+<p>Mr Jourdan Poon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays</p>
