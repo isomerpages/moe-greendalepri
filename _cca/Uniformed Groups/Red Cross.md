@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2><strong>Red Cross </strong></h2>
+<h2><strong>Red Cross</strong></h2>
 <p>At Greendale Primary School, the Red Cross CCA aims to nurture students
 into socially responsible leaders who uphold the humanitarian values of
 the Red Cross Movement. Since its establishment in 1952, the Singapore
@@ -74,9 +74,9 @@ ready to make a difference in their school and beyond.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Farrah Eliana – I/C
-<br>Ms Stephanie Mak
+<p>Mdm Arifah Bte Adnan – I/C
 <br>Mdm Doris Yap</p>
+<p>Mdm Dong Baohong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays
