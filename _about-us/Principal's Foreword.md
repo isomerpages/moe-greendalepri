@@ -5,9 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Principal's Foreword</strong></h2>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/About Us/Principal.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="Principal" src="/images/About Us/Nooris_School_Website.png">
 </div>
 <p>Welcome to the 2025 school year!&nbsp;As we begin the new academic year,
 I would like to express our commitment to providing a supporting and enriching
