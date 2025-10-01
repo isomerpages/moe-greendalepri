@@ -51,7 +51,7 @@ be provided to confirmed SCC students by early January 2026.
 <a href="https://zfrmz.com/9xg3iVGraUAjf7HdRd40" rel="noopener noreferrer nofollow" target="_blank">Registration of Interest Form</a>
 <br>
 <br>
-<strong>The deadline for registration of interest will be 25 October 2025.</strong><br>
+<strong>The deadline for registration of interest will be 24 October 2025.</strong><br>
 	<br>Successful applicants will be notified via email by <strong> 31 October 2025, </strong> and they are required to make payment by <strong> 10 November 2025 </strong> to secure a place in the centre for the January intake.
 	<br>
 <br>
