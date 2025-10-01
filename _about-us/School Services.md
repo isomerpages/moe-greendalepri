@@ -23,13 +23,11 @@ time to complement the school’s teaching.
 <br>
 <br><u>Monthly SCC fees</u> 
 <br>
-<br>The monthly SCC fees in Year 2025 is&nbsp;<strong>$240</strong>.&nbsp;
+<br>The monthly SCC fees in Year 2026 is&nbsp;<strong>$240</strong>.&nbsp;
 A one-month deposit and other miscellaneous fees will also be needed to
 be paid.&nbsp;
 <br>
-<br>The SCC operator will assist eligible parents to apply for Student Care
-Financial Assistance, administered by Ministry of Social and Family Development
-(MSF).&nbsp;
+<br>Eligible parents can apply for Student Care Financial Assistance if they require, subject to the approval by the Ministry of Social and Family Development (MSF). Initial payment is to be paid in full.&nbsp;
 <br>
 <br>More information is available via the website &nbsp;<a href="https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa" rel="noopener noreferrer nofollow" target="_blank">SCFA eligibility criteria</a> 
 <br>
@@ -42,17 +40,17 @@ Financial Assistance, administered by Ministry of Social and Family Development
 Sundays and gazetted public holidays.
 <br>
 <br>More information on the centre’s closure days by end of the year will
-be provided to confirmed SCC students by early January 2025.
+be provided to confirmed SCC students by early January 2026.
 <br>
-	<br><u>Registration of Interest (for new students, including P1 (2025) students)</u> 
+	<br><u>Registration of Interest (for new students, including P1 (2026) students)</u> 
 <br>
 <br>Parents/guardians who are interested in our student care services can fill up the registration of interest form online by clicking the link below.
 <br>
-<a href="https://zfrmz.com/4tROeqxljIQiTn9vVcaT" rel="noopener noreferrer nofollow" target="_blank">Registration of Interest Form</a>
+<a href="https://zfrmz.com/9xg3iVGraUAjf7HdRd40" rel="noopener noreferrer nofollow" target="_blank">Registration of Interest Form</a>
 <br>
 <br>
-<strong>The deadline for registration of interest will be 25 October 2024.</strong><br>
-	<br>Successful applicants will be notified via email by <strong> 31 October 2024, </strong> and they are required to make payment by <strong> 10 November 2024 </strong> to secure a place in the centre for the January intake.
+<strong>The deadline for registration of interest will be 24 October 2025.</strong><br>
+	<br>Successful applicants will be notified via email by <strong> 31 October 2025, </strong> and they are required to make payment by <strong> 10 November 2025 </strong> to secure a place in the centre for the January intake.
 	<br>
 <br>
 <u>SCC Contact</u> 
@@ -145,11 +143,11 @@ Please note that there will be no parking available within the school compound. 
 <label for="accordion5">School Bus Service</label><div>
 <p><u>SFX Transport Services</u> 
 <br>
-<br>The school's appointed daily school bus operator for Year 2025 is SFX Transport Services. The bus operator can be contacted at tel:
+<br>The school's appointed daily school bus operator for Year 2026 is SFX Transport Services. The bus operator can be contacted at tel:
 88000262 / 6282 0262 or email:<a href="mailto:greendalepri@sfxtransport.com.sg" rel="noopener noreferrer nofollow" target="_blank">greendalepri@sfxtransport.com.sg</a>
 </p>
-<p>School bus request for Year 2025 should be submitted to SFX Transport
-	Services online by <b>22 November 2024 (Fri).</b>Please download the app using this link: <a href="https://sfxschool.plotigo.app/" rel="noopener noreferrer nofollow" target="_blank">https://sfxschool.plotigo.app/</a> to register your child/ward.</p>
+<p>School bus request for Year 2026 should be submitted to SFX Transport
+	Services online by <b>30 November 2025 (Sun).</b>Please download the app using this link: <a href="https://sfxschool.plotigo.app/" rel="noopener noreferrer nofollow" target="_blank">https://sfxschool.plotigo.app/</a> to register your child/ward.</p>
 <p>We wish to share that the school bus operator is not obliged to provide
 transport services where the distance between the pick-up and/or drop-off
 location is more than 4km from the school, or where your child/ward requires
@@ -161,8 +159,8 @@ for your child might vary by 10-15 minutes due to the traffic conditions
 and the student attendance taking process during school dismissal. The
 driver may also make adjustments to the routes. We seek your understanding
 and patience on this.</p>
-<p><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the new bus fares. <br></a> 
-<a href="/files/School%20Services/school%20bus%20request2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the school bus request form and the terms and conditions.</a>
+<p><a href="/files/School%20Services/school%20bus%20prices%202026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the new bus fares. <br></a> 
+<a href="/files/School%20Services/school%20bus%20request2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the school bus request form and the terms and conditions.</a>
 </p>
 </div></li>
 </ul>
