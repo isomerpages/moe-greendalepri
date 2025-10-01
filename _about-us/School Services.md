@@ -161,7 +161,7 @@ for your child might vary by 10-15 minutes due to the traffic conditions
 and the student attendance taking process during school dismissal. The
 driver may also make adjustments to the routes. We seek your understanding
 and patience on this.</p>
-<p><a href="/files/School%20Services/school%20bus%20prices%202024%20and%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the new bus fares. <br></a> 
+<p><a href="/files/School%20Services/school%20bus%20prices%202026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the new bus fares. <br></a> 
 <a href="/files/School%20Services/school%20bus%20request2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here for the school bus request form and the terms and conditions.</a>
 </p>
 </div></li>
