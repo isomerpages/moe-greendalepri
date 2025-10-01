@@ -27,9 +27,7 @@ time to complement the school’s teaching.
 A one-month deposit and other miscellaneous fees will also be needed to
 be paid.&nbsp;
 <br>
-<br>The SCC operator will assist eligible parents to apply for Student Care
-Financial Assistance, administered by Ministry of Social and Family Development
-(MSF).&nbsp;
+<br>Eligible parents can apply for Student Care Financial Assistance if they require, subject to the approval by the Ministry of Social and Family Development (MSF). Initial payment is to be paid in full.&nbsp;
 <br>
 <br>More information is available via the website &nbsp;<a href="https://supportgowhere.life.gov.sg/schemes/SCFA/student-care-fee-assistance-scfa" rel="noopener noreferrer nofollow" target="_blank">SCFA eligibility criteria</a> 
 <br>
