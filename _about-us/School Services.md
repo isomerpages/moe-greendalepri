@@ -42,9 +42,9 @@ Financial Assistance, administered by Ministry of Social and Family Development
 Sundays and gazetted public holidays.
 <br>
 <br>More information on the centre’s closure days by end of the year will
-be provided to confirmed SCC students by early January 2025.
+be provided to confirmed SCC students by early January 2026.
 <br>
-	<br><u>Registration of Interest (for new students, including P1 (2025) students)</u> 
+	<br><u>Registration of Interest (for new students, including P1 (2026) students)</u> 
 <br>
 <br>Parents/guardians who are interested in our student care services can fill up the registration of interest form online by clicking the link below.
 <br>
