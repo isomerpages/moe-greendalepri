@@ -23,7 +23,7 @@ time to complement the school’s teaching.
 <br>
 <br><u>Monthly SCC fees</u> 
 <br>
-<br>The monthly SCC fees in Year 2025 is&nbsp;<strong>$240</strong>.&nbsp;
+<br>The monthly SCC fees in Year 2026 is&nbsp;<strong>$240</strong>.&nbsp;
 A one-month deposit and other miscellaneous fees will also be needed to
 be paid.&nbsp;
 <br>
