@@ -8,7 +8,7 @@ third_nav_title: Service Providers
 <h4><strong>Student Care Centre (SCC)</strong><br><strong>SCC@ Greendale Primary School by Singapore EduSmart Learning Hub</strong></h4>
 <p>Parents/Guardians who are interested in our student care services can
 fill up the registration of interest form online by clicking the link below.</p>
-<p><a href="https://zfrmz.com/4tROeqxljIQiTn9vVcaT" rel="noopener nofollow" target="_blank">Click here to register</a>
+<p><a href="https://zfrmz.com/9xg3iVGraUAjf7HdRd40" rel="noopener nofollow" target="_blank">Click here to register</a>
 </p>
 <p><strong>The deadline for registration is 25 October 2024.</strong>
 </p>
