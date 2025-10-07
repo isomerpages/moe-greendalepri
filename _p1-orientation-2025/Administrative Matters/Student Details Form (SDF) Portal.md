@@ -26,6 +26,6 @@ help to complete the submission by 31 Dec 2025.</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/P1 Orientation 2025/student_details_form_QR.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/P1 Orientation 2025/student_details_form_QR.png">
 </div>
 <p></p>
