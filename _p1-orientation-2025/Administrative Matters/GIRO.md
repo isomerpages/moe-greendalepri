@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<h4><strong>Giro</strong></h4>
+<h4><strong>GIRO</strong></h4>
 <p>We would like to invite all parents to join our GIRO scheme to enjoy the
 hassle-free and convenient payment arrangements. In this way, your child
 will not need to bring additional cash to school monthly.</p>
