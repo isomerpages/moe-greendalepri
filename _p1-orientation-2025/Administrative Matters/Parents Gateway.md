@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<h4>Parents Gateway</h4>
+<h4><strong>Parents Gateway</strong></h4>
 <p>Parents Gateway is a one-stop mobile application designed to support parents’
 involvement in their child’s education journey.</p>
 <p>The application allows parents to receive information and perform a range
