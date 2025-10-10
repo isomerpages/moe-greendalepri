@@ -11,7 +11,7 @@ third_nav_title: Service Providers
 <br>Website closing date: 13 December 2025 (subject to slot availability)</p>
 <p><a href="/files/P1 Orientation 2025/2025/PRIMARY_1_BOOKLIST_FOR_YEAR_2026.pdf" rel="noopener nofollow" target="_blank">Click here to refer to booklist</a>
 </p>
-<p><a href="/files/P1 Orientation 2025/gdps_online_purchase_guide.pdf" rel="noopener nofollow" target="_blank">Click here for the online purchase guide</a>
+<p><a href="/files/P1 Orientation 2025/2025/GDPS_online_purchase_info_2026.pdf" rel="noopener nofollow" target="_blank">Click here for the online purchase guide</a>
 </p>
 <p>Please purchase the books and stationery online.
 <br>Parents may opt for home-delivery or select from available timeslots for
