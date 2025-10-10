@@ -5,10 +5,10 @@ variant: tiptap
 description: ""
 ---
 <p>Our school will be hosting an orientation program for students and parents/guardians
-on<strong> 15 November 2024</strong>, from <strong>9 am</strong> to<strong> 11 am</strong>.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1 Orientation 2025/Orientation_Programme_Details.png">
-</div>
+on <strong>21 November 2025</strong>, from <strong>9 am</strong> to <strong>11 am</strong>.</p>
+<p></p>
+<p></p>
+<p></p>
 <p>We seek your understanding that there will be no sales of textbooks and
 school uniforms in the school on this day. In addition, please note that
 there will be no parking available within the school compound. Parents/guardians
