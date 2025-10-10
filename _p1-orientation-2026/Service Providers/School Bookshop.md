@@ -25,7 +25,7 @@ to the school.</p>
 <p>The name tag order form for P1 will appear during payment checkout process
 for books. The estimated processing time for name tag is 3 weeks. Completed
 name tags will be handed to your child/ward through his or her Form Teacher
-in batches from January 2025.</p>
+in batches from January 2026.</p>
 <p><strong>For students under Financial Assistance</strong>
 </p>
 <p>If you are applying for MOE Financial Assistance Scheme (FAS), please
