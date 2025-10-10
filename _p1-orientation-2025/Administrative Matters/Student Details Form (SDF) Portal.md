@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Administrative Matters
 ---
-<h4>Student Details Form (SDF) Portal</h4>
+<h4><strong>Student Details Form (SDF) Portal</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>As your child/ward will be starting primary one in January 2026, the Ministry
