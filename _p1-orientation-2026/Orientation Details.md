@@ -13,6 +13,6 @@ on <strong>21 November 2025</strong>, from <strong>9 am</strong> to <strong>11 a
 school uniforms in the school on this day. In addition, please note that
 there will be no parking available within the school compound. Parents/guardians
 are encouraged to park at the HDB carpark next to the school.</p>
-<p>For enquiries, please contact our General Office at 6886 1413.</p>
+<p>For enquiries, please contact our General Office at 68861413.</p>
 <h4><strong>ORIENTATION BRIEFING SLIDES AND HANDBOOK</strong></h4>
 <p>Coming soon.</p>
