@@ -7,11 +7,11 @@ third_nav_title: Service Providers
 ---
 <h4><strong>School Bookshop </strong><br><strong>Pacific Bookstores Pte Ltd</strong></h4>
 <p>(for ordering of books and embroidered name-tag)
-<br>Website launch date: 7 November 2024
-<br>Website closing date: 14 December 2024 (subject to slot availability)</p>
-<p><a href="/files/P1 Orientation 2025/GDPS_P1_Booklist_2025_Updated_25_Nov_24.pdf" rel="noopener nofollow" target="_blank">Click here to refer to booklist</a>
+<br>Website launch date: 11 November 2025
+<br>Website closing date: 13 December 2025 (subject to slot availability)</p>
+<p><a href="/files/P1 Orientation 2025/2025/PRIMARY_1_BOOKLIST_FOR_YEAR_2026.pdf" rel="noopener nofollow" target="_blank">Click here to refer to booklist</a>
 </p>
-<p><a href="/files/P1 Orientation 2025/gdps_online_purchase_guide.pdf" rel="noopener nofollow" target="_blank">Click here for the online purchase guide</a>
+<p><a href="/files/P1 Orientation 2025/2025/GDPS_online_purchase_info_2026.pdf" rel="noopener nofollow" target="_blank">Click here for the online purchase guide</a>
 </p>
 <p>Please purchase the books and stationery online.
 <br>Parents may opt for home-delivery or select from available timeslots for
@@ -25,7 +25,7 @@ to the school.</p>
 <p>The name tag order form for P1 will appear during payment checkout process
 for books. The estimated processing time for name tag is 3 weeks. Completed
 name tags will be handed to your child/ward through his or her Form Teacher
-in batches from January 2025.</p>
+in batches from January 2026.</p>
 <p><strong>For students under Financial Assistance</strong>
 </p>
 <p>If you are applying for MOE Financial Assistance Scheme (FAS), please
