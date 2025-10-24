@@ -33,5 +33,5 @@ do not make any books purchase until school has contacted you about your
 FAS application outcome and provided you with the FAS access code for the
 books. You may refer to the attached guide for the steps to make the redemption
 using the FAS access code.</p>
-<p><a href="/files/P1 Orientation 2025/fas online redemption guide 2024.pdf" rel="noopener nofollow" target="_blank">FAS Online Redemption Guide</a>
+<p><a href="/files/P1 Orientation 2025/fas online redemption guide 2025.pdf" rel="noopener nofollow" target="_blank">FAS Online Redemption Guide</a>
 </p>
