@@ -109,7 +109,7 @@ Please note that there will be no parking available within the school compound. 
 <br>
 	<br><b>For students under Financial Assistance</b>
 	<br> If you are applying for MOE Financial Assistance Scheme (FAS), please do not make any books purchase until school has contacted you about your FAS application outcome and provided you with the FAS access code for the books. You may refer to the attached guide for the steps to make the redemption using the FAS access code.
-</p><p><a href="/files/P1%20Orientation%202025/fas%20online%20redemption%20guide%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the FAS redemption guide.</a></p>
+</p><p><a href="/files/P1%20Orientation%202025/fas%20online%20redemption%20guide%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the FAS redemption guide.</a></p>
 <br>
 </div></li>
 	
