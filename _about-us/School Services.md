@@ -89,8 +89,7 @@ hp: 80319788.</p>
 <br>
 <br>Bookshop is closed on Sat, Sun and Public Holidays</p>
 <p>
-<a href="/files/School%20Services/faspbguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the FAS redemption guide.</a>
-<br><a href="/files/School%20Services/pbguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a> 
+<a href="/files/School%20Services/pbguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a> 
 <br><a href="/files/School%20Services/p1booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P1 Booklist 2026</a> 
 <br><a href="/files/School%20Services/p2booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P2 Booklist 2026</a> 
 <br><a href="/files/School%20Services/p3booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P3 Booklist 2026</a> 
@@ -110,7 +109,7 @@ Please note that there will be no parking available within the school compound. 
 <br>
 	<br><b>For students under Financial Assistance</b>
 	<br> If you are applying for MOE Financial Assistance Scheme (FAS), please do not make any books purchase until school has contacted you about your FAS application outcome and provided you with the FAS access code for the books. You may refer to the attached guide for the steps to make the redemption using the FAS access code.
-</p><p><a href="/files/P1%20Orientation%202025/fas%20online%20redemption%20guide%202025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the FAS redemption guide.</a></p>
+</p><p><a href="/files/School%20Services/fasredemptionguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the FAS redemption guide.</a></p>
 <br>
 </div></li>
 	
