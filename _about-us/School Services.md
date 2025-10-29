@@ -89,7 +89,8 @@ hp: 80319788.</p>
 <br>
 <br>Bookshop is closed on Sat, Sun and Public Holidays</p>
 <p>
-<a href="/files/School%20Services/pbguide2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a> 
+<a href="/files/School%20Services/faspbguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the FAS redemption guide.</a>
+<br><a href="/files/School%20Services/pbguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a> 
 <br><a href="/files/School%20Services/p1booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P1 Booklist 2026</a> 
 <br><a href="/files/School%20Services/p2booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P2 Booklist 2026</a> 
 <br><a href="/files/School%20Services/p3booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P3 Booklist 2026</a> 
