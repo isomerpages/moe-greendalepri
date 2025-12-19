@@ -88,6 +88,7 @@ hp: 80319788.</p>
 <br>Priority will be given to students to purchase their books during recess timings (9.00am to 10.30am) and lunch timings (1.20pm to 2.00pm). Parents/guardians are strongly discouraged from coming during these periods given the expected long waiting time.
 <br>
 <br>Bookshop is closed on Sat, Sun and Public Holidays</p>
+<br><a href="/files/School%20Services/bookshopdatesschoolholiday.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the bookshop operating dates during school holidays.</a> 
 <p>
 <a href="/files/School%20Services/pbguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a> 
 <br><a href="/files/School%20Services/p1booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P1 Booklist 2026</a> 
