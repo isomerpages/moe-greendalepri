@@ -88,8 +88,10 @@ hp: 80319788.</p>
 <br>Priority will be given to students to purchase their books during recess timings (9.00am to 10.30am) and lunch timings (1.20pm to 2.00pm). Parents/guardians are strongly discouraged from coming during these periods given the expected long waiting time.
 <br>
 <br>Bookshop is closed on Sat, Sun and Public Holidays</p>
-<p>
-<a href="/files/School%20Services/pbguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a> 
+<br><b> End-of-Year Holiday Sales for Books and Stationery:</b>
+<br><a href="/files/School%20Services/bookshopdatesschoolholiday.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the bookshop operating dates during school holidays.</a> 
+<br><a href="/files/School%20Services/pbguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a>
+<br>
 <br><a href="/files/School%20Services/p1booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P1 Booklist 2026</a> 
 <br><a href="/files/School%20Services/p2booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P2 Booklist 2026</a> 
 <br><a href="/files/School%20Services/p3booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P3 Booklist 2026</a> 
@@ -97,9 +99,8 @@ hp: 80319788.</p>
 <br><a href="/files/School%20Services/p5fbooklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P5 Foundation Booklist 2026</a> 
 <br><a href="/files/School%20Services/p5booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P5 Booklist 2026</a> 
 <br><a href="/files/School%20Services/p6booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P6 Booklist 2026</a> 
-</p>
+<p></p>
 <p>
-<b> End-of-Year Holiday Sales for Books and Stationery:</b>
 <br>Please purchase the books and stationery online.
 <br>
 <br> Parents may opt for home-delivery or select from available timeslots for self-collection in school.
