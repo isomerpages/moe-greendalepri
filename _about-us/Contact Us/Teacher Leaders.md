@@ -45,7 +45,7 @@ variant: tiptap
 <p>English Language</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm Hamida Binte Abdul Razak
+<p>Mdm Hamida Abdul Razak
 <br><a href="mailto:hamidah_abdul_razak@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hamidah_abdul_razak@schools.gov.sg</a>
 </p>
 </th>
