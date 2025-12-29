@@ -152,7 +152,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Level Head English (Internal)</p>
+<p>Level Head English</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Mdm Ee Yuan Qi Eugenia
@@ -183,7 +183,7 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Subject Head Malay Language (Internal)</p>
+<p>Subject Head Malay Language</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Nurdiana Binte Hasim
