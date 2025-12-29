@@ -94,8 +94,8 @@ variant: tiptap
 <p>HOD ICT</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Selvakkumari
-<br><a href="mailto:selvakkumari_veerasamy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">selvakkumari_veerasamy@schools.gov.sg</a>
+<p>Mdm Magdalene Loh Yin Shing
+<br><a href="Magdalene_Loh@schools.gov.sg" rel="noopener nofollow" target="_blank">Magdalene_Loh@schools.gov.sg</a>
 </p>
 </td>
 </tr>
