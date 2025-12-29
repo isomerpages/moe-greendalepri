@@ -296,8 +296,8 @@ variant: tiptap
 <p>Year Head Middle Primary</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mr Jonathan Chean
-<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chean_eu_chang_jonathan@schools.gov.sg</a>
+<p>Mdm Caroline Koh
+<br><a href="koh_po_wun_caroline@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_po_wun_caroline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
