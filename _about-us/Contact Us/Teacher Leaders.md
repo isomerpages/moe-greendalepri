@@ -65,7 +65,7 @@ variant: tiptap
 <p>Malay Language</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mdm Siti Norafizah
+<p>Mdm Siti Norafizah Rahmat
 <br><a href="mailto:siti_norafizah_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">siti_norafizah_rahmat@schools.gov.sg</a>
 </p>
 </th>
@@ -76,7 +76,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Yang Yiying</strong>
+<p><strong>Mdm Yang Yiying</strong>
 <br><a href="mailto:yang_yi_ying@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yang_yi_ying@schools.gov.sg</a>
 </p>
 </td>
