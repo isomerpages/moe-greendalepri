@@ -37,6 +37,16 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Vice -Principal (EO)</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Teo Lian Eng Linda</p>
+<p><a href="Linda_Teo@schools.gov.sg" rel="noopener nofollow" target="_blank">Linda_Teo@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p>Vice -Principal (Admin)
 <br>
 </p>
