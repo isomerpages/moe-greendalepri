@@ -24,7 +24,7 @@ variant: tiptap
 <p>Mr Foong Kok Pun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Chairperson</p>
+<p>Chairperson</p>
 </td>
 </tr>
 <tr>
@@ -46,14 +46,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Edy Hardijana Tjugito</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Koh Hsiao Juan Serene</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Member</p>
