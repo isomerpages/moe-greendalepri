@@ -253,16 +253,6 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>HOD Learning Needs (SEN)</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Mdm Caroline Koh
-<br><a href="mailto:koh_po_wun_caroline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_po_wun_caroline@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
 <p>Subject Head Art</p>
 </th>
 <td rowspan="1" colspan="1">
@@ -338,16 +328,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Kimberly Lee
 <br><a href="mailto:kimberly_quek_kwee_chiew@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kimberly_quek_kwee_chiew@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Subject Head Student Well-being</p>
-</th>
-<td rowspan="1" colspan="1">
-<p>Mrs Agnes Yeo
-<br><a href="mailto:agnes_seah_li_hui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">agnes_seah_li_hui@schools.gov.sg</a>
 </p>
 </td>
 </tr>
