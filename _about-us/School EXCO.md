@@ -2,7 +2,7 @@
 title: School EXCO
 permalink: /about-us/school-exco/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h2><strong>School EXCO</strong></h2>
 <p></p>
@@ -94,8 +94,8 @@ variant: tiptap
 <p>HOD ICT</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Magdalene Loh Yin Shing
-<br><a href="Magdalene_Loh@schools.gov.sg" rel="noopener nofollow" target="_blank">Magdalene_Loh@schools.gov.sg</a>
+<p>Mrs Magdalene Go-Loh Yin Shing
+<br><a href="loh_yin_shing_magdalene@schools.gov.sg" rel="noopener nofollow" target="_blank">loh_yin_shing_magdalene@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -344,7 +344,6 @@ variant: tiptap
 </tbody>
 </table>
 <h5>Character and Citizenship Education</h5>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -370,6 +369,74 @@ variant: tiptap
 <p>Mdm Janice Chew
 <br><a href="mailto:chew_boon_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_boon_ping@schools.gov.sg</a> 
 <br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Lead Teachers</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>English Language</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Dr. KS Jaswinder Khosa
+<br><a href="k_s_jaswinder_khosa@schools.gov.sg" rel="noopener nofollow" target="_blank">k_s_jaswinder_khosa@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Senior Teachers</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>English Language</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Hamidah Abdul Razak
+<br><a href="hamidah_abdul_razak@schools.gov.sg" rel="noopener nofollow" target="_blank">hamidah_abdul_razak@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Physical Education</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Jenn Yang
+<br><a href="lim_jenn_yang@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_jenn_yang@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Malay Language</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Norafizah Rahmat
+<br><a href="siti_norafizah_rahmat@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_norafizah_rahmat@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Chinese Language</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Yang Yiying
+<br><a href="yang_yi_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">yang_yi_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
