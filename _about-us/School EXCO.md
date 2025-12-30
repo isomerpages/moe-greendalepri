@@ -405,8 +405,8 @@ variant: tiptap
 <p>English Language</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Hamidah Abdul Razak</p>
-<p><a href="hamidah_abdul_razak@schools.gov.sg" rel="noopener nofollow" target="_blank">hamidah_abdul_razak@schools.gov.sg</a>
+<p>Mdm Hamidah Abdul Razak
+<br><a href="hamidah_abdul_razak@schools.gov.sg" rel="noopener nofollow" target="_blank">hamidah_abdul_razak@schools.gov.sg</a>
 </p>
 </td>
 </tr>
