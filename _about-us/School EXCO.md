@@ -94,8 +94,8 @@ variant: tiptap
 <p>HOD ICT</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Mdm Magdalene Loh Yin Shing
-<br><a href="Magdalene_Loh@schools.gov.sg" rel="noopener nofollow" target="_blank">Magdalene_Loh@schools.gov.sg</a>
+<p>Mrs Magdalene Go-Loh Yin Shing
+<br><a href="loh_yin_shing_magdalene@schools.gov.sg" rel="noopener nofollow" target="_blank">loh_yin_shing_magdalene@schools.gov.sg</a>
 </p>
 </td>
 </tr>
