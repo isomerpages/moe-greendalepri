@@ -8,39 +8,39 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="Principal" src="/images/About Us/Nooris_School_Website.png">
 </div>
-<p>Welcome to the 2025 school year!&nbsp;As we begin the new academic year,
-I would like to express our commitment to providing a supporting and enriching
-environment where every student thrives. Let us celebrate the possibilities
-that lie ahead as the school embraces the Future of Learning initiatives,
-namely the more deliberate infusion of 21CC and technology in key aspects
-of student learning and development in the school.</p>
-<p>In GDPS, we strive to develop students into active learners who engage
-deeply with the world around them. We believe that learning is not confined
-to textbooks; it is a dynamic process that thrives on curiosity and exploration.
-To achieve this, we encourage students’ involvement in various projects
-that stimulate critical thinking and creativity. We promote reading across
-the curriculum, enabling students to connect ideas and integrate knowledge
-and skills in meaningful ways. We also adopt thematic learning in the school’s
-signature programme – our Applied Learning Programme and Learning for Life
-Programme - as a cornerstone of our approach, allowing students to explore
-subjects in an interconnected manner that reflects real-world scenarios.</p>
-<p>Equally important is our commitment to students’ well-being. The school’s
-student development initiatives aim to provide learning experiences that
-foster a healthy lifestyle and instill positive values. While we strive
-for academic excellence, we also place significant emphasis on mental health
-and overall well-being. We recognize that a healthy mind is just as crucial
-as a healthy body, and we are dedicated to supporting our students holistically.</p>
-<p>We believe that a strong partnership between home, community and school
-is essential for every child's success. The school would continue to nurture
-sustained &nbsp;partnerships with our School Advisory Committee, Parents’
-Support Group and industry partners. We encourage exploration, open communication
-and collaboration throughout the year to ensure that we are supporting
-our students’ unique needs and aspirations. Thank you for being part of
-our efforts to achieve the school Vision of <strong><em>A Vibrant Community of Confident and Self-directed Learners Anchored in Values.</em></strong>
-</p>
-<p>Together, we will continue to forge meaningful partnerships to bring out
-the best in every child.</p>
-<p>Ad Astra!
+<p>As we welcome 2026, I extend my warmest greetings to our beloved students,
+parents, staff, alumni, and valued partners. A new year brings renewed
+hope, fresh possibilities, and a shared commitment to nurture every child
+to be the best that they can be.</p>
+<p>Our school remains guided by our <strong>Vision</strong> of being a <strong><em>Vibrant Community of Confident and Self-directed Learners Anchored in Values</em></strong>.
+We aspire to develop every student into a <strong>Confident Individual, a Self-directed Learner, and a Gracious Citizen</strong>—one
+who acts with integrity, empathy, and a strong sense of responsibility
+towards others and the community.</p>
+<p>Anchored in our <strong>Mission</strong> of <strong><em>Inspiring Minds, Nurturing Hearts, and Empowering Growth</em></strong>,
+we provide a holistic education that goes beyond academic excellence. We
+seek to spark curiosity, cultivate compassion, and empower students to
+take ownership of their learning while developing resilience and moral
+courage. Through purposeful experiences in and beyond the classroom through
+our signature programmes, our students learn to lead with confidence and
+serve with humility.</p>
+<p>In preparing our students for an ever-evolving world, we place strong
+emphasis on 21st Century Competencies (21CC) and the meaningful integration
+of technology through our Future of Learning initiatives. By leveraging
+innovative pedagogies and digital tools, we nurture critical and inventive
+thinkers, effective communicators, and collaborative team players. Technology
+is used thoughtfully to enhance learning, deepen understanding, and equip
+our students with future-ready skills.</p>
+<p>We firmly believe that education is a shared responsibility. Hence, we
+value close partnerships with parents, industry partners, and the wider
+community. Such collaborations enrich our students’ learning experiences,
+provide authentic real-world connections, and ensure strong support for
+their holistic development. Together, we model the values and dispositions
+we hope to see in our children.</p>
+<p>As we embark on the year ahead, let us move forward with unity, optimism,
+and purpose. May the coming year be one of meaningful learning, personal
+growth, and shared successes for our entire school community.</p>
+<p>I wish everyone a joyful, fulfilling, and rewarding New Year. Ad Astra!
+<br>
 <br><strong>Mrs Noorismawaty Sng-Ismail</strong>
 <br>Principal
-<br>January 2025</p>
+<br>January 2026</p>

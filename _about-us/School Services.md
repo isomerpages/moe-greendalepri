@@ -137,6 +137,9 @@ Please note that there will be no parking available within the school compound. 
 <br>Parents may opt for home-delivery or select from available timeslots for purchase and collection of uniform in school from the uniform website. <a href="https://www.myuniformshop.com.sg/book-now" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/book-now</a>
 </p>
 <p>Please note that there will be no parking available within the school compound. You may wish to park at the HDB carpark next to the school. </p>
+<br><b>Purchase of Uniforms or Exchanges in Term 1</b>
+	<p>Please call the retail outlet to confirm uniform sizes availability before making your trip down.
+From Term 2 – 3, the uniforms are available for purchase in the school bookshop.  </p>
 <br>
 </div></li>
 	

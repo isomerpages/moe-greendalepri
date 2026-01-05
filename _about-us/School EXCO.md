@@ -2,7 +2,7 @@
 title: School EXCO
 permalink: /about-us/school-exco/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h2><strong>School EXCO</strong></h2>
 <p></p>
@@ -386,7 +386,7 @@ variant: markdown
 <p>English Language</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Dr. KS Jaswinder Khosa
+<p>Dr. KS Jaswinder Khosa (Jessi Siva)
 <br><a href="k_s_jaswinder_khosa@schools.gov.sg" rel="noopener nofollow" target="_blank">k_s_jaswinder_khosa@schools.gov.sg</a>
 </p>
 </td>
