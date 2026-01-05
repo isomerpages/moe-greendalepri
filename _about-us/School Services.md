@@ -123,9 +123,9 @@ Please note that there will be no parking available within the school compound. 
 <br><strong>Retail outlet contact no:</strong> 62766689
 <br></p>
 <br><strong>Operating hours</strong>
-<p>Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://myuniformshop.com.sg</a>
-</p>
-<p><a href="/files/School%20Services/uniformsizeandpricechart2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a>
+<br> Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://myuniformshop.com.sg</a>
+<br>
+<br><a href="/files/School%20Services/uniformsizeandpricechart2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a>
 <br> 
 <br>During Term 1, please call the retail outlet to confirm uniform sizes availability before making your trip down for purchase or exchange. 
 <br>
@@ -133,7 +133,7 @@ Please note that there will be no parking available within the school compound. 
 <br>
 <br><b>End-of-Year Sales for Uniform</b>
 <br>Parents may opt for home-delivery or select from available timeslots for purchase and collection of uniform in school from the uniform website. <a href="https://www.myuniformshop.com.sg/book-now" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/book-now</a>
-</p>
+<p></p>
 <p>Please note that there will be no parking available within the school compound. You may wish to park at the HDB carpark next to the school. </p>
 
 </div></li>
