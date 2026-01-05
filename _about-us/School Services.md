@@ -121,26 +121,21 @@ Please note that there will be no parking available within the school compound. 
 <br>#03-651 Singapore 460209
 <br>
 <br><strong>Retail outlet contact no:</strong> 62766689
+<br></p>
+<br><strong>Operating hours</strong>
+<br> Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://myuniformshop.com.sg</a>
 <br>
-<br><strong>Operating hours:</strong>
-</p>
-<p>Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://myuniformshop.com.sg</a>
-</p>
-<p><a href="/files/School%20Services/uniformsizeandpricechart2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a>
+<br><a href="/files/School%20Services/uniformsizeandpricechart2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a>
 <br> 
 <br>During Term 1, please call the retail outlet to confirm uniform sizes availability before making your trip down for purchase or exchange. 
-From Term 2 – 3, the uniforms are available for purchase in school from the school bookshop. 
 <br>
-<br>School uniforms are also available for purchase from the school bookshop from Term 2 onwards till the last day of school in Term 4. 
+<br>From Term 2 onwards till the last day of school in Term 4, the uniforms are available for purchase in school from the school bookshop. 
 <br>
 <br><b>End-of-Year Sales for Uniform</b>
 <br>Parents may opt for home-delivery or select from available timeslots for purchase and collection of uniform in school from the uniform website. <a href="https://www.myuniformshop.com.sg/book-now" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/book-now</a>
-</p>
+<p></p>
 <p>Please note that there will be no parking available within the school compound. You may wish to park at the HDB carpark next to the school. </p>
-<br><b>Purchase of Uniforms or Exchanges in Term 1</b>
-	<p>Please call the retail outlet to confirm uniform sizes availability before making your trip down.
-From Term 2 – 3, the uniforms are available for purchase in the school bookshop.  </p>
-<br>
+
 </div></li>
 	
 <li><input type="checkbox" id="accordion5">  
