@@ -88,10 +88,9 @@ hp: 80319788.</p>
 <br>Priority will be given to students to purchase their books during recess timings (9.00am to 10.30am) and lunch timings (1.20pm to 2.00pm). Parents/guardians are strongly discouraged from coming during these periods given the expected long waiting time.
 <br>
 <br>Bookshop is closed on Sat, Sun and Public Holidays</p>
-<br><b> End-of-Year Holiday Sales for Books and Stationery:</b>
+<br><b> End-of-Year Holiday Sales for Books and Stationery</b>
 <br><a href="/files/School%20Services/bookshopdatesschoolholiday.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the bookshop operating dates during school holidays.</a> 
 <br><a href="/files/School%20Services/pbguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the purchase guide.</a>
-<br>
 <br><a href="/files/School%20Services/p1booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P1 Booklist 2026</a> 
 <br><a href="/files/School%20Services/p2booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P2 Booklist 2026</a> 
 <br><a href="/files/School%20Services/p3booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P3 Booklist 2026</a> 
@@ -99,8 +98,7 @@ hp: 80319788.</p>
 <br><a href="/files/School%20Services/p5fbooklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P5 Foundation Booklist 2026</a> 
 <br><a href="/files/School%20Services/p5booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P5 Booklist 2026</a> 
 <br><a href="/files/School%20Services/p6booklist2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the P6 Booklist 2026</a> 
-<p></p>
-<p>
+<br>
 <br>Please purchase the books and stationery online.
 <br>
 <br> Parents may opt for home-delivery or select from available timeslots for self-collection in school.
@@ -110,7 +108,7 @@ Please note that there will be no parking available within the school compound. 
 <br>
 	<br><b>For students under Financial Assistance</b>
 	<br> If you are applying for MOE Financial Assistance Scheme (FAS), please do not make any books purchase until school has contacted you about your FAS application outcome and provided you with the FAS access code for the books. You may refer to the attached guide for the steps to make the redemption using the FAS access code.
-</p><p><a href="/files/School%20Services/fasredemptionguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the FAS redemption guide.</a></p>
+<p></p><p><a href="/files/School%20Services/fasredemptionguide2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the FAS redemption guide.</a></p>
 <br>
 </div></li>
 	
