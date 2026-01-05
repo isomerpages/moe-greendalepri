@@ -122,12 +122,14 @@ Please note that there will be no parking available within the school compound. 
 <br>
 <br><strong>Retail outlet contact no:</strong> 62766689
 <br>
-<br><strong>Operating hours:</strong> 
-<br>
+<br><strong>Operating hours:</strong>
 </p>
 <p>Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://myuniformshop.com.sg</a>
 </p>
-<p><a href="/files/School%20Services/uniformsizeandpricechart2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a> 
+<p><a href="/files/School%20Services/uniformsizeandpricechart2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the uniform size and prices chart.</a>
+<br> 
+<br>During Term 1, please call the retail outlet to confirm uniform sizes availability before making your trip down for purchase or exchange. 
+From Term 2 – 3, the uniforms are available for purchase in school from the school bookshop. 
 <br>
 <br>School uniforms are also available for purchase from the school bookshop from Term 2 onwards till the last day of school in Term 4. 
 <br>
