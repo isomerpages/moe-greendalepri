@@ -118,7 +118,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ng Kian Woon
+<br><a href="ng_kian_woon@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_kian_woon@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
