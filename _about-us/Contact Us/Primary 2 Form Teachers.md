@@ -74,10 +74,14 @@ variant: tiptap
 <p>2 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Pierre Rachel Edmond
+<br><a href="pierre_rachel_edmond@schools.gov.sg" rel="noopener nofollow" target="_blank">pierre_rachel_edmond@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ng Xiangqi
+<br><a href="ng_xiangqi@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_xiangqi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
