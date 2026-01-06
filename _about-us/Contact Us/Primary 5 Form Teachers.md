@@ -150,10 +150,16 @@ variant: tiptap
 <p>5 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Selvakkumari d/o Veerasamy
+<br>(Ms Kumari)
+<br><a href="selvakkumari_veerasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">selvakkumari_veerasamy@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Mohan s/o Krishnamoorthy
+<br>
+<br><a href="mohan_krishnamoorthy@schools.gov.sg" rel="noopener nofollow" target="_blank">mohan_krishnamoorthy@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
