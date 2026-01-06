@@ -137,10 +137,16 @@ variant: tiptap
 <p>2 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Tan Hai Sing
+<br>
+<br><a href="tan_hai_sing@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_hai_sing@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Goh Kar Hui
+<br>(Mrs Jolene Teo)
+<br><a href="goh_kar_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">goh_kar_hui@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
