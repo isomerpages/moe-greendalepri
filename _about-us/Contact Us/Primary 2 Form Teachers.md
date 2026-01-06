@@ -175,10 +175,14 @@ variant: tiptap
 <p>2 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lee Lay Khim Celetio
+<br><a href="lee_lay_khim_celetio@schools.gov.sg" rel="noopener nofollow" target="_blank">lee_lay_khim_celetio@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Leong Jay Ker Ian
+<br><a href="Leong_Jay_Ker_Ian@schools.gov.sg" rel="noopener nofollow" target="_blank">Leong_Jay_Ker_Ian@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
