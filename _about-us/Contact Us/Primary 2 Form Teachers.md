@@ -119,10 +119,14 @@ variant: tiptap
 <p>2 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Seah Li Hui Agnes (Mrs Yeo)
+<br><a href="agnes_seah_li_hui@schools.gov.sg" rel="noopener nofollow" target="_blank">agnes_seah_li_hui@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Neo Aik Ghee
+<br><a href="neo_aik_ghee@schools.gov.sg" rel="noopener nofollow" target="_blank">neo_aik_ghee@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
