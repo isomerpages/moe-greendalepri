@@ -27,8 +27,9 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -40,6 +41,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="2">
 <p>Form Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -58,6 +62,9 @@ variant: tiptap
 <br><a href="zul_fahmie_bin_jumairi@schools.gov.sg" rel="noopener nofollow" target="_blank">zul_fahmie_bin_jumairi@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -72,6 +79,9 @@ variant: tiptap
 <p>Ms Cherie Ang Hui Er
 <br><a href="cherie_ang_hui_er@schools.gov.sg" rel="noopener nofollow" target="_blank">cherie_ang_hui_er@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -91,10 +101,19 @@ variant: tiptap
 <br><a href="siti_norafizah_rahmat@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_norafizah_rahmat@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Sabrina Binte Mohd Kamal
+<br>
+<br><a href="nur_sabrina_mohd_kamal@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_sabrina_mohd_kamal@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>5 Commitment</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -113,10 +132,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>5 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
