@@ -89,10 +89,14 @@ variant: tiptap
 <p>4 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Kua En Na
+<br><a href="kua_en_na@schools.gov.sg" rel="noopener nofollow" target="_blank">kua_en_na@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Musfirah Bte Mohamed
+<br><a href="musfirah_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">musfirah_mohamed@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
