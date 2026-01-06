@@ -165,6 +165,24 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Focus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Magdalene Go-Loh Yin Shing
+<br><a href="loh_yin_shing_magdalene@schools.gov.sg" rel="noopener nofollow" target="_blank">loh_yin_shing_magdalene@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Wong Yew Hoong
+<br><a href="wong_yew_hoong@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_yew_hoong@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
