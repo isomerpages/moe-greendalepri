@@ -113,10 +113,14 @@ variant: tiptap
 <p>5 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dr. KS Jaswinder Khosa (Jessi Siva)
+<br><a href="k_s_jaswinder_khosa@schools.gov.sg" rel="noopener nofollow" target="_blank">k_s_jaswinder_khosa@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Dou Jin Yi
+<br><a href="dou_jin_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">dou_jin_yi@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
