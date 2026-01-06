@@ -64,10 +64,14 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nabila Banu
+<br><a href="nabila_banu_mohamed_hassan@schools.gov.sg" rel="noopener nofollow" target="_blank">nabila_banu_mohamed_hassan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Cherie Ang Hui Er
+<br><a href="cherie_ang_hui_er@schools.gov.sg" rel="noopener nofollow" target="_blank">cherie_ang_hui_er@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
