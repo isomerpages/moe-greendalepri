@@ -104,10 +104,14 @@ variant: tiptap
 <p>6 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Hamidah Binte Abdul Razak
+<br><a href="hamidah_abdul_razak@schools.gov.sg" rel="noopener nofollow" target="_blank">hamidah_abdul_razak@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr&nbsp;Lim Jenn Yang
+<br><a href="Lim_Jenn_Yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Lim_Jenn_Yang@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
