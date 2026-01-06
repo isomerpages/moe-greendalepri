@@ -104,10 +104,14 @@ variant: tiptap
 <p>4 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ee Yuan Qi Eugenia
+<br><a href="ee_yuan_qi_eugenia@schools.gov.sg" rel="noopener nofollow" target="_blank">ee_yuan_qi_eugenia@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm&nbsp;Rashidah Bte Mohamed Rafei
+<br><a href="rashidah_mohamed_rafei@schools.gov.sg" rel="noopener nofollow" target="_blank">rashidah_mohamed_rafei@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
