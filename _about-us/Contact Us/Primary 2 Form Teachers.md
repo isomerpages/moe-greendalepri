@@ -101,10 +101,14 @@ variant: tiptap
 <p>2 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Phua Min Li (Mrs Koh)
+<br><a href="phua_min_li@schools.gov.sg" rel="noopener nofollow" target="_blank">phua_min_li@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Nur Muhammad Kamal
+<br><a href="nur_muhammad_kamal_mat@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_muhammad_kamal_mat@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
