@@ -162,7 +162,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Irene Kwok Kwee Yoon
+<br>
+<br><a href="" rel="noopener nofollow" target="_blank">irene_kwok_kwee_Yoon@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
