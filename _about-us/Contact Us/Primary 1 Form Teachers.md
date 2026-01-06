@@ -79,7 +79,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Huang Si Yi Joanna
+<br><a href="joanna_huang_siyi@schools.gov.sg" rel="noopener nofollow" target="_blank">joanna_huang_siyi@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
