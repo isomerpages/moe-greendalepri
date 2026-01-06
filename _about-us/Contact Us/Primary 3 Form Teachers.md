@@ -19,8 +19,8 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>
-<br>Mr Chean Eu Chang Jonathan
-<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chean_eu_chang_jonathan@schools.gov.sg</a>
+<br>Mdm Caroline Koh
+<br><a href="koh_po_wun_caroline@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_po_wun_caroline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -29,8 +29,9 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -43,21 +44,27 @@ variant: tiptap
 <th rowspan="1" colspan="2">
 <p>Form Teachers</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>3 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Mohd Ghazaly Ibrahim Goghari (Mr Emmanuel)
-<br><a href="mohamed_ghazaly_ibrahim_goghari@schools.gov.sg" rel="noopener nofollow" target="_blank">mohamed_ghazaly_ibrahim_goghari@schools.gov.sg</a>
-<br>
+<p>Ms Cheok Ying Xuan Delcine
+<br><a href="cheok_ying_xuan_delcine@schools.gov.sg" rel="noopener nofollow" target="_blank">cheok_ying_xuan_delcine@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Puah Yun Wen Shirley
-<br><a href="puah_yun_wen@schools.gov.sg" rel="noopener nofollow" target="_blank">puah_yun_wen@schools.gov.sg</a>
-<br>
+<p>Mdm Siti Norazirah Binti Ma'arof
+<br><a href="siti_norazirah_maarof@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_norazirah_maarof@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chng Yee Guek (Hazel)
+<br><a href="Chng_Yee_Guek@schools.gov.sg" rel="noopener nofollow" target="_blank">Chng_Yee_Guek@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -66,14 +73,18 @@ variant: tiptap
 <p>3 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Han Peiling Amelia
-<br><a href="amelia_han@schools.gov.sg" rel="noopener nofollow" target="_blank">amelia_han@schools.gov.sg</a>
+<p>Mdm Puah Yun Wen Shirley
+<br><a href="puah_yun_wen@schools.gov.sg" rel="noopener nofollow" target="_blank">puah_yun_wen@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chen Xujin
-<br><a href="chen_xujin@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_xujin@schools.gov.sg</a>
-<br>
+<p>Mr Muhd Saifulbahry (Mr Saiful)
+<br><a href="muhammad_saifulbahry_abdul_raman@schools.gov.sg" rel="noopener nofollow" target="_blank">muhammad_saifulbahry_abdul_raman@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm How Ai Leng Irene
+<br><a href="How_Ai_Leng_Irene_C@schools.gov.sg" rel="noopener nofollow" target="_blank">How_Ai_Leng_Irene_C@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -82,13 +93,18 @@ variant: tiptap
 <p>3 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Kua En Na
-<br><a href="mailto:kua_en_na@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>kua_en_na@schools.gov.sg</u></a>
+<p>Ms Leong Yahui
+<br><a href="leong_yahui@schools.gov.sg" rel="noopener nofollow" target="_blank">leong_yahui@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Zi Chun
-<br><a href="Ng_Zi_Chun@schools.gov.sg" rel="noopener nofollow" target="_blank">Ng_Zi_Chun@schools.gov.sg</a>
+<p>Mr Ng Chin Chye
+<br><a href="ng_chin_chye@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_chin_chye@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Shu Hui Celina
+<br><a href="Koh_Shu_Hui_Celina@schools.gov.sg" rel="noopener nofollow" target="_blank">Koh_Shu_Hui_Celina@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -97,14 +113,17 @@ variant: tiptap
 <p>3 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chia Mei Shan
-<br><a href="chia_mei_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_mei_shan@schools.gov.sg</a>
+<p>Ms Shamira Banu d/o Ali-Saafri
+<br><a href="shamira_banu_alisaafri@schools.gov.sg" rel="noopener nofollow" target="_blank">shamira_banu_alisaafri@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cherie Ang Hui Er
-<br><a href="cherie_ang_hui_er@schools.gov.sg" rel="noopener nofollow" target="_blank">cherie_ang_hui_er@schools.gov.sg</a>
+<p>Mr Ng Kian Woon
+<br><a href="ng_kian_woon@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_kian_woon@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -112,45 +131,17 @@ variant: tiptap
 <p>3 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Halimatus Sa'adiah Binte Roslan
-<br><a href="halimatus_saadiah_roslan@schools.gov.sg" rel="noopener nofollow" target="_blank">halimatus_saadiah_roslan@schools.gov.sg</a>
+<p>Mrs Maybelline Ng
+<br><a href="chua_maybelline_ivy@schools.gov.sg" rel="noopener nofollow" target="_blank">chua_maybelline_ivy@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Lim Jenn Yang
-<br><a href="Lim_Jenn_Yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Lim_Jenn_Yang@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Excellence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Ong Bee Cheng Bebe
-<br><a href="Ong_Bee_Cheng_Bebe@schools.gov.sg" rel="noopener nofollow" target="_blank">Ong_Bee_Cheng_Bebe@schools.gov.sg</a>
+<p>Mdm Nazima Banu d/o Mashuthoo
+<br><a href="nazima_banu@schools.gov.sg" rel="noopener nofollow" target="_blank">nazima_banu@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Zul Fahmie Bin Jumairi
-<br><a href="zul_fahmie_bin_jumairi@schools.gov.sg" rel="noopener nofollow" target="_blank">zul_fahmie_bin_jumairi@schools.gov.sg</a>
-</p>
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 Focus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Arifah Bte Adnan
-<br><a href="arifah_adnan@schools.gov.sg" rel="noopener nofollow" target="_blank">arifah_adnan@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Dou Jin Yi
-<br><a href="dou_jin_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">dou_jin_yi@schools.gov.sg</a>
-</p>
 </td>
 </tr>
 </tbody>

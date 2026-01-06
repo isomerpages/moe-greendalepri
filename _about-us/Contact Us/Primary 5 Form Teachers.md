@@ -27,8 +27,9 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -38,7 +39,7 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Class</p>
 </th>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <p>Form Teachers</p>
 </th>
 </tr>
@@ -47,14 +48,19 @@ variant: tiptap
 <p>5 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheok Ying Xuan Delcine
-<br><a href="cheok_ying_xuan_delcine@schools.gov.sg" rel="noopener nofollow" target="_blank">cheok_ying_xuan_delcine@schools.gov.sg</a>
+<p>Mdm Chew Meiqian
+<br>(Mrs Selena Tan)
+<br><a href="chew_meiqian@schools.gov.sg" rel="noopener nofollow" target="_blank">chew_meiqian@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms D Piriyadarisini
-<br><a href="D_Piriyadarisini@schools.gov.sg" rel="noopener nofollow" target="_blank">D_Piriyadarisini@schools.gov.sg</a>
+<p>Mr Zul Fahmie Bin Jumairi
+<br>
+<br><a href="zul_fahmie_bin_jumairi@schools.gov.sg" rel="noopener nofollow" target="_blank">zul_fahmie_bin_jumairi@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -62,14 +68,17 @@ variant: tiptap
 <p>5 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms CHOY PEIZHI (CHRISTINE)
-<br><a href="choy_peizhi@schools.gov.sg" rel="noopener nofollow" target="_blank">choy_peizhi@schools.gov.sg</a>
+<p>Ms Nabila Banu
+<br><a href="nabila_banu_mohamed_hassan@schools.gov.sg" rel="noopener nofollow" target="_blank">nabila_banu_mohamed_hassan@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Rashidah Bte Mohamed Rafei
-<br><a href="rashidah_mohamed_rafei@schools.gov.sg" rel="noopener nofollow" target="_blank">rashidah_mohamed_rafei@schools.gov.sg</a>
+<p>Ms Cherie Ang Hui Er
+<br><a href="cherie_ang_hui_er@schools.gov.sg" rel="noopener nofollow" target="_blank">cherie_ang_hui_er@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -77,13 +86,22 @@ variant: tiptap
 <p>5 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Hock Siong Dennis
-<br><a href="dennis_tan_hock_siong@schools.gov.sg" rel="noopener nofollow" target="_blank">dennis_tan_hock_siong@schools.gov.sg</a>
+<p>Mdm Liow Shu Hwa
+<br>(Mrs Joanne Goh)
+<br><a href="liow_shu_hwa@schools.gov.sg" rel="noopener nofollow" target="_blank">liow_shu_hwa@schools.gov.sg</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Dong Baohong
-<br><a href="Dong_Baohong@schools.gov.sg" rel="noopener nofollow" target="_blank">Dong_Baohong@schools.gov.sg</a>
+<p>Mdm Siti Norafizah
+<br>
+<br><a href="siti_norafizah_rahmat@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_norafizah_rahmat@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Sabrina Binte Mohd Kamal
+<br>
+<br><a href="nur_sabrina_mohd_kamal@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_sabrina_mohd_kamal@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -92,14 +110,17 @@ variant: tiptap
 <p>5 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hamidah Binte Abdul Razak
-<br><a href="hamidah_abdul_razak@schools.gov.sg" rel="noopener nofollow" target="_blank">hamidah_abdul_razak@schools.gov.sg</a>
+<p>Dr. KS Jaswinder Khosa (Jessi Siva)
+<br><a href="k_s_jaswinder_khosa@schools.gov.sg" rel="noopener nofollow" target="_blank">k_s_jaswinder_khosa@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Kian Woon
-<br><a href="ng_kian_woon@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_kian_woon@schools.gov.sg</a>
+<p>Ms Dou Jin Yi
+<br><a href="dou_jin_yi@schools.gov.sg" rel="noopener nofollow" target="_blank">dou_jin_yi@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -107,14 +128,18 @@ variant: tiptap
 <p>5 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mak Sher-Lin (Stephanie)
-<br><a href="mak_sher-lin@schools.gov.sg" rel="noopener nofollow" target="_blank">mak_sher-lin@schools.gov.sg</a>
+<p>Miss Divyalakshimi Ganeson
+<br>(Miss Divya)
+<br><a href="divyalakshmi_ganeson@schools.gov.sg" rel="noopener nofollow" target="_blank">divyalakshmi_ganeson@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Leong Jay Ker Ian
-<br><a href="Leong_Jay_Ker_Ian@schools.gov.sg" rel="noopener nofollow" target="_blank">Leong_Jay_Ker_Ian@schools.gov.sg</a>
+<p>Mdm&nbsp;Siti Zulaikha Binte Zainal Abidin
+<br><a href="siti_zulaikha@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_zulaikha@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -122,14 +147,40 @@ variant: tiptap
 <p>5 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Hafizaa Binte Halim Sah
-<br><a href="nur_hafizaa_halim_sah@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_hafizaa_halim_sah@schools.gov.sg</a>
+<p>Ms Selvakkumari d/o Veerasamy
+<br>(Ms Kumari)
+<br><a href="selvakkumari_veerasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">selvakkumari_veerasamy@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Yiying
-<br><a href="yang_yi_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">yang_yi_ying@schools.gov.sg</a>
+<p>Mr Mohan s/o Krishnamoorthy
+<br>
+<br><a href="mohan_krishnamoorthy@schools.gov.sg" rel="noopener nofollow" target="_blank">mohan_krishnamoorthy@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Irene Kwok Kwee Yoon
+<br>
+<br><a href="" rel="noopener nofollow" target="_blank">irene_kwok_kwee_Yoon@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5 Focus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Magdalene Go-Loh Yin Shing
+<br><a href="loh_yin_shing_magdalene@schools.gov.sg" rel="noopener nofollow" target="_blank">loh_yin_shing_magdalene@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp;Wong Yew Hoong
+<br><a href="wong_yew_hoong@schools.gov.sg" rel="noopener nofollow" target="_blank">wong_yew_hoong@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

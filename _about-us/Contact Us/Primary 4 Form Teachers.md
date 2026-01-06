@@ -19,8 +19,8 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>
-<br>Mr Chean Eu Chang Jonathan
-<br><a href="mailto:chean_eu_chang_jonathan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chean_eu_chang_jonathan@schools.gov.sg</a>
+<br>Mdm Caroline Koh
+<br><a href="koh_po_wun_caroline@schools.gov.sg" rel="noopener nofollow" target="_blank">koh_po_wun_caroline@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -59,13 +59,13 @@ variant: tiptap
 <p>4 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Maybelline Ng
-<br><a href="Chua_Maybelline_Ivy@schools.gov.sg" rel="noopener nofollow" target="_blank">Chua_Maybelline_Ivy@schools.gov.sg</a>
+<p>Mr&nbsp;Mohd Ghazaly Ibrahim Goghari (Mr Emmanuel)
+<br><a href="mohamed_ghazaly_ibrahim_goghari@schools.gov.sg" rel="noopener nofollow" target="_blank">mohamed_ghazaly_ibrahim_goghari@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazima Banu d/o Mashuthoo
-<br><a href="nazima_banu@schools.gov.sg" rel="noopener nofollow" target="_blank">nazima_banu@schools.gov.sg</a>
+<p>Mdm Chen Xujin
+<br><a href="chen_xujin@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_xujin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -74,13 +74,13 @@ variant: tiptap
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Lim Mei Ling Helen
-<br><a href="Lim_Mei_Ling_Helen@schools.gov.sg" rel="noopener nofollow" target="_blank">Lim_Mei_Ling_Helen@schools.gov.sg</a>
+<p>Mdm Kong Shi Yun Callie
+<br><a href="kong_shi_yun@schools.gov.sg" rel="noopener nofollow" target="_blank">kong_shi_yun@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Suhaizan Bte Talib
-<br><a href="Suhaizan_Talib@schools.gov.sg" rel="noopener nofollow" target="_blank">Suhaizan_Talib@schools.gov.sg</a>
+<p>Ms Han Peiling Amelia
+<br><a href="amelia_han@schools.gov.sg" rel="noopener nofollow" target="_blank">amelia_han@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -89,14 +89,13 @@ variant: tiptap
 <p>4 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chen Wanxing (Ms Jaclyn)
-<br><a href="chen_wanxing_jaclyn@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_wanxing_jaclyn@schools.gov.sg</a>
+<p>Miss Kua En Na
+<br><a href="kua_en_na@schools.gov.sg" rel="noopener nofollow" target="_blank">kua_en_na@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Selvakkumari d/o Veerasamy
-<br>(Ms Kumari)
-<br><a href="selvakkumari_veerasamy@schools.gov.sg" rel="noopener nofollow" target="_blank">selvakkumari_veerasamy@schools.gov.sg</a>
+<p>Mdm Musfirah Bte Mohamed
+<br><a href="musfirah_mohamed@schools.gov.sg" rel="noopener nofollow" target="_blank">musfirah_mohamed@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -105,13 +104,13 @@ variant: tiptap
 <p>4 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Koh Po Wun Caroline
-<br><a href="mailto:koh_po_wun_caroline@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>koh_po_wun_caroline@schools.gov.sg</u></a>
+<p>Mdm Ee Yuan Qi Eugenia
+<br><a href="ee_yuan_qi_eugenia@schools.gov.sg" rel="noopener nofollow" target="_blank">ee_yuan_qi_eugenia@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Chew Boon Ping Janice
-<br><a href="chew_boon_ping@schools.gov.sg" rel="noopener nofollow" target="_blank">chew_boon_ping@schools.gov.sg</a>
+<p>Mdm&nbsp;Rashidah Bte Mohamed Rafei
+<br><a href="rashidah_mohamed_rafei@schools.gov.sg" rel="noopener nofollow" target="_blank">rashidah_mohamed_rafei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -120,14 +119,13 @@ variant: tiptap
 <p>4 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nabila Banu
-<br><a href="nabila_banu_mohamed_hassan@schools.gov.sg" rel="noopener nofollow" target="_blank">nabila_banu_mohamed_hassan@schools.gov.sg</a>
+<p>Mdm Halimatus Sa'adiah Binte Roslan
+<br><a href="halimatus_saadiah_roslan@schools.gov.sg" rel="noopener nofollow" target="_blank">halimatus_saadiah_roslan@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Liow Shu Hwa
-<br>(Mrs Joanne Goh)
-<br><a href="Liow_Shu_Hwa@schools.gov.sg" rel="noopener nofollow" target="_blank">Liow_Shu_Hwa@schools.gov.sg</a>
+<p>Ms Ng Zi Chun
+<br><a href="ng_zi_chun@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_zi_chun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -136,13 +134,13 @@ variant: tiptap
 <p>4 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Siti Zulaikha Binte Zainal Abidin
-<br><a href="siti_zulaikha@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_zulaikha@schools.gov.sg</a>
+<p>Mdm Ong Bee Cheng Bebe
+<br><a href="ong_bee_cheng_bebe@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_bee_cheng_bebe@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kong Shi Yun Callie
-<br><a href="kong_shi_yun@schools.gov.sg" rel="noopener nofollow" target="_blank">kong_shi_yun@schools.gov.sg</a>
+<p>Mdm&nbsp;Chek Davoudou Ragmath Nissa
+<br><a href="chek_davoudou_raghmath_nissa@schools.gov.sg" rel="noopener nofollow" target="_blank">chek_davoudou_raghmath_nissa@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -151,13 +149,13 @@ variant: tiptap
 <p>4 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohan s/o Krishnamoorthy
-<br><a href="mohan_krishnamoorthy@schools.gov.sg" rel="noopener nofollow" target="_blank">mohan_krishnamoorthy@schools.gov.sg</a>
+<p>Ms Arifah Bte Adnan
+<br><a href="arifah_adnan@schools.gov.sg" rel="noopener nofollow" target="_blank">arifah_adnan@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Angela
-<br><a href="Angela@schools.gov.sg" rel="noopener nofollow" target="_blank">Angela@schools.gov.sg</a>
+<p>Ms Chia Yilin Eileen
+<br><a href="chia_yilin_eileen@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_yilin_eileen@schools.gov.sg</a>
 </p>
 </td>
 </tr>
