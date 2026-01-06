@@ -113,7 +113,9 @@ variant: tiptap
 <p>3 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Shamira Banu d/o Ali-Saafri
+<br><a href="shamira_banu_alisaafri@schools.gov.sg" rel="noopener nofollow" target="_blank">shamira_banu_alisaafri@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
