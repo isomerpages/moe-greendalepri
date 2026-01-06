@@ -59,13 +59,13 @@ variant: tiptap
 <p>6 Graciousness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Chew Meiqian (Mrs Selena Tan)
-<br><a href="chew_meiqian@schools.gov.sg" rel="noopener nofollow" target="_blank">chew_meiqian@schools.gov.sg</a>
+<p>Mdm&nbsp;Farrah Eliana Binte Adam
+<br><a href="farrah_eliana_adam@schools.gov.sg" rel="noopener nofollow" target="_blank">farrah_eliana_adam@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Norafizah
-<br><a href="siti_norafizah_rahmat@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_norafizah_rahmat@schools.gov.sg</a>
+<p>Ms D Piriyadarisini
+<br><a href="D_Piriyadarisini@schools.gov.sg" rel="noopener nofollow" target="_blank">D_Piriyadarisini@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -74,14 +74,10 @@ variant: tiptap
 <p>6 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Kimberly Lee
-<br><a href="kimberly_quek_kwee_chiew@schools.gov.sg" rel="noopener nofollow" target="_blank">kimberly_quek_kwee_chiew@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Zubaidah Binte Amid
-<br><a href="zubaidah_amid@schools.gov.sg" rel="noopener nofollow" target="_blank">zubaidah_amid@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -89,14 +85,10 @@ variant: tiptap
 <p>6 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Farrah Eliana Binte Adam
-<br><a href="farrah_eliana_adam@schools.gov.sg" rel="noopener nofollow" target="_blank">farrah_eliana_adam@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Priscilla Cheong Su Fen
-<br><a href="priscilla_cheong_su_fen@schools.gov.sg" rel="noopener nofollow" target="_blank">priscilla_cheong_su_fen@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -104,15 +96,10 @@ variant: tiptap
 <p>6 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Divyalakshimi Ganeson
-<br>(Miss Divya)
-<br><a href="divyalakshmi_ganeson@schools.gov.sg" rel="noopener nofollow" target="_blank">divyalakshmi_ganeson@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lily Chan
-<br><a href="lily_chan@schools.gov.sg" rel="noopener nofollow" target="_blank">lily_chan@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
