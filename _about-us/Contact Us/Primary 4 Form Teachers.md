@@ -119,10 +119,14 @@ variant: tiptap
 <p>4 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Halimatus Sa'adiah Binte Roslan
+<br><a href="halimatus_saadiah_roslan@schools.gov.sg" rel="noopener nofollow" target="_blank">halimatus_saadiah_roslan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng Zi Chun
+<br><a href="ng_zi_chun@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_zi_chun@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
