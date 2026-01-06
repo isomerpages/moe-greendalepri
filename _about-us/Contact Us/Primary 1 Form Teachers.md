@@ -110,10 +110,14 @@ variant: tiptap
 <p>1 Commitment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Zubaidah Binte Amid
+<br><a href="zubaidah_amid@schools.gov.sg" rel="noopener nofollow" target="_blank">zubaidah_amid@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Goh Caiping Regina
+<br><a href="regina_goh_caiping@schools.gov.sg" rel="noopener nofollow" target="_blank">regina_goh_caiping@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
