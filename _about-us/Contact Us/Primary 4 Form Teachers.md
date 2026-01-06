@@ -134,10 +134,14 @@ variant: tiptap
 <p>4 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Ong Bee Cheng Bebe
+<br><a href="ong_bee_cheng_bebe@schools.gov.sg" rel="noopener nofollow" target="_blank">ong_bee_cheng_bebe@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm&nbsp;Chek Davoudou Ragmath Nissa
+<br><a href="chek_davoudou_raghmath_nissa@schools.gov.sg" rel="noopener nofollow" target="_blank">chek_davoudou_raghmath_nissa@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
