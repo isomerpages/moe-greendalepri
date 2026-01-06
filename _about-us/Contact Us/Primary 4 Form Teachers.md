@@ -149,10 +149,14 @@ variant: tiptap
 <p>4 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Arifah Bte Adnan
+<br><a href="arifah_adnan@schools.gov.sg" rel="noopener nofollow" target="_blank">arifah_adnan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chia Yilin Eileen
+<br><a href="chia_yilin_eileen@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_yilin_eileen@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
