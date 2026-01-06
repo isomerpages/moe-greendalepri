@@ -114,6 +114,21 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Collaboration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms&nbsp;Lim Mei Ling Helen
+<br><a href="lim_mei_ling_helen@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_mei_ling_helen@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Mak Sher-Lin (Stephanie)
+<br><a href="mak_sher-lin@schools.gov.sg" rel="noopener nofollow" target="_blank">mak_sher-lin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
