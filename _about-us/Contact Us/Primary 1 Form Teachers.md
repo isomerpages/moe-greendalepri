@@ -128,10 +128,14 @@ variant: tiptap
 <p>1 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Khor Hong Yee (Mrs Low)
+<br><a href="khor_hong_yee@schools.gov.sg" rel="noopener nofollow" target="_blank">khor_hong_yee@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Shumin Cecilia
+<br><a href="tan_shumin_cecilia@schools.gov.sg" rel="noopener nofollow" target="_blank">tan_shumin_cecilia@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
