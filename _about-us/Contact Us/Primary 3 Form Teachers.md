@@ -93,13 +93,19 @@ variant: tiptap
 <p>3 Appreciation</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Leong Yahui
+<br><a href="leong_yahui@schools.gov.sg" rel="noopener nofollow" target="_blank">leong_yahui@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ng Chin Chye
+<br><a href="ng_chin_chye@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_chin_chye@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Koh Shu Hui Celina
+<br><a href="Koh_Shu_Hui_Celina@schools.gov.sg" rel="noopener nofollow" target="_blank">Koh_Shu_Hui_Celina@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
