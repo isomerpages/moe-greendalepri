@@ -131,10 +131,15 @@ variant: tiptap
 <p>5 Collaboration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Miss Divyalakshimi Ganeson
+<br>(Miss Divya)
+<br><a href="divyalakshmi_ganeson@schools.gov.sg" rel="noopener nofollow" target="_blank">divyalakshmi_ganeson@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm&nbsp;Siti Zulaikha Binte Zainal Abidin
+<br><a href="siti_zulaikha@schools.gov.sg" rel="noopener nofollow" target="_blank">siti_zulaikha@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
