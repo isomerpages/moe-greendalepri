@@ -39,11 +39,8 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Class</p>
 </th>
-<th rowspan="1" colspan="2">
+<th rowspan="1" colspan="3">
 <p>Form Teachers</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
