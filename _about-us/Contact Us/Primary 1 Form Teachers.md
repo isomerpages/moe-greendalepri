@@ -164,10 +164,14 @@ variant: tiptap
 <p>1 Focus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Chia Mei Shan
+<br><a href="chia_mei_shan@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_mei_shan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chen Wanxing (Ms Jaclyn)
+<br><a href="chen_wanxing_jaclyn@schools.gov.sg" rel="noopener nofollow" target="_blank">chen_wanxing_jaclyn@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
