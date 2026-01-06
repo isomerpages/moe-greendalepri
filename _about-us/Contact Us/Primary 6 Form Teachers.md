@@ -65,7 +65,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms D Piriyadarisini
-<br><a href="D_Piriyadarisini@schools.gov.sg" rel="noopener nofollow" target="_blank">D_Piriyadarisini@schools.gov.sg</a>
+<br><a href="d_piriyadarisini@schools.gov.sg" rel="noopener nofollow" target="_blank">d_piriyadarisini@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -126,6 +126,21 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Mak Sher-Lin (Stephanie)
 <br><a href="mak_sher-lin@schools.gov.sg" rel="noopener nofollow" target="_blank">mak_sher-lin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6 Excellence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Hafizaa Binte Halim Sah
+<br><a href="nur_hafizaa_halim_sah@schools.gov.sg" rel="noopener nofollow" target="_blank">nur_hafizaa_halim_sah@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yang Yiying
+<br><a href="yang_yi_ying@schools.gov.sg" rel="noopener nofollow" target="_blank">yang_yi_ying@schools.gov.sg</a>
 </p>
 </td>
 </tr>
