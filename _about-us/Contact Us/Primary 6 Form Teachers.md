@@ -110,7 +110,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr&nbsp;Lim Jenn Yang
-<br><a href="Lim_Jenn_Yang@schools.gov.sg" rel="noopener nofollow" target="_blank">Lim_Jenn_Yang@schools.gov.sg</a>
+<br><a href="lim_jenn_yang@schools.gov.sg" rel="noopener nofollow" target="_blank">lim_jenn_yang@schools.gov.sg</a>
 </p>
 </td>
 </tr>
