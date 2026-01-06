@@ -74,10 +74,14 @@ variant: tiptap
 <p>4 Resilience</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Kong Shi Yun Callie
+<br><a href="kong_shi_yun@schools.gov.sg" rel="noopener nofollow" target="_blank">kong_shi_yun@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Han Peiling Amelia
+<br><a href="amelia_han@schools.gov.sg" rel="noopener nofollow" target="_blank">amelia_han@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
