@@ -39,8 +39,9 @@ variant: tiptap
 <p>
 <br>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -52,6 +53,9 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="2">
 <p>Form Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
 </th>
 </tr>
 <tr>
@@ -68,6 +72,9 @@ variant: tiptap
 <br><a href="euk_shin_james_ling@schools.gov.sg" rel="noopener nofollow" target="_blank">euk_shin_james_ling@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -83,10 +90,18 @@ variant: tiptap
 <br><a href="ng_xiangqi@schools.gov.sg" rel="noopener nofollow" target="_blank">ng_xiangqi@schools.gov.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Leong Pui Rhu Ashley
+<br><a href="Leong_Pui_Rhu_Ashley@schools.gov.sg" rel="noopener nofollow" target="_blank">Leong_Pui_Rhu_Ashley@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Appreciation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -105,10 +120,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Collaboration</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -127,10 +148,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2 Focus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
