@@ -146,10 +146,14 @@ variant: tiptap
 <p>1 Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Fa'izah Bte Ibrahim
+<br><a href="faizah_ibrahim@schools.gov.sg" rel="noopener nofollow" target="_blank">faizah_ibrahim@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Peng Jing Jing
+<br><a href="peng_jingjing@schools.gov.sg" rel="noopener nofollow" target="_blank">peng_jingjing@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
