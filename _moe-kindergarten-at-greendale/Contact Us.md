@@ -17,8 +17,7 @@ variant: tiptap
 </th>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Yoke Duan
-<br><a href="mailto:koh_yoke_duan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_yoke_duan@schools.gov.sg</a> 
-<br>
+<br><a href="mk_greendale@moe.edu.sg" rel="noopener nofollow" target="_blank">mk_greendale@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -115,9 +114,7 @@ variant: tiptap
 <p>Administrative Executive</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Hasnah Binti Bakar
-<br><a href="mailto:Hasnah_bakar@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Hasnah_bakar@schools.gov.sg</a>
-</p>
+<p>Mdm Hasnah Binti Bakar</p>
 </td>
 </tr>
 </tbody>
