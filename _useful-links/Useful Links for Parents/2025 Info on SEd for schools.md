@@ -5,9 +5,9 @@ description: ""
 third_nav_title: Useful Links for Parents
 variant: tiptap
 ---
-<h2><strong>2025 Info on SEd for schools</strong></h2>
+<h2><strong>2026 Info on SEd for schools</strong></h2>
 <h5><strong>Moe Sexuality Education in Schools</strong></h5>
-<p><a href="/files/SEd/2025_info_on_sed.pdf" rel="noopener nofollow" target="_blank">Click here for more information</a><strong>.</strong>
+<p><a href="/files/SEd/2026_info_on_SEd.pdf" rel="noopener nofollow" target="_blank">Click here for more information</a>
 </p>
 <h4>Information for Parents</h4>
 <hr>
