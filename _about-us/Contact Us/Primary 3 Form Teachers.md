@@ -24,6 +24,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mdm Nazima Banu d/o Mashuthoo
+<br><a href="nazima_banu@schools.gov.sg" rel="noopener nofollow" target="_blank">nazima_banu@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
