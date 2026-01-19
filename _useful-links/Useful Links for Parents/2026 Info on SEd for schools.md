@@ -15,8 +15,8 @@ variant: tiptap
 supplementary sexuality education programmes by MOE-approved external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons&nbsp;need to complete an opt-out form. This form will be communicated&nbsp;to
-parents at the start of the year and is also downloadable <a href="/files/SEd/2025_P5_and_P6_Sexuality_Education_Opt_Out_Form.pdf" rel="noopener nofollow" target="_blank">here</a>.&nbsp;The
-completed opt-out form is to be submitted by 28 February 2025.</p>
+parents at the start of the year and is also downloadable <a href="/files/SEd/2026_p5_and_p6_sexuality_education_opt_out_form.pdf" rel="noopener nofollow" target="_blank">here</a>.&nbsp;The
+completed opt-out form is to be submitted by 27 February 2026.</p>
 <p>Parents can contact the school at 68861413 or&nbsp;<a href="mailto:greendaleps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">greendaleps@moe.edu.sg</a>&nbsp;for
 discussion or to seek clarification about the school’s sexuality education
 programme.</p>
