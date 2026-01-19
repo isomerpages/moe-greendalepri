@@ -23,6 +23,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mr Ahmad Zaki Bin Hassan
+<br><a href="mailto:ahmad_zaki_b_hassan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ahmad_zaki_b_hassan@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
