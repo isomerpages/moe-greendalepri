@@ -22,6 +22,16 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Assistant Year Head</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mrs Kimberly Lee
+<br><a href="kimberly_quek_kwee_chiew@schools.gov.sg" rel="noopener nofollow" target="_blank">kimberly_quek_kwee_chiew@schools.gov.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p>
