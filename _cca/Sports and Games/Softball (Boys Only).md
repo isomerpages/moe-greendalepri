@@ -80,5 +80,4 @@ the Softball National Championships!</p>
 </tr>
 </tbody>
 </table>
-<p>* School Team only</p>
 <p></p>
