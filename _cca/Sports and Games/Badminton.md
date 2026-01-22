@@ -58,7 +58,7 @@ Boys, Junior Girls, Senior Boys and Senior Girls.</p>
 <br>Mdm Chek Davoudou Nissa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays (School Team)
+<p>Mondays (School Team Only)
 <br>
 <br>Wednesdays (All members)</p>
 </td>
