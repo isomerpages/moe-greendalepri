@@ -76,13 +76,12 @@ the choir a fulfilling and enriching experience.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Leong Ya Hui - I/C
-<br>Ms Nurdiana Bte Hashim
-<br>Ms D.Piriyadarisini</p>
+<br>Ms Nurdiana Bte Hashim</p>
 <p>Ms Eileen Chia
 <br>Mdm Nurulbazlin Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays (ALL)
+<p>Mondays (All Members)
 <br>
 </p>
 <p>Wednesdays
