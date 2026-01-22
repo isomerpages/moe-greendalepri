@@ -70,8 +70,8 @@ protecting the environment.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohan Krishnamoorthy - I/C</p>
-<p>Mr Wong Yew Hoong
+<p>Mr Mohan Krishnamoorthy - I/C
+<br>Mr Wong Yew Hoong
 <br>Mdm Syazwani Samsudin
 <br>Mr Ng Chin Chye</p>
 </td>
