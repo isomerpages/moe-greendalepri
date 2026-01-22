@@ -50,8 +50,8 @@ their skills and sportsmanship on a competitive platform.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yang Yiying - I/C</p>
-<p>Mdm Chen Xu Jin
+<p>Ms Yang Yiying - I/C
+<br>Mdm Chen Xu Jin
 <br>Mdm Norafizah
 <br>Mdm Sharmila</p>
 </td>
