@@ -81,11 +81,12 @@ the choir a fulfilling and enriching experience.</p>
 <br>Mdm Nurulbazlin Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays (All Members)
+<p>Mondays
 <br>
 </p>
 <p>Wednesdays
-<br>(P4 -P6)</p>
+<br>
+<br>(All members to attend both sessions)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00 pm - 4.30 pm
