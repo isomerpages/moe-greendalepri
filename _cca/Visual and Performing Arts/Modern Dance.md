@@ -81,11 +81,12 @@ enhancing their own skills and understanding of dance.
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays
-<br>(P4 - P6)
+<br>
 <br>
 </p>
 <p>Wednesdays</p>
-<p>(P4 - P6)</p>
+<p></p>
+<p>(All members to attend both sessions)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm - 4.30pm
