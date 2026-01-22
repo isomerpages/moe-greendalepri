@@ -71,7 +71,6 @@ you in our team! Join us and be part of the <strong>Greendale</strong>  <strong>
 <td rowspan="1" colspan="1">
 <p>3.00pm to 4.30pm
 <br>
-<br>
 </p>
 <p>2.00pm - 4.00pm</p>
 </td>
