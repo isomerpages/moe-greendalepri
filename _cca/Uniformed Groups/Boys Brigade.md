@@ -60,8 +60,8 @@ to their holistic development.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Emmanuel- I/C
-<br>Ms Nur Sabrina Mohd Kamal</p>
-<p>Mdm Ganthi Deepa
+<br>Ms Nur Sabrina Mohd Kamal
+<br>Mdm Ganthi Deepa
 <br>Mr Ng Junhao Gary</p>
 </td>
 <td rowspan="1" colspan="1">
