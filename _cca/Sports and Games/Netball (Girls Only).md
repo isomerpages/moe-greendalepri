@@ -50,8 +50,8 @@ league round which will be held in Term 2. All the best, girls!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jaclyn Chen - I/C</p>
-<p>Ms Cherie Ang
+<p>Ms Jaclyn Chen - I/C
+<br>Ms Cherie Ang
 <br>Ms Delcine Cheok
 <br>
 </p>
