@@ -82,7 +82,7 @@ the choir a fulfilling and enriching experience.</p>
 <br>Mdm Nurulbazlin Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays (ALL)
+<p>Monday (ALL)
 <br>
 </p>
 <p>Wednesday
