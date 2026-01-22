@@ -69,8 +69,8 @@ respect, commitment and collaboration.</p>
 <td rowspan="1" colspan="1">
 <p>Ms Kua En Na I/C</p>
 <p>Mdm Chew Boon Ping Janice</p>
-<p>Mdm Rashidah Bte M Rafei
-<br>Mdm Irene Kwok Kwee Yoon
+<p>Mdm Rashidah Bte M Rafei</p>
+<p>Mdm Irene Kwok Kwee Yoon
 <br>
 </p>
 </td>
