@@ -56,28 +56,31 @@ you in our team! Join us and be part of the <strong>Greendale</strong>  <strong>
 <td rowspan="1" colspan="1">
 <p>Mr Dennis Tan – I/C
 <br>Mr Muhammad Saifulbahry</p>
-<p>Ms Stephanie Teo</p>
+<p>Ms Stephanie Teo
+<br>Ms Tan Joo Yan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays (All members)
+<p>Mondays (School Team Only)</p>
+<p></p>
+<p>Wednesdays (All Members)
 <br>
-<br>Thursdays*
+<br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00pm to 4.00pm
+<p>3.00pm to 4.30pm
 <br>
 <br>
 </p>
-<p>3.00pm - 5.00pm</p>
+<p>2.00pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Indoor Sport Hall (Wed)
+<p>Basketball Court (Mon)
 <br>
-<br>Basketball Court</p>
+<br>Indoor Sport Hall (Wed)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>* School Team only</p>
+<p></p>
