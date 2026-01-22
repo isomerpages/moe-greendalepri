@@ -50,27 +50,28 @@ their skills and sportsmanship on a competitive platform.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheok Ying Xuan Delcine - I/C</p>
+<p>Ms Yang Yiying - I/C</p>
 <p>Mdm Chen Xu Jin
-<br>Ms Yang Yiying</p>
+<br>Mdm Norafizah
+<br>Mdm Sharmila</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays (All members)
+<p>Mondays (School Team Only)
 <br>
-<br>Thursdays*
+<br>Wednesdays (All members)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00pm - 4.00pm
+<p>3.00pm - 4.30pm
 <br>
 </p>
 <p></p>
-<p>3.00pm - 5.00pm</p>
+<p>2.00pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>World Map</p>
+<br>World Map Outside PE store</p>
 </td>
 </tr>
 </tbody>
