@@ -54,7 +54,8 @@ to think ahead, stay focused, and enjoy the game.</p>
 <br>Ms Helen Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays</p>
+<p>Wednesdays
+<br>(All Members)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00 pm − 4.00 pm</p>
