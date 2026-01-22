@@ -82,10 +82,10 @@ the choir a fulfilling and enriching experience.</p>
 <br>Mdm Nurulbazlin Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday (ALL)
+<p>Mondays (ALL)
 <br>
 </p>
-<p>Wednesday
+<p>Wednesdays
 <br>(P4 -P6)</p>
 </td>
 <td rowspan="1" colspan="1">
