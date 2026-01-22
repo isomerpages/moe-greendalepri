@@ -50,29 +50,29 @@ league round which will be held in Term 2. All the best, girls!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Agnes Seah Li Hui - I/C
-<br>Mdm Zubaidah Bte Amid</p>
-<p>Ms Jaclyn Chen
+<p>Ms Jaclyn Chen - I/C</p>
+<p>Ms Cherie Ang
+<br>Ms Delcine Cheok
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays (All members)
+<p>Mondays (School Team Only)
 <br>
-<br>Thursdays*</p>
+<br>Wednesdays</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00pm - 4.00pm</p>
-<p></p>
-<p></p>
 <p>3.00pm - 4.30pm</p>
+<p></p>
+<p></p>
+<p>2.00pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Basketball Court (Wed)
+<p>Indoor Sport Hall (Mon)
 <br>
-<br>Indoor Sport Hall (Fri)</p>
+<br>Basketball Court (Wed)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>* School Team only</p>
+<p></p>
