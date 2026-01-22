@@ -55,30 +55,29 @@ the Softball National Championships!</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Jenn Yang – I/C
-<br>Mdm Ng Chin Hoon</p>
-<p>Ms Amelia Han</p>
+<br>Mdm Ng Chin Hoon
+<br>Ms Amelia Han
+<br>Mr Zul Fahmie Bin Jumairi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays (All members)
+<p>Mondays (School Team Only)
 <br>
-<br>Thursdays*
-<br>
+<br>Wednesdays (All Members)
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm - 4.00 pm
+<p>3.00 pm - 4.30 pm
 <br>
 </p>
 <p></p>
-<p>3.00pm - 5.00pm</p>
+<p>2.00pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>School Field</p>
+<br>School Field / Parade Square</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>* School Team only</p>
 <p></p>

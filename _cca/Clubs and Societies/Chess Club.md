@@ -50,11 +50,12 @@ to think ahead, stay focused, and enjoy the game.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Helen Lim- IC
-<br>Ms Bebe Ong</p>
+<p>Ms Bebe Ong - I/C
+<br>Ms Helen Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday</p>
+<p>Wednesdays
+<br>(All Members)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00 pm − 4.00 pm</p>

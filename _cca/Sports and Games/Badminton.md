@@ -54,25 +54,24 @@ Boys, Junior Girls, Senior Boys and Senior Girls.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Nur Muhammad Kamal - I/C
-<br>Ms Lee Lay Khim Celetio
-<br>Ms Chek Davoudou Nissa</p>
+<br>Mr James Ling
+<br>Mdm Chek Davoudou Nissa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays (All Members)
+<p>Mondays (School Team Only)
 <br>
-<br>Thursdays*</p>
+<br>Wednesdays (All members)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00pm - 4.00pm</p>
+<p>3.00pm - 4.30pm</p>
 <p></p>
-<p>
-<br>3.00pm - 4.30pm</p>
+<p></p>
+<p>2.00pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>Hall</p>
+<p>Hall</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>* School Team only</p>
+<p></p>

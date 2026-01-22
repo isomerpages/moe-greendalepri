@@ -59,28 +59,27 @@ perseverance and cultural heritage.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Neo Aik Ghee– I/C
+<p>Mr Neo Aik Ghee– I/C
 <br>Mdm Chia Mei Shan
 <br>Mdm Khor Hong Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays (All members)
-<br>
-<br>Thursdays*
+<p>Mondays (School Team Only)</p>
+<p></p>
+<p>Wednesdays (All Members)
 <br>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00pm - 4.00pm
+<p>3.00pm to 4.30pm
 <br>
 </p>
-<p></p>
-<p>3.00pm - 5.00pm</p>
+<p>2.00pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>Hall/Stage</p>
+<br>Hall</p>
 </td>
 </tr>
 </tbody>

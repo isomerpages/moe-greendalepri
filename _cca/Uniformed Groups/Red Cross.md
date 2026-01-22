@@ -75,11 +75,11 @@ ready to make a difference in their school and beyond.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Arifah Bte Adnan – I/C
-<br>Mdm Doris Yap</p>
-<p>Mdm Dong Baohong</p>
+<br>Mdm Doris Yap
+<br>Mdm Dong Baohong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays
+<p>Wednesdays (All Members)
 <br>
 </p>
 </td>
@@ -89,7 +89,7 @@ ready to make a difference in their school and beyond.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Classroom 4A, 4B, 4C
+<p>3 Appreciation Classroom
 <br>
 </p>
 </td>

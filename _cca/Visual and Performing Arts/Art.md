@@ -64,7 +64,7 @@ importantly—have fun while making art!</p>
 <p>Ms Rachel Pierre</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday
+<p>Wednesdays
 <br>
 </p>
 </td>
@@ -74,7 +74,7 @@ importantly—have fun while making art!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Room 2</p>
+<p>Art Rooms</p>
 </td>
 </tr>
 </tbody>

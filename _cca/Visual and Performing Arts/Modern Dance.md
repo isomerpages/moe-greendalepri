@@ -74,24 +74,26 @@ enhancing their own skills and understanding of dance.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazima Banu– I/C
-<br>Ms Cherie Ang</p>
-<p>Ms Ng Zi Chun</p>
-<p>Ms Musfirah</p>
+<p>Ms D. Piriyadarisini - I/C
+<br>Mdm Seah Li Hui Agnes (Mrs Yeo)
+<br>Ms Teo Shuh Yi
+<br>Ms Musfirah Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays
+<p>Mondays
+<br>
 <br>
 </p>
-<p>Thursdays</p>
+<p>Wednesdays</p>
 <p></p>
 <p>(All members to attend both sessions)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00pm - 4.00pm
+<p>3.00pm - 4.30pm
 <br>
 </p>
-<p>3.00pm - 5.00pm</p>
+<p></p>
+<p>2.00pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAL Room</p>

@@ -50,7 +50,7 @@ skills to communicate ideas and use them in their school projects.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Nabila Banu - I/C
-<br>Ms Halimatus Saadiah</p>
+<br>Ms Ng Zi Chun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays

@@ -67,17 +67,16 @@ respect, commitment and collaboration.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Kua En Na I/C</p>
-<p>Mdm Chew Boon Ping Janice</p>
-<p>Ms Norafizah Bte R</p>
-<p>Mdm Rashidah Bte M Rafei
+<p>Ms Kua En Na I/C
+<br>Mdm Chew Boon Ping Janice
+<br>Mdm Rashidah Bte M Rafei
+<br>Mdm Irene Kwok Kwee Yoon
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays
-<br>
-</p>
+<br>(All Members)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm - 4.00pm
@@ -85,9 +84,9 @@ respect, commitment and collaboration.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Room 2,
-<br>Teaching Lab
-<br>(New Block Level 4/5)</p>
+<p>Teaching Lab / Maths Room
+<br>
+<br>(New Block)</p>
 </td>
 </tr>
 </tbody>

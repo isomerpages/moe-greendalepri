@@ -71,8 +71,9 @@ protecting the environment.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Mohan Krishnamoorthy - I/C
-<br>Ms Divyalakshmi</p>
-<p>Mr Wong Yew Hoong</p>
+<br>Mr Wong Yew Hoong
+<br>Mdm Syazwani Samsudin
+<br>Mr Ng Chin Chye</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays</p>
@@ -86,9 +87,7 @@ protecting the environment.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Science Labs
-<br>&amp;
-<br>Eco-Garden</p>
+<p>Science Labs</p>
 </td>
 </tr>
 </tbody>

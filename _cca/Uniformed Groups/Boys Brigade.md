@@ -60,8 +60,9 @@ to their holistic development.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Emmanuel- I/C
-<br>Mr Zul Fahmie</p>
-<p>Mr Jourdan Poon</p>
+<br>Ms Nur Sabrina Mohd Kamal
+<br>Mdm Ganthi Deepa
+<br>Mr Ng Junhao Gary</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays</p>
@@ -75,8 +76,8 @@ to their holistic development.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MT3, SB1 &amp; SB2
-<br>(New Block Level 5)</p>
+<p>Computer Lab 2 /
+<br>(New Block Level 5 CCA Room)</p>
 </td>
 </tr>
 </tbody>

@@ -75,24 +75,27 @@ the choir a fulfilling and enriching experience.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurdiana Bte Hashim - I/C
-<br>Ms D.Piriyadarisini</p>
-<p>Ms Leong Ya Hui</p>
+<p>Ms Leong Ya Hui - I/C
+<br>Ms Nurdiana Bte Hashim
+<br>Ms Eileen Chia
+<br>Mdm Nurulbazlin Binte Abu Bakar</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mondays
+<br>
+</p>
 <p>Wednesdays
 <br>
-</p>
-<p>Thursdays</p>
+<br>(All members to attend both sessions)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00 pm - 4.30 pm
+<p>3.00 pm - 4.30 pm
 <br>
 </p>
-<p>3.00 pm - 4.30 pm</p>
+<p>2.00 pm - 4.00 pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Music Rm/ ITR Rm</p>
+<p>Music rooms / Library Instructional Room</p>
 </td>
 </tr>
 </tbody>
