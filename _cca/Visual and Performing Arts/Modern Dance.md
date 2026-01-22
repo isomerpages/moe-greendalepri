@@ -80,18 +80,19 @@ enhancing their own skills and understanding of dance.
 <p>Ms Musfirah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays
+<p>Mondays
+<br>(P4 - P6)
 <br>
 </p>
-<p>Thursdays</p>
-<p></p>
-<p>(All members to attend both sessions)</p>
+<p>Wednesdays</p>
+<p>(P4 - P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.00pm - 4.00pm
+<p>3.00pm - 4.30pm
 <br>
 </p>
-<p>3.00pm - 5.00pm</p>
+<p></p>
+<p>2.00pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAL Room</p>
