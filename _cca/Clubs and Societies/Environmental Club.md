@@ -72,7 +72,8 @@ protecting the environment.</p>
 <td rowspan="1" colspan="1">
 <p>Mr Mohan Krishnamoorthy - I/C</p>
 <p>Mr Wong Yew Hoong
-<br>Mdm Syazwani Samsudin</p>
+<br>Mdm Syazwani Samsudin
+<br>Mr Ng Chin Chye</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesdays</p>
