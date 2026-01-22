@@ -56,7 +56,8 @@ the Softball National Championships!</p>
 <td rowspan="1" colspan="1">
 <p>Mr Lim Jenn Yang – I/C
 <br>Mdm Ng Chin Hoon</p>
-<p>Ms Amelia Han</p>
+<p>Ms Amelia Han
+<br>Mr Zul Fahmie Bin Jumairi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays (School Team Only)
