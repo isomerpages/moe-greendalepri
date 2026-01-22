@@ -59,7 +59,7 @@ league round which will be held in Term 2. All the best, girls!</p>
 <td rowspan="1" colspan="1">
 <p>Mondays (School Team Only)
 <br>
-<br>Wednesdays</p>
+<br>Wednesdays (All Members)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm - 4.30pm</p>
