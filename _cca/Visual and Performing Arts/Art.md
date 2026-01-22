@@ -74,7 +74,7 @@ importantly—have fun while making art!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Art Room 2</p>
+<p>Art Rooms</p>
 </td>
 </tr>
 </tbody>
