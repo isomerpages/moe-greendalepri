@@ -74,7 +74,7 @@ enhancing their own skills and understanding of dance.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms – D. Piriyadarisini - I/C
+<p>Ms D. Piriyadarisini - I/C
 <br>Mdm Seah Li Hui Agnes (Mrs Yeo)</p>
 <p>Ms Teo Shuh Yi</p>
 <p>Ms Musfirah Bte Mohamed</p>
