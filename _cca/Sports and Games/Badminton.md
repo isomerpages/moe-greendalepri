@@ -65,8 +65,8 @@ Boys, Junior Girls, Senior Boys and Senior Girls.</p>
 <td rowspan="1" colspan="1">
 <p>3.00pm - 4.30pm</p>
 <p></p>
-<p>
-<br>2.00pm - 4.00pm</p>
+<p></p>
+<p>2.00pm - 4.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall</p>
