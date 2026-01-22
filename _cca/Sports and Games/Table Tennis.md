@@ -76,5 +76,4 @@ their skills and sportsmanship on a competitive platform.</p>
 </tr>
 </tbody>
 </table>
-<p>* School Team only</p>
 <p></p>
