@@ -74,10 +74,10 @@ enhancing their own skills and understanding of dance.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazima Banu– I/C
-<br>Ms Cherie Ang</p>
-<p>Ms Ng Zi Chun</p>
-<p>Ms Musfirah</p>
+<p>Ms – d. Piriyadarisini - I/C
+<br>Mdm Seah Li Hui Agnes (Mrs Yeo)</p>
+<p>Ms Teo Shuh Yi</p>
+<p>Ms Musfirah Bte Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays
