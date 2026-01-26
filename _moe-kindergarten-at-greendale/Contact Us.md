@@ -55,6 +55,38 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Lau Bee Siew (Jolene)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jeremiah Jayaraj</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Sofihah Binte Mohammad Sha'har</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sajida Sharifa</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chinese Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,10 +111,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Chinese Language Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yan Xinhang (Megan)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Malay Language Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Izzah Firzanah Mohd Nasir</p>
+<p>Ms Izzah Firzanah Binte Mohd Nasir</p>
 </td>
 </tr>
 <tr>
