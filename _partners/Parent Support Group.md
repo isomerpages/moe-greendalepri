@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_Logo.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_Logo.png">
 </div>
 <p><strong>Welcome to the Greendale PSG!</strong>
 </p>
@@ -19,7 +19,7 @@ purpose.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_1.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_1.jpg">
 </div>
 <p><strong>Vision:</strong>
 <br>Partners in Learning, Pillars in Growth
@@ -28,7 +28,7 @@ purpose.</p>
 <p><strong><u>PSG EXCO LEADERS 2026</u></strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_2.jpg">
 </div>
 <p></p>
 <table style="minWidth: 50px">
@@ -84,14 +84,14 @@ purpose.</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG Meet &amp; Greet 2025 (Meeting of school team leaders and PSG Members)" src="/images/Partners/PSG 2026/PSG_3.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="PSG Meet &amp; Greet 2025 (Meeting of school team leaders and PSG Members)" src="/images/Partners/PSG 2026/PSG_3.jpg">
 </div>
 <p><strong>PSG Meet &amp; Greet 2025</strong>
 <br><strong>(Meeting of school team leaders and PSG Members)</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PSG Meet &amp; Greet 2026 (Meeting of school team leaders and PSG Members)" src="/images/Partners/PSG 2026/PSG_4.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="PSG Meet &amp; Greet 2026 (Meeting of school team leaders and PSG Members)" src="/images/Partners/PSG 2026/PSG_4.jpg">
 </div>
 <p><strong>PSG Meet &amp; Greet 2025</strong>
 <br><strong>(Meeting of school team leaders and PSG Members)</strong>
@@ -110,14 +110,14 @@ purpose.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_11.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_11.png">
 </div>
 <p>PSG members contribute in various ways, including volunteering at school
 activities, supporting parent engagement efforts, assisting with community
 initiatives, and strengthening communication between parents and the school.</p>
 <h4><strong>How to Join Us?</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_12.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_12.jpg">
 </div>
 <p><strong>PSG on Open House 2025</strong>
 <br>
