@@ -25,8 +25,8 @@ purpose.</p>
 <br>Partners in Learning, Pillars in Growth
 <br><strong><br>Mission:</strong>
 <br>To partner the school in nurturing confident, self-directed learners.</p>
-<h4><strong><u>PSG EXCO LEADERS 2026</u></strong></h4>
-<p></p>
+<p><strong><u>PSG EXCO LEADERS 2026</u></strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_2.jpg">
 </div>
