@@ -96,8 +96,7 @@ purpose.</p>
 <p><strong>PSG Meet &amp; Greet 2025</strong>
 <br><strong>(Meeting of school team leaders and PSG Members)</strong>
 </p>
-<p><strong>What we do?</strong>
-</p>
+<h4><strong>What we do?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Partner the school to support students’ learning and well-being.</p>
@@ -113,4 +112,29 @@ purpose.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_11.png">
 </div>
-<p></p>
+<p>PSG members contribute in various ways, including volunteering at school
+activities, supporting parent engagement efforts, assisting with community
+initiatives, and strengthening communication between parents and the school.</p>
+<h4><strong>How to Join Us?</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_12.jpg">
+</div>
+<p><strong>PSG on Open House 2025</strong>
+<br>
+</p>
+<p>All Greendale parents are welcome to be part of the PSG. Whether you are
+able to contribute regularly or occasionally, your support makes a difference.</p>
+<p><strong>Contact Us today to be a part of PSG:</strong>
+<br>Email: <a href="greendalepsg@gmail.com" rel="noopener nofollow" target="_blank">greendalepsg@gmail.com</a>
+</p>
+<p><strong>Upcoming events in 2026:</strong>
+<br>Dads for Life
+<br>Open House
+<br>National Day
+<br>Teacher’s Day
+<br>Children’s Day
+<br>Open House</p>
+<p><strong>Follow us of Social Media :</strong>
+<br>Facebook Group: <a href="https://www.facebook.com/GreendalePSG" rel="noopener nofollow" target="_blank">https://www.facebook.com/GreendalePSG</a>
+<br>Instagram handle: <a href="https://www.instagram.com/greendalepsg/" rel="noopener nofollow" target="_blank">https://www.instagram.com/greendalepsg/</a>
+</p>
