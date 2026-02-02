@@ -15,9 +15,9 @@ inclusive community of parents working in partnership with the school to
 support our children’s learning, well-being and school life. Together,
 we strengthen the home–school partnership with care, collaboration and
 purpose.</p>
+<p></p>
 <p><strong>Our Vision &amp; Mission</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_1.jpg">
 </div>
@@ -96,13 +96,13 @@ purpose.</p>
 <p><strong>PSG Meet &amp; Greet 2025</strong>
 <br><strong>(Meeting of school team leaders and PSG Members)</strong>
 </p>
-<h4><strong>What we do?</strong></h4>
+<h4><strong>What do we do?</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Partner the school to support students’ learning and well-being.</p>
+<p>Partner the school to support students’ learning and well-being</p>
 </li>
 <li>
-<p>Mobilise parent volunteers to run school programmes and events smoothly.</p>
+<p>Mobilise parent volunteers to run school programmes and events smoothly</p>
 </li>
 <li>
 <p>Strengthen home-school communication and build a positive PSG community</p>
@@ -112,9 +112,10 @@ purpose.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_11.png">
 </div>
-<p>PSG members contribute in various ways, including volunteering at school
-activities, supporting parent engagement efforts, assisting with community
-initiatives, and strengthening communication between parents and the school.</p>
+<p>Our PSG members are a big part of the Greendale Family and they join us
+in various ways, including volunteering at school activities, supporting
+parent engagement efforts, assisting with community initiatives, and strengthening
+communication between parents and the school.</p>
 <h4><strong>How to Join Us?</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Partners/PSG 2026/PSG_12.jpg">
