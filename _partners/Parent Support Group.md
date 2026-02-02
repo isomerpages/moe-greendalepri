@@ -134,7 +134,7 @@ and contributions, no matter big or small, make a difference!</p>
 <p>National Day celebration (7 Aug)</p>
 <p>Teacher’s Day Appreciation (4 Sep)</p>
 <p>Children’s Day (2 Oct)</p>
-<p><strong>Follow us of Social Media :</strong>
+<p><strong>Follow us on Social Media :</strong>
 <br>Facebook Group: <a href="https://www.facebook.com/GreendalePSG" rel="noopener nofollow" target="_blank">https://www.facebook.com/GreendalePSG</a>
 <br>Instagram handle: <a href="https://www.instagram.com/greendalepsg/" rel="noopener nofollow" target="_blank">https://www.instagram.com/greendalepsg/</a>
 </p>
