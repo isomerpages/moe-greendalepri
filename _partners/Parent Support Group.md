@@ -123,8 +123,8 @@ communication between parents and the school.</p>
 <p><strong>PSG on Open House 2025</strong>
 <br>
 </p>
-<p>All Greendale parents are welcome to be part of the PSG. Whether you are
-able to contribute regularly or occasionally, your support makes a difference.</p>
+<p>All Greendale parents are welcomed to be part of the PSG. Your support
+and contributions, no matter big or small, make a difference!</p>
 <p><strong>Contact Us today to be a part of PSG:</strong>
 <br>Email: <a href="greendalepsg@gmail.com" rel="noopener nofollow" target="_blank">greendalepsg@gmail.com</a>
 </p>
