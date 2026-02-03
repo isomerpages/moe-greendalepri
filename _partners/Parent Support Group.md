@@ -129,11 +129,11 @@ and contributions, no matter big or small, make a difference!</p>
 <br>Email: <a href="greendalepsg@gmail.com" rel="noopener nofollow" target="_blank">greendalepsg@gmail.com</a>
 </p>
 <p><strong>Upcoming events in 2026:</strong>
-<br>Dads for Life (10-11 Apr)</p>
-<p>Open House (4 Jul)</p>
-<p>National Day celebration (7 Aug)</p>
-<p>Teacher’s Day Appreciation (4 Sep)</p>
-<p>Children’s Day (2 Oct)</p>
+<br>Dads for Life (10-11 Apr)
+<br>Open House (4 Jul)
+<br>National Day celebration (7 Aug)
+<br>Teacher’s Day Appreciation (4 Sep)
+<br>Children’s Day (2 Oct)</p>
 <p><strong>Follow us on Social Media :</strong>
 <br>Facebook Group: <a href="https://www.facebook.com/GreendalePSG" rel="noopener nofollow" target="_blank">https://www.facebook.com/GreendalePSG</a>
 <br>Instagram handle: <a href="https://www.instagram.com/greendalepsg/" rel="noopener nofollow" target="_blank">https://www.instagram.com/greendalepsg/</a>
