@@ -18,7 +18,7 @@ income eligibility criteria.
 <br><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
 </p>
 <p>Useful links:
-<br>- Transport e-Voucher redemption process (<a href="/files/P1 Orientation 2025/eVoucher_Redemption_Process_2016.pdf" rel="noopener nofollow" target="_blank">click here to download</a>)
+<br>- Transport e-Voucher redemption process (<a href="/files/P1 Orientation 2025/eVoucher_Redemption_Process_updated_3_Feb_26.pdf" rel="noopener nofollow" target="_blank">click here to download</a>)
 <br>- <a href="https://www.simplygo.com.sg/simplygo-ticket-offices/" rel="noopener nofollow" target="_blank">List of Transit Link ticket offices</a>
 <br>- <a href="https://simplygo.com.sg/locations/ticketing-service-kiosks#tab-TopUpKiosks" rel="noopener nofollow" target="_blank">List of Add Value Machine Plus (AVM+)</a>
 </p>
