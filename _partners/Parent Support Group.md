@@ -93,7 +93,7 @@ purpose.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="PSG Meet &amp; Greet 2026 (Meeting of school team leaders and PSG Members)" src="/images/Partners/PSG 2026/PSG_4.jpg">
 </div>
-<p><strong>PSG Meet &amp; Greet 2025</strong>
+<p><strong>PSG Meet &amp; Greet 2026</strong>
 <br><strong>(Meeting of school team leaders and PSG Members)</strong>
 </p>
 <h4><strong>What do we do?</strong></h4>
