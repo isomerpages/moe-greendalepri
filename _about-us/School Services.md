@@ -63,13 +63,10 @@ hp: 80319788.</p>
 <label for="accordion2">Dental Service</label><div>
 <p><u>Typical Opening Hours:</u> 
 <br>
-<br>Monday to Wednesday :&nbsp;<strong>8.00am to 5.30pm</strong> 
-<br>Thursday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; : <strong>8.00am to 12.30pm</strong> 
-<br>Friday&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;<strong>8.00am to 12.00pm</strong> 
-<br>Lunch&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp;:&nbsp;<strong>1.00pm to 2.00pm</strong> 
+<br>Opening Hours :&nbsp;<strong>8.00 a.m. to 5.00 p.m.</strong> 
+<br>Lunch Break:&nbsp;<strong>1.00 p.m. to 2.00 p.m.</strong> 
+<br>Telephone:&nbsp;<strong>8522 8424</strong> <br>
+<br><strong>Students are advised to call and make an appointment prior to visiting, as the clinic is not open daily.</strong>
 <br>
 </p>
 <p><a href="/files/Dental Schedule/dental schedule feb 2026new.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
