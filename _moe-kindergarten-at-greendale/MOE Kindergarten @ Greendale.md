@@ -26,11 +26,13 @@ Language and Tamil Language.</p>
 <h3><strong>Useful information</strong></h3>
 <h5><strong>MOE Kindergarten @ Greendale Contact Information</strong></h5>
 <p>Operation Hours:</p>
-<p>MK: 8am - 12pm, Tel: 62445001</p>
-<p>KCare: 12pm - 7pm (Term Time), 7am - 7pm (School Holiday), Tel: 97320866</p>
-<p></p>
-<p>Email:&nbsp;<a href="mailto:mk_greendale@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_greendale@moe.edu.sg</a>
+<p>MK: 8am - 12pm
+<br>Tel: 62445001
+<br>Email:&nbsp;<a href="mailto:mk_greendale@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_greendale@moe.edu.sg</a>
 </p>
+<p></p>
+<p>KCare: 12pm - 7pm (Term Time), 7am - 7pm (School Holiday)
+<br>Tel: 97320866</p>
 <h5><strong>MOE Kindergarten Uniform Supplier</strong></h5>
 <p>Jeep Sing Uniform and Beau Voix are the suppliers for the MOE Kindergarten
 uniforms. To purchase the MOE Kindergarten uniforms, please visit the websites&nbsp;
