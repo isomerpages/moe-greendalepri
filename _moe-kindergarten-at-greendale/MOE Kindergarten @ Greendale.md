@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2><strong>MOE Kindergarten @ Greendale</strong></h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Q6AiwIxDnII?si=5OM36iNAKOHybQIR"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Q6AiwIxDnII?si=5OM36iNAKOHybQIR"></iframe>
 </div>
 <p>Every space in MK@Greendale is a learning space - creative use of available
 space encourages our children to discover and explore their surroundings.
@@ -19,19 +19,16 @@ active play.</p>
 </p>
 <p>For more information on our curriculum:&nbsp;<a href="https://www.moe.gov.sg/preschool/moe-kindergarten" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/preschool/moe-kindergarten</a>
 </p>
-<p>We offer 4-hour Kindergarten 1 and Kindergarten 2 programmes with the
-following options:</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/About%20Us/MK%20Programme.jpg">
-</div>
 <p>In addition, we offer 3 mother-tongue languages; Chinese Language, Malay
 Language and Tamil Language.</p>
 <p><strong>Our MK Online Registration Exercise for 2024 is currently open.</strong>
 </p>
 <h3><strong>Useful information</strong></h3>
 <h5><strong>MOE Kindergarten @ Greendale Contact Information</strong></h5>
-<p>Operation Hours: 8am - 5pm</p>
-<p>Tel: 62445001</p>
+<p>Operation Hours:</p>
+<p>MK: 8am - 12pm, Tel: 62445001</p>
+<p>KCare: 12pm - 7pm (Term Time), 7am - 7pm (School Holiday), Tel: 97320866</p>
+<p></p>
 <p>Email:&nbsp;<a href="mailto:mk_greendale@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_greendale@moe.edu.sg</a>
 </p>
 <h5><strong>MOE Kindergarten Uniform Supplier</strong></h5>
