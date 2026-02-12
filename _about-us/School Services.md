@@ -60,15 +60,13 @@ hp: 80319788.</p>
 </div></li>
 	
 <li><input type="checkbox" id="accordion2">
-<label for="accordion2">Dental Service</label><div>
-<p><u>Typical Opening Hours:</u> 
-<br>
+<label for="accordion2">Dental Service @ Greendale Primary School</label><div>
 <br>Opening Hours :&nbsp;<strong>8.00 a.m. to 5.00 p.m.</strong> 
 <br>Lunch Break:&nbsp;<strong>1.00 p.m. to 2.00 p.m.</strong> 
 <br>Telephone:&nbsp;<strong>8522 8424</strong> <br>
 <br><strong>Students are advised to call and make an appointment prior to visiting, as the clinic is not open daily.</strong>
 <br>
-</p>
+<p></p>
 <p><a href="/files/Dental Schedule/dental schedule feb 2026new.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
 </p>
 </div></li>
