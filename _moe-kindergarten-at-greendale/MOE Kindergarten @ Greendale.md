@@ -21,8 +21,6 @@ active play.</p>
 </p>
 <p>In addition, we offer 3 mother-tongue languages; Chinese Language, Malay
 Language and Tamil Language.</p>
-<p><strong>Our MK Online Registration Exercise for 2024 is currently open.</strong>
-</p>
 <h3><strong>Useful information</strong></h3>
 <h5><strong>MOE Kindergarten @ Greendale Contact Information</strong></h5>
 <p>Operation Hours:</p>
