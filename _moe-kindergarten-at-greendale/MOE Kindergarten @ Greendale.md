@@ -30,7 +30,6 @@ Language and Tamil Language.</p>
 <br>Tel: 62445001
 <br>Email:&nbsp;<a href="mailto:mk_greendale@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_greendale@moe.edu.sg</a>
 </p>
-<p></p>
 <p>KCare: 12pm - 7pm (Term Time), 7am - 7pm (School Holiday)
 <br>Tel: 97320866</p>
 <h5><strong>MOE Kindergarten Uniform Supplier</strong></h5>
