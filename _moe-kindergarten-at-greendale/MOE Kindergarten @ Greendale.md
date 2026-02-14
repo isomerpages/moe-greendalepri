@@ -21,8 +21,6 @@ active play.</p>
 </p>
 <p>In addition, we offer 3 mother-tongue languages; Chinese Language, Malay
 Language and Tamil Language.</p>
-<p><strong>Our MK Online Registration Exercise for 2024 is currently open.</strong>
-</p>
 <h3><strong>Useful information</strong></h3>
 <h5><strong>MOE Kindergarten @ Greendale Contact Information</strong></h5>
 <p>Operation Hours:</p>
@@ -30,7 +28,6 @@ Language and Tamil Language.</p>
 <br>Tel: 62445001
 <br>Email:&nbsp;<a href="mailto:mk_greendale@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mk_greendale@moe.edu.sg</a>
 </p>
-<p></p>
 <p>KCare: 12pm - 7pm (Term Time), 7am - 7pm (School Holiday)
 <br>Tel: 97320866</p>
 <h5><strong>MOE Kindergarten Uniform Supplier</strong></h5>
