@@ -4,8 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Greendale Primary School’s Online Art Exhibition 2025. Check under
-  'Announcements' for more details.
+notification: ""
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
@@ -19,6 +18,7 @@ sections:
         - title: MK@Greendale Instagram
           description: Our Kindergarten Instagram
           url: https://www.instagram.com/moekindergarten_greendale/
+      variant: center
   - infobar:
       title: Latest School Brochure
       button: View Brochure
