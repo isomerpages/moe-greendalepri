@@ -79,6 +79,55 @@ future-ready learners.</p>
 <p>13 March 2026</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Arif Budiman Malay Language Teacher Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Malay Language teachers who nurture interest in language, literature and
+culture through engaging lessons and effective use of EdTech. They show
+genuine care for students, develop 21st Century Competencies, and model
+Arif Budiman values through exemplary service.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Submit your nomination online via the link or QR Code.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/Teacher awards 2026/Malay_Teacher_QR_code.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
