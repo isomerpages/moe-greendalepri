@@ -123,4 +123,5 @@ parents and colleagues.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Note: Flexi Adjunct Teachers, Untrained Contract Teachers, NIE Trainees
+and SREs (relief teachers) are not eligible for nomination.</p>
