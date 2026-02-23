@@ -48,7 +48,6 @@ improve their practice to create engaging, effective lessons.</p>
 <p>Download the <a href="/files/Announcements/Teacher Award Nomination 2026/ITEA_Nomination_Form_2026.pdf" rel="noopener nofollow" target="_blank">ITEA nomination form 2026</a> and
 complete it. Submit the softcopy via the link or QR code.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/Teacher awards 2026/ITEA_QR_code.png">
 </div>
@@ -61,13 +60,20 @@ complete it. Submit the softcopy via the link or QR code.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Most Inspiring Tamil Teachers’ Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tamil Language teachers who inspire students through innovative, engaging
+lessons using educational technology. They care deeply for students’ well-being,
+build strong relationships, and develop 21st Century Competencies for confident,
+future-ready learners.</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Submit your nomination online via the link or QR Code.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/Teacher awards 2026/Tamil_Teacher_QR_code.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
