@@ -90,7 +90,7 @@ genuine care for students, develop 21st Century Competencies, and model
 Arif Budiman values through exemplary service.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Submit your nomination online via the link or QR Code.</p>
+<p>Submit your nomination online via the <a href="https://form.gov.sg/697185dd28bcc2bc1247e1b5" rel="noopener nofollow" target="_blank">link</a> or QR Code.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/Teacher awards 2026/Malay_Teacher_QR_code.png">
