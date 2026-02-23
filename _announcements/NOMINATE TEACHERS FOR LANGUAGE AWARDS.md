@@ -12,4 +12,60 @@ demonstrate passion, excellence and impact in language teaching and learning.</p
 in English, Tamil, Malay or Chinese Language education, and submit your
 nominations accordingly.</p>
 <p>Thank you for helping us celebrate the good work of our language teachers.</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Quality of Teacher</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>How to nominate</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Deadline</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inspiring Teacher of English Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Language teachers who model strong spoken and written English,
+use learner-centred approaches, and make thoughtful teaching choices. They
+select suitable strategies and EdTech based on students’ needs, and continually
+improve their practice to create engaging, effective lessons.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Download the ITEA nomination form 2026 and complete it. Submit the softcopy
+via the link or QR code.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
