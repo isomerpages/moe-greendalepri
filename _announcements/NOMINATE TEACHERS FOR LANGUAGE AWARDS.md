@@ -46,7 +46,7 @@ improve their practice to create engaging, effective lessons.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Download the <a href="/files/Announcements/Teacher Award Nomination 2026/ITEA_Nomination_Form_2026.pdf" rel="noopener nofollow" target="_blank">ITEA nomination form 2026</a> and
-complete it. Submit the softcopy via the link or QR code.</p>
+complete it. Submit the softcopy via the <a href="https://form.gov.sg/697fdc0343b6809acae4e985" rel="noopener nofollow" target="_blank">link</a> or QR code.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annoucements/Teacher awards 2026/ITEA_QR_code.png">
