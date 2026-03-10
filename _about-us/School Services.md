@@ -67,7 +67,7 @@ hp: 80319788.</p>
 <br><strong>Students are advised to call and make an appointment prior to visiting, as the clinic is not open daily.</strong>
 <br>
 <p></p>
-<p><a href="/files/Dental Schedule/dental schedule feb 2026new.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
+<p><a href="/files/Dental Schedule/dental schedule mar 2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here to refer to the schedule for more details.</a>
 </p>
 </div></li>
 
