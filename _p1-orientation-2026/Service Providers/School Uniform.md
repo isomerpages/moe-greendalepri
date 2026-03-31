@@ -13,8 +13,6 @@ third_nav_title: Service Providers
 <p><strong>Retail outlet contact no:</strong> 62766689</p>
 <p>Website: <a href="http://myuniformshop.com.sg/" rel="noopener nofollow" target="_blank">http://myuniformshop.com.sg/</a>
 </p>
-<p><a href="/files/P1 Orientation 2025/2025/Myuniformshop.pdf" rel="noopener nofollow" target="_blank">Click here to refer to Prices and Size Chart.</a>
-</p>
 <p>Parents may opt for home-delivery or select from available timeslots for
 purchase and collection of uniform in school from the uniform website.
 <a href="https://www.myuniformshop.com.sg/book-now" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/book-now</a>
