@@ -88,14 +88,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Saifulbahry (Mr Saiful)
-<br><a href="muhammad_saifulbahry_abdul_raman@schools.gov.sg" rel="noopener nofollow" target="_blank">muhammad_saifulbahry_abdul_raman@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Mdm How Ai Leng Irene
 <br><a href="How_Ai_Leng_Irene_C@schools.gov.sg" rel="noopener nofollow" target="_blank">How_Ai_Leng_Irene_C@schools.gov.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -113,9 +111,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Shu Hui Celina
-<br><a href="Koh_Shu_Hui_Celina@schools.gov.sg" rel="noopener nofollow" target="_blank">Koh_Shu_Hui_Celina@schools.gov.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
