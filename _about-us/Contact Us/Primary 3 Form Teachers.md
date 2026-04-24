@@ -73,7 +73,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ganthi Deepa
+<p>Mrs Ganthi Deepa
 <br><a href="mailto:ganthi_deepa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganthi_deepa@schools.gov.sg</a>
 </p>
 </td>
