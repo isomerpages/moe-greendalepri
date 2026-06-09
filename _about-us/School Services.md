@@ -120,13 +120,14 @@ Please note that there will be no parking available within the school compound. 
 <br><strong>Operating hours</strong>
 <br> Please refer to their website for operating hours. <a href="http://myuniformshop.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://myuniformshop.com.sg</a>
 <br>
+<p><a href="/files/School%20Services/uniform%20price%20list%202026.pdf" rel="noopener noreferrer nofollow" target="_blank">Please click here for the price list<br></a> 
 <br>During Term 1, please call the retail outlet to confirm uniform sizes availability before making your trip down for purchase or exchange. 
 <br>
 <br>From Term 2 onwards till the last day of school in Term 4, the uniforms are available for purchase in school from the school bookshop. 
 <br>
 <br><b>End-of-Year Sales for Uniform</b>
 <br>Parents may opt for home-delivery or select from available timeslots for purchase and collection of uniform in school from the uniform website. <a href="https://www.myuniformshop.com.sg/book-now" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg/book-now</a>
-<p></p>
+</p><p></p>
 <p>Please note that there will be no parking available within the school compound. You may wish to park at the HDB carpark next to the school. </p>
 
 </div></li>
