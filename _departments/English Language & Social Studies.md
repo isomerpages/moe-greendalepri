@@ -83,4 +83,8 @@ clearly, listen actively and respect diverse perspectives.</p>
 </p>
 <p>Students experience how voice, expression and movement bring stories to
 life, strengthening their speaking and listening skills through performance.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students watching a live theatrical performance" src="/images/Departments/English_6.png">
+</div>
+<p><em>Students watching a live theatrical performance</em>
+</p>
