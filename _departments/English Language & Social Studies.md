@@ -49,4 +49,8 @@ books.
 of titles to sustain interest and cater to diverse reading levels.
 <br>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students can select from an assortment of books from their class library" src="/images/Departments/English_3.png">
+</div>
+<p><em>Students can select from an assortment of books from their class library</em>
+</p>
