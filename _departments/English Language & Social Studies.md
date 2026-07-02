@@ -30,6 +30,7 @@ purposefully for different audiences.</p>
 </div>
 <p><em>Students engaged in collaborative reading and writing activities during STELLAR lessons</em>
 </p>
+<hr>
 <h4><strong>Igniting a Love for Reading</strong></h4>
 <p>We cultivate a vibrant reading culture that inspires students to explore,
 imagine and think deeply.</p>
@@ -54,3 +55,26 @@ of titles to sustain interest and cater to diverse reading levels.
 </div>
 <p><em>Students can select from an assortment of books from their class library</em>
 </p>
+<p><strong>c) Library Programmes</strong>
+</p>
+<p>Through reading books, newspapers and magazines, students discuss current
+events and make meaningful connections to the world around them.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students engaged in reading and discussion during library sessions" src="/images/Departments/English_4.png">
+</div>
+<p><em>Students engaged in reading and discussion during library sessions</em>
+</p>
+<hr>
+<h4><strong>Building Confident Speakers</strong></h4>
+<p>We create purposeful opportunities for students to express themselves
+clearly and confidently.</p>
+<p><strong>a) Pick-and-Tell</strong>
+</p>
+<p>Students develop confidence through structured sharing, learning to speak
+clearly, listen actively and respect diverse perspectives.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="A student confidently presenting during Pick-and-Tell" src="/images/Departments/English_5.png">
+</div>
+<p></p>
