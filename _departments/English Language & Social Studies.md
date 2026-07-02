@@ -79,3 +79,8 @@ clearly, listen actively and respect diverse perspectives.</p>
 </div>
 <p><em>A student confidently presenting during Pick-and-Tell</em>
 </p>
+<p><strong>b) Readers’ Theatre &amp; Live Performances</strong>
+</p>
+<p>Students experience how voice, expression and movement bring stories to
+life, strengthening their speaking and listening skills through performance.</p>
+<p></p>
