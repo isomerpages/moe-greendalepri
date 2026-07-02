@@ -77,4 +77,5 @@ clearly, listen actively and respect diverse perspectives.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="A student confidently presenting during Pick-and-Tell" src="/images/Departments/English_5.png">
 </div>
-<p></p>
+<p><em>A student confidently presenting during Pick-and-Tell</em>
+</p>
