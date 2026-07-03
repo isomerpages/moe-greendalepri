@@ -88,3 +88,32 @@ life, strengthening their speaking and listening skills through performance.</p>
 </div>
 <p><em>Students watching a live theatrical performance</em>
 </p>
+<p><strong>c) Authentic Public Speaking Experiences</strong>
+</p>
+<p>Students design and create their own ice-cream before crafting and delivering
+persuasive speeches—an engaging, real-world task that builds confidence,
+creativity and communication skills.</p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students preparing their ice cream from scratch" src="/images/Departments/English_7.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Students preparing their ice cream from scratch</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students presenting persuasive speeches based on their ice-cream creations" src="/images/Departments/English_8.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Students presenting persuasive speeches based on their ice-cream creations</div>
+</div>
+</div>
+</div>
+<p></p>
