@@ -78,4 +78,28 @@ critically and adapt creatively. They live responsibly by making thoughtful
 choices and working together to care for the environment and the people
 around them. They lead with empathy and initiative, inspiring positive
 change and contributing meaningfully to the school and community.</p>
+<h4><strong>Programmes Across the School</strong></h4>
+<p>Environmental Education at Greendale comes to life through a rich range
+of school programmes. Students participate in initiatives such as the Plate2Planet
+food waste project, Recycling Right, Tetra Pak and textile recycling, worm
+composting, hydroponics, and rice planting. School-wide campaigns, including
+World Water Week, Earth Week, and the Clean Plate Campaign, reinforce sustainable
+habits in daily school life.</p>
+<p>Our Environmental Club members take on hands-on roles in maintaining and
+creating green spaces, while our Environmental Ambassadors lead outreach
+efforts and share key sustainability messages with the wider school community.</p>
+<h4><strong>Growing Leaders for a Sustainable Future</strong></h4>
+<p>Students are encouraged to take initiative and advocate for positive environmental
+change within the school and the wider community. They develop an understanding
+of how individual and collective actions can shape a more resilient and
+sustainable Singapore, while growing in confidence, teamwork, and social
+awareness.</p>
+<p>Through partnerships with organisations such as WWF Singapore, NEA, and
+community gardens, our programmes are aligned to MOE’s Eco Stewardship
+Programme and Singapore’s Green Plan 2030. These experiences prepare students
+to play their part in building a greener and more sustainable future.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Teacher and students examining plants together in a school garden learning space." src="/images/Departments/Science_4.png">
+</div>
 <p></p>
