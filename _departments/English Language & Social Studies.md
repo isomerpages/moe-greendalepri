@@ -136,3 +136,34 @@ life cycle of a butterfly—provide rich contexts for descriptive writing.</p>
 </div>
 <p><em>Students observing and documenting the butterfly life cycle</em>
 </p>
+<p>At the upper primary levels, students engage in the full writing process,
+from planning to drafting and revising. Through feedback and collaboration,
+they become more independent and reflective writers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students collaborating and reviewing one another’s written work" src="/images/Departments/English_10.png">
+</div>
+<p><em>Students collaborating and reviewing one another’s written work</em>
+</p>
+<hr>
+<h4><strong>Social Studies</strong></h4>
+<p>Social Studies plays a vital role in shaping informed and responsible
+citizens.</p>
+<p>Through inquiry-based learning and discussions on real-world issues, students
+explore topics relevant to their lives and communities. They learn to consider
+multiple perspectives, think critically and make thoughtful decisions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students sharing their group project on the legacies of ancient civilisations" src="/images/Departments/English_11.png">
+</div>
+<p><em>Students sharing their group project on the legacies of ancient civilisations and their relevance today</em>
+</p>
+<p>Students also develop an appreciation of Singapore’s values while understanding
+global connections, fostering empathy and a strong sense of responsibility
+towards society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students learning about different cultural activities during their Social Studies learning journey" src="/images/Departments/English_12.png">
+</div>
+<p><em>Students learning about different cultural activities during their Social Studies learning journey</em>
+</p>
+<hr>
+<p></p>
