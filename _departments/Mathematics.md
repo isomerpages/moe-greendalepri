@@ -2,73 +2,47 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: tiptap
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
-## **Mathematics**
-
-![](/images/Departments/Math%20Dept.jpg)
-
-
-The department aims to develop students’ numeracy, reasoning, thinking skills and problem-solving skills so that they can achieve a level of mastery of mathematics that will serve them well in their lives.
-
-  
-
-**Pedagogical Approaches**
-
-As the learning of mathematics focuses on understanding, not just recall of facts or reproduction of procedures. Understanding is necessary for deep learning and mastery. Hence, GDPS adopted the C-P-A (Concrete-Pictorial- Approach) for the teaching of mathematics.
-
-  
-
-**Key Programmes**
-
-  
-
-**a) Learning Activities in Lessons\***  
-  
-
-The department believes that mathematics concepts are best learnt through a variety of learning experiences and putting them into meaningful real-life context. Manipulatives, ICT tools or real-life situations are used to explore and uncover abstract mathematical concepts, construct meanings and understandings.
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2z2OFVj-NwhgAAIAUYN8EkxtReHnXgsaNwL-5GbtVR10L5S9s-A2pXQZj5X_rU7QGBiC4DkV4zYY5/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
-
-**b)**&nbsp;**Maths In Everyday life**
-
-  
-
-To ignite the joy of learning mathematics in GDPS, various activities happen at different times of the year.  
-
-  
-
-*   **Fun Fridays**
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTC9po37O9dozOv8WA8WmcYTq9M-B04ElVv3-nB8gFl-p5MZyw_4Dn6R7ahn8kBMnpoLRSHdNMhDNDb/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
-To encourage our pupils to learn through play, we have introduced various games to them during recess&nbsp; on Fridays. This initiative started in 2019 and was popular among numerous Greendalites. The&nbsp; games were carefully selected to cater to pupils&nbsp; of different age groups. Pupils enjoyed the challenges and the chance to spar with their&nbsp; friends and teachers. The Fun Friday program has also helped to expose pupils to various mathematical concepts and engage them with higher order thinking. Games include Uno, International Chess, Reversi, Halli Gali, Rubiks Cube and Brain Teasers only to name a few, which will be rotated on a termly basis.
-
-  
-
-*   **Maximus Mind**
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRMQdT0Sjq7791q6ndcoh5MNm_MNDO6B0iSzPYYOG6J1rh9J3c3ON8Z7nrswJs55omj6vJ4xJcyAhys/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
-
-
-Maximus Mind is a Maths quiz catered to pupils in different levels at different times of the year. It aims to sharpen our pupils’ thinking process and to make connections to what they have learnt in mathematics curriculum through non-routine Maths questions. This learning opportunity helps to build their thinking skills which in turn improves their attitudes, skills and knowledge towards Mathematics.
-
-  
-
-*   **Code For Fun**
-
-
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRE-2mVhYld32D7FAJeCYCd3fX7FskmEfuoXYaF_RLJNyPIZO4xhoKl2lzsSjLzI3uafTCZiViCbjO2/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-
-
-Code for Fun (CFF) is a 10-hour Enrichment Programme (offered jointly by IMDA and MOE) is offered to all P6s as a post PSLE activity. This programme includes learning of computational thinking concepts using visual-based programming language, combining it with robotic kits and/or microcontrollers to create an engaging coding experience for the students. CFF facilitates the exposure of a large base of students to coding and computational thinking and helps to build an entire generation of workforce inculcated with basic coding and computational thinking skills. In short, CFF is designed to excite our students on new opportunities in the digital economy in order to develop an appreciation for core computational thinking and coding concepts.  
-
-  
-
-\*Disclaimer: All photos of pupils without masks are taken prior to the Circuit Breaker period.
+<h2><strong>Mathematics</strong></h2>
+<p>The Mathematics Department is committed to nurturing confident and inquisitive
+learners who think critically, reason mathematically and apply concepts
+meaningfully in authentic contexts. Through engaging and purposeful learning
+experiences, students develop resilience, communication, collaboration
+and creative problem-solving skills while embracing technology as a tool
+for learning. Guided by the E21CC framework, we prepare students to be
+digitally ready, future-ready and empowered to navigate an increasingly
+complex and interconnected world.</p>
+<h4><strong>Teaching and Learning Approaches</strong></h4>
+<p>The department adopts the Concrete–Pictorial–Abstract (CPA) approach to
+support students in developing deep conceptual understanding. Lessons are
+designed to encourage active participation, collaborative learning and
+meaningful mathematical discourse through hands-on experiences, investigations
+and authentic problem-solving contexts. Students learn mathematical concepts
+through the use of manipulatives, visual models and hands-on activities
+based on the Concrete–Pictorial–Abstract approach. This supports the development
+of strong conceptual understanding and mathematical confidence.</p>
+<h4><strong>Developing Mathematical Thinkers</strong></h4>
+<p>Students engage in rich mathematical tasks and investigations that promote
+reasoning, communication and problem-solving. Through open-ended learning
+experiences, students are encouraged to explore multiple strategies, explain
+their thinking and make meaningful mathematical connections.</p>
+<h4><strong>Educational Technology in Mathematics</strong></h4>
+<p>The department leverages educational technology to enhance students’ learning
+experiences and engagement in Mathematics. Digital platforms and interactive
+tools are incorporated to support conceptual understanding, provide timely
+feedback and encourage active participation during lessons.</p>
+<h4><strong>Mathematics in Everyday Life</strong></h4>
+<p>Students engage in authentic learning experiences that connect Mathematics
+to real-world situations. Through meaningful application tasks and financial
+literacy contexts, they develop practical mathematical skills to make informed
+decisions, solve everyday problems and appreciate the relevance of Mathematics
+in daily life. Learning is further enriched through <strong>Fun Fridays</strong>,
+where students apply mathematical thinking through strategic games and
+puzzles that foster logical reasoning, perseverance and problem-solving
+in an engaging and enjoyable environment.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students engaged in mathematics activities with learning goals and classroom highlights." src="/images/Departments/Math_1.png">
+</div>
+<p></p>

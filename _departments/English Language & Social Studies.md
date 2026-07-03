@@ -2,144 +2,158 @@
 title: English Language & Social Studies
 permalink: /departments/english-language-n-social-studies/
 description: ""
+variant: tiptap
 ---
-![](/images/About%20Us/subbanner2.jpg)
-
-## **English Language & Social Studies**
-
-![](/images/Departments/English%20Dept.jpg)
-
-
-The mission of the English Language and Social Studies Department is to build a strong foundation in the English Language, teach our students to apply their knowledge, skills and strategies in order to use the language to good effect and at an increasingly sophisticated level to demonstrate learning and mastery. We seek to develop empathetic communicators, discerning readers and creative inquirers so that our students will become successful, effective, affective and independent language learners and users.
-
-  
-
-  
-
-#### **English Language - Pedagogical Approaches**
-
-  
-
-**STELLAR, “Strategies for English Language Learning and Reading**, is the pedagogic model that we use to strengthen both language and reading skills as well as to promote a positive attitude towards reading through the use of authentic children’s literature.
-
-  
-
-Shared reading, shared writing and listening centres are the key strategies adopted by our teachers in Primary 1 and 2 classrooms while approaches like supported reading and process writing are typically used by our teachers in Primary 3 to 6 classrooms.
-
-  
-
-The initiatives of National Education, thinking skills, and the use of Information and Communication Technology (ICT) are woven into the syllabus. Social and Emotional Learning (SEL), cyber wellness and economic and financial literacy are also incorporated by teachers in the delivery of the curriculum, where applicable.
-
-  
-
-To complement and enrich students’ English Language learning experiences, we have designed programmes not only to equip students with basic literacy skills but also provide them with the opportunities to develop soft skills required for the 21st century work place.
-
-  
-
-  
-
-#### **Reading**
-
-  
-
-**a) Reading Festival**
-
-  
-
-We organise a Reading Festival annually to kick start the reading programme.  There are story telling sessions, sharing of different genres of books at the school library and book review competitions.
-
-**b) Class Library**
-
-  
-
-There is a class library corner in every classroom to excite and engage students in reading. The books are rotated among the classes to ensure that students get a fresh collection of books to read all year round!
-
-<img src="/images/Departments/English%201.jpg"  
-     style="width:75%">
-		 
-
-<img src="/images/Departments/English%202.jpg"  
-     style="width:55%">
-		 
-		 
-**c) Book Selection**  
-
-  
-
-Once a year, a book selection session is organised for the students. Each class is given an opportunity to select up to two books from a few book vendors and these books are then purchased to become part of the school library collection.
-
-  
-
-  
-
-#### **Speaking and Listening**
-
-  
-
-**a) Drama-in-Curriculum**
-
-  
-
-Speech and drama activities are integrated in the English lessons to develop our students’ oratorical skills and confidence in a fun and meaningful manner. Students shed their inhibitions in using the English language as they dramatise and assume the identities of the characters in the fictional world.
-
-  
-
-The students from the lower primary practise oral skills in Readers Theatre, in collaboration with the Applied Learning Programme on puppet toys.
-
-  
-
-Students in the Primary 1, 2 and 3 use online Moo-O platform in iPads to practise and record their speaking skills.  The Moo-O is an ICT tool which uses interesting story characters to engage the students in role play.  This engagement will motivate students to listen, read and speak more confidently.
-
-  
-
-**b) Show-and-tell**
-
-  
-
-To train students to stand up and speak with confidence in front of their friends, we provide them with the opportunity to present a topic that interests them during Show and Tell at the Primary 1 and 2 levels.  The variety of topics and the myriad of interesting items that are brought to class never fail to captivate the attention of everyone. It is also a good class bonding session for all. Our students learn more about the things that are meaningful to their classmates.  They also gain experience in public speaking and recognise the importance of respecting each other’s turn to talk.
-
-  
-
-  
-
-#### **Writing**
-
-  
-
-**a) Spelling Bee**
-
-  
-
-In order to write more proficiently and effectively, the Department believes that students will need to learn how to spell words correctly.  This is the purpose of organising the Spelling Bee contests for both lower and upper primary students.  The inter-class competition helps to foster a team spirit among the students.		 
-
-<img src="/images/Departments/English%203.jpg"  
-     style="width:35%">
-		 
-		 
-The students in the middle primary levels use the Newsmaker software, an ICT tool to create their own narratives and reports.
-
-  
-
-Using department-writing packages, students from the middle and upper primary levels use word processing software such as MS Word and MS Powerpoint to draft, revise and publish their writing tasks.  Students upload their reflections in their virtual Student Learning Spaces.  The students have opportunities to use selected social media platforms to express their views as a community.
-
-  
-
-  
-
-#### **Social Studies**
-
-  
-
-The vision is to develop in our students, the desired knowledge and inculcation of values to help bring up useful and contributing citizens to the global society. The Social Studies (SS) curriculum prepares our students to be citizens of tomorrow through a better understanding of the connection between Singapore and the world they live in, as well as appreciating the complex interactions.
-
-  
-
-Drawing on the social life that is meaningful and interesting to the young learners, SS seeks to arouse the students’ curiosity to inquire into real-world issues that concern their lives. Through inquiry and authentic learning experiences, SS helps students to obtain relevant knowledge and gain an understanding of these issues, to develop critical and reflective thinking skills, and to appreciate multiple perspectives.
-
-  
-
-We seek to inculcate in our students a deeper understanding of the values that define the Singaporean society.  We also want to nurture dispositions to show concern for the world they live in and to demonstrate empathy in their relationships with others.
-
-  
-
-Together with the development of the EL literacy skills and the SS curriculum, the Department supports the national initiative for our students to be informed, concerned and participative citizens.  We would like each student to be competent in their quality decision-making and have a willingness to contribute responsibly and improve the world they live in.
+<h4><strong>English Language &amp; Social Studies</strong></h4>
+<p>At the English Language and Social Studies Department, we believe learning
+goes beyond the classroom. Through meaningful and authentic experiences,
+our students grow into confident communicators, critical thinkers and empathetic
+individuals who are ready to engage with the world around them.</p>
+<p>Anchored in character education, our programmes build strong language
+foundations while nurturing curiosity, creativity and civic responsibility.
+Students are equipped with the skills to communicate effectively, think
+critically and collaborate with others—preparing them to thrive in a dynamic,
+interconnected world.</p>
+<h4><strong>A Strong Foundation in Language Learning (STELLAR)</strong></h4>
+<p>Our English Language curriculum is anchored in <strong>STELLAR (Strategies for English Language Learning and Reading)</strong>,
+MOE’s key pedagogical approach to developing strong language and literacy
+skills.</p>
+<p>In the lower primary years, students participate in shared book reading,
+guided writing and engaging learning centres, where they listen, speak,
+read and write in a supportive environment. These experiences build confidence,
+fluency and a love for language.</p>
+<p>In the upper primary years, students engage in supported reading and the
+writing process, enabling them to read widely, think critically and write
+purposefully for different audiences.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Students engaged in collaborative reading and writing activities during STELLAR lessons" src="/images/Departments/English_1.png">
+</div>
+<p><em>Students engaged in collaborative reading and writing activities during STELLAR lessons</em>
+</p>
+<hr>
+<h4><strong>Igniting a Love for Reading</strong></h4>
+<p>We cultivate a vibrant reading culture that inspires students to explore,
+imagine and think deeply.</p>
+<p><strong>a) Author Talks</strong>
+<br>Students engage with children’s authors and National Library Board librarians,
+gaining insights into storytelling while discovering a wide range of engaging
+books.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Students interacting with the librarian from National Library Board during a book sharing session" src="/images/Departments/English_2.png">
+</div>
+<p><em>Students interacting with the librarian from National Library Board during a book sharing session</em>
+</p>
+<p><strong>b) Book Buffet &amp; Class Libraries</strong>
+<br>Students select books to build their classroom library, with regular rotation
+of titles to sustain interest and cater to diverse reading levels.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students can select from an assortment of books from their class library" src="/images/Departments/English_3.png">
+</div>
+<p><em>Students can select from an assortment of books from their class library</em>
+</p>
+<p><strong>c) Library Programmes</strong>
+</p>
+<p>Through reading books, newspapers and magazines, students discuss current
+events and make meaningful connections to the world around them.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students engaged in reading and discussion during library sessions" src="/images/Departments/English_4.png">
+</div>
+<p><em>Students engaged in reading and discussion during library sessions</em>
+</p>
+<hr>
+<h4><strong>Building Confident Speakers</strong></h4>
+<h4>We create purposeful opportunities for students to express themselves clearly and confidently.</h4>
+<p><strong>a) Pick-and-Tell</strong>
+</p>
+<p>Students develop confidence through structured sharing, learning to speak
+clearly, listen actively and respect diverse perspectives.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="A student confidently presenting during Pick-and-Tell" src="/images/Departments/English_5.png">
+</div>
+<p><em>A student confidently presenting during Pick-and-Tell</em>
+</p>
+<p><strong>b) Readers’ Theatre &amp; Live Performances</strong>
+</p>
+<p>Students experience how voice, expression and movement bring stories to
+life, strengthening their speaking and listening skills through performance.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students watching a live theatrical performance" src="/images/Departments/English_6.png">
+</div>
+<p><em>Students watching a live theatrical performance</em>
+</p>
+<p><strong>c) Authentic Public Speaking Experiences</strong>
+</p>
+<p>Students design and create their own ice-cream before crafting and delivering
+persuasive speeches—an engaging, real-world task that builds confidence,
+creativity and communication skills.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students preparing their ice cream from scratch" src="/images/Departments/English_7.png">
+</div>
+<p><em>Students preparing their ice cream from scratch</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Students presenting persuasive speeches based on their ice-cream creations" src="/images/Departments/English_8.png">
+</div>
+<p><em>Students presenting persuasive speeches based on their ice-cream creations</em>
+</p>
+<hr>
+<h4><strong>Nurturing Thoughtful Writers</strong></h4>
+<p>Our writing programme develops students into clear, purposeful and reflective
+writers.</p>
+<p>At the lower primary levels, authentic experiences—such as observing the
+life cycle of a butterfly—provide rich contexts for descriptive writing.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students observing and documenting the butterfly life cycle" src="/images/Departments/English_9.png">
+</div>
+<p><em>Students observing and documenting the butterfly life cycle</em>
+</p>
+<p>At the upper primary levels, students engage in the full writing process,
+from planning to drafting and revising. Through feedback and collaboration,
+they become more independent and reflective writers.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students collaborating and reviewing one another’s written work" src="/images/Departments/English_10.png">
+</div>
+<p><em>Students collaborating and reviewing one another’s written work</em>
+</p>
+<hr>
+<h4><strong>Social Studies</strong></h4>
+<p>Social Studies plays a vital role in shaping informed and responsible
+citizens.</p>
+<p>Through inquiry-based learning and discussions on real-world issues, students
+explore topics relevant to their lives and communities. They learn to consider
+multiple perspectives, think critically and make thoughtful decisions.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Students sharing their group project on the legacies of ancient civilisations" src="/images/Departments/English_11.png">
+</div>
+<p><em>Students sharing their group project on the legacies of ancient civilisations and their relevance today</em>
+</p>
+<p>Students also develop an appreciation of Singapore’s values while understanding
+global connections, fostering empathy and a strong sense of responsibility
+towards society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students learning about different cultural activities during their Social Studies learning journey" src="/images/Departments/English_12.png">
+</div>
+<p><em>Students learning about different cultural activities during their Social Studies learning journey</em>
+</p>
+<hr>
+<h4><strong>Preparing Students for the Future</strong></h4>
+<p>Through the integration of English Language and Social Studies, students
+develop essential 21st-century competencies, including communication, collaboration
+and critical thinking.</p>
+<p>These experiences nurture confident communicators and thoughtful citizens
+who are ready to contribute meaningfully to the community and thrive in
+an ever-changing world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students collaborating in an active and engaging classroom environment" src="/images/Departments/English_13.png">
+</div>
+<p><em>Students collaborating in an active and engaging classroom environment</em>
+</p>
+<p></p>
