@@ -94,13 +94,13 @@ life, strengthening their speaking and listening skills through performance.</p>
 persuasive speeches—an engaging, real-world task that builds confidence,
 creativity and communication skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Students preparing their ice cream from scratch" src="/images/Departments/English_7.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Students preparing their ice cream from scratch" src="/images/Departments/English_7.png">
 </div>
 <p><em>Students preparing their ice cream from scratch</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students presenting persuasive speeches based on their ice-cream creations" src="/images/Departments/English_8.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Students presenting persuasive speeches based on their ice-cream creations" src="/images/Departments/English_8.png">
 </div>
 <p><em>Students presenting persuasive speeches based on their ice-cream creations</em>
 </p>
