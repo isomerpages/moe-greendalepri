@@ -213,6 +213,16 @@ variant: tiptap
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
+<p>HOD Science</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Mr Chia Peng Hee Colin</p>
+<p><a href="chia_peng_hee_colin@schools.gov.sg" rel="noopener nofollow" target="_blank">chia_peng_hee_colin@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p>Level Head Science</p>
 </th>
 <td rowspan="1" colspan="1">
