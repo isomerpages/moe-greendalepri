@@ -166,4 +166,16 @@ towards society.</p>
 <p><em>Students learning about different cultural activities during their Social Studies learning journey</em>
 </p>
 <hr>
+<h4><strong>Preparing Students for the Future</strong></h4>
+<p>Through the integration of English Language and Social Studies, students
+develop essential 21st-century competencies, including communication, collaboration
+and critical thinking.</p>
+<p>These experiences nurture confident communicators and thoughtful citizens
+who are ready to contribute meaningfully to the community and thrive in
+an ever-changing world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students collaborating in an active and engaging classroom environment" src="/images/Departments/English_13.png">
+</div>
+<p><em>Students collaborating in an active and engaging classroom environment</em>
+</p>
 <p></p>
