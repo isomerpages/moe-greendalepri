@@ -93,7 +93,7 @@ life, strengthening their speaking and listening skills through performance.</p>
 persuasive speeches—an engaging, real-world task that builds confidence,
 creativity and communication skills.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="Students preparing their ice cream from scratch" src="/images/Departments/English_7.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Students preparing their ice cream from scratch" src="/images/Departments/English_7.png">
 </div>
 <p><em>Students preparing their ice cream from scratch</em>
 </p>
@@ -103,28 +103,6 @@ creativity and communication skills.</p>
 </div>
 <p><em>Students presenting persuasive speeches based on their ice-cream creations</em>
 </p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students preparing their ice cream from scratch" src="/images/Departments/English_7.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Students preparing their ice cream from scratch</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students presenting persuasive speeches based on their ice-cream creations" src="/images/Departments/English_8.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Students presenting persuasive speeches based on their ice-cream creations</div>
-</div>
-</div>
-</div>
 <hr>
 <h4><strong>Nurturing Thoughtful Writers</strong></h4>
 <p>Our writing programme develops students into clear, purposeful and reflective
@@ -132,7 +110,7 @@ writers.</p>
 <p>At the lower primary levels, authentic experiences—such as observing the
 life cycle of a butterfly—provide rich contexts for descriptive writing.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students observing and documenting the butterfly life cycle" src="/images/Departments/English_9.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Students observing and documenting the butterfly life cycle" src="/images/Departments/English_9.png">
 </div>
 <p><em>Students observing and documenting the butterfly life cycle</em>
 </p>
@@ -140,7 +118,7 @@ life cycle of a butterfly—provide rich contexts for descriptive writing.</p>
 from planning to drafting and revising. Through feedback and collaboration,
 they become more independent and reflective writers.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students collaborating and reviewing one another’s written work" src="/images/Departments/English_10.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Students collaborating and reviewing one another’s written work" src="/images/Departments/English_10.png">
 </div>
 <p><em>Students collaborating and reviewing one another’s written work</em>
 </p>
@@ -153,7 +131,7 @@ explore topics relevant to their lives and communities. They learn to consider
 multiple perspectives, think critically and make thoughtful decisions.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students sharing their group project on the legacies of ancient civilisations" src="/images/Departments/English_11.png">
+<img style="width: 70%;" height="auto" width="100%" alt="Students sharing their group project on the legacies of ancient civilisations" src="/images/Departments/English_11.png">
 </div>
 <p><em>Students sharing their group project on the legacies of ancient civilisations and their relevance today</em>
 </p>
@@ -161,7 +139,7 @@ multiple perspectives, think critically and make thoughtful decisions.</p>
 global connections, fostering empathy and a strong sense of responsibility
 towards society.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students learning about different cultural activities during their Social Studies learning journey" src="/images/Departments/English_12.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Students learning about different cultural activities during their Social Studies learning journey" src="/images/Departments/English_12.png">
 </div>
 <p><em>Students learning about different cultural activities during their Social Studies learning journey</em>
 </p>
@@ -174,7 +152,7 @@ and critical thinking.</p>
 who are ready to contribute meaningfully to the community and thrive in
 an ever-changing world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students collaborating in an active and engaging classroom environment" src="/images/Departments/English_13.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Students collaborating in an active and engaging classroom environment" src="/images/Departments/English_13.png">
 </div>
 <p><em>Students collaborating in an active and engaging classroom environment</em>
 </p>
