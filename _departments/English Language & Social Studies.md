@@ -67,8 +67,7 @@ events and make meaningful connections to the world around them.</p>
 </p>
 <hr>
 <h4><strong>Building Confident Speakers</strong></h4>
-<p>We create purposeful opportunities for students to express themselves
-clearly and confidently.</p>
+<h4>We create purposeful opportunities for students to express themselves clearly and confidently.</h4>
 <p><strong>a) Pick-and-Tell</strong>
 </p>
 <p>Students develop confidence through structured sharing, learning to speak
@@ -126,4 +125,14 @@ creativity and communication skills.</p>
 </div>
 </div>
 </div>
-<p></p>
+<hr>
+<h4><strong>Nurturing Thoughtful Writers</strong></h4>
+<p>Our writing programme develops students into clear, purposeful and reflective
+writers.</p>
+<p>At the lower primary levels, authentic experiences—such as observing the
+life cycle of a butterfly—provide rich contexts for descriptive writing.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students observing and documenting the butterfly life cycle" src="/images/Departments/English_9.png">
+</div>
+<p><em>Students observing and documenting the butterfly life cycle</em>
+</p>
