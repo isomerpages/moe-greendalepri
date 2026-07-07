@@ -92,3 +92,15 @@ as Kolam decorating and Kolam design cutting. These interactive experiences
 deepen students' understanding and appreciation of Deepavali in an enjoyable
 and memorable way.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students exploring traditional snacks during a Tamil cultural learning activity." src="/images/Departments/Tamil_9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students creating traditional kolam designs during a Tamil cultural lesson." src="/images/Departments/Tamil_10.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students viewing a colourful kolam display during a school cultural event." src="/images/Departments/Tamil_11.png">
+</div>
+<p></p>
