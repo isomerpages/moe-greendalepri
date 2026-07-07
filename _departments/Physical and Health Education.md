@@ -125,4 +125,17 @@ to secondary school.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Students exploring a stream and learning about nature during outdoor education." src="/images/Departments/PE_4.png">
 </div>
 <hr>
+<p><strong>Growing Active, Resilient and Future-Ready Learners</strong>
+</p>
+<p>Through Physical &amp; Health Education, Sports and Outdoor Education,
+Greendale Primary School nurtures active learners who embrace challenges,
+care for others and lead healthy, meaningful lives.</p>
+<p>By integrating movement, values and authentic learning experiences within
+the Total Curriculum, we empower every Greendalite to strive, thrive and
+reach for the stars.</p>
+<p>AD ASTRA!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students resting under a makeshift shelter during an outdoor learning activity." src="/images/Departments/PE_5.png">
+</div>
 <p></p>
