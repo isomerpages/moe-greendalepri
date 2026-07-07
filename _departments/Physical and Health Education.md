@@ -2,194 +2,96 @@
 title: Physical and Health Education
 permalink: /departments/physical-and-health-education/
 description: ""
+variant: tiptap
 ---
-![](/images/About%20Us/subbanner1.jpg)
-
-## **Physical and Health Education**
-
-![](/images/Departments/Physical%20Education,%20Arts%20and%20Music%20Dept.jpg)
-
-
-**Physical Education**
-
-  
-
-Physical Education (PE) in Greendale Primary School aims to nurture holistic, healthy and fit students who are equipped with fundamental motor and games skills, knowledge, attitudes and values to enjoy a lifetime of active and healthy living individually and with others. The PE curriculum, spans across seven learning areas, namely Athletics, Dance, Games and Sports, Gymnastics, Outdoor Education, Physical Health and Fitness and Swimming (Primary 3 Swimsafer Enrichment).
-
-
-
-<img src="/images/Departments/PHE%201.jpg"  
-     style="width:65%">
-
-
-For effective delivery of our PE programme, we take reference from the 21st Century Framework in the explicit teaching of values, social emotional competencies and soft skills required to thrive in a fast-changing and connected world. We apply **Body, Space, Effort and Relationships (BSER) Framework** in the teaching of fundamental movement skills and concepts, as well as [Games Concept Approach (GCA)](/files/Games%20Concept%20Approach%20(GCA).pdf) for the teaching of Sports and Games skills and concepts.
-
-
-  
-We have planned a series of key events and learning experiences to allow our students to acquire movement competencies as well as to have the opportunity to have regular participation in physical activities.
-
-<table>
-<thead>
-  <tr>
-    <th>Key Events</th>
-    <th></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Run Your Own Race<br></td>
-    <td><img src="/images/Departments/PHE%202.jpg" alt="Run Your Own Race.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td>P3 Sports Carnival<br></td>
-    <td><img src="/images/Departments/PHE%203.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td>P4 Adventure Camp<br></td>
-    <td><img src="/images/Departments/PHE%204.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td>P5 Sports Carnival (Hoop Ball)<br></td>
-    <td><img src="/images/Departments/PHE%205.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td>Lower Primary Games Day<br></td>
-    <td><img src="/images/Departments/PHE%206.jpg"  style="width:65%"></td>
-  </tr>
-  <tr>
-    <td>P6 Sports Carnival (Floorball)<br></td>
-    <td><img src="/images/Departments/PHE%207.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td rowspan="3">Sports Education Programmes<br></td>
-    <td><img src="/images/Departments/PHE%208.jpg" style="width:65%"><br><br>P1 Wushu<br></td>
-  </tr>
-  <tr>
-    <td><img src="/images/Departments/PHE%209.jpg" style="width:65%"><br><br>P2 Archery<br></td>
-  </tr>
-  <tr>
-    <td><img src="/images/Departments/PHE%2010.jpg" style="width:65%"><br><br>P6 Kinball<br></td>
-  </tr>
-  <tr>
-    <td> </td>
-    <td><img src="/images/Departments/PHE%2011.png" style="width:65%"><br><br>P4 Fencing </td>
-  </tr>
-</tbody>
-</table>
-
-
-**Health Education**
-
-  
-
-Through Health Education, we aim to help students understand the importance of being physically active, practise good health and safety habits, and maintain a balanced diet in their pursuit of an active and healthy lifestyle. For example, we teach the latest ‘Healthy Plate’ model as recommended by Health Promotion Board (HPB), which replaces the Food Pyramid that was previously advocated.
-
-
-
-<img src="/images/Departments/PHE%2012.jpg"  
-     style="width:45%">
-
-**Some key initiatives include:**
-
-*   Unstructured play during recess
-*   Active Health Programme
-
-    √    Obesity/Underweight reduction
-
-    √    BMI monitoring
-
-    √    External activities: ActiveSG
-
-*   Healthy Meals in School Programme (HMSP)
-*   School Health Service & Screening
-*   Dental Health Programme
-
-**<u>Overview of Greendale Primary School’s Health Education Programme</u>**
-
-
-<table>
-<thead>
-  <tr>
-    <th>Category</th>
-    <th>Activity<br></th>
-    <th>Remarks<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Oral Health<br></td>
-    <td>Oral Health Promotion Programme<br></td>
-    <td>P1, 3 and 5 pupils<br></td>
-  </tr>
-  <tr>
-    <td>Health Habits and Practices<br></td>
-    <td>Drink Water Campaign<br></td>
-    <td>P1 to 6 pupils<br></td>
-  </tr>
-  <tr>
-    <td>Mental Wellness<br></td>
-    <td>Roving Carnival<br></td>
-    <td>P1 to 3 pupils<br></td>
-  </tr>
-  <tr>
-    <td>Mental Wellness<br></td>
-    <td>Anti-Smoking Assembly Show<br></td>
-    <td>P4 to 6 pupils<br></td>
-  </tr>
-  <tr>
-    <td>Nutrition<br></td>
-    <td>Stay Healthy with Smarter Food Choices<br></td>
-    <td>P1 to 4 pupils<br></td>
-  </tr>
-  <tr>
-    <td>Sports and Fitness<br></td>
-    <td>Sports Clinic during Recess<br></td>
-    <td>All pupils<br></td>
-  </tr>
-  <tr>
-    <td>Health Habits and Practices<br></td>
-    <td>Eye Health Talk<br></td>
-    <td>All pupils</td>
-  </tr>
-</tbody>
-</table>
-
-
-**Programme for Active Learning (PAL)**
-
-  
-
-PAL is an integral part of the curriculum for Primary One and Two students in our school.  It offers learning experiences that are active, hands-on and meaningful.  More importantly, PAL contributes to the development of soft skills in our students such as the ability to communicate clearly and cooperate with others, having a lively curiosity about the world they live in and a belief in their ability to accomplish a task or deal with a challenge. Furthermore, PAL broadens the learning experiences and positively influences their future experiences. Through PAL, we aim for our students to
-
-*   exhibit confidence in what they do and express themselves effectively
-*   exhibit curiosity and positive attitudes to learn
-*   enjoy group experiences and teamwork
-
-  
-
-The domains for students’ experiential learning are as follow:
-
-  
-
-<u>Primary 1</u>
-
-*   Sports and Games
-*   Dance
-*   Visual Arts
-
-<u>Primary 2</u>
-
-*   Outdoor Education
-*   Drama
-*   Visual Arts
-
-
-<img src="/images/Departments/PHE%2013.jpg"  
-     style="width:55%">
-
-
-
-PAL Visual Art
-
-<img src="/images/Departments/PHE%2014.jpg"  
-     style="width:55%">
+<h2><strong>Physical and Health Education</strong></h2>
+<p><strong>Strive and Thrive Through Movement, Outdoor Learning and Wellness</strong>
+</p>
+<p>At Greendale Primary School, the Physical Education (PE) Department contributes
+significantly to the school's Total Curriculum by nurturing students who
+are physically active, resilient, self-directed and values-driven. Anchored
+in our school vision and the belief that every child can strive and thrive,
+we provide meaningful learning experiences through Physical &amp; Health
+Education, Sports and Outdoor Education.</p>
+<p>Through a comprehensive and progressive programme, students develop movement
+competence, healthy lifestyle habits and positive dispositions such as
+resilience, responsibility, teamwork and perseverance. Our learning extends
+beyond the sports field and classroom, providing authentic opportunities
+for students to apply their learning in meaningful contexts.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students balancing on logs together during an outdoor team-building activity." src="/images/Departments/PE_1.png">
+</div>
+<hr>
+<p><strong>Developing Active and Healthy Learners</strong>
+</p>
+<p>Aligned with the 2024 Physical Education Syllabus, our curriculum focuses
+on:</p>
+<p>• Developing movement competence across a variety of physical activities</p>
+<p>• Building active and healthy lifestyle habits</p>
+<p>• Nurturing self-directed learners who take ownership of their well-being</p>
+<p>Students participate in games, fitness activities, outdoor learning experiences
+and collaborative challenges that support their physical, cognitive and
+social-emotional development. Through these experiences, they learn to
+set goals, make responsible decisions and demonstrate positive sporting
+values.</p>
+<p>Students experience a coherent developmental pathway through the various
+Physical &amp; Health Education (PHE) Programmes, Programme for Active
+Learning (PAL) and Co-Curricular Activities (CCA).</p>
+<p><strong><u>Health and Well-Being Programmes</u></strong>
+</p>
+<p>The department promotes lifelong wellness through structured health education,
+Enhanced Recess Play, BMI monitoring and participation in national health
+initiatives.</p>
+<p>Students learn to make informed choices and develop positive attitudes
+towards fitness, health and overall well-being.</p>
+<p><strong><u>SwimSafer Programme</u></strong>
+</p>
+<p>Water safety is an important life skill. Through the national SwimSafer
+Programme, Primary 3 students have opportunities to acquire essential swimming
+and water safety skills.</p>
+<p>The programme develops confidence in aquatic environments while equipping
+students with practical competencies that support lifelong safety and wellness.</p>
+<p><strong><u>Sports Programmes</u></strong>
+</p>
+<p>Through programmes such as Learn to Play, Play to Learn, level-wide sporting
+events and inclusive sporting experiences, students are provided opportunities
+to apply their learning, challenge themselves and deepen their enjoyment
+of physical activity.</p>
+<p>Events such as the Abled Ability Games also help students develop empathy,
+resilience and respect for diversity.</p>
+<p><strong><u>Programme for Active Learning (PAL) - (Primary 1–2)</u></strong>
+</p>
+<p>PAL provides exposure to Sports and Outdoor Education, Visual Arts and
+Performing Arts. Through active participation, students develop social-emotional
+competencies, confidence and values.</p>
+<p>Co-Curricular Activities (CCA) - (Primary 3–6)</p>
+<p>Students pursue their interests and talents through:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sports and Games</p>
+</li>
+<li>
+<p>Performing Arts</p>
+</li>
+<li>
+<p>Uniformed Groups</p>
+</li>
+<li>
+<p>Clubs and Societies</p>
+</li>
+</ul>
+<p>These experiences develop leadership, commitment, teamwork and excellence.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students working together to balance on team skis during a group challenge." src="/images/Departments/PE_2.png">
+</div>
+<hr>
+<p><strong>Learning for Life Programme (LLP): Outdoor Education</strong>
+</p>
+<p>Outdoor Education is a key feature of Greendale Primary School's Total
+Curriculum. Through our Learning for Life Programme (LLP), students embark
+on a progressive journey that develops confidence, resilience, adaptability
+and environmental awareness.</p>
+<p></p>
+<p></p>
