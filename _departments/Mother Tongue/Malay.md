@@ -3,42 +3,81 @@ title: Malay
 permalink: /departments/mother-tongue/malay/
 description: ""
 third_nav_title: Mother Tongue
+variant: tiptap
 ---
-![](/images/About%20Us/subbanner2.jpg)
-
-## **Malay**
-
-![](/images/Departments/Malay%20Dept.jpg)
-
-
-
-
-**Philosophy** (Learning Outcomes)
-
-
-We aim to level up our students’ proficiency in listening, speaking, reading and writing through various engaging and student-centred activities. To achieve that, we put in place rigorous academic structures to support our students in the development of these skills. In addition, to instil the ‘joy of learning’ in our students, we employ technology and creative methods to make their learning more engaging, meaningful and relevant.
-
-  
-
-**Key Programmes**
-
-Our teachers have carefully designed activities and programmes for our students to improve their mastery of the language as well as to enable them to enjoy learning the language. To help us achieve this, the curriculum includes an extensive reading programme in which our students are exposed to reading materials of different genres with accompanying activities. Supplementary learning materials are also developed to enrich their learning. Through this programme, students learn about characterisation, plot and they are able to complete book reviews.
-
-  
-
-The teachers also leverage on technology such as mobile applications, Moo-O and Newsmaker software as well as content-rich portals such SLS and iMTL Portal to arouse students’ interest and to encourage self-directed learning.
-
-  
-
-Besides developing our students to become passionate Malay Language learners, cultural activities are conducted so that they can truly appreciate their roots and traditions. During the Mother Tongue Fortnight, we organise two weeks of fun-filled cultural activities. Through these activities, we aim to instil in our students a sense of love for Malay culture that is vital in the learning of Malay language.  The activities include recess activities where students get to play games and take part in quizzes. Classroom activities such as learning poetry, dramatisation and calligraphy are also carried out. In addition, a language and cultural camp for the Primary 5 students is carried out during the Mother Tongue Fortnight. Inter-class competitions are also carried out during this period so that our students’ interest in the language can be piqued and developed.
-
-  
-
-We also carefully plan and select enrichment programmes in which students are given the opportunity to learn beyond the confines of the classroom. For example, a Speech and Drama Programme for our Primary 1 and 2 students and Drama Programme for our Primary 3 and 4 students. Our students are also given the opportunity to watch plays in theatres to enhance their literary knowledge and learn about theatre etiquette.
-
-<img src="/images/Departments/Malay%201.jpg"  
-     style="width:75%">
-
-<img src="/images/Departments/Malay%202.jpg"  
-     style="width:75%">
-
+<h2><strong>Malay</strong></h2>
+<p><strong>Philosophy</strong>
+</p>
+<p>At Greendale Primary School, our Malay Language Unit is guided by a holistic
+framework centred on nurturing students who experience the Joy of Learning
+— through a love for the language, an appreciation of the culture, and
+a readiness for the future.</p>
+<p>We believe that every student can grow into a confident and enthusiastic
+Malay Language learner. Our programmes are designed to cultivate a genuine
+love for the Malay Language and culture, while equipping students with
+the skills they need to thrive in an ever-changing world.</p>
+<p>Our curriculum is carefully structured to develop students' proficiency
+across all key language skills — listening, speaking, reading, writing,
+spoken interaction, and written interaction. Clear learning outcomes are
+set at each level, ensuring that every student progresses meaningfully
+and builds a strong foundation in Malay Language mastery.</p>
+<p>We bring learning to life through purposeful and engaging pedagogy. Educational
+Technology is used not merely as a tool, but to facilitate rich learning
+interactions. Our classrooms are designed to be participatory, connected,
+and reflective. We encourage students to collaborate, think critically,
+and take ownership of their learning journey. Active learning experiences
+ensure that students are engaged to participants rather than passive recipients.</p>
+<p><strong>Malay Language Key Programmes</strong>
+</p>
+<p><strong>Mother Tongue Fortnight</strong>
+</p>
+<p>Our annual Mother Tongue Fortnight is a vibrant celebration of the Malay
+Language and its rich cultural heritage. Over two weeks, students participate
+in a variety of engaging activities that bring the language to life beyond
+the classroom. From storytelling and games to craft and performance, the
+fortnight creates an immersive environment where students can use Malay
+Language authentically and joyfully, deepening both their language skills
+and their cultural appreciation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Students proudly displaying colourful handmade crafts in the classroom." src="/images/Departments/Malay_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Students taking part in a hands-on learning activity in the classroom." src="/images/Departments/Malay_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Students participating in a traditional Malay dance performance." src="/images/Departments/Malay_3.png">
+</div>
+<hr>
+<p><strong>Language and Cultural Camp</strong>
+</p>
+<p>The Language and Cultural Camp offers students an enriching experience
+that connects language learning with cultural discovery. Through hands-on
+activities, students explore Malay traditions, values, and practices in
+a fun and meaningful setting. The camp fosters a deeper sense of identity
+and belonging, while giving students the opportunity to communicate and
+interact in Malay Language in real-world contexts. It is a highlight of
+our department calendar and a memorable experience for all who participate.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Student painting a traditional Malay-inspired art design in class." src="/images/Departments/Malay_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Students preparing food together during a hands-on cooking activity." src="/images/Departments/Malay_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Students listening to a traditional Malay storytelling session in the classroom." src="/images/Departments/Malay_6.png">
+</div>
+<hr>
+<p><strong>Cultural Performance</strong>
+</p>
+<p>The Cultural Performance initiative complements classroom learning by
+exposing students to authentic local Malay cultural performances. Through
+this programme, students are able to immerse themselves in the rich traditions
+and artistic expressions of Malay culture, fostering a deeper appreciation
+and passion for the Malay Language beyond the school environment.</p>
+<p></p>
