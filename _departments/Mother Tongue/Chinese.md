@@ -83,4 +83,14 @@ materials. Through ZBschools, an online Chinese news platform, students
 select and read current affairs articles closely connected to everyday
 life, broadening their global perspectives and deepening their learning
 through written reflections.</p>
+<hr>
+<p><strong>Class Competitions</strong>
+</p>
+<p>The Chinese Language Unit firmly believes that diverse class competitions
+are an excellent platform for motivating students and showcasing team spirit.
+Our class competitions are tailored to the developmental characteristics
+of students across different levels. These varied and enriching competitions
+not only make Chinese Language learning enjoyable, but also organically
+foster class team spirit and equip students with the holistic competencies
+they need for the future.</p>
 <p></p>
