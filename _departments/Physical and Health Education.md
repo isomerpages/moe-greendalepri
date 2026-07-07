@@ -93,5 +93,7 @@ competencies, confidence and values.</p>
 Curriculum. Through our Learning for Life Programme (LLP), students embark
 on a progressive journey that develops confidence, resilience, adaptability
 and environmental awareness.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students enjoying a water-based outdoor activity during a school camp." src="/images/Departments/PE_3.png">
+</div>
 <p></p>
