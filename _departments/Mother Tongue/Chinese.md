@@ -94,3 +94,19 @@ not only make Chinese Language learning enjoyable, but also organically
 foster class team spirit and equip students with the holistic competencies
 they need for the future.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Students performing a Chinese language role-play in front of the class." src="/images/Departments/Chinese_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Students presenting a Chinese language reading performance on stage." src="/images/Departments/Chinese_6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Student displaying a Chinese language learning activity on a tablet." src="/images/Departments/Chinese_7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="Students using tablets during an interactive Chinese language lesson." src="/images/Departments/Chinese_8.png">
+</div>
+<p></p>
