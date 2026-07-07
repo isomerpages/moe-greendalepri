@@ -96,4 +96,33 @@ and environmental awareness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students enjoying a water-based outdoor activity during a school camp." src="/images/Departments/PE_3.png">
 </div>
+<p><strong><u>Primary 1–2: Discovering Nature</u></strong>
+</p>
+<p>Students participate in multidisciplinary nature exploration experiences
+that encourage observation, inquiry and appreciation of the natural environment.</p>
+<p><strong><u>Primary 3: Ad Astra Carnival</u></strong>
+</p>
+<p>Students apply skills learnt through Physical Education, Art and Music
+while developing teamwork, creativity and communication through engaging
+carnival experiences.</p>
+<p><strong><u>Primary 4: Outdoor Adventure Learning Hike</u></strong>
+</p>
+<p>Neighbourhood hikes and outdoor learning experiences allow students to
+develop navigational awareness, teamwork and problem-solving skills while
+strengthening connections with their community.</p>
+<p><strong><u>Primary 5: Residential Camp</u></strong>
+</p>
+<p>The 3-Day-2-Night residential camp is a key milestone that develops resilience,
+independence, leadership and collaboration through challenging outdoor
+experiences.</p>
+<p><strong><u>Primary 6: Outdoor Adventure Learning Day</u></strong>
+</p>
+<p>Outdoor learning journeys reinforce values such as responsibility, perseverance
+and environmental stewardship as students prepare for their transition
+to secondary school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students exploring a stream and learning about nature during outdoor education." src="/images/Departments/PE_4.png">
+</div>
+<hr>
 <p></p>
