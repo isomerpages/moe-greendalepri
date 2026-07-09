@@ -100,3 +100,9 @@ talents with the school.</p>
 </div>
 <p>P3 Students created their own peg doll during Art lessons for Ad Astra
 Carnival.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students creating artwork using blow painting in a hands-on art lesson." src="/images/Departments/Art_8.png">
+</div>
+<p>Students having fun during their Talent Thursday recess activities.</p>
+<p></p>
