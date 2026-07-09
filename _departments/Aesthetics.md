@@ -118,7 +118,7 @@ understanding of Singapore’s musical heritage.</p>
 </p>
 <p>We believe that learning happens best through doing. Our enrichment programmes
 are designed to broaden students' horizons in both local and global contexts.</p>
-<p>•	<strong>AMIS Programme (Art &amp; Music Instructors Scheme)</strong>:
+<p>• <strong>AMIS Programme (Art &amp; Music Instructors Scheme)</strong>:
 This specialized programme offers students diverse <strong>experiential learning</strong> opportunities,
 from mastering new instruments to exploring modern digital art. Students
 develop <strong>Commitment </strong>as they hone new skills over time.</p>
@@ -131,7 +131,7 @@ develop <strong>Commitment </strong>as they hone new skills over time.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="Student-made yarn-wrapped sculpture displayed on a painted base." src="/images/Departments/Art_10.png">
 </div>
 <p>Students’ artwork from their AMIS Art lessons.</p>
-<p>•	<strong>P4 Museum-based Learning Journey: </strong>By stepping out of
+<p>• <strong>P4 Museum-based Learning Journey: </strong>By stepping out of
 the classroom and into professional art spaces, our Primary 4 students
 become <strong>reflective learners</strong>. This journey enhances their
 ability to <strong>see and appreciate</strong> art within its cultural and
@@ -145,7 +145,7 @@ their Museum-Based Learning experience at the National Gallery Singapore.</p>
 <hr>
 <p><strong>Recognition of Excellence</strong>
 </p>
-<p>•	<strong>Artiste of the Term</strong>: This award recognizes students
+<p>• <strong>Artiste of the Term</strong>: This award recognizes students
 who consistently demonstrate the values and qualities we aspire to nurture.
 We celebrate those who are not only talented but also <strong>reflective </strong>in
 their practice, showing a consistent <strong>Appreciation </strong>for the
@@ -154,4 +154,8 @@ arts and a high level of <strong>Commitment</strong> to their craft.</p>
 developing future-ready students — young people who are creative, culturally
 aware, and equipped with the confidence, values, and curiosity to thrive
 in a complex and interconnected world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Collage celebrating students' achievements in art, music and performance." src="/images/Departments/Art_12.png">
+</div>
+<p>Our Term 2 ‘Artiste of the Term’ winners!</p>
 <p></p>
