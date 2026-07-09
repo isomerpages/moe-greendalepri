@@ -105,4 +105,12 @@ Carnival.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="Students creating artwork using blow painting in a hands-on art lesson." src="/images/Departments/Art_8.png">
 </div>
 <p>Students having fun during their Talent Thursday recess activities.</p>
+<p>•	<strong>Greendale Sings:</strong> A school-wide initiative that emphasizes <strong>Collaboration </strong>and <strong>Appreciation</strong>.
+It fosters a sense of unity and joy through collective vocal expression,
+aligning with our mission to develop<strong> awareness of music in a local context.</strong>
+</p>
+<p>• Sing Singapore Competition: For students looking to challenge themselves
+further, this competition encourages Commitment and Resilience. It provides
+a broader stage to represent the school while deepening their understanding
+of Singapore’s musical heritage.</p>
 <p></p>
