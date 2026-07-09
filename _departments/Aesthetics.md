@@ -89,9 +89,13 @@ in Music lessons.</p>
 <p>These programmes provide Greendalites with authentic platforms to find
 their voice and build confidence through <strong>creative expression.</strong>
 </p>
-<p>•	<strong>Talent Thursday &amp; GDPS Superstars: </strong>These platforms
+<p>• <strong>Talent Thursday &amp; GDPS Superstars: </strong>These platforms
 celebrate <strong>our imaginative and engaged learners</strong>. Students
 demonstrate <strong>Excellence </strong>and <strong>Grace </strong>as they
 perform for their peers, building the confidence to share their unique
 talents with the school.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Painted wooden peg dolls created by students for an art project." src="/images/Departments/Art_7.png">
+</div>
 <p></p>
