@@ -64,19 +64,22 @@ gain the confidence to perform on various instruments, translating their
 creative expression into live musical experiences.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students seated in a circle during a classroom music learning activity." src="/images/Departments/Art_3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Students seated in a circle during a classroom music learning activity." src="/images/Departments/Art_3.png">
 </div>
 <p>Students developing teamwork and musical skills through ensemble performances
 in Music lessons.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students practising keyboard skills during a music lesson in the classroom." src="/images/Departments/Art_4.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Students practising keyboard skills during a music lesson in the classroom." src="/images/Departments/Art_4.png">
 </div>
-<p><em>Students learning keyboarding skills together.</em>
-</p>
+<p>Students learning keyboarding skills together.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student creating music on a laptop during a digital music learning activity." src="/images/Departments/Art_5.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Student creating music on a laptop during a digital music learning activity." src="/images/Departments/Art_5.png">
 </div>
-<p><em>Creating their own melody during their Music ICT lessons.</em>
-</p>
+<p>Creating their own melody during their Music ICT lessons.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students practising ukulele together during a school music lesson." src="/images/Departments/Art_6.png">
+</div>
+<p>Students performed for their friends during Talent Thursday recess activities.</p>
