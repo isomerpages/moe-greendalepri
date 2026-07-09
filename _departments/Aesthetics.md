@@ -158,4 +158,24 @@ in a complex and interconnected world.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Collage celebrating students' achievements in art, music and performance." src="/images/Departments/Art_12.png">
 </div>
 <p>Our Term 2 ‘Artiste of the Term’ winners!</p>
+<hr>
+<p><strong>Community Partnerships and Showcase</strong>
+</p>
+<p>We believe in developing Gracious Greendalites who are able to give back
+to the community in meaningful ways. Over the years, we have worked with
+our partners to provide opportunities for our students to contribute their
+artworks to the community.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Student-designed traffic safety artwork displayed beneath a road safety sign." src="/images/Departments/Art_13_jpg.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Student artwork promoting safe road crossing beneath a traffic sign." src="/images/Departments/Art_14.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Student traffic safety artwork displayed beneath a children crossing sign." src="/images/Departments/Art_15.png">
+</div>
+<p><em>Can you spot our students’ artwork in the Punggol community?</em>
+</p>
