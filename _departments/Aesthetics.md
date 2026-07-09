@@ -124,11 +124,11 @@ from mastering new instruments to exploring modern digital art. Students
 develop <strong>Commitment </strong>as they hone new skills over time.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Colourfully painted abstract sculpture created by a student." src="/images/Departments/Art_9.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Colourfully painted abstract sculpture created by a student." src="/images/Departments/Art_9.png">
 </div>
 <p>Students’ artwork from their AMIS Art lessons.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Student-made yarn-wrapped sculpture displayed on a painted base." src="/images/Departments/Art_10.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Student-made yarn-wrapped sculpture displayed on a painted base." src="/images/Departments/Art_10.png">
 </div>
 <p>Students’ artwork from their AMIS Art lessons.</p>
 <p>• <strong>P4 Museum-based Learning Journey: </strong>By stepping out of
@@ -138,7 +138,7 @@ ability to <strong>see and appreciate</strong> art within its cultural and
 historical framework.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Students participating in a classroom discussion during an arts lesson." src="/images/Departments/Art_11.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Students participating in a classroom discussion during an arts lesson." src="/images/Departments/Art_11.png">
 </div>
 <p>Students deepened their appreciation and understanding of art through
 their Museum-Based Learning experience at the National Gallery Singapore.</p>
@@ -155,7 +155,7 @@ developing future-ready students — young people who are creative, culturally
 aware, and equipped with the confidence, values, and curiosity to thrive
 in a complex and interconnected world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Collage celebrating students' achievements in art, music and performance." src="/images/Departments/Art_12.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Collage celebrating students' achievements in art, music and performance." src="/images/Departments/Art_12.png">
 </div>
 <p>Our Term 2 ‘Artiste of the Term’ winners!</p>
 <hr>
@@ -167,15 +167,15 @@ our partners to provide opportunities for our students to contribute their
 artworks to the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Student-designed traffic safety artwork displayed beneath a road safety sign." src="/images/Departments/Art_13_jpg.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Student-designed traffic safety artwork displayed beneath a road safety sign." src="/images/Departments/Art_13_jpg.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Student artwork promoting safe road crossing beneath a traffic sign." src="/images/Departments/Art_14.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Student artwork promoting safe road crossing beneath a traffic sign." src="/images/Departments/Art_14.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Student traffic safety artwork displayed beneath a children crossing sign." src="/images/Departments/Art_15.png">
+<img style="width: 40%;" height="auto" width="100%" alt="Student traffic safety artwork displayed beneath a children crossing sign." src="/images/Departments/Art_15.png">
 </div>
 <p><em>Can you spot our students’ artwork in the Punggol community?</em>
 </p>
