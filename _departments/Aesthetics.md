@@ -98,4 +98,5 @@ talents with the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Painted wooden peg dolls created by students for an art project." src="/images/Departments/Art_7.png">
 </div>
-<p></p>
+<p>P3 Students created their own peg doll during Art lessons for Ad Astra
+Carnival.</p>
