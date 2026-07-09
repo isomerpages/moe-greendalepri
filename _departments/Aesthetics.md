@@ -74,3 +74,9 @@ in Music lessons.</p>
 </div>
 <p><em>Students learning keyboarding skills together.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student creating music on a laptop during a digital music learning activity." src="/images/Departments/Art_5.png">
+</div>
+<p><em>Creating their own melody during their Music ICT lessons.</em>
+</p>
