@@ -5,6 +5,6 @@ variant: tiptap
 description: ""
 ---
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FASzkH5b-Fg?si=LapwRbM009sHcFNM"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/FASzkH5b-Fg?si=zse9Qkw53Fkv-8jc"></iframe>
 </div>
 <p></p>
