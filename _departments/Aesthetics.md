@@ -72,4 +72,5 @@ in Music lessons.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students practising keyboard skills during a music lesson in the classroom." src="/images/Departments/Art_4.png">
 </div>
-<p></p>
+<p><em>Students learning keyboarding skills together.</em>
+</p>
