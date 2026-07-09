@@ -4,7 +4,7 @@ title: Greendale Primary School
 description: Updates about Greendale Primary School
 image: /images/isomer-logo.svg
 permalink: /
-notification: Register for Open House 2026. Check under 'Announcements' for more details.
+notification: Check under 'Announcements' for Principal’s Open House Sharing.
 sections:
   - hero:
       background: /images/Home Page/Homepage.jpg
