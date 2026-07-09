@@ -105,12 +105,53 @@ Carnival.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="Students creating artwork using blow painting in a hands-on art lesson." src="/images/Departments/Art_8.png">
 </div>
 <p>Students having fun during their Talent Thursday recess activities.</p>
-<p>•	<strong>Greendale Sings:</strong> A school-wide initiative that emphasizes <strong>Collaboration </strong>and <strong>Appreciation</strong>.
+<p>• <strong>Greendale Sings:</strong> A school-wide initiative that emphasizes <strong>Collaboration </strong>and <strong>Appreciation</strong>.
 It fosters a sense of unity and joy through collective vocal expression,
 aligning with our mission to develop<strong> awareness of music in a local context.</strong>
 </p>
-<p>• Sing Singapore Competition: For students looking to challenge themselves
-further, this competition encourages Commitment and Resilience. It provides
-a broader stage to represent the school while deepening their understanding
-of Singapore’s musical heritage.</p>
+<p>•<strong> Sing Singapore Competition</strong>: For students looking to
+challenge themselves further, this competition encourages <strong>Commitment </strong>and <strong>Resilience</strong>.
+It provides a broader stage to represent the school while deepening their
+understanding of Singapore’s musical heritage.</p>
+<hr>
+<p><strong>Enrichment &amp; Experiential Learning</strong>
+</p>
+<p>We believe that learning happens best through doing. Our enrichment programmes
+are designed to broaden students' horizons in both local and global contexts.</p>
+<p>•	<strong>AMIS Programme (Art &amp; Music Instructors Scheme)</strong>:
+This specialized programme offers students diverse <strong>experiential learning</strong> opportunities,
+from mastering new instruments to exploring modern digital art. Students
+develop <strong>Commitment </strong>as they hone new skills over time.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Colourfully painted abstract sculpture created by a student." src="/images/Departments/Art_9.png">
+</div>
+<p>Students’ artwork from their AMIS Art lessons.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Student-made yarn-wrapped sculpture displayed on a painted base." src="/images/Departments/Art_10.png">
+</div>
+<p>Students’ artwork from their AMIS Art lessons.</p>
+<p>•	<strong>P4 Museum-based Learning Journey: </strong>By stepping out of
+the classroom and into professional art spaces, our Primary 4 students
+become <strong>reflective learners</strong>. This journey enhances their
+ability to <strong>see and appreciate</strong> art within its cultural and
+historical framework.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students participating in a classroom discussion during an arts lesson." src="/images/Departments/Art_11.png">
+</div>
+<p>Students deepened their appreciation and understanding of art through
+their Museum-Based Learning experience at the National Gallery Singapore.</p>
+<hr>
+<p><strong>Recognition of Excellence</strong>
+</p>
+<p>•	<strong>Artiste of the Term</strong>: This award recognizes students
+who consistently demonstrate the values and qualities we aspire to nurture.
+We celebrate those who are not only talented but also <strong>reflective </strong>in
+their practice, showing a consistent <strong>Appreciation </strong>for the
+arts and a high level of <strong>Commitment</strong> to their craft.</p>
+<p>Together, our Art and Music programmes reflect a shared commitment to
+developing future-ready students — young people who are creative, culturally
+aware, and equipped with the confidence, values, and curiosity to thrive
+in a complex and interconnected world.</p>
 <p></p>
