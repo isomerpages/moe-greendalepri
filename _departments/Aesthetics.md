@@ -80,6 +80,18 @@ in Music lessons.</p>
 <p>Creating their own melody during their Music ICT lessons.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students practising ukulele together during a school music lesson." src="/images/Departments/Art_6.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Students practising ukulele together during a school music lesson." src="/images/Departments/Art_6.png">
 </div>
 <p>Students performed for their friends during Talent Thursday recess activities.</p>
+<hr>
+<p><strong>Performance &amp; Showcase Platforms</strong>
+</p>
+<p>These programmes provide Greendalites with authentic platforms to find
+their voice and build confidence through <strong>creative expression.</strong>
+</p>
+<p>•	<strong>Talent Thursday &amp; GDPS Superstars: </strong>These platforms
+celebrate <strong>our imaginative and engaged learners</strong>. Students
+demonstrate <strong>Excellence </strong>and <strong>Grace </strong>as they
+perform for their peers, building the confidence to share their unique
+talents with the school.</p>
+<p></p>
