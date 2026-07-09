@@ -45,7 +45,7 @@ artworks and intentions of their peers.</p>
 clay animal creation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Student artwork featuring a hot air balloon, airplane, trees and sunset." src="/images/Departments/Art_2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Student artwork featuring a hot air balloon, airplane, trees and sunset." src="/images/Departments/Art_2.png">
 </div>
 <p>Batik Painting exploration during Art lesson.</p>
 <hr>
