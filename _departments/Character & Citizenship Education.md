@@ -180,3 +180,23 @@ the school day with a smile.</p>
 </p>
 <p><em>#Breakfast Club #The Great Hoop Escape #Tangled</em>
 </p>
+<hr>
+<p><strong>4.	Experiential Learning &amp; Global Perspectives</strong>
+</p>
+<p>Learning at Greendale extends far beyond the classroom through authentic,
+real-world experiences:</p>
+<p>•	<strong>Cohort Learning Journeys</strong>: Museum-based learning experiences
+for Primary 4 to Primary 6 students to appreciate local history and culture.</p>
+<p>•	<strong>Trips for Internationalisation Experience (TIE)</strong>: An
+opportunity to deepen in our students the e21CC of civic, global, and cross-cultural
+literacy. We also aim to cultivate an appreciation of the region’s cultures,
+growing economic opportunities and dynamism; and develop students’ awareness
+of our contemporary realities, to strengthen their confidence and commitment
+to Singapore.</p>
+<p>• Building on the success of our 2024 and 2025 trips to Kuala Lumpur,
+we expanded horizons by bringing our Primary 5 student leaders to Suzhou,
+China, with an exciting upcoming trip for our Primary 4 students to Bangkok,
+Thailand in 2026.</p>
+<p><strong>2026 Cultural and School Immersion Trip in Suzhou, China</strong>
+</p>
+<p></p>
