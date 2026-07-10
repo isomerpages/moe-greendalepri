@@ -2,147 +2,59 @@
 title: Character & Citizenship Education
 permalink: /departments/character-n-citizenship-education/
 description: ""
+variant: tiptap
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
-
-## **Character & Citizenship Education**
-
-
-pREFE  <br>
-**Philosophy**
-
-  
-
-In Greendale Primary, we believe in the holistic development of our students. We create engaging learning experiences for our students in their journey towards becoming an individual of character and a reflective learner guided by our school motto, _Ad Astra_.
-
-  
-
-**Key Programmes**
-
-  
-
-Our key programmes include CCE lessons, Values-In-Action (VIA), Sexuality Education (SEd) and National Education (NE). The school also organises overseas immersion programmes to ASEAN countries to enhance our students’ global awareness and appreciation of other cultures.
-
-  
-
-The CCE syllabus provides the knowledge, skills, values and attitudes to be taught explicitly during CCE lessons, Form Teacher Guidance Period (FTGP) and CCE Guidance Module in Sexuality Education (SEd). CCE lessons are taught by Mother Tongue teachers in their respective Mother Tongue language. Social and emotional competencies are explicitly taught during FTGP lessons by both the form and co-form teachers. While lessons on Cyberwellness (CW) and Education and Career Guidance (ECG) are taught during FTGP, our form teachers bond with students through interactive activities within the period. Sexuality Education lessons are conducted for Primary 5 and 6 students only.
-
-  
-
-Our VIA programmes provide students with the learning experiences that support their development as socially responsible citizens. Through their involvement in VIA, our students develop skills and knowledge in communicating with the stakeholders, planning relevant and meaningful activities for the beneficiaries. Through this process, our students develop empathy for others and play an active role in contributing to the society.
-
-  
-
-NE focuses on the understanding of our roles as Singaporeans and the demonstration of our commitment in the total defence of Singapore. Assembly talks and classroom activities are carried out during the commemoration of the four core NE events; Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. Through these activities, our students will be more aware of the need to make responsible decisions to contribute to Singapore’s well-being and security.
-
-  
-
-**Overseas Immersion Programmes**
-
-  
-
-Our school's Programmes for International Experience (PIE) not only serve as opportunities for our Upper Primary students to be gracious and dynamic global citizens, they also help to deepen their commitment and rootedness to Singapore. For the past few years, students had the chance to visit countries such as Malaysia and Brunei to learn more about the cultures of the South-East Asian region while developing their independence and other essential life skills.
-
-  
-
-In 2018, a group of 32 Primary 6 students went on a 4D3N Programme to Brunei from 31st October to 3rd November. In this learning journey, they visited local schools and mingled with the local students. Besides attending lessons, the students also visited some unique places of interest in Brunei such as the Malay Technology Museum, Ulu Temburong National Park, Sultan Omar Ali Saifuddin Mosque and the Royal Regalia Centre.
-
-  
-
-For the past few years, a group of selected Primary 5 students had the unique opportunities to broaden and deepen their interest and appreciation of the arts and cultures of the people in Penang. Other than attending lessons at a local school, the students also participated in cultural enrichment activities and study trips to cultural and historical sites like Fort Cornwallis and Pinang Peranakan Mansion.
-
-![](/images/Departments/CCE%201.jpg)
-
-![](/images/Departments/CCE%202.jpg)
-
-![](/images/Departments/CCE%203.jpg)
-
-
-**Student Leadership Development**
-
-  
-
-Guided by the 21st Century Competencies Framework, students will learn values through three overarching ideas, namely Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation and the world.
-
-  
-
-In our school, we believe that every student can be developed as a leader. Our mission is to **nurture student leaders through our school values, GRAC**2**E and with the ability to lead, care and serve with Passion, Heart, Determination and Confidence**. A structured leadership programme is implemented to develop students’ leadership potential and instruct them on the different skills and qualities of good leadership.
-
-  
-
-**Leadership Opportunities**
-
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Class Level</th>
-    <th colspan="2">School Level<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Stage 1<br></td>
-    <td>Stage 2<br></td>
-    <td>Stage 3<br></td>
-    <td>Stage 4<br></td>
-  </tr>
-  <tr>
-    <td>Group Leaders<br>Subject Leaders<br>PE Monitors<br>Environmental Monitors</td>
-    <td>Recess Monitors (P2 only)<br>Peer Support Leaders (P4 &amp; P5 only)<br>ICT Monitors<br>Class Monitors</td>
-    <td>ICT Monitors (PA Crew)<br>CCA Leaders (P5 &amp; P6)<br>Prefects (P3 to P6)</td>
-    <td>Prefects EXCO</td>
-  </tr>
-</tbody>
-</table>
-
-
-**Prefectorial Board**
-
-  
-
-**1) Purpose**
-
-a)    To maintain discipline and safety in the school<br>
-b)    To create platforms for the promotion of communication and understanding among the students and the school administration<br>
-c)    To enrich the Greendale journey of its fellow peers through various efforts and activities<br>
-d)    To foster a strong Greendale spirit
-
-  
-
-**2) Roles and Responsibilities**
-
-a)    Assist with the discipline and order of the students.<br>
-b)    Assist in administrative tasks.<br>
-c)    Organize and participate in school events.<br>
-d)    Serve morning and canteen duties.<br>
-e)    Role model for all students.
-
-  
-
-**3) Organization of the Prefectorial Board EXCO**
-
-  
-
-a)    The Executive Committee (consisting of the Head Prefect and 2 Vice-Head Prefects) will oversee the proceedings of the Prefectorial Board.  <br>
-b)    The EXCO will be selected by the staff and endorsed by the Principal.<br>
-c)    The Executive Committee works with the Teacher Advisors to plan for relevant trainings and developmental opportunities for the Prefectorial Board.  
-
-  
-
-**Prefectorial Board EXCO 2020**
-
-![](/images/Departments/CCE%204.jpg)
-
-![](/images/Departments/CCE%205.jpg)
-
-![](/images/Departments/CCE%206.jpg)
-
-
-**Roles and Responsibilities of Class Committee**
-
-
-
-<img src="/images/Departments/CCE%207.jpg"  
-     style="width:75%">
+<h4><strong>Character &amp; Citizenship Education (CCE)</strong></h4>
+<p>Welcome to the heart of Greendale’s holistic education. In line with our
+school motto, <strong>Ad Astra</strong> (To the Stars), the Character and
+Citizenship Education (CCE) Department is dedicated to nurturing every
+student into a <strong>Confident Individual, Self-directed Learner, and Gracious Citizen.</strong>
+</p>
+<p>Our curriculum is intentionally designed to anchor students in our core
+GRAC2E values - <strong>Graciousness, Resilience, Appreciation, Commitment, Collaboration, and Excellence</strong> while
+inspiring minds, nurturing hearts, and empowering growth.</p>
+<p><strong>1.	Our Core Focus Areas</strong>
+</p>
+<p>We believe that strong character is the foundation of all learning. Our
+CCE curriculum focuses on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Social-Emotional Competencies &amp; e21CC</strong>: Equipping
+students with critical skills for the 21st century.</p>
+</li>
+<li>
+<p><strong>A Caring &amp; Enabling Environment</strong>: Fostering positive
+Teacher-Student Relationships (TSR) and a robust peer support ecosystem
+driven by peer bonding, peer helping, and peer influencing.</p>
+</li>
+<li>
+<p><strong>Citizenship &amp; National Identity</strong>: Deepening students'
+understanding of their roles as Singaporeans to actively contribute to
+the nation’s well-being and security.</p>
+</li>
+</ul>
+<p><strong>2.	Key Curriculum &amp; Programmes</strong>
+</p>
+<p>Our classroom and experiential programmes provide a multi-faceted approach
+to citizenship and personal growth:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Form Teacher Guidance Period (FTGP) &amp; CCE (Mother Tongue Language)</strong>:
+Dedicated spaces for deep conversations, values instillation, and life-skills
+development.</p>
+</li>
+<li>
+<p><strong>Cyberwellness &amp; Education and Career Guidance (ECG)</strong>:
+Navigating the digital world safely while exploring future aspirations.</p>
+</li>
+<li>
+<p><strong>Sexuality Education</strong>: Developmental guidance for our Primary
+5 and Primary 6 students.</p>
+</li>
+<li>
+<p><strong>National Education (NE)</strong>: Commemorating critical milestones
+to strengthen national cohesion - Total Defence Day, International Friendship
+Day, Racial Harmony Day, and National Day.</p>
+</li>
+</ul>
+<p></p>
