@@ -4,7 +4,7 @@ permalink: /departments/science/
 description: ""
 variant: tiptap
 ---
-<h2>Science &amp; Environmental Education</h2>
+<h2><strong>Science &amp; Environmental Education</strong></h2>
 <p>At Greendale Primary, Science Education is grounded in curiosity, discovery,
 and inquiry. We nurture students to understand the world around them, think
 critically, solve problems, and communicate their ideas with confidence.</p>
