@@ -425,5 +425,5 @@ guide their peers with confidence.</p>
 <p>Taking leadership to new heights! Our student leaders traded the classroom
 for the great outdoors at the Dairy Farm MOE Adventure Centre. They pushed
 past their comfort zones, built trust, and discovered what it truly means
-to lead with resilience and empathy. #Leadership Camp #Resilience #Future
-Leaders</p>
+to lead with resilience and empathy.</p>
+<p>#Leadership Camp #Resilience #Future Leaders</p>
