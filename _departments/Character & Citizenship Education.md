@@ -84,18 +84,20 @@ Wellness #Memory Game #Snakes and Ladder</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student signing a safer internet pledge at a school cyber wellness booth." src="/images/Departments/CCE_4.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Student signing a safer internet pledge at a school cyber wellness booth." src="/images/Departments/CCE_4.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students completing safer internet pledge activities during a school event." src="/images/Departments/CCE_5.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Students completing safer internet pledge activities during a school event." src="/images/Departments/CCE_5.png">
 </div>
 <p><em>Recess activities during Total Defence Day (in conjunction with Cyber Wellness Week)</em>
 </p>
 <p><em>– Reinforcing Digital Defence, students making their pledge for a Safer Internet Space</em>
 </p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Display board filled with students' safer internet pledge cards." src="/images/Departments/CCE_6.png">
+</div>
+<p>Digital Defence at GDPS – Our Safer Internet Pledge Board</p>
 <p></p>
 <p></p>
 <p></p>
