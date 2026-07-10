@@ -254,7 +254,7 @@ in school life at Suzhou Pingrun Experimental School, sharing laughter
 and even taking the stage for a special performance. Proud of our students
 for being such wonderful ambassadors!</p>
 <hr>
-<p><strong>5.	Values in Action (VIA): 'Gracious Greendalites'</strong>
+<p><strong>5. Values in Action (VIA): 'Gracious Greendalites'</strong>
 </p>
 <p>Our signature VIA programme empowers students to develop empathy, take
 ownership, and become socially responsible citizens. Using a scaffolded,
@@ -323,4 +323,35 @@ contributing to society and environmental sustainability.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>Gracious Greendalites (VIA)</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students cutting activity sheets during a classroom learning lesson." src="/images/Departments/CCE_21.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students recycling paper as part of a classroom environmental activity." src="/images/Departments/CCE_22.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Spreading joy, one secret note at a time! Our latest VIA project aligned
+with the Singapore Kindness Day movement, encouraging our students to look
+out for and appreciate their peers. By writing anonymous notes of encouragement
+to their 'Secret Friend', our students are learning that kindness doesn't
+need a spotlight to be powerful.</p>
+<p>#Gracious Greendalites #Overcoming with Kindness #Secret Friend</p>
 <p></p>
