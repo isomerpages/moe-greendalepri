@@ -4,7 +4,7 @@ permalink: /departments/english-language-n-social-studies/
 description: ""
 variant: tiptap
 ---
-<h4><strong>English Language &amp; Social Studies</strong></h4>
+<h2><strong>English Language &amp; Social Studies</strong></h2>
 <p>At the English Language and Social Studies Department, we believe learning
 goes beyond the classroom. Through meaningful and authentic experiences,
 our students grow into confident communicators, critical thinkers and empathetic

@@ -3,7 +3,7 @@ title: Vision, Mission & Values
 permalink: /about-us/our-school/vision-mission-n-values/
 third_nav_title: Our School
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h2><strong>Vision, Mission &amp; Values</strong></h2>
 <div class="iframe-wrapper">

@@ -2,147 +2,443 @@
 title: Character & Citizenship Education
 permalink: /departments/character-n-citizenship-education/
 description: ""
+variant: tiptap
 ---
-![](/images/About%20Us/subbanner3.jpg)
-
-
-## **Character & Citizenship Education**
-
-
-pREFE  <br>
-**Philosophy**
-
-  
-
-In Greendale Primary, we believe in the holistic development of our students. We create engaging learning experiences for our students in their journey towards becoming an individual of character and a reflective learner guided by our school motto, _Ad Astra_.
-
-  
-
-**Key Programmes**
-
-  
-
-Our key programmes include CCE lessons, Values-In-Action (VIA), Sexuality Education (SEd) and National Education (NE). The school also organises overseas immersion programmes to ASEAN countries to enhance our students’ global awareness and appreciation of other cultures.
-
-  
-
-The CCE syllabus provides the knowledge, skills, values and attitudes to be taught explicitly during CCE lessons, Form Teacher Guidance Period (FTGP) and CCE Guidance Module in Sexuality Education (SEd). CCE lessons are taught by Mother Tongue teachers in their respective Mother Tongue language. Social and emotional competencies are explicitly taught during FTGP lessons by both the form and co-form teachers. While lessons on Cyberwellness (CW) and Education and Career Guidance (ECG) are taught during FTGP, our form teachers bond with students through interactive activities within the period. Sexuality Education lessons are conducted for Primary 5 and 6 students only.
-
-  
-
-Our VIA programmes provide students with the learning experiences that support their development as socially responsible citizens. Through their involvement in VIA, our students develop skills and knowledge in communicating with the stakeholders, planning relevant and meaningful activities for the beneficiaries. Through this process, our students develop empathy for others and play an active role in contributing to the society.
-
-  
-
-NE focuses on the understanding of our roles as Singaporeans and the demonstration of our commitment in the total defence of Singapore. Assembly talks and classroom activities are carried out during the commemoration of the four core NE events; Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. Through these activities, our students will be more aware of the need to make responsible decisions to contribute to Singapore’s well-being and security.
-
-  
-
-**Overseas Immersion Programmes**
-
-  
-
-Our school's Programmes for International Experience (PIE) not only serve as opportunities for our Upper Primary students to be gracious and dynamic global citizens, they also help to deepen their commitment and rootedness to Singapore. For the past few years, students had the chance to visit countries such as Malaysia and Brunei to learn more about the cultures of the South-East Asian region while developing their independence and other essential life skills.
-
-  
-
-In 2018, a group of 32 Primary 6 students went on a 4D3N Programme to Brunei from 31st October to 3rd November. In this learning journey, they visited local schools and mingled with the local students. Besides attending lessons, the students also visited some unique places of interest in Brunei such as the Malay Technology Museum, Ulu Temburong National Park, Sultan Omar Ali Saifuddin Mosque and the Royal Regalia Centre.
-
-  
-
-For the past few years, a group of selected Primary 5 students had the unique opportunities to broaden and deepen their interest and appreciation of the arts and cultures of the people in Penang. Other than attending lessons at a local school, the students also participated in cultural enrichment activities and study trips to cultural and historical sites like Fort Cornwallis and Pinang Peranakan Mansion.
-
-![](/images/Departments/CCE%201.jpg)
-
-![](/images/Departments/CCE%202.jpg)
-
-![](/images/Departments/CCE%203.jpg)
-
-
-**Student Leadership Development**
-
-  
-
-Guided by the 21st Century Competencies Framework, students will learn values through three overarching ideas, namely Identity, Relationships and Choices in six domains, starting with self and extending to the family, school, community, nation and the world.
-
-  
-
-In our school, we believe that every student can be developed as a leader. Our mission is to **nurture student leaders through our school values, GRAC**2**E and with the ability to lead, care and serve with Passion, Heart, Determination and Confidence**. A structured leadership programme is implemented to develop students’ leadership potential and instruct them on the different skills and qualities of good leadership.
-
-  
-
-**Leadership Opportunities**
-
-
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Class Level</th>
-    <th colspan="2">School Level<br></th>
-  </tr>
-</thead>
+<h2><strong>Character &amp; Citizenship Education (CCE)</strong></h2>
+<p>Welcome to the heart of Greendale’s holistic education. In line with our
+school motto, <strong>Ad Astra</strong> (To the Stars), the Character and
+Citizenship Education (CCE) Department is dedicated to nurturing every
+student into a <strong>Confident Individual, Self-directed Learner, and Gracious Citizen.</strong>
+</p>
+<p>Our curriculum is intentionally designed to anchor students in our core
+GRAC2E values - <strong>Graciousness, Resilience, Appreciation, Commitment, Collaboration, and Excellence</strong> while
+inspiring minds, nurturing hearts, and empowering growth.</p>
+<p><strong>1. Our Core Focus Areas</strong>
+</p>
+<p>We believe that strong character is the foundation of all learning. Our
+CCE curriculum focuses on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Social-Emotional Competencies &amp; e21CC</strong>: Equipping
+students with critical skills for the 21st century.</p>
+</li>
+<li>
+<p><strong>A Caring &amp; Enabling Environment</strong>: Fostering positive
+Teacher-Student Relationships (TSR) and a robust peer support ecosystem
+driven by peer bonding, peer helping, and peer influencing.</p>
+</li>
+<li>
+<p><strong>Citizenship &amp; National Identity</strong>: Deepening students'
+understanding of their roles as Singaporeans to actively contribute to
+the nation’s well-being and security.</p>
+</li>
+</ul>
+<p><strong>2. Key Curriculum &amp; Programmes</strong>
+</p>
+<p>Our classroom and experiential programmes provide a multi-faceted approach
+to citizenship and personal growth:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Form Teacher Guidance Period (FTGP) &amp; CCE (Mother Tongue Language)</strong>:
+Dedicated spaces for deep conversations, values instillation, and life-skills
+development.</p>
+</li>
+<li>
+<p><strong>Cyberwellness &amp; Education and Career Guidance (ECG)</strong>:
+Navigating the digital world safely while exploring future aspirations.</p>
+</li>
+<li>
+<p><strong>Sexuality Education</strong>: Developmental guidance for our Primary
+5 and Primary 6 students.</p>
+</li>
+<li>
+<p><strong>National Education (NE)</strong>: Commemorating critical milestones
+to strengthen national cohesion - Total Defence Day, International Friendship
+Day, Racial Harmony Day, and National Day.</p>
+</li>
+</ul>
+<hr>
+<p><strong>Cyber Wellness at GDPS</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students taking part in small-group activities during a cyber wellness event." src="/images/Departments/CCE_1.png">
+</div>
+<p>Recess activities during Cyber Wellness Week</p>
+<p>– Students playing games interactive games that teach the importance of
+online safety and the power of digital respect. Building a kinder, safer
+internet at GDPS.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students playing a cyber wellness board game during a school activity." src="/images/Departments/CCE_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students discussing cyber wellness topics using activity cards in small groups." src="/images/Departments/CCE_3.png">
+</div>
+<p>Recess activities during Cyber Wellness Week</p>
+<p>– Students mastering the rules of the digital road—from protecting their
+privacy to lifting others up in online spaces—all through play!" #Cyber
+Wellness #Memory Game #Snakes and Ladder</p>
+<hr>
+<p><strong>Total Defence Day at GDPS</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Student signing a safer internet pledge at a school cyber wellness booth." src="/images/Departments/CCE_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students completing safer internet pledge activities during a school event." src="/images/Departments/CCE_5.png">
+</div>
+<p><em>Recess activities during Total Defence Day (in conjunction with Cyber Wellness Week)</em>
+</p>
+<p><em>– Reinforcing Digital Defence, students making their pledge for a Safer Internet Space</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Display board filled with students' safer internet pledge cards." src="/images/Departments/CCE_6.png">
+</div>
+<p>Digital Defence at GDPS – Our Safer Internet Pledge Board</p>
+<hr>
+<p><strong>International Friendship Day at GDPS</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students taking part in a cooperative team-building activity with classmates." src="/images/Departments/CCE_7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students participating in a movement-based team challenge during CCE." src="/images/Departments/CCE_8.png">
+</div>
+<p><em>What better way to celebrate International Friendship Day than by stepping into someone else's culture? Students got a hands-on lesson in the rich traditions of the Philippines by learning the Tinikling dance. It was a wonderful reminder that friendship is all about collaboration, trust, and sharing new experiences together.</em>
+</p>
+<hr>
+<p><strong>3. School Initiatives</strong>
+</p>
+<p>To bring our core focus areas to life, the CCE curriculum is supported
+by a suite of signature, school-based initiatives designed to strengthen
+relationships and build a safe, enabling environment for every child:</p>
+<p>• <strong>Fostering Positive Teacher-Student Relationships</strong>: Beyond
+the classroom, our unique Let's Chat initiative provides dedicated, meaningful
+platforms for teachers and students to converse, connect, and build strong
+bonds of trust.</p>
+<p>• <strong>Fostering Positive Peer Relationships</strong>: We actively encourage
+peer bonding and mutual support through targeted initiatives like Let's
+Buddy Up and the Breakfast Club, ensuring every student feels a sense of
+belonging from the very start of their day.</p>
+<p><strong>Breakfast Club at GDPS</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>Stage 1<br></td>
-    <td>Stage 2<br></td>
-    <td>Stage 3<br></td>
-    <td>Stage 4<br></td>
-  </tr>
-  <tr>
-    <td>Group Leaders<br>Subject Leaders<br>PE Monitors<br>Environmental Monitors</td>
-    <td>Recess Monitors (P2 only)<br>Peer Support Leaders (P4 &amp; P5 only)<br>ICT Monitors<br>Class Monitors</td>
-    <td>ICT Monitors (PA Crew)<br>CCA Leaders (P5 &amp; P6)<br>Prefects (P3 to P6)</td>
-    <td>Prefects EXCO</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Students enjoying recess together in the school classroom." src="/images/Departments/CCE_9.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Principal interacting with students during recess in the classroom." src="/images/Departments/CCE_10.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principal sharing a meal with students during a classroom lunch session." src="/images/Departments/CCE_11.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students enjoying snacks together during a classroom break." src="/images/Departments/CCE_12.png">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
-
-
-**Prefectorial Board**
-
-  
-
-**1) Purpose**
-
-a)    To maintain discipline and safety in the school<br>
-b)    To create platforms for the promotion of communication and understanding among the students and the school administration<br>
-c)    To enrich the Greendale journey of its fellow peers through various efforts and activities<br>
-d)    To foster a strong Greendale spirit
-
-  
-
-**2) Roles and Responsibilities**
-
-a)    Assist with the discipline and order of the students.<br>
-b)    Assist in administrative tasks.<br>
-c)    Organize and participate in school events.<br>
-d)    Serve morning and canteen duties.<br>
-e)    Role model for all students.
-
-  
-
-**3) Organization of the Prefectorial Board EXCO**
-
-  
-
-a)    The Executive Committee (consisting of the Head Prefect and 2 Vice-Head Prefects) will oversee the proceedings of the Prefectorial Board.  <br>
-b)    The EXCO will be selected by the staff and endorsed by the Principal.<br>
-c)    The Executive Committee works with the Teacher Advisors to plan for relevant trainings and developmental opportunities for the Prefectorial Board.  
-
-  
-
-**Prefectorial Board EXCO 2020**
-
-![](/images/Departments/CCE%204.jpg)
-
-![](/images/Departments/CCE%205.jpg)
-
-![](/images/Departments/CCE%206.jpg)
-
-
-**Roles and Responsibilities of Class Committee**
-
-
-
-<img src="/images/Departments/CCE%207.jpg"  
-     style="width:75%">
+<p>The best way to start the day? Together! Our Breakfast Club is in full
+swing, with students fueling up for a day of learning right alongside their
+classmates. Sharing a morning meal in the classroom isn't just about good
+nutrition—it’s about building bonds, catching up with friends, and starting
+the school day with a smile.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students performing a role-play during a classroom character education lesson." src="/images/Departments/CCE_13.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students joining hands during a classroom team-building activity." src="/images/Departments/CCE_14.png">
+</div>
+<p><em>Breakfast, buddies, and building character! From high-stakes strategy to laughs over tabletop games, our Breakfast Club is where Greendale students learn the true value of collaboration and graciousness.</em>
+</p>
+<p><em>#Breakfast Club #The Great Hoop Escape #Tangled</em>
+</p>
+<hr>
+<p><strong>4. Experiential Learning &amp; Global Perspectives</strong>
+</p>
+<p>Learning at Greendale extends far beyond the classroom through authentic,
+real-world experiences:</p>
+<p>• <strong>Cohort Learning Journeys</strong>: Museum-based learning experiences
+for Primary 4 to Primary 6 students to appreciate local history and culture.</p>
+<p>• <strong>Trips for Internationalisation Experience (TIE)</strong>: An
+opportunity to deepen in our students the e21CC of civic, global, and cross-cultural
+literacy. We also aim to cultivate an appreciation of the region’s cultures,
+growing economic opportunities and dynamism; and develop students’ awareness
+of our contemporary realities, to strengthen their confidence and commitment
+to Singapore.</p>
+<p>• Building on the success of our 2024 and 2025 trips to Kuala Lumpur,
+we expanded horizons by bringing our Primary 5 student leaders to Suzhou,
+China, with an exciting upcoming trip for our Primary 4 students to Bangkok,
+Thailand in 2026.</p>
+<p><strong>2026 Cultural and School Immersion Trip in Suzhou, China</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students posing for a group photo during an overseas cultural exchange programme." src="/images/Departments/CCE_15.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students attending an educational talk during an overseas learning visit." src="/images/Departments/CCE_16.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students performing a song during an overseas cultural exchange programme." src="/images/Departments/CCE_17.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student presenting a commemorative gift during a cultural exchange event." src="/images/Departments/CCE_18.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students interacting with peers during an overseas cultural exchange activity." src="/images/Departments/CCE_19.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students taking part in a cultural craft workshop with visiting facilitators." src="/images/Departments/CCE_20.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A beautiful exchange of culture and smiles! Our students immersed themselves
+in school life at Suzhou Pingrun Experimental School, sharing laughter
+and even taking the stage for a special performance. Proud of our students
+for being such wonderful ambassadors!</p>
+<hr>
+<p><strong>5. Values in Action (VIA): 'Gracious Greendalites'</strong>
+</p>
+<p>Our signature VIA programme empowers students to develop empathy, take
+ownership, and become socially responsible citizens. Using a scaffolded,
+three-phase developmental approach, students expand their sphere of care
+as they grow:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Developmental Phase</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Theme &amp; Focus</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lower Primary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1 – Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Graciousness in Personal Habits and Home:</strong> Starting with
+self-discipline and appreciation for family.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Primary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 3 – Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Graciousness within the School Community:</strong> Cultivating
+positive peer relationships and care for the school environment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Upper Primary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5 – Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Graciousness toward the Wider Community and Environment:</strong> Actively
+contributing to society and environmental sustainability.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Gracious Greendalites (VIA)</strong>
+</p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students cutting activity sheets during a classroom learning lesson." src="/images/Departments/CCE_21.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students recycling paper as part of a classroom environmental activity." src="/images/Departments/CCE_22.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Spreading joy, one secret note at a time! Our latest VIA project aligned
+with the Singapore Kindness Day movement, encouraging our students to look
+out for and appreciate their peers. By writing anonymous notes of encouragement
+to their 'Secret Friend', our students are learning that kindness doesn't
+need a spotlight to be powerful.</p>
+<p>#Gracious Greendalites #Overcoming with Kindness #Secret Friend</p>
+<hr>
+<p><strong>6. Student Leadership: Nurturing GRAC²Eful Leaders</strong>
+</p>
+<p>At GDPS, we believe every child has the potential to lead and make a positive
+difference. Leadership is about developing character, taking initiative,
+and making a meaningful impact. Through our <strong>Student Leadership Framework</strong>,
+we nurture <strong>GRAC²Eful Leaders</strong> who lead with purpose, confidence,
+and integrity.</p>
+<p><strong>Our Leadership Philosophy</strong>
+</p>
+<p>Our framework draws inspiration from the <strong>geese "V" formation</strong>,
+where each member takes turns leading while supporting one another toward
+a common goal. This reflects our belief that leadership is a shared responsibility
+built on collaboration, communication, and mutual encouragement. Students
+embark on a developmental journey of:</p>
+<p>• <strong>Leading Self</strong>: Striving for personal excellence, responsibility,
+and self-management.</p>
+<p>• <strong>Leading Others</strong>: Serving the community, inspiring peers,
+and contributing positively to the school.</p>
+<p>At GDPS, leadership is a journey open to every student. Together, our
+GRAC²Eful Leaders make a positive impact, not only within the classroom
+and school, but also in the wider community.</p>
+<p><strong>Developing Leadership Capacity</strong>
+</p>
+<p>We actively equip our leaders with the knowledge and skills needed to
+lead effectively through:</p>
+<p>• <strong>Leadership Camps</strong>: Strengthening resilience, teamwork,
+communication, and problem-solving through indoor and outdoor experiences.</p>
+<p>• <strong>Role-Specific Training</strong>: Specialised training conducted
+by various school departments to prepare leaders for their specific responsibilities.</p>
+<p>• <strong>Learning Beyond GDPS</strong>: Engaging with secondary school
+leaders and external partners (such as Republic Polytechnic) to broaden
+global and leadership perspectives.</p>
+<p>Student Leadership Training</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student leaders attending a leadership workshop in the computer laboratory." src="/images/Departments/CCE_23.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students attending training" src="/images/Departments/CCE_24.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Empowering the leaders of tomorrow! Our student leaders stepped out of
+their comfort zones and into an intensive leadership training session.
+Through hands-on challenges and team-building exercises, they explored
+what it truly means to lead with empathy, communicate effectively, and
+guide their peers with confidence.</p>
+<p>#Student Leadership #LeadershipTraining #Leading with Purpose</p>
+<p><strong>Leadership Camp</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students posing for a group photo during an outdoor learning programme." src="/images/Departments/CCE_25.png">
+</div>
+<p>Taking leadership to new heights! Our student leaders traded the classroom
+for the great outdoors at the Dairy Farm MOE Adventure Centre. They pushed
+past their comfort zones, built trust, and discovered what it truly means
+to lead with resilience and empathy.</p>
+<p>#Leadership Camp #Resilience #Future Leaders</p>
+<hr>
+<p><strong>7. Shaping the Future, Anchored in Values</strong>
+</p>
+<p>Character and Citizenship Education at Greendale Primary School is more
+than a curriculum. It is a lived experience. From daily classroom interactions
+and scaffolded Values in Action (VIA) projects to global immersion trips
+and progressive student leadership opportunities, we intentionally design
+every experience to mold the hearts and minds of our students.</p>
+<p>Guided by our school values and inspired by our motto, Ad Astra, we stand
+committed to nurturing resilient, empathetic, and forward-thinking individuals.
+Through the collective efforts of our dedicated educators, peer support
+networks, and student leaders, we continue to build a vibrant community
+of confident, self-directed learners who are proudly anchored in values
+and ready to contribute meaningfully as gracious citizens of Singapore
+and the world.</p>
+<p></p>
