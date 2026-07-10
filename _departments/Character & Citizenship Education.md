@@ -253,3 +253,74 @@ Thailand in 2026.</p>
 in school life at Suzhou Pingrun Experimental School, sharing laughter
 and even taking the stage for a special performance. Proud of our students
 for being such wonderful ambassadors!</p>
+<hr>
+<p><strong>5.	Values in Action (VIA): 'Gracious Greendalites'</strong>
+</p>
+<p>Our signature VIA programme empowers students to develop empathy, take
+ownership, and become socially responsible citizens. Using a scaffolded,
+three-phase developmental approach, students expand their sphere of care
+as they grow:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Developmental Phase</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Level</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Theme &amp; Focus</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Lower Primary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 1 – Primary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Graciousness in Personal Habits and Home:</strong> Starting with
+self-discipline and appreciation for family.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Middle Primary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 3 – Primary 4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Graciousness within the School Community:</strong> Cultivating
+positive peer relationships and care for the school environment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Upper Primary</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary 5 – Primary 6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Graciousness toward the Wider Community and Environment:</strong> Actively
+contributing to society and environmental sustainability.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
