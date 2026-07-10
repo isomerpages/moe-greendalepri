@@ -99,7 +99,68 @@ Wellness #Memory Game #Snakes and Ladder</p>
 </div>
 <p>Digital Defence at GDPS – Our Safer Internet Pledge Board</p>
 <hr>
+<p><strong>International Friendship Day at GDPS</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students taking part in a cooperative team-building activity with classmates." src="/images/Departments/CCE_7.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students participating in a movement-based team challenge during CCE." src="/images/Departments/CCE_8.png">
+</div>
+<p><em>What better way to celebrate International Friendship Day than by stepping into someone else's culture? Students got a hands-on lesson in the rich traditions of the Philippines by learning the Tinikling dance. It was a wonderful reminder that friendship is all about collaboration, trust, and sharing new experiences together.</em>
+</p>
+<hr>
+<p><strong>3.	School Initiatives</strong>
+</p>
+<p>To bring our core focus areas to life, the CCE curriculum is supported
+by a suite of signature, school-based initiatives designed to strengthen
+relationships and build a safe, enabling environment for every child:</p>
+<p>•	<strong>Fostering Positive Teacher-Student Relationships</strong>: Beyond
+the classroom, our unique Let's Chat initiative provides dedicated, meaningful
+platforms for teachers and students to converse, connect, and build strong
+bonds of trust.</p>
+<p>•	<strong>Fostering Positive Peer Relationships</strong>: We actively encourage
+peer bonding and mutual support through targeted initiatives like Let's
+Buddy Up and the Breakfast Club, ensuring every student feels a sense of
+belonging from the very start of their day.</p>
+<p>Breakfast Club at GDPS</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Students enjoying recess together in the school classroom." src="/images/Departments/CCE_9.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Principal interacting with students during recess in the classroom." src="/images/Departments/CCE_10.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Principal sharing a meal with students during a classroom lunch session." src="/images/Departments/CCE_11.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students enjoying snacks together during a classroom break." src="/images/Departments/CCE_12.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
