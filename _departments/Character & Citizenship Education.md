@@ -416,4 +416,14 @@ Through hands-on challenges and team-building exercises, they explored
 what it truly means to lead with empathy, communicate effectively, and
 guide their peers with confidence.</p>
 <p>#Student Leadership #LeadershipTraining #Leading with Purpose</p>
+<p><strong>Leadership Camp</strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students posing for a group photo during an outdoor learning programme." src="/images/Departments/CCE_25.png">
+</div>
+<p>Taking leadership to new heights! Our student leaders traded the classroom
+for the great outdoors at the Dairy Farm MOE Adventure Centre. They pushed
+past their comfort zones, built trust, and discovered what it truly means
+to lead with resilience and empathy. #Leadership Camp #Resilience #Future
+Leaders</p>
