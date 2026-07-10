@@ -11,11 +11,11 @@ variant: tiptap
 and confident learners who are empowered to thrive in a technology-transformed
 world.</p>
 <p>With technology as an enabler, we aim to:</p>
-<p>•	<strong>Nurture self-directed and confident learners</strong> who are
+<p>• <strong>Nurture self-directed and confident learners</strong> who are
 actively engaged in their learning, take responsibility for their growth,
 and are equipped with the 21st Century Competencies and Digital Competencies
 needed for the future.</p>
-<p>•	<strong>Empower teachers as technologically adept, data-literate and collaborative learning designers </strong>who
+<p>• <strong>Empower teachers as technologically adept, data-literate and collaborative learning designers </strong>who
 harness technology purposefully to create meaningful and engaging learning
 experiences for every child.</p>
 <p><strong>Key Programmes</strong>
