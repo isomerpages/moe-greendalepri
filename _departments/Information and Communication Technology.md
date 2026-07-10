@@ -4,7 +4,7 @@ permalink: /departments/information-and-communication-technology/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Information and Communication Technology</strong></h3>
+<h2><strong>Information and Communication Technology</strong></h2>
 <p><strong>Goals</strong>
 </p>
 <p>At Greendale Primary School, we envision a community of self-directed
