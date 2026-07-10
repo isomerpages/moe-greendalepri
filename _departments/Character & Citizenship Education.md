@@ -170,24 +170,24 @@ nutrition—it’s about building bonds, catching up with friends, and starting
 the school day with a smile.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students performing a role-play during a classroom character education lesson." src="/images/Departments/CCE_13.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Students performing a role-play during a classroom character education lesson." src="/images/Departments/CCE_13.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Students joining hands during a classroom team-building activity." src="/images/Departments/CCE_14.png">
+<img style="width: 60%;" height="auto" width="100%" alt="Students joining hands during a classroom team-building activity." src="/images/Departments/CCE_14.png">
 </div>
 <p><em>Breakfast, buddies, and building character! From high-stakes strategy to laughs over tabletop games, our Breakfast Club is where Greendale students learn the true value of collaboration and graciousness.</em>
 </p>
 <p><em>#Breakfast Club #The Great Hoop Escape #Tangled</em>
 </p>
 <hr>
-<p><strong>4.	Experiential Learning &amp; Global Perspectives</strong>
+<p><strong>4. Experiential Learning &amp; Global Perspectives</strong>
 </p>
 <p>Learning at Greendale extends far beyond the classroom through authentic,
 real-world experiences:</p>
-<p>•	<strong>Cohort Learning Journeys</strong>: Museum-based learning experiences
+<p>• <strong>Cohort Learning Journeys</strong>: Museum-based learning experiences
 for Primary 4 to Primary 6 students to appreciate local history and culture.</p>
-<p>•	<strong>Trips for Internationalisation Experience (TIE)</strong>: An
+<p>• <strong>Trips for Internationalisation Experience (TIE)</strong>: An
 opportunity to deepen in our students the e21CC of civic, global, and cross-cultural
 literacy. We also aim to cultivate an appreciation of the region’s cultures,
 growing economic opportunities and dynamism; and develop students’ awareness
@@ -199,4 +199,40 @@ China, with an exciting upcoming trip for our Primary 4 students to Bangkok,
 Thailand in 2026.</p>
 <p><strong>2026 Cultural and School Immersion Trip in Suzhou, China</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students posing for a group photo during an overseas cultural exchange programme." src="/images/Departments/CCE_15.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students attending an educational talk during an overseas learning visit." src="/images/Departments/CCE_16.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students performing a song during an overseas cultural exchange programme." src="/images/Departments/CCE_17.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student presenting a commemorative gift during a cultural exchange event." src="/images/Departments/CCE_18.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
