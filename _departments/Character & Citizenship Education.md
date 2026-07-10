@@ -13,7 +13,7 @@ student into a <strong>Confident Individual, Self-directed Learner, and Gracious
 <p>Our curriculum is intentionally designed to anchor students in our core
 GRAC2E values - <strong>Graciousness, Resilience, Appreciation, Commitment, Collaboration, and Excellence</strong> while
 inspiring minds, nurturing hearts, and empowering growth.</p>
-<p><strong>1.	Our Core Focus Areas</strong>
+<p><strong>1. Our Core Focus Areas</strong>
 </p>
 <p>We believe that strong character is the foundation of all learning. Our
 CCE curriculum focuses on:</p>
@@ -33,7 +33,7 @@ understanding of their roles as Singaporeans to actively contribute to
 the nation’s well-being and security.</p>
 </li>
 </ul>
-<p><strong>2.	Key Curriculum &amp; Programmes</strong>
+<p><strong>2. Key Curriculum &amp; Programmes</strong>
 </p>
 <p>Our classroom and experiential programmes provide a multi-faceted approach
 to citizenship and personal growth:</p>
