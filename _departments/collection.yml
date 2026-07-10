@@ -2,12 +2,12 @@ collections:
   departments:
     output: true
     order:
-      - Malay.md
-      - Tamil.md
-      - Chinese.md
       - English Language & Social Studies.md
       - Mathematics.md
       - Science.md
+      - Chinese.md
+      - Malay.md
+      - Tamil.md
       - Mother Tongue/.keep
       - Physical and Health Education.md
       - Aesthetics.md
