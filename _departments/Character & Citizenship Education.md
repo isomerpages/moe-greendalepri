@@ -163,4 +163,8 @@ belonging from the very start of their day.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>The best way to start the day? Together! Our Breakfast Club is in full
+swing, with students fueling up for a day of learning right alongside their
+classmates. Sharing a morning meal in the classroom isn't just about good
+nutrition—it’s about building bonds, catching up with friends, and starting
+the school day with a smile.</p>
