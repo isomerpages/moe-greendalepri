@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Malay.md
       - Tamil.md
       - Chinese.md
       - English Language & Social Studies.md
