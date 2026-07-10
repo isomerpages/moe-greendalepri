@@ -233,6 +233,23 @@ Thailand in 2026.</p>
 </div>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students interacting with peers during an overseas cultural exchange activity." src="/images/Departments/CCE_19.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students taking part in a cultural craft workshop with visiting facilitators." src="/images/Departments/CCE_20.png">
+</div>
+</td>
+</tr>
 </tbody>
 </table>
-<p></p>
+<p>A beautiful exchange of culture and smiles! Our students immersed themselves
+in school life at Suzhou Pingrun Experimental School, sharing laughter
+and even taking the stage for a special performance. Proud of our students
+for being such wonderful ambassadors!</p>
