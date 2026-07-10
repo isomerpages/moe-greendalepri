@@ -4,7 +4,7 @@ permalink: /departments/mother-tongue/tamil/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Tamil</strong></h1>
+<h2><strong>Tamil</strong></h2>
 <h4><strong>Philosophy</strong></h4>
 <p>The Greendale Tamil Unit is committed to fostering a love for the Tamil
 Language and culture through innovative and inclusive teaching. Aligned
