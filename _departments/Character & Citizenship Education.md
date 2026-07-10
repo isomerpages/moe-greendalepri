@@ -168,26 +168,15 @@ swing, with students fueling up for a day of learning right alongside their
 classmates. Sharing a morning meal in the classroom isn't just about good
 nutrition—it’s about building bonds, catching up with friends, and starting
 the school day with a smile.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students performing a role-play during a classroom character education lesson." src="/images/Departments/CCE_13.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="Students joining hands during a classroom team-building activity." src="/images/Departments/CCE_14.png">
+<img style="width: 100%" height="auto" width="100%" alt="Students joining hands during a classroom team-building activity." src="/images/Departments/CCE_14.png">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
+<p><em>Breakfast, buddies, and building character! From high-stakes strategy to laughs over tabletop games, our Breakfast Club is where Greendale students learn the true value of collaboration and graciousness.</em>
+</p>
+<p><em>#Breakfast Club #The Great Hoop Escape #Tangled</em>
+</p>
