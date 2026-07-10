@@ -98,6 +98,8 @@ Wellness #Memory Game #Snakes and Ladder</p>
 <img style="width: 70%;" height="auto" width="100%" alt="Display board filled with students' safer internet pledge cards." src="/images/Departments/CCE_6.png">
 </div>
 <p>Digital Defence at GDPS – Our Safer Internet Pledge Board</p>
+<hr>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
