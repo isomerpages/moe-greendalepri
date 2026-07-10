@@ -57,4 +57,45 @@ to strengthen national cohesion - Total Defence Day, International Friendship
 Day, Racial Harmony Day, and National Day.</p>
 </li>
 </ul>
+<hr>
+<p><strong>Cyber Wellness at GDPS</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students taking part in small-group activities during a cyber wellness event." src="/images/Departments/CCE_1.png">
+</div>
+<p>Recess activities during Cyber Wellness Week</p>
+<p>– Students playing games interactive games that teach the importance of
+online safety and the power of digital respect. Building a kinder, safer
+internet at GDPS.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students playing a cyber wellness board game during a school activity." src="/images/Departments/CCE_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="Students discussing cyber wellness topics using activity cards in small groups." src="/images/Departments/CCE_3.png">
+</div>
+<p>Recess activities during Cyber Wellness Week</p>
+<p>– Students mastering the rules of the digital road—from protecting their
+privacy to lifting others up in online spaces—all through play!" #Cyber
+Wellness #Memory Game #Snakes and Ladder</p>
+<hr>
+<p><strong>Total Defence Day at GDPS</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student signing a safer internet pledge at a school cyber wellness booth." src="/images/Departments/CCE_4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students completing safer internet pledge activities during a school event." src="/images/Departments/CCE_5.png">
+</div>
+<p><em>Recess activities during Total Defence Day (in conjunction with Cyber Wellness Week)</em>
+</p>
+<p><em>– Reinforcing Digital Defence, students making their pledge for a Safer Internet Space</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
