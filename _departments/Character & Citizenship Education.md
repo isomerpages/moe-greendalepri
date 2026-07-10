@@ -355,7 +355,7 @@ to their 'Secret Friend', our students are learning that kindness doesn't
 need a spotlight to be powerful.</p>
 <p>#Gracious Greendalites #Overcoming with Kindness #Secret Friend</p>
 <hr>
-<p><strong>6.	Student Leadership: Nurturing GRAC²Eful Leaders</strong>
+<p><strong>6. Student Leadership: Nurturing GRAC²Eful Leaders</strong>
 </p>
 <p>At GDPS, we believe every child has the potential to lead and make a positive
 difference. Leadership is about developing character, taking initiative,
@@ -369,9 +369,9 @@ where each member takes turns leading while supporting one another toward
 a common goal. This reflects our belief that leadership is a shared responsibility
 built on collaboration, communication, and mutual encouragement. Students
 embark on a developmental journey of:</p>
-<p>•	<strong>Leading Self</strong>: Striving for personal excellence, responsibility,
+<p>• <strong>Leading Self</strong>: Striving for personal excellence, responsibility,
 and self-management.</p>
-<p>•	<strong>Leading Others</strong>: Serving the community, inspiring peers,
+<p>• <strong>Leading Others</strong>: Serving the community, inspiring peers,
 and contributing positively to the school.</p>
 <p>At GDPS, leadership is a journey open to every student. Together, our
 GRAC²Eful Leaders make a positive impact, not only within the classroom
@@ -380,11 +380,40 @@ and school, but also in the wider community.</p>
 </p>
 <p>We actively equip our leaders with the knowledge and skills needed to
 lead effectively through:</p>
-<p>•	<strong>Leadership Camps</strong>: Strengthening resilience, teamwork,
+<p>• <strong>Leadership Camps</strong>: Strengthening resilience, teamwork,
 communication, and problem-solving through indoor and outdoor experiences.</p>
-<p>•	<strong>Role-Specific Training</strong>: Specialised training conducted
+<p>• <strong>Role-Specific Training</strong>: Specialised training conducted
 by various school departments to prepare leaders for their specific responsibilities.</p>
-<p>•	<strong>Learning Beyond GDPS</strong>: Engaging with secondary school
+<p>• <strong>Learning Beyond GDPS</strong>: Engaging with secondary school
 leaders and external partners (such as Republic Polytechnic) to broaden
 global and leadership perspectives.</p>
+<p>Student Leadership Training</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Student leaders attending a leadership workshop in the computer laboratory." src="/images/Departments/CCE_23.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Students attending training" src="/images/Departments/CCE_24.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Empowering the leaders of tomorrow! Our student leaders stepped out of
+their comfort zones and into an intensive leadership training session.
+Through hands-on challenges and team-building exercises, they explored
+what it truly means to lead with empathy, communicate effectively, and
+guide their peers with confidence.</p>
+<p>#Student Leadership #LeadershipTraining #Leading with Purpose</p>
 <p></p>
