@@ -4,7 +4,7 @@ permalink: /departments/character-n-citizenship-education/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Character &amp; Citizenship Education (CCE)</strong></h4>
+<h2><strong>Character &amp; Citizenship Education (CCE)</strong></h2>
 <p>Welcome to the heart of Greendale’s holistic education. In line with our
 school motto, <strong>Ad Astra</strong> (To the Stars), the Character and
 Citizenship Education (CCE) Department is dedicated to nurturing every
@@ -427,7 +427,7 @@ past their comfort zones, built trust, and discovered what it truly means
 to lead with resilience and empathy.</p>
 <p>#Leadership Camp #Resilience #Future Leaders</p>
 <hr>
-<p><strong>7.	Shaping the Future, Anchored in Values</strong>
+<p><strong>7. Shaping the Future, Anchored in Values</strong>
 </p>
 <p>Character and Citizenship Education at Greendale Primary School is more
 than a curriculum. It is a lived experience. From daily classroom interactions
