@@ -418,7 +418,6 @@ guide their peers with confidence.</p>
 <p>#Student Leadership #LeadershipTraining #Leading with Purpose</p>
 <p><strong>Leadership Camp</strong>
 </p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Students posing for a group photo during an outdoor learning programme." src="/images/Departments/CCE_25.png">
 </div>
@@ -427,3 +426,19 @@ for the great outdoors at the Dairy Farm MOE Adventure Centre. They pushed
 past their comfort zones, built trust, and discovered what it truly means
 to lead with resilience and empathy.</p>
 <p>#Leadership Camp #Resilience #Future Leaders</p>
+<hr>
+<p><strong>7.	Shaping the Future, Anchored in Values</strong>
+</p>
+<p>Character and Citizenship Education at Greendale Primary School is more
+than a curriculum. It is a lived experience. From daily classroom interactions
+and scaffolded Values in Action (VIA) projects to global immersion trips
+and progressive student leadership opportunities, we intentionally design
+every experience to mold the hearts and minds of our students.</p>
+<p>Guided by our school values and inspired by our motto, Ad Astra, we stand
+committed to nurturing resilient, empathetic, and forward-thinking individuals.
+Through the collective efforts of our dedicated educators, peer support
+networks, and student leaders, we continue to build a vibrant community
+of confident, self-directed learners who are proudly anchored in values
+and ready to contribute meaningfully as gracious citizens of Singapore
+and the world.</p>
+<p></p>
